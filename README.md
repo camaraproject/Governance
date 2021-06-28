@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-    <a href="/../../commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/telekom/repobasics?style=flat"></a>
-    <a href="/../../issues" title="Open Issues"><img src="https://img.shields.io/github/issues/telekom/repobasics?style=flat"></a>
+    <a href="/../../commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/telekom/global-telco-api-alliance?style=flat"></a>
+    <a href="/../../issues" title="Open Issues"><img src="https://img.shields.io/github/issues/telekom/global-telco-api-alliance?style=flat"></a>
     <a href="./LICENSE" title="License"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg?style=flat"></a>
 </p>
 
@@ -54,7 +54,7 @@ The following channels are available for discussions, feedback, and support requ
 
 | Type                     | Channel                                                |
 | ------------------------ | ------------------------------------------------------ |
-| **Issues**   | <a href="/../../issues/new/choose" title="General Discussion"><img src="https://img.shields.io/github/issues/telekom/repobasics?style=flat-square"></a> </a>   |
+| **Issues**   | <a href="/../../issues/new/choose" title="General Discussion"><img src="https://img.shields.io/github/issues/telekom/global-telco-api-alliance?style=flat-square"></a> </a>   |
 | **Other Requests**    | <a href="mailto:opensource@telekom.de" title="Email Open Source Team"><img src="https://img.shields.io/badge/email-Open%20Source%20Team-green?logo=mail.ru&style=flat-square&logoColor=white"></a>   |
 
 ## How to Contribute
