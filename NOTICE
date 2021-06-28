@@ -1,0 +1,32 @@
+Copyright (c) 2021 Deutsche Telekom AG.
+
+PURPOSE:
+--------
+
+Under the leadership of Deutsche Telekom the GlobalTelcoAPIAlliance
+wants to define an interface (= the GlobalTelcoAPI) for enabling 
+clients to use typical functions (services) of telecommunication 
+companies inside of their own client software.
+
+The repository will mainly include service api specification files 
+(see: declarations) and documentation (see: documentation). It will 
+include architecture guidelines for exposing service apis
+
+LISENSING STATEMENT:
+--------------------
+
+The declarations in form of source code are licensed under the
+Apache License, Version 2.0 (see declarations/LICENSE).
+
+The documentation is licensed under the CC-BY-4.0 license
+(see documentation/LICENSE)
+
+You may not use them except in compliance with the License. 
+
+Contributors:
+-------------
+
+Herbert Damker [hdamker], Deutsche Telekom AG
+Shilpa Padgaonkar [shilpa-padgaonkara], Deutsche Telekom AG
+Nathan Radar [nathanrader], Deutsche Telekom AG
+Karsten Reincke [kreincke], Deutsche Telekom AG
