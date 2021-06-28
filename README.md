@@ -77,7 +77,7 @@ You may obtain a copy of the License at https://www.apache.org/licenses/LICENSE-
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the [LICENSE](./declarations/LICENSE) for the specific language governing permissions and limitations under the License.
 
-### documentation
+### Documentation
 
 The documentation is licensed under the **CC-BY-4.0 License**, you may not use the respective files except in compliance with that license.
 
