@@ -25,7 +25,7 @@ The development of open, global, and interoperable API solutions could benefit c
 
 APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises.
 
-image::images/alliance.png[]
+image::../images/alliance.png[]
 
 Telco Global API Project is an independent open-source project and not controlled by any single company.
 
