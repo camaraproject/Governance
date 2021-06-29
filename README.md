@@ -57,7 +57,7 @@ The following channels are available for discussions, feedback, and support requ
 
 | Type                     | Channel                                                |
 | ------------------------ | ------------------------------------------------------ |
-| **Issues**   | <!---<a href="/../../issues/new/choose" title="General Discussion"><img src="https://img.shields.io/github/issues/telekom/global-telco-api-alliance?style=flat-square"></a> </a>   | This link will work once repo is made public-->
+| **Issues**   | 
 | **Other Requests**    | <a href="mailto:opensource@telekom.de" title="Email Open Source Team"><img src="https://img.shields.io/badge/email-Open%20Source%20Team-green?logo=mail.ru&style=flat-square&logoColor=white"></a>   |
 
 ## How to Contribute
