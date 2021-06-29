@@ -69,10 +69,6 @@ Contribution and feedback is encouraged and always welcome. For more information
 Our commitment to open source means that we are enabling -in fact encouraging- all interested parties to contribute and become part of its developer community.
 
 
-| Org                    | Name                                                |
-| ------------------------ | ------------------------------------------------------ |
-| **Deutsche Telekom AG**   | Nathan Rader|
-|    |    |
 
 ## Licensing
 
