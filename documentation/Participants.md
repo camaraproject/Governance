@@ -4,4 +4,3 @@
 | Deutsche Telekom AG   | Nathan Rader|
 | Deutsche Telekom AG   | Markus Kümmerle |
 | Deutsche Telekom AG   | Shilpa Padgaonkar |
-| Deutsche Telekom AG   | Lüder de Riese |
