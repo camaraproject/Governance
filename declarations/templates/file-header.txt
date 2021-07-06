@@ -1,5 +1,5 @@
 /*
- * GlobalTeloAPIAlliance
+ * GlobalTelcoAPIAlliance
  *
  * (C) 2021, YOUR_NAME, YOUR_COMPANY
  *
