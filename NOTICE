@@ -1,16 +1,20 @@
-Copyright (c) 2021 Deutsche Telekom AG.
-
 PURPOSE:
 --------
 
-Under the leadership of Deutsche Telekom the GlobalTelcoAPIAlliance
-wants to define an interface (= the GlobalTelcoAPI) for enabling 
-clients to use typical functions (services) of telecommunication 
-companies inside of their own client software.
+The development of open, global, and interoperable API solutions
+could benefit customers and developer ecosystems by giving access
+to operator capabilities in whatever network customers are in
+and therefore allow applications to run consistently between
+telco networks and countries. A new form of collaboration between
+various players (telcos, ISVs, device manufacturers, hyperscalers, etc.)
+could address much of the challenges in scaling API services across
+heterogenous operator architectures as well as advance the connectivity
+industry towards a more robust and faster core network, encourage the faster
+adoption of capabilities and as a result create value for the entire tech industry.
 
-The repository will mainly include service api specification files 
-(see: declarations) and documentation (see: documentation). It will 
-include architecture guidelines for exposing service apis
+The repository will mainly include service api specification files, 
+service API code and alliance documentation (see: documentation). It will 
+also include architecture guidelines for exposing service APIs.
 
 LISENSING STATEMENT:
 --------------------
@@ -26,7 +30,6 @@ You may not use them except in compliance with the License.
 Contributors:
 -------------
 
-Herbert Damker [hdamker], Deutsche Telekom AG
-Shilpa Padgaonkar [shilpa-padgaonkara], Deutsche Telekom AG
 Nathan Radar [nathanrader], Deutsche Telekom AG
-Karsten Reincke [kreincke], Deutsche Telekom AG
+Markus Kümmerle [markuskuemmerle], Deutsche Telekom AG
+Shilpa Padgaonkar [shilpa-padgaonkara], Deutsche Telekom AG
