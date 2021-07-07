@@ -81,9 +81,9 @@ Contribution and feedback is encouraged and always welcome. For more information
 ## Contributors
 
 Our commitment to open source means that we are enabling -in fact encouraging- all interested parties to contribute and become part of its developer community.
-* The current list of participants of the alliance can be found here [Participants](./Participants.md).
+* The current list of participants of the alliance can be found here [Participants](./PARTICIPANTS.MD).
 * The current list of contributors (source code and/or documentation) can be found here [Contribution Guidelines](./CONTRIBUTING.md).
-* The current list of maintainers can be found here [Code Owners](./CODEOWNERS.md).
+* The current list of maintainers can be found here [Code Owners](./CODEOWNERS).
 
 
 ## Licensing
