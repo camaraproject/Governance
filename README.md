@@ -14,6 +14,7 @@
 <p align="center">
   <a href="#development">Development</a> •
   <a href="#code-of-conduct">Code of Conduct</a> •
+  <a href="#working-language">Working Language</a> •
   <a href="#documentation">Documentation</a> •
   <a href="#support-and-feedback">Support and Feedback</a> •
   <a href="#how-to-contribute">Contribute</a> •
@@ -45,7 +46,6 @@ APIs grouped by services and bundled up into “Service APIs” could reduce the
 Telco Global API Project is an independent open-source project and not controlled by any single company.
 
 ## Development
-
 _Tbd_
 
 ### Build
