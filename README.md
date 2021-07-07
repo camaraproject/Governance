@@ -1,5 +1,5 @@
 <h1 align="center">
-  The *GlobalTelcoApi* offered by **GlobalTelcoAPIAlliance**  
+  The *TelcoGlobalAPIProject* offered by **TelcoGlobalAPIAlliance**  
 </h1>
 
 <p align="center">
@@ -20,15 +20,28 @@
   <a href="#licensing">Licensing</a>
 </p>
 
-The goal of this project is to develop open, global, and interoperable API solutions to benefit customers and developer ecosystems by giving access to operator capabilities in whatever network customers are in and therefore allow applications to run consistently between telco networks and countries.
+The development of open, global, and interoperable API solutions could benefit customers and developer ecosystems by giving access to operator capabilities in whatever network customers are in and therefore allow applications to run consistently between telco networks and countries. A new form of collaboration between various players (telcos, ISVs, device manufacturers, hyperscalers, etc.) could address much of the challenges in scaling API services across heterogenous operator architectures as well as advance the connectivity industry towards a more robust and faster core network, encourage the faster adoption of capabilities and as a result create value for the entire tech industry.
 
-A new form of collaboration between various players (telcos, ISVs,
-device manufacturers, hyperscalers, etc.) could address much of the challenges in scaling API services across heterogenous operator architectures as well as advance the connectivity industry towards a more robust and faster core network, encourage the faster adoption of capabilities and as a result create value for the entire tech industry.
-
-So, the main purpose of the project is to
-* Standardize and promote Service APIs
 * Accelerate technology development
+    * Build sustainable ecosystems around collaborative projects across industries.
+    * Drive industry alignment by facilitating industry discussions with telcos, ISVs, device manufacturers, hyperscalers, etc.
+* Standardization of APIs
+    * Standardize and convert APIs to a user understandable format called “Service APIs”.
+    * Achieve standardization through working code vs. documents.
+    * Implementation experience should guide standardization process.
+    * Enable interoperability (e.g. effortless portability of applications between different operators), compatibility (applicability to different network technologies) and interconnectivity (to enable interoperator collaboration).
+* Education and promotion
+    * Actively promote Service APIs via various forums, events, conferences, training programs, ecosystems and social media.
+    * Promote best practices by aggregating and publishing lessons learned.
 * Accelerate commercial adoption
+    * Create awareness around use cases and services.
+    * Minimize implementation effort though easy-to-consume standard Service APIs.
+    * Foster the development of distribution channels to increase customer reach.
+    * Integrate the APIs in relevant developer’s environments and ecosystems.
+    * Provide customer service and support.
+
+APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises.
+Telco Global API Project is an independent open-source project and not controlled by any single company.
 
 ## Development
 
@@ -50,7 +63,7 @@ Consequently, all content will be made available primarily in English. We also a
 
 ## Documentation
 
-The full documentation for the can be found in _TBD_
+The full documentation for the project can be found in the "documentation" subfolder.
 
 ## Support and Feedback
 The following channels are available for discussions, feedback, and support requests:
@@ -67,7 +80,9 @@ Contribution and feedback is encouraged and always welcome. For more information
 ## Contributors
 
 Our commitment to open source means that we are enabling -in fact encouraging- all interested parties to contribute and become part of its developer community.
-The current list of participants can be found here [Participants](./documentation/Participants.md)
+* The current list of participants of the alliance can be found here [Participants](./Participants.md).
+* The current list of contributors (source code and/or documentation) can be found here [Contribution Guidelines](./CONTRIBUTING.md).
+* The current list of maintainers can be found here [Source Code Owners](./SourceCodeOwners.md).
 
 
 ## Licensing
