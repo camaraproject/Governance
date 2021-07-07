@@ -22,6 +22,8 @@
   <a href="#licensing">Licensing</a>
 </p>
 
+A global partnership could address much of the challenges in scaling API services across heterogenous operator architectures.
+
 The development of open, global, and interoperable API solutions could benefit customers and developer ecosystems by giving access to operator capabilities in whatever network customers are in and therefore allow applications to run consistently between telco networks and countries. A new form of collaboration between various players (telcos, ISVs, device manufacturers, hyperscalers, etc.) could address much of the challenges in scaling API services across heterogenous operator architectures as well as advance the connectivity industry towards a more robust and faster core network, encourage the faster adoption of capabilities and as a result create value for the entire tech industry.
 
 * Accelerate technology development
