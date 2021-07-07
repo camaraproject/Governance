@@ -13,8 +13,9 @@
 
 <p align="center">
   <a href="#development">Development</a> •
+  <a href="#code-of-conduct">Code of Conduct</a> •
   <a href="#documentation">Documentation</a> •
-  <a href="#support-and-feedback">Support</a> •
+  <a href="#support-and-feedback">Support and Feedback</a> •
   <a href="#how-to-contribute">Contribute</a> •
   <a href="#contributors">Contributors</a> •
   <a href="#licensing">Licensing</a>
