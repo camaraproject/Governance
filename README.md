@@ -1,5 +1,5 @@
 <h1 align="center">
-  The *TelcoGlobalAPIProject* offered by **TelcoGlobalAPIAlliance**  
+  The *TelcoGlobalAPIProject* offered by *TelcoGlobalAPIAlliance* 
 </h1>
 
 <p align="center">
@@ -45,11 +45,11 @@ Telco Global API Project is an independent open-source project and not controlle
 
 ## Development
 
-_TBD_
+_Tbd_
 
 ### Build
 
-_TBD_
+_Tbd_
 
 ## Code of Conduct
 
@@ -70,7 +70,7 @@ The following channels are available for discussions, feedback, and support requ
 
 | Type                     | Channel                                                |
 | ------------------------ | ------------------------------------------------------ |
-| **Issues**   | 
+| **Issues**   | _Tbd_ |
 | **Other Requests**    | <a href="mailto:opensource@telekom.de" title="Email Open Source Team"><img src="https://img.shields.io/badge/email-Open%20Source%20Team-green?logo=mail.ru&style=flat-square&logoColor=white"></a>   |
 
 ## How to Contribute
