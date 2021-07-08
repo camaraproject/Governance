@@ -3,20 +3,20 @@
 This document describes the rules and governance of the project. It is meant to be followed by all the contributors and developers of the project and the Telco Global API community. Common terminology used in this governance document is defined below:
 
 - **The Telco Global API Project:** The sum of all activities and sub-projects performed under the governance protocol defined in this document.
-- **Team members:** Members of the private Telco Global API Project GitHub Repository named in the file PARTICIPANTS.MD.
-- **Maintainers:** Leaders of an individual sub-project or part thereof (CODEOWNERS).
+- **Team members:** Members of the private Telco Global API Project GitHub Repository named in the file [Participants](./PARTICIPANTS.MD).
+- **Maintainers:** Leaders of an individual sub-project or part thereof (MAINTAINERS.MD of the respective sub-project).
 - **Sub-projects:** A single sub directory in the Telco Global API Project led by a voluntary group, open to anyone to participate.
 
 Telco Global API Project is an independent open-source project, not controlled by any single company or organization. To emphasize this and clarify the governance structure (community organization guidelines), the Telco Global API Project will be conducted in the [Cloud Native Computing Foundation](https://www.cncf.io/), which all contributors are members of.
 
-For specific guidance on the practical steps for contributing to any API sub-project please see our CONTRIBUTING.md guide.
+For specific guidance on the practical steps for contributing to any API sub-project please see our [Contribution Guidelines](./CONTRIBUTING.md).
 
 ## Principles
 
 The Telco Global API community adheres to the following principles:
 
 - Open: Telco Global API Project is open source.
-- Welcoming and respectful: As a CNCF member project, we abide by the CNCF Code of Conduct.
+- Welcoming and respectful: As a CNCF member project, we abide by the CNCF [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 - Transparent and accessible: Changes to the Telco Global API Project organization, Telco Global API Project code repositories, and CNCF related activities (e.g. level, involvement, etc.) are done in public. A primary reason that the Telco Global API Project exists is as a forum for collaboration. The work in the project should be done in the open. Community members and contributors must communicate in the open, ensure other community members and contributors can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the community. Exception to this is committee work, this may be done in private if discretion is necessary.
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 
@@ -70,7 +70,7 @@ Areas covered by sub-projects may be vertically focused on particular Service AP
 
 Sub-projects are documented in the respective sub directory of the APIs directory.
 
-Each sub-project must have a MAINTAINERS.md file. A sub-project should have at least one maintainer. Ideally a sub-project is managed by two or more maintainers, depending on the size and scope of the sub-project. Here, the responsibilities must be clearly agreed upon between all of the maintainers. This includes coordinating who is responsible for which issues and pull requests. Each maintainer should also be listed in the PARTICIPANTS.MD file in the root directory.
+Each sub-project must have a MAINTAINERS.md file. A sub-project should have at least one maintainer. Ideally a sub-project is managed by two or more maintainers, depending on the size and scope of the sub-project. Here, the responsibilities must be clearly agreed upon between all of the maintainers. This includes coordinating who is responsible for which issues and pull requests. Each maintainer should also be listed in the [Participants](./PARTICIPANTS.MD) file in the root directory.
 
 Some sub-projects may have distinct (although sometimes overlapping) sets of contributors and maintainers, who act as the sub-project’s technical leaders, organizers and facilitators.
 
