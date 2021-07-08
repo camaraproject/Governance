@@ -1,5 +1,7 @@
 <h1 align="center">
-  The *TelcoGlobalAPIProject* offered by *TelcoGlobalAPIAlliance* 
+  Telco Global API Project offered by
+  
+  Telco Global API Alliance
 </h1>
 
 <p align="center">
