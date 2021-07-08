@@ -70,7 +70,7 @@ Areas covered by sub-projects may be vertically focused on particular Service AP
 
 Sub-projects are documented in the respective sub directory of the APIs directory.
 
-Each sub-project must have a MAINTAINERS.md file. A sub-project should have at least one maintainer. Ideally a sub-project is managed by two or more maintainers, depending on the size and scope of the sub-project. Here, the responsibilities must be clearly agreed upon between all of the maintainers. This includes coordinating who is responsible for which issues and pull requests. Each maintainer should also be listed in the [Participants](./PARTICIPANTS.MD) file and in the contributor list of the [NOTICE](./NOTICE) file in the root directory.
+Each sub-project must have a MAINTAINERS.md file. A sub-project should have at least one maintainer. Ideally a sub-project is managed by two or more maintainers, depending on the size and scope of the sub-project. Here, the responsibilities must be clearly agreed upon between all of the maintainers. This includes coordinating who is responsible for which issues and pull requests. Each maintainer should also be listed in the [Participants](./PARTICIPANTS.MD) file and in the contributors list of the [NOTICE](./NOTICE) file in the root directory.
 
 Some sub-projects may have distinct (although sometimes overlapping) sets of contributors and maintainers, who act as the sub-project’s technical leaders, organizers and facilitators.
 
@@ -94,7 +94,7 @@ Team member status may be given to those who have made ongoing contributions to 
 
 The current team members are listed in PARTICITPANTS.MD.
 
-Please note that Telco Global API had received significant contributions from a number of unlisted individuals before this governance document was written, and thus formal team membership, was created.
+Please note that Telco Global API had received significant contributions from a number of unlisted individuals before this governance document was written, and thus formal team membership was created.
 
 **Maintainers**
 
@@ -118,7 +118,7 @@ Maintainers lead one or more sub-project(s) or parts thereof and serve as a poin
 
 Maintainers are also intended to be organizers and facilitators, responsible for the continued operation and progress of the sub-project and for communication and co-ordination with the other sub-projects, the Steering Committee, and the broader community. Maintainers are granted commit rights to their sub-projects.
 
-Defined by: entry in sub-project MAINTAINERS.MD file.
+Defined by: entry in sub-project MAINTAINERS.MD file. Maintainers of the overall project documentation are documented in [Code Owners](./CODEOWNERS).
 
 Maintainers should actively participate in Pull Request reviews and are expected to respond to assigned Pull Requests in a *reasonable* time frame, either providing insights, or assign the Pull Requests to other maintainers.
 
@@ -229,7 +229,7 @@ In case a member leaves, the offboarding procedure is applied.
 
 **Changes in Governance**
 
-Changes in project governance (GOVERNANCE.md) could be initiated by opening a github PR. The PR should only be opened no earlier than 6 weeks before the end of the project lead's term. The PR should be kept open for no less than 4 weeks. The PR can only be merged follow the same voting process as in Changes in Maintainership.
+Changes in project governance ([Governance](./GOVERNANCE.md)) could be initiated by opening a github PR. The PR should only be opened no earlier than 6 weeks before the end of the project lead's term. The PR should be kept open for no less than 4 weeks. The PR can only be merged follow the same voting process as in Changes in Maintainership.
 
 **Editorial changes**
 
@@ -253,7 +253,7 @@ The On- / Offboarding section is informational and can be changed by [lazy cons
 
 The new member is
 
-- added to the list of team members (PARTICIPANTS.MD). Ideally by sending a PR of their own, at least approving said PR.
+- added to the list of team members ([Participants](./PARTICIPANTS.MD)). Ideally by sending a PR of their own, at least approving said PR.
 - announced on the Telco Global API Project mailing list by an existing team member. Ideally, the new member replies in this thread, acknowledging team membership.
 - added to group accounts where applicable. Services with some variety of a group account include but are not restricted to Digital Ocean, DockerHub, GSuite, Netlify, Twitter (via Tweetdeck), Youtube.
 - optionally added to the list of contributors.
@@ -263,7 +263,7 @@ The new member is
 
 The ex-member is
 
-- removed from the list of team members (PARTICIPANTS.MD). Ideally by sending a PR of their own, at least approving said PR. In case of forced removal, no approval is needed.
+- removed from the list of team members ([Participants](./PARTICIPANTS.MD)). Ideally by sending a PR of their own, at least approving said PR. In case of forced removal, no approval is needed.
 - removed from the team mailing list , all lists of maintainers and the list of contributors.
 - removed from group accounts where applicable. Services with some variety of a group account include but are not restricted to Digital Ocean, DockerHub, GSuite, Netlify, Twitter (via Tweetdeck), Youtube.
 - not allowed to call themselves an active team member anymore, nor allowed to imply this to be the case.
@@ -275,7 +275,7 @@ If needed, we reserve the right to publicly announce removal.
 
 Life priorities, interests, and passions can change. If you're a maintainer but feel you must remove yourself from the list, inform other maintainers that you intend to step down, and if possible, help find someone to pick up your work. At the very least, ensure your work can be continued where you left off.
 
-After you've informed other maintainers, create a pull request to remove yourself from the MAINTAINERS file.
+After you've informed other maintainers, create a pull request to remove yourself from the MAINTAINERS.MD file.
 
 ## Licensing
 - Apache 2.0 license for API source codes
@@ -295,7 +295,7 @@ Should the decision be in favor, your new membership will also be announced on t
 
 **How do I add a sub project?**
 
-As a team member, propose the new sub project on the Telco Global API Project mailing list. If nobody objects, create the sub project in the GitHub repository. Add at least a README.md explaining the goal of the project, and a MAINTAINERS.md with the maintainers of the project (at this point, this probably means you).
+As a team member, propose the new sub project on the Telco Global API Project mailing list. If nobody objects, create the sub project in the GitHub repository. Add at least a README.MD explaining the goal of the project, and a MAINTAINERS.MD with the maintainers of the project (at this point, this probably means you).
 
 **How do I archive or remove a sub project?**
 
