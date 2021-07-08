@@ -1,6 +1,4 @@
-﻿**Telco Global API Alliance Community Organization Guidelines**
-
-**(Governance Structure)**
+# Telco Global API Alliance Community Organization Guidelines (Governance Structure)
 
 This document describes the rules and governance of the project. It is meant to be followed by all the contributors and developers of the project and the Telco Global API community. Common terminology used in this governance document is defined below:
 
@@ -13,7 +11,7 @@ Telco Global API Project is an independent open-source project, not controlled b
 
 For specific guidance on the practical steps for contributing to any API sub-project please see our CONTRIBUTING.md guide.
 
-1. **Principles**
+## Principles
 
 The Telco Global API community adheres to the following principles:
 
@@ -22,7 +20,7 @@ The Telco Global API community adheres to the following principles:
 - Transparent and accessible: Changes to the Telco Global API Project organization, Telco Global API Project code repositories, and CNCF related activities (e.g. level, involvement, etc.) are done in public. A primary reason that the Telco Global API Project exists is as a forum for collaboration. The work in the project should be done in the open. Community members and contributors must communicate in the open, ensure other community members and contributors can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the community. Exception to this is committee work, this may be done in private if discretion is necessary.
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 
-1. **Telco Global API Project**
+## Telco Global API Project
 
 The development of open, global, and interoperable API solutions could benefit customers and developer ecosystems by giving access to operator capabilities in whatever network customers are in and therefore allow applications to run consistently between telco networks and countries. A new form of collaboration between various players (telcos, ISVs, device manufacturers, hyperscalers, etc.) could address much of the challenges in scaling API services across heterogenous operator architectures as well as advance the connectivity industry towards a more robust and faster core network, encourage the faster adoption of capabilities and as a result create value for the entire tech industry.
 
@@ -48,7 +46,7 @@ APIs grouped by services and bundled up into “Service APIs” could reduce the
 
 Telco Global API Project is an independent open-source project and not controlled by any single company.
 
-1. **Governance**
+## Governance
 
 **Steering Committee**
 
@@ -158,7 +156,7 @@ Committers
 - A security advisor is an advisory role in the project responsible for helping classify and advise on embargoed security disclosures. Security advisors are part of the organization without write access, but with read access to security disclosures and advisories before becoming public. Security advisors help maintain the integrity of the security review process and encourage responsible disclosure.
 - Security advisors are individuals trusted by maintainers and representing significant users of the project. A reviewer may also be a security advisor, however, committers do not need this role as it is part of their regular duties. The security advisor duties are not part of the duties of being a reviewer. There is no expectation of advisors to become reviewers or participate in issue triage and code review.
 
-1. **Decision Making**
+## Decision Making
 
 **Voting Principles**
 
@@ -246,7 +244,7 @@ A maintainer or committer may resign by notifying the team mailing list. A main
 
 Any matter that needs a decision, including but not limited to financial matters, may be called to a vote by any member if they deem it necessary. For financial, private, or personnel matters, discussion and voting takes place on the team mailing list.
 
-1. **On- / Offboarding**
+## On- / Offboarding
 
 The On- / Offboarding section is informational and can be changed by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy)unless challenged. If no consensus can be reached, the matter may be resolved by majority vote.
 
@@ -272,17 +270,17 @@ The ex-member is
 
 If needed, we reserve the right to publicly announce removal.
 
-1. **Stepping down policy**
+## Stepping down policy
 
 Life priorities, interests, and passions can change. If you're a maintainer but feel you must remove yourself from the list, inform other maintainers that you intend to step down, and if possible, help find someone to pick up your work. At the very least, ensure your work can be continued where you left off.
 
 After you've informed other maintainers, create a pull request to remove yourself from the MAINTAINERS file.
 
-1. **Licensing**
+## Licensing
 - Apache 2.0 license for API source codes
 - CC-BY-4.0 license for documentation
 
-1. **FAQ**
+## FAQ
 
 **How do I propose a decision?**
 
