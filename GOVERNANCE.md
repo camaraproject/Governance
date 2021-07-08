@@ -22,41 +22,42 @@ The Telco Global API community adheres to the following principles:
 
 ## Telco Global API Project
 
+A global partnership could address much of the challenges in scaling API services across heterogenous operator architectures.
+
 The development of open, global, and interoperable API solutions could benefit customers and developer ecosystems by giving access to operator capabilities in whatever network customers are in and therefore allow applications to run consistently between telco networks and countries. A new form of collaboration between various players (telcos, ISVs, device manufacturers, hyperscalers, etc.) could address much of the challenges in scaling API services across heterogenous operator architectures as well as advance the connectivity industry towards a more robust and faster core network, encourage the faster adoption of capabilities and as a result create value for the entire tech industry.
 
-1. **Accelerate technology development**
-1. Build sustainable ecosystems around collaborative projects across industries.
-1. Drive industry alignment by facilitating industry discussions with telcos, ISVs, device manufacturers, hyperscalers, etc.
-1. **Standardization of APIs**
-1. Standardize and convert APIs to a user understandable format called “Service APIs”.
-1. Achieve standardization through working code vs. documents.
-1. Implementation experience should guide standardization process.
-1. Enable interoperability (e.g. effortless portability of applications between different operators), compatibility (applicability to different network technologies) and interconnectivity (to enable interoperator collaboration).
-1. **Education and promotion**
-1. Actively promote Service APIs via various forums, events, conferences, training programs, ecosystems and social media.
-1. Promote best practices by aggregating and publishing lessons learned.
-1. **Accelerate commercial adoption**
-1. Create awareness around use cases and services.
-1. Minimize implementation effort though easy-to-consume standard Service APIs.
-1. Foster the development of distribution channels to increase customer reach.
-1. Integrate the APIs in relevant developer’s environments and ecosystems.
-1. Provide customer service and support.
+* Accelerate technology development
+    * Build sustainable ecosystems around collaborative projects across industries.
+    * Drive industry alignment by facilitating industry discussions with telcos, ISVs, device manufacturers, hyperscalers, etc.
+* Standardization of APIs
+    * Standardize and convert APIs to a user understandable format called “Service APIs”.
+    * Achieve standardization through working code vs. documents.
+    * Implementation experience should guide standardization process.
+    * Enable interoperability (e.g. effortless portability of applications between different operators), compatibility (applicability to different network technologies) and interconnectivity (to enable interoperator collaboration).
+* Education and promotion
+    * Actively promote Service APIs via various forums, events, conferences, training programs, ecosystems and social media.
+    * Promote best practices by aggregating and publishing lessons learned.
+* Accelerate commercial adoption
+    * Create awareness around use cases and services.
+    * Minimize implementation effort though easy-to-consume standard Service APIs.
+    * Foster the development of distribution channels to increase customer reach.
+    * Integrate the APIs in relevant developer’s environments and ecosystems.
+    * Provide customer service and support.
 
 APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises.
-
 Telco Global API Project is an independent open-source project and not controlled by any single company.
 
 ## Governance
 
 **Steering Committee**
 
-The highest deciding committee is the Steering Committee of the Telco Global API Project. It consists of \_Tbd\_.
+The highest deciding committee is the Steering Committee of the Telco Global API Project. It consists of _Tbd_.
 
 **Committees**
 
 Some topics, such as Security or Code of Conduct, require discretion. Whereas sub-projects are led by voluntary groups which operate in the open and anyone can join, Committees do not have open membership and do not always operate in the open. The steering committee can form committees as needed, for a bounded or unbounded duration. Membership of a committee is decided by the steering committee, however, all committee members must be community members of the Telco Global API Project. A committee has a charter and a chair, and will report to the steering committee periodically, and to the community as defined by the committee’s charter.
 
-1. **Project Structure**
+## Project Structure
 
 **Sub-projects**
 
@@ -81,11 +82,11 @@ Community rallying points are used to facilitate discussions/work regarding topi
 
 Working groups are primarily used to facilitate topics of discussion that are in scope for the Telco Global API Project but that cross sub-project lines. If a subset of community members wants to get together and discuss a topic, they can do so with forming a Working Group.
 
-See “working group governance”\_Tbd\_ for more details about forming and disbanding Working Groups.
+See “working group governance” _Tbd_ for more details about forming and disbanding Working Groups.
 
-Working groups are documented in \_Tbd\_.
+Working groups are documented in _Tbd_.
 
-1. **Roles, Responsibilities and Requirements**
+## Roles, Responsibilities and Requirements
 
 **Team members**
 
@@ -307,5 +308,3 @@ A maintainer may resign by notifying the team mailing list. A maintainer with n
 **How do I remove a team member?**
 
 Team members may resign by notifying the team mailing list. If you think a team member should be removed against their will, propose this to the team mailing list. Discussions will be held there in private.
-PAGE   \\* MERGEFORMAT11
-
