@@ -6,3 +6,4 @@
 | Deutsche Telekom AG   | Shilpa Padgaonkar |
 | Deutsche Telekom AG   | Herbert Damker |
 | Telefonica  | Juan Carlos Garcia |
+| Deutsche Telekom AG   | Elmar Mundt |
