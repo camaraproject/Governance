@@ -7,3 +7,4 @@
 | Deutsche Telekom AG   | Herbert Damker |
 | Telefonica  | Juan Carlos Garcia |
 | Deutsche Telekom AG   | Elmar Mundt |
+| Telefonica   | Miguel Alejandro Hernández |
