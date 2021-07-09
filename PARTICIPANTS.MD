@@ -9,3 +9,6 @@
 | Deutsche Telekom AG   | Elmar Mundt |
 | Telefonica   | Miguel Alejandro Hernández |
 | Telefonica   | Jose A Ordonez Lucena |
+| Intel | Petar Torre |
+| Intel | Francesc Guim |
+| Intel | James J Greene |
