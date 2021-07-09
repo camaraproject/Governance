@@ -8,3 +8,4 @@
 | Telefonica  | Juan Carlos Garcia |
 | Deutsche Telekom AG   | Elmar Mundt |
 | Telefonica   | Miguel Alejandro Hernández |
+| Telefonica   | Jose A Ordonez Lucena |
