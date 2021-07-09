@@ -5,3 +5,4 @@
 | Deutsche Telekom AG   | Markus Kümmerle |
 | Deutsche Telekom AG   | Shilpa Padgaonkar |
 | Deutsche Telekom AG   | Herbert Damker |
+| Telefonica  | Juan Carlos Garcia |
