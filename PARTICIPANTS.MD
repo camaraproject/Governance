@@ -14,3 +14,4 @@
 | Intel | Petar Torre |
 | Intel | Francesc Guim |
 | Intel | James J Greene |
+| Nokia | Rene Saathoff |
