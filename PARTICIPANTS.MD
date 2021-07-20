@@ -8,6 +8,7 @@
 | Deutsche Telekom AG   | Elmar Mundt |
 | Deutsche Telekom AG   | Piotr Wesolowski |
 | Deutsche Telekom AG   | Herbert Damker |
+| Deutsche Telekom AG   | Noel Wirzius |
 | Telefonica   | Juan Carlos Garcia |
 | Telefonica   | Miguel Alejandro Hernández |
 | Telefonica   | Jose A Ordonez Lucena |
