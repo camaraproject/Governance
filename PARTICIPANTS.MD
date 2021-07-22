@@ -23,3 +23,4 @@
 | Microsoft | Ricardo Villarreal |
 | Microsoft | Landon Cox |
 | Microsoft | Thilo Ewald |
+| TELUS | Ali Tizghadam
