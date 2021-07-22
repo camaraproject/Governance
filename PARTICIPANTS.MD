@@ -20,3 +20,6 @@
 | TIM | Fabrizio Moggio |
 | TIM | Marco Signorelli |
 | TIM | Andrea Calvi |
+| Microsoft | Ricardo Villarreal |
+| Microsoft | Landon Cox |
+| Microsoft | Thilo Ewald |
