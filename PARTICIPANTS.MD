@@ -20,4 +20,3 @@
 | TIM | Fabrizio Moggio |
 | TIM | Marco Signorelli |
 | TIM | Andrea Calvi |
-| **Microsoft (contingent on CELA approval)** | Landon Cox |
