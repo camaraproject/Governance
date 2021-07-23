@@ -16,6 +16,7 @@
 | Intel | Francesc Guim |
 | Intel | James J Greene |
 | Nokia | Rene Saathoff |
+| Nokia | Tanja de Groot |
 | TIM | Roberto Procopio |
 | TIM | Fabrizio Moggio |
 | TIM | Marco Signorelli |
