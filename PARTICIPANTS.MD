@@ -31,3 +31,4 @@
 | GSMA | Tom van Pelt |
 | GSMA | Gautham Hazari |
 | GSMA | Faisal Zia |
+| T-Mobile | Carl Persson |
