@@ -23,4 +23,6 @@
 | Microsoft | Ricardo Villarreal |
 | Microsoft | Landon Cox |
 | Microsoft | Thilo Ewald |
-| TELUS | Ali Tizghadam
+| TELUS | Ali Tizghadam |
+| NGMN Alliance | Anita Doehler |
+| NGMN Alliance | Klaus Moschner |
