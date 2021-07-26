@@ -46,60 +46,97 @@ APIs grouped by services and bundled up into “Service APIs” could reduce the
 Telco Global API Project is an independent open-source project and not controlled by any single company.
 
 ## Governance
+
 Steering Committee
+
 The highest deciding committee is the Steering Committee of the Telco Global API Project. At the inception of the project, the voting members of the Steering Committee consist of the Maintainers of the Project. At the inception of the project, the Maintainers will be listed in the CODEOWNERS.md file within the Project’s code repository. The Steering Committee may choose an alternative approach for determining the voting members of the Steering Committee, and any such alternative approach will be documented in the CONTRIBUTING2.md file. Any meetings of the Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
+
 The technical roles of the Project are described in the CONTRIBUTING2.md file. The Steering Committee may adopt or modify roles so long as the roles are documented in the CONTRIBUTING2.md file. Participation in the Project through becoming a Team Member and/or Maintainer is open to anyone so long as they abide by the terms of this Charter. 
+
 The Steering Committee may (1) establish workflow procedures for the submission, approval, and closure/archiving of projects and sub-projects, (2) set requirements for the promotion of participants from one technical role to another, and (3) amend, adjust, refine and/or eliminate any technical roles, and create new roles, and publicly document any roles, as it sees fit.
+
 Responsibilities: The Steering Committee will be responsible for all aspects of oversight relating to the Project, which may include:
-coordinating the technical direction of the Project;
-approving project, sub-project or system proposals (including, but not limited to, incubation, deprecation, and changes to a sub-project’s scope);
-organizing sub-projects and removing sub-projects;
-creating, and determining composition of, committees or working groups to focus on cross-project technical or issues and requirements;
-appointing representatives to work with other open source or open standards communities;
-establishing community norms, workflows, issuing releases, and security issue reporting policies;
-approving and implementing policies and processes for contributing (to be published in the CONTRIBUTING2.md file) and coordinating with LF Projects to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
-discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
-coordinating any marketing, events, or communications regarding the Project.
+- coordinating the technical direction of the Project;
+- approving project, sub-project or system proposals (including, but not limited to, incubation, deprecation, and changes to a sub-project’s scope);
+- organizing sub-projects and removing sub-projects;
+- creating, and determining composition of, committees or working groups to focus on cross-project technical or issues and requirements;
+- appointing representatives to work with other open source or open standards communities;
+- establishing community norms, workflows, issuing releases, and security issue reporting policies;
+- approving and implementing policies and processes for contributing (to be published in the CONTRIBUTING2.md file) and coordinating with LF Projects to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
+- discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
+- coordinating any marketing, events, or communications regarding the Project.
+
 ## Decision Making
+
 Voting Principles
+
 The Telco Global API Project usually runs by informal consensus, however sometimes a formal decision must be made (reasons for this see below).
+
 Depending on the subject matter, different methods of voting are used as laid out below.
+
 For all votes, voting must be open for at least one week. The end date should be clearly stated in the call to vote. A vote may be called and closed early if enough votes have come in one way so that further votes cannot change the final decision.
+
 In all cases, all and only team members are eligible to vote, with the sole exception of the forced removal of a team member, in which said member is not eligible to vote.
+
 Discussion and votes on personnel matters (including but not limited to team membership and maintainership) are held in private. All other discussion and votes are held in public on the Telco Global API Project mailing list.
+
 For public discussions, anyone interested is encouraged to participate. Formal power to object or vote is limited to team members.
+
 Consensus
+
 The default decision making mechanism for the Telco Global API Project is lazy consensus. This means that any decision on technical issues is considered supported by the team as long as nobody objects based on substantiated technical grounds.
+
 Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will. Decisions may, but do not need to be called out and put up for decision on the Telco Global API Project mailing list at any time and by anyone.
+
 Consensus decisions can never override or go against the spirit of an earlier explicit vote.
+
 If any team member raises objections, the team members work together towards a solution that all involved can accept. This solution is again subject to lazy consensus.
+
 In case no consensus can be found, but a decision one way or the other must be made, any team member may call a formal majority vote.
+
 Majority vote
+
 Majority votes must be called explicitly in a separate thread on the appropriate mailing list. The subject must be prefixed with [VOTE]. In the body, the call to vote must state the proposal being voted on. It should reference any discussion leading up to this point.
+
 Votes may take the form of a single proposal, with the option to vote yes or no, or the form of multiple alternatives.
+
 A vote on a single proposal is considered successful if more vote in favor than against.
+
 If there are multiple alternatives, members may vote for one or more alternatives, or vote “no” to object to all alternatives. It is not possible to cast an “abstain” vote. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from more than half of those voting. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
+
 Supermajority vote
+
 Supermajority votes must be called explicitly in a separate thread on the appropriate mailing list. The subject must be prefixed with [VOTE]. In the body, the call to vote must state the proposal being voted on. It should reference any discussion leading up to this point.
+
 Votes may take the form of a single proposal, with the option to vote yes or no, or the form of multiple alternatives.
+
 A vote on a single proposal is considered successful if at least two thirds of those eligible to vote vote in favor.
+
 If there are multiple alternatives, members may vote for one or more alternative, or vote “no” to object to all alternatives. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from at least two thirds of those eligible to vote. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
+
 Technical decisions
+
 Technical decisions that only affect a single sub-project are made informally by the maintainer of this sub-project, and lazy consensus is assumed. Technical decisions that span multiple parts of the Telco Global API Project should be discussed and made on the Telco Global API Project mailing list.
+
 Decisions are usually made by lazy consensus. If no consensus can be reached, the matter may be resolved by majority vote.
  
 Changes in Maintainership
+
 Changes in maintainership have to be announced on the Telco Global API Project mailing list. They are decided by lazy consensus and formalized by changing the MAINTAINERS.md file of the respective sub project.
 
 ## Intellectual Property Policy
+
 Participants acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. 
+
 Except with respect to alternative licenses approved by the Steering Committee as described below, all contributions to the Project are subject to the following: 
-All new inbound code contributions to the Project must be made using the Apache License, Version 2.0, available at https://www.apache.org/licenses/LICENSE-2.0 (the “Project License”). 
-All new inbound code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a steering committee approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
-All outbound code will be made available under the Project License.
-Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/). 
-The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project. Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
+- All new inbound code contributions to the Project must be made using the Apache License, Version 2.0, available at https://www.apache.org/licenses/LICENSE-2.0 (the “Project License”). 
+- All new inbound code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a steering committee approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
+- All outbound code will be made available under the Project License.
+- Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/). 
+- The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project. Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
+- 
 The Steering Committee may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire Steering Committee. 
+
 Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
 
 ## Policies
