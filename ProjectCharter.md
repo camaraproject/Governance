@@ -2,10 +2,14 @@
 
 ## Technical Charter of the Telco Global API Project
 This technical charter (the “Charter”) describes the rules and governance of the Telco Global API Project (the “Project”). It is meant to be followed by all the contributors and maintainers of, and other participants in (collectively, “participants”), the Project and the Telco Global API community. Common terminology used in this governance document is defined below:
-- The **Telco Global API Project**: The sum of all activities and sub-projects performed under the governance protocol defined in this document.
-- **Team participant**: Participant = contributor of the private Telco Global API Project GitHub Repository named in the file [PARTICIPANTS](./PARTICIPANTS.MD).
-- **Maintainers**: Leaders of an individual sub-project or part thereof (MAINTAINERS.MD of the respective sub-project).
+- **Telco Global API Alliance**: The sum of partners and people listed in the [PARTICIPANTS](./PARTICIPANTS.MD) file, the Telco Global API Project and the Telco Global API working group withing GSMA/OPG.
+- **Telco Global API community**: The sume of people listed in [PARTICIPANTS](./PARTICIPANTS.MD).
+- **Telco Global API Project**: The sum of all activities and sub-projects performed under the governance protocol defined in this document.
 - **Sub-projects**: A single sub directory in the Telco Global API Project led by a voluntary group, open to anyone to participate.
+- **Participant**: Participant = contributor of the private Telco Global API Project named in the file [PARTICIPANTS](./PARTICIPANTS.MD).
+- **Maintainers**: Leaders of an individual sub-project or part thereof (MAINTAINERS.MD of the respective sub-project).
+- **Code Owners**: Leaders of the Telco Global API Project documented in the file [CODEOWNERS](./CODEOWNERS).
+- **Partner**: Partner = member, company listed in [PARTICIPANTS](./PARTICIPANTS.MD).
 
 The Project is an independent open-source project, not controlled by any single company or organization and has been established as Global Telco API Project a Series of LF Projects, LLC. LF Projects, LLC is a Delaware series limited liability company (“LF Projects”). 
 
