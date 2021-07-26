@@ -124,9 +124,9 @@ Technical decisions that only affect a single sub-project are made informally by
 
 Decisions are usually made by [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). If no consensus can be reached, the matter may be resolved by majority vote.
  
-**Changes in Maintainership**
+**Changes in Participantship and maintainership**
 
-Changes in maintainership have to be announced on the Telco Global API Project mailing list. They are decided by [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy) and formalized by changing the MAINTAINERS.md file of the respective sub project.
+Changes in participantship and maintainership are defined in [Project Structure And Roles](./ProjectStructureAndRoles.md).
 
 ## Intellectual Property Policy
 
