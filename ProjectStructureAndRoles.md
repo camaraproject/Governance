@@ -71,7 +71,7 @@ Maintainers lead one or more sub-project(s) or parts thereof and serve as a poin
 
 Maintainers are also intended to be organizers and facilitators, responsible for the continued operation and progress of the sub-project and for communication and co-ordination with the other sub-projects, the Steering Committee, and the broader community. Maintainers are granted commit rights to their sub-projects.
 
-Defined by: entry in sub-project MAINTAINERS.MD file. Maintainers of the overall project documentation are documented in [Code Owners](./CODEOWNERS).
+Defined by: entry in sub-project MAINTAINERS.MD file. Maintainers of the overall project documentation are documented in [CODEOWNERS](./CODEOWNERS).
 
 Maintainers should actively participate in Pull Request reviews and are expected to respond to assigned Pull Requests in a *reasonable* time frame, either providing insights, or assign the Pull Requests to other maintainers.
 
@@ -80,11 +80,11 @@ The following responsibilities must be met by the maintainer for a sub-project:
 - Make and approve technical design decisions for the sub-project.
 - Set the technical direction and priorities for the sub-project.
 - Define milestones and releases.
-- Mentor and guide approvers, reviewers, and contributors to the sub-project.
+- Mentor and guide contributors, reviewers, and committers to the sub-project.
 - Ensure continued health of sub-project
   - Adequate test coverage to confidently release
   - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
-- Ensure a healthy process for discussion and decision making is in place and is followed by the sub-project’s members.
+- Ensure a healthy process for discussion and decision making is in place and is followed by the sub-project’s participants.
 - Work with other sub-project owners to maintain the project's overall health and success holistically.
 
 **Types of maintainers**
@@ -98,17 +98,18 @@ There are different types of maintainers (Reviewers and Committers) with differe
 Reviewers
 
 - A reviewer is a maintainer within the project. They share in reviewing issues and pull requests and their LGTM counts towards the required LGTM count to merge a code change into the project.
-- Reviewers are part of the organization but do not have write access. Becoming a reviewer is a core aspect in the journey to becoming a committer.
+- Reviewers are part of the organization but do not need to have write access. Becoming a reviewer is a core aspect in the journey to becoming a committer.
 
 Committers
 
-- A committer is a core maintainer who is responsible for the overall quality and stewardship of the project. They share the same reviewing responsibilities as reviewers but are also responsible for upholding the project bylaws as well as participating in project level votes.
-- Committers are part of the organization with write access to all repositories. Committers are expected to remain actively involved in the project and participate in voting and discussing of proposed project level changes.
+- A committer is a core maintainer who is responsible for the overall quality and stewardship of the project. They share the same reviewing responsibilities as reviewers but are also responsible for upholding the project bylaws.
+- Committers are part of the organization with write access to all repositories. Committers are expected to remain actively involved in the project.
 
 **Security Advisors**
 
-- A security advisor is an advisory role in the project responsible for helping classify and advise on embargoed security disclosures. Security advisors are part of the organization without write access, but with read access to security disclosures and advisories before becoming public. Security advisors help maintain the integrity of the security review process and encourage responsible disclosure.
-- Security advisors are individuals trusted by maintainers and representing significant users of the project. A reviewer may also be a security advisor, however, committers do not need this role as it is part of their regular duties. The security advisor duties are not part of the duties of being a reviewer. There is no expectation of advisors to become reviewers or participate in issue triage and code review.
+- A security advisor is an advisory role in the project responsible for helping classify and advise on embargoed security disclosures. Security advisors are part of the organization mostly without write access, but with read access to security disclosures and advisories before becoming public. Security advisors help maintain the integrity of the security review process and encourage responsible disclosure.
+- Security advisors are individuals trusted by maintainers and representing significant users of the project. A reviewer may also be a security advisor, however, committers do not need this role as it is part of their regular duties. The security advisor duties are not part of the duties of being a reviewer. There is no expectation of security advisors to become reviewers or participate in issue triage and code review.
+- Security Advisors are decided by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all project maintainers.
 
 ## On- / Offboarding
 
