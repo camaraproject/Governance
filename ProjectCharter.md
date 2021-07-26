@@ -80,11 +80,11 @@ Depending on the subject matter, different methods of voting are used as laid ou
 
 For all votes, voting must be open for at least one week. The end date should be clearly stated in the call to vote. A vote may be called and closed early if enough votes have come in one way so that further votes cannot change the final decision.
 
-In all cases, all and only team members are eligible to vote, with the sole exception of the forced removal of a team member, in which said member is not eligible to vote.
+In all cases, all and only participants are eligible to vote, with the sole exception of the forced removal of a participant, in which said participant is not eligible to vote.
 
-Discussion and votes on personnel matters (including but not limited to team membership and maintainership) are held in private. All other discussion and votes are held in public on the Telco Global API Project mailing list.
+Discussion and votes on personnel matters (including but not limited to team participantship and maintainership) are held in private. All other discussion and votes are held in public on the Telco Global API Project mailing list.
 
-For public discussions, anyone interested is encouraged to participate. Formal power to object or vote is limited to team members.
+For public discussions, anyone interested is encouraged to participate. Formal power to object or vote is limited to participants.
 
 **Consensus**
 
@@ -94,9 +94,9 @@ Silence on any consensus decision is implicit agreement and equivalent to explic
 
 Consensus decisions can never override or go against the spirit of an earlier explicit vote.
 
-If any team member raises objections, the team members work together towards a solution that all involved can accept. This solution is again subject to [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy).
+If any participant raises objections, the participants work together towards a solution that all involved can accept. This solution is again subject to [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy).
 
-In case no consensus can be found, but a decision one way or the other must be made, any team member may call a formal majority vote.
+In case no consensus can be found, but a decision one way or the other must be made, any participant may call a formal majority vote.
 
 **Majority vote**
 
@@ -104,9 +104,9 @@ Majority votes must be called explicitly in a separate thread on the appropriate
 
 Votes may take the form of a single proposal, with the option to vote yes or no, or the form of multiple alternatives.
 
-A vote on a single proposal is considered successful if more vote in favor than against.
+A vote on a single proposal is considered successful if more eligible to vote vote in favor than against.
 
-If there are multiple alternatives, members may vote for one or more alternatives, or vote “no” to object to all alternatives. It is not possible to cast an “abstain” vote. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from more than half of those voting. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
+If there are multiple alternatives, participants may vote for one or more alternatives, or vote “no” to object to all alternatives. It is not possible to cast an “abstain” vote. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from more than half of those voting. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
 
 **Supermajority vote**
 
@@ -116,7 +116,7 @@ Votes may take the form of a single proposal, with the option to vote yes or no,
 
 A vote on a single proposal is considered successful if at least two thirds of those eligible to vote vote in favor.
 
-If there are multiple alternatives, members may vote for one or more alternative, or vote “no” to object to all alternatives. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from at least two thirds of those eligible to vote. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
+If there are multiple alternatives, participants may vote for one or more alternative, or vote “no” to object to all alternatives. It is not possible to cast an “abstain” vote. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from at least two thirds of those voting. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
 
 **Technical decisions**
 
