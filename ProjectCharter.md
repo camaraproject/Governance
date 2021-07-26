@@ -1,40 +1,50 @@
 # Project Charter
+
 ## Technical Charter of the Telco Global API Project
 This technical charter (the “Charter”) describes the rules and governance of the Telco Global API Project (the “Project”). It is meant to be followed by all the contributors and maintainers of, and other participants in (collectively, “participants”), the Project and the Telco Global API community. Common terminology used in this governance document is defined below:
-The Telco Global API Project: The sum of all activities and sub-projects performed under the governance protocol defined in this document.
-Team members: Members of the private Telco Global API Project GitHub Repository named in the file Participants.
-Maintainers: Leaders of an individual sub-project or part thereof (MAINTAINERS.MD of the respective sub-project).
-Sub-projects: A single sub directory in the Telco Global API Project led by a voluntary group, open to anyone to participate.
+- The **Telco Global API Project**: The sum of all activities and sub-projects performed under the governance protocol defined in this document.
+- **Team members**: Members of the private Telco Global API Project GitHub Repository named in the file [Participants](./PARTICIPANTS.MD).
+- **Maintainers**: Leaders of an individual sub-project or part thereof (MAINTAINERS.MD of the respective sub-project).
+- **Sub-projects**: A single sub directory in the Telco Global API Project led by a voluntary group, open to anyone to participate.
+- 
 The Project is an independent open-source project, not controlled by any single company or organization and has been established as Global Telco API Project a Series of LF Projects, LLC. LF Projects, LLC is a Delaware series limited liability company (“LF Projects”). 
-For specific guidance on the practical steps for contributing to any API sub-project please see our Contribution Guidelines.
-# Principles
+For specific guidance on the practical steps for contributing to any API sub-project please see our [Contribution Guidelines](./CONTRIBUTING.md).
+
+## Principles
 The Telco Global API community adheres to the following principles:
-Open: The Project is open source.
-Welcoming and respectful: We abide by the CODE_OF_CONDUCT.md.
-Transparent and accessible: Changes to the Project organization, Project code repositories, and activities related to LF Projects, the Linux Foundation and CNCF (e.g. level, involvement, etc.) are done in public. A primary reason that the Telco Global API Project exists is as a forum for collaboration. The work in the project should be done in the open. Excepted as authorized by the Steering Committee with respect to security and code of conduct issues, community members and contributors must communicate in the open, ensure other community members and contributors can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the community. Exception to this is committee work, this may be done in private if discretion is necessary.
+- Open: The Project is open source.
+- Welcoming and respectful: We abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- Transparent and accessible: Changes to the Project organization, Project code repositories, and activities related to LF Projects, the Linux Foundation and CNCF (e.g. level, involvement, etc.) are done in public. A primary reason that the Telco Global API Project exists is as a forum for collaboration. The work in the project should be done in the open. Excepted as authorized by the Steering Committee with respect to security and code of conduct issues, community members and contributors must communicate in the open, ensure other community members and contributors can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the community. Exception to this is committee work, this may be done in private if discretion is necessary.
 Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
-# Telco Global API Project
-A global collaboration can address much of the challenges in scaling API services across heterogenous operator architectures.
-The development of open, global, and interoperable API solutions can benefit customers and developer ecosystems by giving access to operator capabilities in whatever network customers are in and therefore allow applications to run consistently between telco networks and countries. A new form of collaboration between various players (telcos, ISVs, device manufacturers, hyperscalers, etc.) could address much of the challenges in scaling API services across heterogenous operator architectures as well as advance the connectivity industry towards a more robust and faster core network, encourage the faster adoption of capabilities and as a result create value for the entire tech industry.
-Accelerate technology development
-Build sustainable ecosystems around collaborative projects across industries.
-Drive industry alignment by facilitating industry discussions with telcos, ISVs, device manufacturers, hyperscalers, etc.
-Standardization of APIs
-Standardize and convert APIs to a user understandable format called “Service APIs”.
-Achieve standardization through working code vs. documents.
-Implementation experience should guide standardization process.
-Enable interoperability (e.g. effortless portability of applications between different operators), compatibility (applicability to different network technologies) and interconnectivity (to enable interoperator collaboration).
-Education and promotion
-Actively promote Service APIs via various forums, events, conferences, training programs, ecosystems and social media.
-Promote best practices by aggregating and publishing lessons learned.
-Accelerate commercial adoption
-Create awareness around use cases and services.
-Minimize implementation effort though easy-to-consume standard Service APIs.
-Foster the development of distribution channels to increase customer reach.
-Integrate the APIs in relevant developer’s environments and ecosystems.
-Provide customer service and support.
-APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises. Telco Global API Project is an independent open-source project and not controlled by any single company.
-# Governance
+
+## Telco Global API Project
+
+A global partnership could address much of the challenges in scaling API services across heterogenous operator architectures.
+
+The development of open, global, and interoperable API solutions could benefit customers and developer ecosystems by giving access to operator capabilities in whatever network customers are in and therefore allow applications to run consistently between telco networks and countries. A new form of collaboration between various players (telcos, ISVs, device manufacturers, hyperscalers, etc.) could address much of the challenges in scaling API services across heterogenous operator architectures as well as advance the connectivity industry towards a more robust and faster core network, encourage the faster adoption of capabilities and as a result create value for the entire tech industry.
+
+* Accelerate technology development
+    * Build sustainable ecosystems around collaborative projects across industries.
+    * Drive industry alignment by facilitating industry discussions with telcos, ISVs, device manufacturers, hyperscalers, etc.
+* Standardization of APIs
+    * Standardize and convert APIs to a user understandable format called “Service APIs”.
+    * Achieve standardization through working code vs. documents.
+    * Implementation experience should guide standardization process.
+    * Enable interoperability (e.g. effortless portability of applications between different operators), compatibility (applicability to different network technologies) and interconnectivity (to enable interoperator collaboration).
+* Education and promotion
+    * Actively promote Service APIs via various forums, events, conferences, training programs, ecosystems and social media.
+    * Promote best practices by aggregating and publishing lessons learned.
+* Accelerate commercial adoption
+    * Create awareness around use cases and services.
+    * Minimize implementation effort though easy-to-consume standard Service APIs.
+    * Foster the development of distribution channels to increase customer reach.
+    * Integrate the APIs in relevant developer’s environments and ecosystems.
+    * Provide customer service and support.
+
+APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises.
+Telco Global API Project is an independent open-source project and not controlled by any single company.
+
+## Governance
 Steering Committee
 The highest deciding committee is the Steering Committee of the Telco Global API Project. At the inception of the project, the voting members of the Steering Committee consist of the Maintainers of the Project. At the inception of the project, the Maintainers will be listed in the CODEOWNERS.md file within the Project’s code repository. The Steering Committee may choose an alternative approach for determining the voting members of the Steering Committee, and any such alternative approach will be documented in the CONTRIBUTING2.md file. Any meetings of the Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
 The technical roles of the Project are described in the CONTRIBUTING2.md file. The Steering Committee may adopt or modify roles so long as the roles are documented in the CONTRIBUTING2.md file. Participation in the Project through becoming a Team Member and/or Maintainer is open to anyone so long as they abide by the terms of this Charter. 
@@ -49,7 +59,7 @@ establishing community norms, workflows, issuing releases, and security issue re
 approving and implementing policies and processes for contributing (to be published in the CONTRIBUTING2.md file) and coordinating with LF Projects to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
 discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
 coordinating any marketing, events, or communications regarding the Project.
-# Decision Making
+## Decision Making
 Voting Principles
 The Telco Global API Project usually runs by informal consensus, however sometimes a formal decision must be made (reasons for this see below).
 Depending on the subject matter, different methods of voting are used as laid out below.
@@ -80,7 +90,7 @@ Decisions are usually made by lazy consensus. If no consensus can be reached, th
 Changes in Maintainership
 Changes in maintainership have to be announced on the Telco Global API Project mailing list. They are decided by lazy consensus and formalized by changing the MAINTAINERS.md file of the respective sub project.
 
-# Intellectual Property Policy
+## Intellectual Property Policy
 Participants acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. 
 Except with respect to alternative licenses approved by the Steering Committee as described below, all contributions to the Project are subject to the following: 
 All new inbound code contributions to the Project must be made using the Apache License, Version 2.0, available at https://www.apache.org/licenses/LICENSE-2.0 (the “Project License”). 
@@ -91,7 +101,7 @@ The Project may seek to integrate and contribute back to other open source proje
 The Steering Committee may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire Steering Committee. 
 Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
 
-# Policies
+## Policies
 
 Participants will comply with the policies of LF Projects as may be adopted and amended by LF Europe, including, without limitation the policies listed at https://lfprojects.be/policies/.  
 
@@ -103,6 +113,6 @@ LF Europe will hold title to all trade or service marks used by the Project (“
 
 Under no circumstances will the project undertake or will LF Projects be expected or required to undertake any action on behalf of the Project that is inconsistent with the tax status or purpose, as applicable, of LF Projects or its affiliates.
 
-# Amendment
+## Amendment
 
 This Charter may be amended by a two-thirds vote of the entire Steering Committee and is subject to approval by LF Projects.
