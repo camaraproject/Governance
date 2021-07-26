@@ -53,20 +53,20 @@ Telco Global API Project is an independent open-source project and not controlle
 
 **Steering Committee**
 
-The highest deciding committee is the Steering Committee of the Telco Global API Project. At the inception of the project, the voting members of the Steering Committee consist of the Maintainers of the Project. At the inception of the project, the Maintainers will be listed in the CODEOWNERS.md file within the Project’s code repository. The Steering Committee may choose an alternative approach for determining the voting members of the Steering Committee, and any such alternative approach will be documented in the CONTRIBUTING2.md file. Any meetings of the Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
+The highest deciding committee is the Steering Committee of the Telco Global API Project. At the inception of the project, the voting members of the Steering Committee were agreed in a bootstrap steering committee meeting. The voting members will be listed in the [CODEOWNERS](./CODEOWNERS) file within the Project’s code repository. The Steering Committee decides on adding or removing members, and may choose an alternative approach for determining the voting members of the Steering Committee, and any such alternative approach will be documented in this [Project Charter](./ProjectCharter.md). Any meetings of the Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
 
-The technical roles of the Project are described in the CONTRIBUTING2.md file. The Steering Committee may adopt or modify roles so long as the roles are documented in the CONTRIBUTING2.md file. Participation in the Project through becoming a Team Member and/or Maintainer is open to anyone so long as they abide by the terms of this Charter. 
+The technical roles of the Project are described in the [Project Structure And Roles](./ProjectStructureAndRoles.md) file. The Steering Committee may adopt or modify roles so long as the roles are documented in the [Project Structure And Roles](./ProjectStructureAndRoles.md) file. Participation in the Project through becoming a participant and/or maintainer is open to anyone so long as they abide by the terms of this Charter. 
 
-The Steering Committee may (1) establish workflow procedures for the submission, approval, and closure/archiving of projects and sub-projects, (2) set requirements for the promotion of participants from one technical role to another, and (3) amend, adjust, refine and/or eliminate any technical roles, and create new roles, and publicly document any roles, as it sees fit.
+The Steering Committee may (1) establish workflow procedures for the submission, approval, and closure/archiving of sub-projects and working groups, (2) set requirements for the promotion of participants from one technical role to another, and (3) amend, adjust, refine and/or eliminate any technical roles, and create new roles, and publicly document any roles, as it sees fit.
 
-Responsibilities: The Steering Committee will be responsible for all aspects of oversight relating to the Project, which may include:
+Responsibilities: The Steering Committee is responsible for all aspects of oversight relating to the Project, which may include:
 - coordinating the technical direction of the Project;
-- approving project, sub-project or system proposals (including, but not limited to, incubation, deprecation, and changes to a sub-project’s scope);
+- approving sub-project proposals (including, but not limited to, incubation, deprecation, and changes to a sub-project’s scope);
 - organizing sub-projects and removing sub-projects;
 - creating, and determining composition of, committees or working groups to focus on cross-project technical or issues and requirements;
 - appointing representatives to work with other open source or open standards communities;
 - establishing community norms, workflows, issuing releases, and security issue reporting policies;
-- approving and implementing policies and processes for contributing (to be published in the CONTRIBUTING2.md file) and coordinating with LF Projects to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
+- approving and implementing policies and processes for contributing (to be published in the [Contribution Guidelines](./CONTRIBUTING.md)) and coordinating with LF Projects to resolve matters or concerns that may arise as set forth in this Charter;
 - discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
 - coordinating any marketing, events, or communications regarding the Project.
 
