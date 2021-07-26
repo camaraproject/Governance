@@ -19,17 +19,9 @@ also include architecture guidelines for exposing service APIs.
 LISENSING STATEMENT:
 --------------------
 
-The declarations in form of source code are licensed under the
-Apache License, Version 2.0 (see declarations/LICENSE).
-
-The documentation is licensed under the CC-BY-4.0 license
-(see documentation/LICENSE)
-
-You may not use them except in compliance with the License. 
+Please see the respective section of the project charter.
 
 Contributors:
 -------------
 
-Nathan Radar [nathanrader], Deutsche Telekom AG
-Markus Kümmerle [markuskuemmerle], Deutsche Telekom AG
-Shilpa Padgaonkar [shilpa-padgaonkara], Deutsche Telekom AG
+Please see PARTICIPANTS.md
