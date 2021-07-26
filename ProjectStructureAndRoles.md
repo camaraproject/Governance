@@ -113,27 +113,25 @@ Committers
 
 ## On- / Offboarding
 
-The On- / Offboarding section is informational and can be changed by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy)unless challenged. If no consensus can be reached, the matter may be resolved by majority vote.
+The On- / Offboarding section is informational and can be changed by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all participants unless challenged. If no consensus can be reached, the matter may be resolved by majority vote.
 
 **Onboarding**
 
 The new member is
 
-- added to the list of team members ([Participants](./PARTICIPANTS.MD)). Ideally by sending a PR of their own, at least approving said PR.
-- announced on the Telco Global API Project mailing list by an existing team member. Ideally, the new member replies in this thread, acknowledging team membership.
+- added to the list of contributors ([PARTICIPANTS](./PARTICIPANTS.MD)). Ideally by sending a PR of their own, at least approving said PR.
+- announced on the Telco Global API Project mailing list by an existing participant. Ideally, the new participant replies in this thread, acknowledging team membership.
 - added to group accounts where applicable. Services with some variety of a group account include but are not restricted to Digital Ocean, DockerHub, GSuite, Netlify, Twitter (via Tweetdeck), Youtube.
-- optionally added to the list of contributors.
 - added to the team mailing list.
 
 **Offboarding**
 
 The ex-member is
 
-- removed from the list of team members ([Participants](./PARTICIPANTS.MD)). Ideally by sending a PR of their own, at least approving said PR. In case of forced removal, no approval is needed.
-- removed from the team mailing list , all lists of maintainers and the list of contributors.
+- removed from the list of contributors ([PARTICIPANTS](./PARTICIPANTS.MD)). Ideally by sending a PR of their own, at least approving said PR. In case of forced removal, no approval is needed.
+- removed from the team mailing list and all lists of maintainers.
 - removed from group accounts where applicable. Services with some variety of a group account include but are not restricted to Digital Ocean, DockerHub, GSuite, Netlify, Twitter (via Tweetdeck), Youtube.
-- not allowed to call themselves an active team member anymore, nor allowed to imply this to be the case.
-- added to a list of previous members if they so choose.
+- not allowed to call themselves an active team participant anymore, nor allowed to imply this to be the case.
 
 If needed, we reserve the right to publicly announce removal.
 
@@ -147,26 +145,26 @@ After you've informed other maintainers, create a pull request to remove yoursel
 
 **How do I propose a decision?**
 
-Send an email to the Telco Global API Project mailing list with your motion. If there is no objection within a reasonable amount of time, consider the decision made. If there are objections and no consensus can be found, a vote may be called by a team member.
+Send an email to the Telco Global API Project mailing list with your motion. If there is no objection within a reasonable amount of time, consider the decision made. If there are objections and no consensus can be found, a vote may be called by a team participant.
 
-**How do I become a team member?**
+**How do I become a team participant?**
 
-To become an official team member, you should intend to make ongoing contributions to one or more project(s) for at least three months. At that point, a team member (typically a maintainer of the project) may propose you for membership. The discussion about this will be held in private, and you will be informed privately when a decision has been made. A possible, but not required, graduation path is to become a maintainer later.
+To become an official team participant, you should intend to make ongoing contributions to one or more sub-project(s). At that point, a team participant (typically a maintainer of the project) may propose you for membership. A possible, but not required, graduation path is to become a maintainer later.
 
 Should the decision be in favor, your new membership will also be announced on the Telco Global API Project mailing list.
 
-**How do I add a sub project?**
+**How do I add a sub-project?**
 
-As a team member, propose the new sub project on the Telco Global API Project mailing list. If nobody objects, create the sub project in the GitHub repository. Add at least a README.MD explaining the goal of the project, and a MAINTAINERS.MD with the maintainers of the project (at this point, this probably means you).
+As a team participant, propose the new sub-project to the steering committee. If steering committee accepts, create the sub project in the GitHub repository. Add at least a README.MD explaining the description and the goal of the sub-project, and a MAINTAINERS.MD with the maintainers of the sub-project (at this point, this probably means you).
 
-**How do I archive or remove a sub project?**
+**How do I archive or remove a sub-project?**
 
-All sub projects should be kept and not removed.
+As a team participant, propose the removal of a sub-project to the steering committee. If steering committee accepts, stop all work in the sub-project, but keep the documentation in the API subfolder (no archiving).
 
 **How do I remove an inactive maintainer?**
 
 A maintainer may resign by notifying the team mailing list. A maintainer with no project activity for a year will be treated as if they had resigned. If there is an urgent need to replace a maintainer, discuss this on the team mailing list.
 
-**How do I remove a team member?**
+**How do I remove a team participant?**
 
-Team members may resign by notifying the team mailing list. If you think a team member should be removed against their will, propose this to the team mailing list. Discussions will be held there in private.
+Team participants may resign by notifying the team mailing list.
