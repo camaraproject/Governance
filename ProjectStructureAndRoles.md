@@ -4,7 +4,7 @@
 
 **Sub-projects**
 
-The Telco Global API Project is organized primarily into sub-projects. Each sub-project is comprised of members from multiple companies and organizations, with a common purpose of advancing the project with respect to a specific Service API topic, for example ‘streaming’ or ‘localization’. Our goal is to enable distributed decision making and code ownership. This will be done by providing focused forums for getting work done, making decisions, and onboarding new contributors.
+The Telco Global API Project is organized primarily into sub-projects. Each sub-project is comprised of participants from multiple companies and organizations, with a common purpose of advancing the project with respect to a specific Service API topic, for example ‘streaming’ or ‘localization’. Our goal is to enable distributed decision making and code ownership. This will be done by providing focused forums for getting work done, making decisions, and onboarding new contributors.
 
 Areas covered by sub-projects may be vertically focused on particular Service API components or functions, cross-cutting/horizontal or spanning many/all functional areas of Service APIs. Some examples of each type are:
 
@@ -13,7 +13,7 @@ Areas covered by sub-projects may be vertically focused on particular Service AP
 
 Sub-projects are documented in the respective sub directory of the APIs directory.
 
-Each sub-project must have a MAINTAINERS.md file. A sub-project should have at least one maintainer. Ideally a sub-project is managed by two or more maintainers, depending on the size and scope of the sub-project. Here, the responsibilities must be clearly agreed upon between all of the maintainers. This includes coordinating who is responsible for which issues and pull requests. Each maintainer should also be listed in the [Participants](./PARTICIPANTS.MD) file and in the contributors list of the [NOTICE](./NOTICE) file in the root directory.
+Each sub-project must have a README.md file (with a description of the sub-project) and a MAINTAINERS.md file. A sub-project should have at least one maintainer. Ideally a sub-project is managed by two or more maintainers, depending on the size and scope of the sub-project. Here, the responsibilities must be clearly agreed upon between all of the maintainers. This includes coordinating who is responsible for which issues and pull requests. Each maintainer should also be listed in the [PARTICIPANTS](./PARTICIPANTS.MD) file in the root directory.
 
 Some sub-projects may have distinct (although sometimes overlapping) sets of contributors and maintainers, who act as the sub-project’s technical leaders, organizers and facilitators.
 
@@ -23,11 +23,9 @@ Where a sub-project has a release process, access and documentation should be su
 
 Community rallying points are used to facilitate discussions/work regarding topics that are short-lived or that span multiple sub-projects.
 
-Working groups are primarily used to facilitate topics of discussion that are in scope for the Telco Global API Project but that cross sub-project lines. If a subset of community members wants to get together and discuss a topic, they can do so with forming a Working Group.
+Working groups are primarily used to facilitate topics of discussion that are in scope for the Telco Global API Project but that cross sub-project lines. If a subset of community members wants to get together and discuss a topic, they can do so with forming a Working Group. The steering committee decides upon implementing or removing working groups.
 
-See “working group governance” _Tbd_ for more details about forming and disbanding Working Groups.
-
-Working groups are documented in _Tbd_.
+Working groups are documented in sub directories of the WG folder. Each working group must have a README.md file (with a description of the working group).
 
 ## Roles, Responsibilities and Requirements
 
