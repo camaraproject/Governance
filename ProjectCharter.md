@@ -47,7 +47,7 @@ Telco Global API Project is an independent open-source project and not controlle
 
 ## Governance
 
-Steering Committee
+**Steering Committee**
 
 The highest deciding committee is the Steering Committee of the Telco Global API Project. At the inception of the project, the voting members of the Steering Committee consist of the Maintainers of the Project. At the inception of the project, the Maintainers will be listed in the CODEOWNERS.md file within the Project’s code repository. The Steering Committee may choose an alternative approach for determining the voting members of the Steering Committee, and any such alternative approach will be documented in the CONTRIBUTING2.md file. Any meetings of the Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
 
@@ -68,7 +68,7 @@ Responsibilities: The Steering Committee will be responsible for all aspects of 
 
 ## Decision Making
 
-Voting Principles
+**Voting Principles**
 
 The Telco Global API Project usually runs by informal consensus, however sometimes a formal decision must be made (reasons for this see below).
 
@@ -82,19 +82,19 @@ Discussion and votes on personnel matters (including but not limited to team mem
 
 For public discussions, anyone interested is encouraged to participate. Formal power to object or vote is limited to team members.
 
-Consensus
+**Consensus**
 
-The default decision making mechanism for the Telco Global API Project is lazy consensus. This means that any decision on technical issues is considered supported by the team as long as nobody objects based on substantiated technical grounds.
+The default decision making mechanism for the Telco Global API Project is [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). This means that any decision on technical issues is considered supported by the team as long as nobody objects based on substantiated technical grounds.
 
 Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will. Decisions may, but do not need to be called out and put up for decision on the Telco Global API Project mailing list at any time and by anyone.
 
 Consensus decisions can never override or go against the spirit of an earlier explicit vote.
 
-If any team member raises objections, the team members work together towards a solution that all involved can accept. This solution is again subject to lazy consensus.
+If any team member raises objections, the team members work together towards a solution that all involved can accept. This solution is again subject to [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy).
 
 In case no consensus can be found, but a decision one way or the other must be made, any team member may call a formal majority vote.
 
-Majority vote
+**Majority vote**
 
 Majority votes must be called explicitly in a separate thread on the appropriate mailing list. The subject must be prefixed with [VOTE]. In the body, the call to vote must state the proposal being voted on. It should reference any discussion leading up to this point.
 
@@ -104,7 +104,7 @@ A vote on a single proposal is considered successful if more vote in favor than 
 
 If there are multiple alternatives, members may vote for one or more alternatives, or vote “no” to object to all alternatives. It is not possible to cast an “abstain” vote. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from more than half of those voting. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
 
-Supermajority vote
+**Supermajority vote**
 
 Supermajority votes must be called explicitly in a separate thread on the appropriate mailing list. The subject must be prefixed with [VOTE]. In the body, the call to vote must state the proposal being voted on. It should reference any discussion leading up to this point.
 
@@ -114,15 +114,15 @@ A vote on a single proposal is considered successful if at least two thirds of t
 
 If there are multiple alternatives, members may vote for one or more alternative, or vote “no” to object to all alternatives. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from at least two thirds of those eligible to vote. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
 
-Technical decisions
+**Technical decisions**
 
-Technical decisions that only affect a single sub-project are made informally by the maintainer of this sub-project, and lazy consensus is assumed. Technical decisions that span multiple parts of the Telco Global API Project should be discussed and made on the Telco Global API Project mailing list.
+Technical decisions that only affect a single sub-project are made informally by the maintainer of this sub-project, and [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy) is assumed. Technical decisions that span multiple parts of the Telco Global API Project should be discussed and made on the Telco Global API Project mailing list.
 
-Decisions are usually made by lazy consensus. If no consensus can be reached, the matter may be resolved by majority vote.
+Decisions are usually made by [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). If no consensus can be reached, the matter may be resolved by majority vote.
  
-Changes in Maintainership
+**Changes in Maintainership**
 
-Changes in maintainership have to be announced on the Telco Global API Project mailing list. They are decided by lazy consensus and formalized by changing the MAINTAINERS.md file of the respective sub project.
+Changes in maintainership have to be announced on the Telco Global API Project mailing list. They are decided by [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy) and formalized by changing the MAINTAINERS.md file of the respective sub project.
 
 ## Intellectual Property Policy
 
