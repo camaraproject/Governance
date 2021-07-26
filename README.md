@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="#development">Development</a> •
+  <a href="#project-charter">Project Charter</a> •
   <a href="#code-of-conduct">Code of Conduct</a> •
   <a href="#working-language">Working Language</a> •
   <a href="#documentation">Documentation</a> •
@@ -49,12 +49,10 @@ The development of open, global, and interoperable API solutions can benefit cus
 APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises.
 Telco Global API Project is an independent open-source project and not controlled by any single company.
 
-## Development
-_Tbd_
+## Project Charter
 
-### Build
-
-_Tbd_
+The governance, voting rules, IPRs and policies of the Telco Global API Project are documented in the [Project Charter](./ProjectCharter.md).
+The project structure and roles are documented in the [Project Structure And Roles](./ProjectStructureAndRoles.md).
 
 ## Code of Conduct
 
@@ -75,7 +73,7 @@ The following channels are available for discussions, feedback, and support requ
 
 | Type                     | Channel                                                |
 | ------------------------ | ------------------------------------------------------ |
-| **Issues**   | _Tbd_ |
+| **Issues**   | GitHub issues |
 | **Other Requests**    | <a href="mailto:opensource@telekom.de" title="Email Open Source Team"><img src="https://img.shields.io/badge/email-Open%20Source%20Team-green?logo=mail.ru&style=flat-square&logoColor=white"></a>   |
 
 ## How to Contribute
@@ -85,26 +83,10 @@ Contribution and feedback is encouraged and always welcome. For more information
 ## Contributors
 
 Our commitment to open source means that we are enabling -in fact encouraging- all interested parties to contribute and become part of its developer community.
-* The current list of participants of the alliance can be found here [Participants](./PARTICIPANTS.MD).
-* The current list of contributors (source code and/or documentation) can be found here [Contribution Guidelines](./CONTRIBUTING.md).
+* The current list of participants = contributors of the alliance can be found here [PARTICIPANTS](./PARTICIPANTS.MD).
 * The current list of maintainers of the overall project documentation can be found here [Code Owners](./CODEOWNERS).
 * The current list of maintainers of a sub-project can be found in the MAINTAINERS.MD file of the sub-project.
 
-
 ## Licensing
 
-### Declaring Code
-
-The declaring code is licensed under the **Apache License, Version 2.0**, you may not use the respective files except in compliance with that license.
-
-You may obtain a copy of the License at https://www.apache.org/licenses/LICENSE-2.0.
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the [LICENSE](./declarations/LICENSE) for the specific language governing permissions and limitations under the License.
-
-### Documentation
-
-The documentation is licensed under the **CC-BY-4.0 License**, you may not use the respective files except in compliance with that license.
-
-You may obtain a copy of the License at https://creativecommons.org/licenses/by/4.0/
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the [LICENSE](./documentation/LICENSE.CC-BY) for the specific language governing permissions and limitations under the License.
+See the respective chapter in the [Project Charter](./ProjectCharter.md).
