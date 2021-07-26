@@ -3,7 +3,7 @@
 ## Technical Charter of the Telco Global API Project
 This technical charter (the “Charter”) describes the rules and governance of the Telco Global API Project (the “Project”). It is meant to be followed by all the contributors and maintainers of, and other participants in (collectively, “participants”), the Project and the Telco Global API community. Common terminology used in this governance document is defined below:
 - The **Telco Global API Project**: The sum of all activities and sub-projects performed under the governance protocol defined in this document.
-- **Team members**: Members of the private Telco Global API Project GitHub Repository named in the file [Participants](./PARTICIPANTS.MD).
+- **Team participant**: Participant = contributor of the private Telco Global API Project GitHub Repository named in the file [PARTICIPANTS](./PARTICIPANTS.MD).
 - **Maintainers**: Leaders of an individual sub-project or part thereof (MAINTAINERS.MD of the respective sub-project).
 - **Sub-projects**: A single sub directory in the Telco Global API Project led by a voluntary group, open to anyone to participate.
 
