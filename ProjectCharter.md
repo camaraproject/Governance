@@ -134,7 +134,7 @@ Except with respect to alternative licenses approved by the Steering Committee a
 - All outbound code will be made available under the Project License.
 - Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/). 
 - The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project. Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
-- 
+
 The Steering Committee may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire Steering Committee. 
 
 Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
