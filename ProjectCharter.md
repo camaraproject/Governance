@@ -6,16 +6,17 @@ This technical charter (the “Charter”) describes the rules and governance of
 - **Team members**: Members of the private Telco Global API Project GitHub Repository named in the file [Participants](./PARTICIPANTS.MD).
 - **Maintainers**: Leaders of an individual sub-project or part thereof (MAINTAINERS.MD of the respective sub-project).
 - **Sub-projects**: A single sub directory in the Telco Global API Project led by a voluntary group, open to anyone to participate.
-- 
+
 The Project is an independent open-source project, not controlled by any single company or organization and has been established as Global Telco API Project a Series of LF Projects, LLC. LF Projects, LLC is a Delaware series limited liability company (“LF Projects”). 
+
 For specific guidance on the practical steps for contributing to any API sub-project please see our [Contribution Guidelines](./CONTRIBUTING.md).
 
 ## Principles
 The Telco Global API community adheres to the following principles:
 - Open: The Project is open source.
-- Welcoming and respectful: We abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- Welcoming and respectful: We abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 - Transparent and accessible: Changes to the Project organization, Project code repositories, and activities related to LF Projects, the Linux Foundation and CNCF (e.g. level, involvement, etc.) are done in public. A primary reason that the Telco Global API Project exists is as a forum for collaboration. The work in the project should be done in the open. Excepted as authorized by the Steering Committee with respect to security and code of conduct issues, community members and contributors must communicate in the open, ensure other community members and contributors can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the community. Exception to this is committee work, this may be done in private if discretion is necessary.
-Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
+- Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 
 ## Telco Global API Project
 
