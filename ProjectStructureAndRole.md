@@ -1,3 +1,5 @@
+# Project Structure and Roles
+
 ## Project Structure
 
 **Sub-projects**
@@ -15,7 +17,7 @@ Each sub-project must have a MAINTAINERS.md file. A sub-project should have at
 
 Some sub-projects may have distinct (although sometimes overlapping) sets of contributors and maintainers, who act as the sub-project’s technical leaders, organizers and facilitators.
 
-Where a sub-project has a release process, access and documentation should be such that more than one person can perform a release. Releases should be announced on the Telco Global API Project mailing list. Any new sub-projects should be first proposed on Telco Global API Project mailing list following the voting procedures listed below.
+Where a sub-project has a release process, access and documentation should be such that more than one person can perform a release. Releases should be announced on the Telco Global API Project mailing list. Any new sub-projects should be first proposed on Telco Global API Project mailing list following the voting procedures listed in the project charter.
 
 **Working Groups**
 
@@ -40,6 +42,12 @@ Please note that Telco Global API had received significant contributions from a 
 **Maintainers**
 
 Maintainers are first and foremost contributors that have shown they are committed to the long-term success of a sub-project. Contributors wanting to become maintainers are expected to be deeply involved in contributing code, pull request review, and triaging issues in the project for a minimum of three months and perform an ongoing contribution.
+
+**Changes in Maintainership**
+
+Changes in maintainership have to be announced on the Telco Global API Project mailing list. They are decided by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy)and formalized by changing the MAINTAINERS.md file of the respective sub project.
+
+A maintainer or committer may resign by notifying the team mailing list. A maintainer with no project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another team member to take over the project.
 
 Requirements
 
@@ -98,94 +106,6 @@ Committers
 - A security advisor is an advisory role in the project responsible for helping classify and advise on embargoed security disclosures. Security advisors are part of the organization without write access, but with read access to security disclosures and advisories before becoming public. Security advisors help maintain the integrity of the security review process and encourage responsible disclosure.
 - Security advisors are individuals trusted by maintainers and representing significant users of the project. A reviewer may also be a security advisor, however, committers do not need this role as it is part of their regular duties. The security advisor duties are not part of the duties of being a reviewer. There is no expectation of advisors to become reviewers or participate in issue triage and code review.
 
-## Decision Making
-
-**Voting Principles**
-
-The Telco Global API project usually runs by informal consensus, however sometimes a formal decision must be made (reasons for this see below).
-
-Depending on the subject matter, different methods of voting are used as laid out below.
-
-For all votes, voting must be open for at least one week. The end date should be clearly stated in the call to vote. A vote may be called and closed early if enough votes have come in one way so that further votes cannot change the final decision.
-
-In all cases, all and only team members are eligible to vote, with the sole exception of the forced removal of a team member, in which said member is not eligible to vote.
-
-Discussion and votes on personnel matters (including but not limited to team membership and maintainership) are held in private. All other discussion and votes are held in public on the Telco Global API Project mailing list.
-
-For public discussions, anyone interested is encouraged to participate. Formal power to object or vote is limited to team members.
-
-**Consensus**
-
-The default decision making mechanism for the Telco Global API Project is [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). This means that any decision on technical issues is considered supported by the team as long as nobody objects based on substantiated technical grounds.
-
-Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will. Decisions may, but do not need to be called out and put up for decision on the Telco Global API Project mailing list at any time and by anyone.
-
-Consensus decisions can never override or go against the spirit of an earlier explicit vote.
-
-If any team member raises objections, the team members work together towards a solution that all involved can accept. This solution is again subject to lazy consensus.
-
-In case no consensus can be found, but a decision one way or the other must be made, any team member may call a formal majority vote.
-
-**Majority vote**
-
-Majority votes must be called explicitly in a separate thread on the appropriate mailing list. The subject must be prefixed with [VOTE]. In the body, the call to vote must state the proposal being voted on. It should reference any discussion leading up to this point.
-
-Votes may take the form of a single proposal, with the option to vote yes or no, or the form of multiple alternatives.
-
-A vote on a single proposal is considered successful if more vote in favor than against.
-
-If there are multiple alternatives, members may vote for one or more alternatives, or vote “no” to object to all alternatives. It is not possible to cast an “abstain” vote. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from more than half of those voting. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
-
-**Supermajority vote**
-
-Supermajority votes must be called explicitly in a separate thread on the appropriate mailing list. The subject must be prefixed with [VOTE]. In the body, the call to vote must state the proposal being voted on. It should reference any discussion leading up to this point.
-
-Votes may take the form of a single proposal, with the option to vote yes or no, or the form of multiple alternatives.
-
-A vote on a single proposal is considered successful if at least two thirds of those eligible to vote vote in favor.
-
-If there are multiple alternatives, members may vote for one or more alternative, or vote “no” to object to all alternatives. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from at least two thirds of those eligible to vote. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
-
-**Technical decisions**
-
-Technical decisions that only affect a single sub-project are made informally by the maintainer of this sub-project, and [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy)is assumed. Technical decisions that span multiple parts of the Telco Global API Project should be discussed and made on the Telco Global API Project mailing list.
-
-Decisions are usually made by [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). If no consensus can be reached, the matter may be resolved by majority vote.
-
-**Decisions about Team Members**
-
-New members may be proposed by any existing member by email to Telco Global API Project team. It is highly desirable to reach consensus about acceptance of a new member. However, the proposal is ultimately voted on by a formal supermajority vote.
-
-If the new member proposal is accepted, the proposed team member should be contacted privately via email to confirm or deny their acceptance of team membership. This email will also be CC'd to Telco Global API Project team for record-keeping purposes.
-
-If they choose to accept, the onboarding procedure is followed.
-
-Team members may retire at any time by emailing the team.
-
-Team members can be removed by supermajority vote on the team mailing list. For this vote, the member in question is not eligible to vote and does not count towards the quorum. Any removal vote can cover only one single person.
-
-Upon death of a member, they leave the team automatically.
-
-In case a member leaves, the offboarding procedure is applied.
-
-**Changes in Governance**
-
-Changes in project governance ([Governance](./GOVERNANCE.md)) could be initiated by opening a github PR. The PR should only be opened no earlier than 6 weeks before the end of the project lead's term. The PR should be kept open for no less than 4 weeks. The PR can only be merged follow the same voting process as in Changes in Maintainership.
-
-**Editorial changes**
-
-Editorial changes are changes which fix spelling or grammar, update work affiliation, or similar; they update style or reflect an outside and obvious reality. They do not change the intention or meaning of anything in this document. They must be made via PR and accepted via [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy).
-
-**Changes in Maintainership**
-
-Changes in maintainership have to be announced on the Telco Global API Project mailing list. They are decided by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy)and formalized by changing the MAINTAINERS.md file of the respective sub project.
-
-A maintainer or committer may resign by notifying the team mailing list. A maintainer with no project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another team member to take over the project.
-
-**Other matters**
-
-Any matter that needs a decision, including but not limited to financial matters, may be called to a vote by any member if they deem it necessary. For financial, private, or personnel matters, discussion and voting takes place on the team mailing list.
-
 ## On- / Offboarding
 
 The On- / Offboarding section is informational and can be changed by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy)unless challenged. If no consensus can be reached, the matter may be resolved by majority vote.
@@ -217,10 +137,6 @@ If needed, we reserve the right to publicly announce removal.
 Life priorities, interests, and passions can change. If you're a maintainer but feel you must remove yourself from the list, inform other maintainers that you intend to step down, and if possible, help find someone to pick up your work. At the very least, ensure your work can be continued where you left off.
 
 After you've informed other maintainers, create a pull request to remove yourself from the MAINTAINERS.MD file.
-
-## Licensing
-- Apache 2.0 license for API source codes
-- CC-BY-4.0 license for documentation
 
 ## FAQ
 
