@@ -29,13 +29,19 @@ Working groups are documented in sub directories of the WG folder. Each working 
 
 ## Roles, Responsibilities and Requirements
 
-**Team members**
+**Participants**
 
-Team member status may be given to those who have made ongoing contributions to the Telco Global API Project for at least 3 months. This is usually in the form of code submissions and improvements and/or notable work on documentation but may also include other contributions such as organizing events or user support.
+Participant (= contributor) status may be given to those who intend to make ongoing contributions to the Telco Global API Project. This is usually in the form of code submissions and improvements and/or notable work on documentation but may also include other contributions such as organizing events or user support.
 
-The current team members are listed in PARTICITPANTS.MD.
+The current participants are listed in [PARTICIPANTS](./PARTICIPANTS.MD).
 
-Please note that Telco Global API had received significant contributions from a number of unlisted individuals before this governance document was written, and thus formal team membership was created.
+Please note that the Telco Global API Project had received significant contributions from a number of unlisted individuals before this governance document was written, and thus formal team membership was created.
+
+**Changes in Participantship**
+
+Changes in participantship have to be announced on the Telco Global API Project mailing list. They are decided by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) and formalized by changing the [PARTICIPANTS](./PARTICIPANTS.MD) file.
+
+A participant may resign by notifying the team mailing list. A participant with no project activity for a year is considered to have resigned. Participants that wish to resign are encouraged to propose another participant to take over their project work.
 
 **Maintainers**
 
@@ -43,11 +49,11 @@ Maintainers are first and foremost contributors that have shown they are committ
 
 **Changes in Maintainership**
 
-Changes in maintainership have to be announced on the Telco Global API Project mailing list. They are decided by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy)and formalized by changing the MAINTAINERS.md file of the respective sub project.
+Changes in maintainership have to be announced on the Telco Global API Project mailing list. They are decided by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all project maintainers and formalized by changing the MAINTAINERS.md file of the respective sub project or the [CODEOWNERS](./CODEOWNERS) file for the project itself.
 
-A maintainer or committer may resign by notifying the team mailing list. A maintainer with no project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another team member to take over the project.
+A maintainer or committer may resign by notifying the team mailing list. A maintainer with no project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another participant to take over their project work.
 
-Requirements
+**Requirements**
 
 The following requirements must be met by an individual wishing to become a maintainer for a sub-project: 
 
@@ -59,7 +65,7 @@ The following requirements must be met by an individual wishing to become a main
   - Identifying subtle or complex issues in designs and implementation PRs
 - Direct contributions to the subproject through implementation and / or review
 
-Responsibilities
+**Responsibilities**
 
 Maintainers lead one or more sub-project(s) or parts thereof and serve as a point of conflict resolution amongst the contributors and are the technical authority for a subproject (responsible for vision and direction and overall design, choose/approve change proposal (KEP) approvers, field technical escalations, etc.). They *MUST* have demonstrated both good judgement and responsibility towards the health of that sub-project. Sub-project Maintainers *MUST* set technical direction and make or approve design decisions for their sub-project - either directly, or through delegation of these responsibilities.
 
@@ -81,7 +87,7 @@ The following responsibilities must be met by the maintainer for a sub-project:
 - Ensure a healthy process for discussion and decision making is in place and is followed by the sub-project’s members.
 - Work with other sub-project owners to maintain the project's overall health and success holistically.
 
-Types of maintainers
+**Types of maintainers**
 
 There are different types of maintainers (Reviewers and Committers) with different responsibilities, but all maintainers have 3 things in common:
 
