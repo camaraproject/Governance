@@ -2,7 +2,7 @@
 
 ## Code of conduct
 
-All participants of the project community must abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) derived from [Contributor Covenant](https://www.contributor-covenant.org/). Only by respecting each other can we develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting [opensource@telekom.de](mailto:opensource@telekom.de) and/or a project maintainer.
+All participants of the project community must abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) derived from [Contributor Covenant](https://www.contributor-covenant.org/). Only by respecting each other can we develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting _project email address_ and/or a project maintainer.
 
 We appreciate your courtesy of avoiding political questions here. Issues which are not related to the project itself will be closed by our community managers.
 
@@ -12,7 +12,7 @@ We use GitHub to manage reviews of pull requests.
 
 * If you have a trivial fix or improvement, go ahead and create a pull request, addressing (with `@...`) a suitable maintainer of this repository (see [CODEOWNERS](./CODEOWNERS) or the specific MAINTAINERS.MD file of the sub-project you want to contribute to) in the description of the pull request.
 
-* If you plan to do something more involved, please reach out to us and send an [email](mailto:opensource@telekom.de). This will avoid unnecessary work and surely give you and us a good deal of inspiration.
+* If you plan to do something more involved, please reach out to us and send an email to _project email address_. This will avoid unnecessary work and surely give you and us a good deal of inspiration.
 
 * Relevant coding style guidelines are available in the respective sub-repositories as they are programming language-dependent.
 
@@ -54,7 +54,7 @@ At least if you add a new documentation to the repository, add your name into th
 
 * Create _Work In Progress [WIP]_ pull requests only if you need clarification or an explicit review before you can continue your work item.
 
-* If your patch is not getting reviewed or you need a specific person to review it, you can @-reply a reviewer asking for a review in the pull request or a comment, or you can ask for a review by contacting us via [email](mailto:opensource@telekom.de).
+* If your patch is not getting reviewed or you need a specific person to review it, you can @-reply a reviewer asking for a review in the pull request or a comment, or you can ask for a review by contacting us via _project email address_.
 
 * Post review:
   * If a review requires you to change your commit(s), please test the changes again.
