@@ -2,7 +2,7 @@
 
 ## Code of conduct
 
-All members of the project community must abide by the [Contributor Covenant, version 2.0](CODE_OF_CONDUCT.md). Only by respecting each other can we develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting [opensource@telekom.de](mailto:opensource@telekom.de) and/or a project maintainer.
+All participants of the project community must abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) derived from [Contributor Covenant](https://www.contributor-covenant.org/). Only by respecting each other can we develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting [opensource@telekom.de](mailto:opensource@telekom.de) and/or a project maintainer.
 
 We appreciate your courtesy of avoiding political questions here. Issues which are not related to the project itself will be closed by our community managers.
 
@@ -10,9 +10,7 @@ We appreciate your courtesy of avoiding political questions here. Issues which a
 
 We use GitHub to manage reviews of pull requests.
 
-* If you are a new contributor, see: [Steps to Contribute](#steps-to-contribute)
-
-* If you have a trivial fix or improvement, go ahead and create a pull request, addressing (with `@...`) a suitable maintainer of this repository (see [CODEOWNERS](CODEOWNERS) of the  repository you want to contribute to) in the description of the pull request.
+* If you have a trivial fix or improvement, go ahead and create a pull request, addressing (with `@...`) a suitable maintainer of this repository (see [CODEOWNERS](./CODEOWNERS) or the specific MAINTAINERS.MD file of the sub-project you want to contribute to) in the description of the pull request.
 
 * If you plan to do something more involved, please reach out to us and send an [email](mailto:opensource@telekom.de). This will avoid unnecessary work and surely give you and us a good deal of inspiration.
 
