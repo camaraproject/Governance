@@ -33,8 +33,6 @@ Telco Global API Project is an independent open-source project and not controlle
 
 **Statement on alignment with CNCF mission**
 
-_Tbd_
-
 We agree with the CNCF philosophy/vision and would like to contribute.
 We are open to integration with other CNCF projects.
 We are open to engage the community and enable more innovations.
@@ -45,7 +43,7 @@ Chris Aniszczyk (<caniszczyk@linuxfoundation.org>)
 
 **Unique Identifier**
 
-_Tbd_
+TelcoGlobalAPIProject
 
 **Preferred Maturity Level**
 
@@ -74,32 +72,32 @@ None
 
 **Infrastructure requests (CI / CNCF Cluster)**
 
-_Tbd_
+GitHub repository, e-mail for participants and project, mailing list, website
 
 **Issue tracker**
 
-_Tbd_
+GitHub
 
 **Mailing lists**
 
-_Tbd_
+Is needed
 
 **Communication Channels**
 
-_Tbd_
+GitHub issues and pull requests, email, website
 
 **Website**
 
-_Tbd_
+Is needed
 
 **Social media accounts**
 
-Tbd
+Not needed in the first step
 
 **Existing sponsorship**
 
-Tbd
+_Tbd_
 
 **Other Contributors**
 
-Tbd
+None
