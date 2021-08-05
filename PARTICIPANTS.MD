@@ -34,3 +34,6 @@
 | GSMA | Gautham Hazari |
 | GSMA | Faisal Zia |
 | T-Mobile | Carl Persson |
+| ORANGE | Sylvain Morel |
+| ORANGE | William Diego |
+
