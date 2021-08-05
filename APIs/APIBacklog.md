@@ -7,4 +7,4 @@
 | Network congestion / Connectivity of end user / Packet loss rate |||
 | Request for Edge location |||
 | Traffic influence |||
-| Emergency |||
+| Emergency ||Geocasting the diaster location and connectivity requiremnts|
