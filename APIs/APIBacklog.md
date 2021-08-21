@@ -1,4 +1,4 @@
-| API family  | Tags (ITU-T / TM Forum) |  Partner who intends to contribute | Description of API family | Supporting network capabilities | Relevance | Availability | Priority | 
+| API family  | Tags (ITU-T / TM Forum) |  Partner who intends to contribute | Description of API family | Supporting network capabilities | Availability | Relevance | Priority | 
 | -----------------------| --------- | ------------ | -------- |----------------------------------------------------|---------------------------|---------------------------------|-------------|
 | Quality on demand || DT + TELUS | Set quality for a mobile connection (e.g. required latency, bit rate). Get notification if network cannot fulfill. | | |||
 | Device configuration |||API family description |||| 
