@@ -4,7 +4,7 @@
 | Device configuration ||| It provides the customer with the ability to register an IoT device and update device subscription |||| 
 | Accounting, Charging and Billing |||It provides the customer with the ability to:<ul><li>get information about the usage of the services and components that can be charged for (e.g. changes for QoS during each session lifetime)</li><li>get information about actual cost for API usage</li></ul>*NOTE: This culd be transversal to the functional (service) APIs, and apply to all of them*.|||||
 | Baseline OAM ||| It provides the customer with the ability to:<ul><li>consume management data, including business related data (e.g., SLA, subscriber data, customer profile), and operation related data (e.g. PM/FM data, logs, trace, analytics reports, event notifications).</li></ul>*NOTE: The management data feeds customer owned systems, and can be used for internal consumption (B2B) or made available to their own customers (B2B2X, e.g. hyperscaler enriches management data with additional information, and exposes them to their own customers via proprietary APIs)*.<br></br><ul><li>gain access to Customer-Facing Service (CFS) catalog and inventory</li></ul> |||||
-| Advanced OAM ||| API famility description |||||
+| Advanced OAM ||| It provides the customer the ability to trigger day-2 activities, e.g. scaling in/out, policy injection for data collection, etc.<br></br>*NOTE: The operator always acts on behalf of the customer (customer is not granted with direct access to operator OSS capabilities)*.  |||||
 | Device status ||| API famility description |||||
 | Network status status ||| API famility description |||||
 | Edge Discovery ||| API famility description |||||
