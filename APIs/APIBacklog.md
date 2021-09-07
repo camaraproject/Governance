@@ -13,7 +13,11 @@
 | Traffic Influence | CRA: User <br></br> MAPE: E | TEF |It provides the customer with the ability to modify the connection policies of UEs and applications in terms of how the traffic flows (QoS and routing).<br></br>*NOTE 2: wrt QoS, the customer can request for a specific 5QI on the session*.<br></br>*NOTE 1: wrt routing, the customer can specify the edge node towards which traffic shall be routed*. | <ul><li>NEF (Rel-15, M)</li><li>UDM (Rel-15, M)</li></ul> | Medium-term | HIGH | 2 | 
 | Emergency | CRA: User <br></br> MAPE: MA ||Geocasting the diaster location and connectivity requirements||Medium-term|||
 
+* Tags:
+	* CRA: the roles of the ITU-T Cloud Reference Architecture that would make use of that API (**User, Administrator, Business Manager**)
+	* TMF: the phases in the customer journey that are covered by the API accoring TM Forum (**P2O** Prospect2Order, **O2A** Order2Activation, **U2C** Usage2Charging, **T2R** , **Design**)
+  * MAPE --> **M** for Monitoring APIs, **A** for Analytics APIs, **P** for plan APIs, **E** for Execute APIs
+<br></br>
 * Availability -> Readiness of standards and functionality in commercial products. 
 * Relevance -> Opinion from hyperscalers, partners and customers (should we make a survey?)
 * Priority -> Availability + Relevance 
-* MAPE --> M for Monitoring APIs, A for Analytics APIs, P for plan APIs, E for Execute APIs
