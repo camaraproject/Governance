@@ -37,7 +37,7 @@
 | T-Mobile | Carl Persson ||
 | ORANGE | Sylvain Morel ||
 | ORANGE | William Diego ||
-| AT&T | **Wiley Wilkins** ||
+| AT&T | Wiley Wilkins | Yes |
 | AT&T | Brian Freeman ||
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia ||
