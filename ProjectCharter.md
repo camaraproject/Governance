@@ -31,17 +31,17 @@ The development of open, global, and interoperable API solutions could benefit c
 * Accelerate technology development
     * Build sustainable ecosystems around collaborative projects across industries.
     * Drive industry alignment by facilitating industry discussions with telcos, ISVs, device manufacturers, hyperscalers, etc.
-* Standardization of APIs
-    * Standardize and convert APIs to a user understandable format called “Service APIs”.
-    * Achieve standardization through working code vs. documents.
-    * Implementation experience should guide standardization process.
+* Harmonization of APIs
+    * Harmonize and convert APIs to a user understandable format called “Service APIs”.
+    * Achieve harmonization through working code vs. documents.
+    * Implementation experience should guide harmonization process.
     * Enable interoperability (e.g. effortless portability of applications between different operators), compatibility (applicability to different network technologies) and interconnectivity (to enable interoperator collaboration).
 * Education and promotion
     * Actively promote Service APIs via various forums, events, conferences, training programs, ecosystems and social media.
     * Promote best practices by aggregating and publishing lessons learned.
 * Accelerate commercial adoption
     * Create awareness around use cases and services.
-    * Minimize implementation effort though easy-to-consume standard Service APIs.
+    * Minimize implementation effort though easy-to-consume Service APIs.
     * Foster the development of distribution channels to increase customer reach.
     * Integrate the APIs in relevant developer’s environments and ecosystems.
     * Provide customer service and support.
