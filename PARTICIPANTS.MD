@@ -27,7 +27,7 @@
 | Microsoft | Landon Cox ||
 | Microsoft | Thilo Ewald ||
 | Microsoft | Michael Brown ||
-| TELUS | Ali Tizghadam ||
+| TELUS | Ali Tizghadam | Yes |
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Klaus Moschner ||
 | GSMA | Henry Calvert ||
