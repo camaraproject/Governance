@@ -21,9 +21,7 @@ Where a sub-project has a release process, access and documentation should be su
 
 **Working Groups**
 
-Community rallying points are used to facilitate discussions/work regarding topics that are short-lived or that span multiple sub-projects.
-
-Working groups are primarily used to facilitate topics of discussion that are in scope for the Telco Global API Project but that cross sub-project lines. If a subset of community members wants to get together and discuss a topic, they can do so with forming a Working Group. The steering committee decides upon implementing or removing working groups.
+Working groups are primarily used to facilitate topics of discussion that are in scope for the Telco Global API Project but that are short-lived or that span multiple sub-projects. If a subset of community members wants to get together and discuss a topic, they can do so with forming a Working Group. The steering committee decides upon implementing or removing working groups.
 
 Working groups are documented in sub directories of the WG folder. Each working group must have a README.md file (with a description of the working group).
 
