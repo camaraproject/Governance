@@ -118,6 +118,12 @@ A vote on a single proposal is considered successful if at least two thirds of t
 
 If there are multiple alternatives, participants may vote for one or more alternative, or vote “no” to object to all alternatives. It is not possible to cast an “abstain” vote. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from at least two thirds of those voting. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
 
+**Steering board decisions**
+
+For votes taken during a steering board meeting (in person, by telephone or online conference or similar), quorum requires at least 2/3 of all voting members of the Steering Committee to be present. The Steering Committee may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.  Except as provided elsewhere in this Charter, decisions by vote at a steering board meeting require a majority vote of those in attendance, provided quorum is met.
+
+For votes taken by email or similar asynchronous means, voting must be open for at least one week and decisions require at least a two-thirds vote of all members of the Steering Committee. Decision is then taken by majority vote.
+
 **Technical decisions**
 
 Technical decisions that only affect a single sub-project are made informally by the maintainer of this sub-project, and [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy) is assumed. Technical decisions that span multiple parts of the Telco Global API Project should be discussed and made on the Telco Global API Project mailing list.
