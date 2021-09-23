@@ -10,7 +10,7 @@
 | Deutsche Telekom AG   | Herbert Damker ||
 | Deutsche Telekom AG   | Noel Wirzius ||
 | Deutsche Telekom AG   | Carlos Fernandes ||
-| Telefonica   | Juan Carlos Garcia ||
+| Telefonica   | Juan Carlos Garcia | Yes |
 | Telefonica   | Miguel Alejandro Hernández ||
 | Telefonica   | Jose A Ordonez Lucena ||
 | Intel | Petar Torre ||
