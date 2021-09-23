@@ -34,7 +34,8 @@
 | GSMA | Tom van Pelt ||
 | GSMA | Gautham Hazari ||
 | GSMA | Faisal Zia ||
-| T-Mobile | Carl Persson ||
+| TMUS | Lyle Bertz | yes |
+| TMUS | Carl Persson ||
 | ORANGE | Sylvain Morel ||
 | ORANGE | William Diego ||
 | AT&T | Wiley Wilkins | Yes |
