@@ -24,7 +24,7 @@
 | TIM | Marco Signorelli ||
 | TIM | Andrea Calvi ||
 | Microsoft | Ricardo Villarreal ||
-| Microsoft | Landon Cox ||
+| Microsoft | Landon Cox |Yes|
 | Microsoft | Thilo Ewald ||
 | Microsoft | Michael Brown ||
 | TELUS | Ali Tizghadam | Yes |
