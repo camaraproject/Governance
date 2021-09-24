@@ -30,7 +30,7 @@
 | TELUS | Ali Tizghadam | Yes |
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Klaus Moschner ||
-| GSMA | Henry Calvert ||
+| GSMA | Henry Calvert |Yes|
 | GSMA | Tom van Pelt ||
 | GSMA | Gautham Hazari ||
 | GSMA | Faisal Zia ||
