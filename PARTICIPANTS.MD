@@ -13,9 +13,8 @@
 | Telefonica   | Juan Carlos Garcia | Yes |
 | Telefonica   | Miguel Alejandro Hernández ||
 | Telefonica   | Jose A Ordonez Lucena ||
-| Intel | Petar Torre ||
+| Intel | Petar Torre | Yes |
 | Intel | Francesc Guim ||
-| Intel | James J Greene ||
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot ||
 | Nokia | Marc Erhardt ||
