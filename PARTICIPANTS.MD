@@ -18,7 +18,7 @@
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot |Yes|
 | Nokia | Marc Erhardt ||
-| TIM | Roberto Procopio ||
+| TIM | Roberto Procopio |Yes|
 | TIM | Fabrizio Moggio ||
 | TIM | Marco Signorelli ||
 | TIM | Andrea Calvi ||
