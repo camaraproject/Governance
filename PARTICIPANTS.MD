@@ -42,5 +42,5 @@
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia ||
 | AT&T | Michael Raftelis ||
-|Ericsson | Jan Friman ||
+|Ericsson | Jan Friman |Yes|
 
