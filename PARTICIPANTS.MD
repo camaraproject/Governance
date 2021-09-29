@@ -35,7 +35,7 @@
 | GSMA | Faisal Zia ||
 | TMUS | Lyle Bertz | yes |
 | TMUS | Carl Persson ||
-| ORANGE | Sylvain Morel ||
+| ORANGE | Sylvain Morel |Yes|
 | ORANGE | William Diego ||
 | AT&T | Wiley Wilkins | Yes |
 | AT&T | Brian Freeman ||
