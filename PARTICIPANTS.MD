@@ -43,5 +43,5 @@
 | AT&T | Barry Elia ||
 | AT&T | Michael Raftelis ||
 |Ericsson | Jan Friman |Yes|
-| IBM | Jason Hunt ||
+| IBM | Jason Hunt | Yes |
 
