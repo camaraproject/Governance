@@ -44,4 +44,5 @@
 | AT&T | Michael Raftelis ||
 |Ericsson | Jan Friman |Yes|
 | IBM | Jason Hunt | Yes |
+| Telefonica | Carlos Medina ||
 
