@@ -13,6 +13,7 @@
 | Telefonica   | Juan Carlos Garcia | Yes |
 | Telefonica   | Miguel Alejandro Hernández ||
 | Telefonica   | Jose A Ordonez Lucena ||
+| Telefonica | Carlos Medina ||
 | Intel | Petar Torre | Yes |
 | Intel | Francesc Guim ||
 | Nokia | Rene Saathoff ||
@@ -44,5 +45,3 @@
 | AT&T | Michael Raftelis ||
 |Ericsson | Jan Friman |Yes|
 | IBM | Jason Hunt | Yes |
-| Telefonica | Carlos Medina ||
-
