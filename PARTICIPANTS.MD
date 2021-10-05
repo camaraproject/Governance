@@ -43,5 +43,6 @@
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia ||
 | AT&T | Michael Raftelis ||
+| AT&T | Shahram Mohajeri ||
 |Ericsson | Jan Friman |Yes|
 | IBM | Jason Hunt | Yes |
