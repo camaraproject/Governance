@@ -1,0 +1,227 @@
+openapi: 3.0.1
+info:
+  title: QoS stable throughput API
+  description: QoS stable throughput Service Enabling Network Function API
+  termsOfService: http://swagger.io/terms/
+  contact:
+    email: project-email@sample.com
+  license:
+    name: Apache 2.0
+    url: https://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.0
+externalDocs:
+  description: Add external documents here
+  url: https://example.com
+servers:
+  - url: '{apiRoot}/{basePath}'
+    variables:
+      apiRoot:
+        default: http://localhost:9091
+        description: API root
+      basePath:
+        default: qos-throughput-senf/v1
+        description: base path for the qos throughput API
+paths:
+  /sessions:
+    post:
+      tags:
+        - QoS sessions
+      summary: 'Reserve resources for QoS session'
+      description: In case of successfully created session, actually granted qos level will be returned. The underlying mobile network can grant qos level that is lower than requested one.
+      operationId: createSession
+      requestBody:
+        description: Session related information.
+          If 'throughputProfile' is not provided, session with 'S' will be created.
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SessionInfo'
+        required: true
+      callbacks:
+        qos-changed:
+          '{$request.body#/notificationUrl}/qos-changed':
+            post:
+              requestBody:
+                required: true
+                content:
+                  application/json:
+                    schema:
+                      $ref: '#/components/schemas/QosChanged'
+              responses:
+                '204':
+                  description: Successful notification
+                  content: {}
+      responses:
+        201:
+          description: Session created
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SessionInfo'
+        401:
+          description: Unauthorized
+          content: {}
+        405:
+          description: Invalid input
+          content: {}
+        500:
+          description: Session not created
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorInfo'
+        503:
+          description: Service unavailable
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorInfo'
+  /sessions/{sessionId}:
+    patch:
+      tags:
+        - QoS sessions
+      summary: 'Modify resources related to QoS session'
+      operationId: modifySession
+      requestBody:
+        description: Session related information
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SessionUpdate'
+        required: true
+      parameters:
+        - name: sessionId
+          in: path
+          description: session id that was obtained from the createSession operation
+          required: true
+          schema:
+            $ref: '#/components/schemas/SessionId'
+      responses:
+        200:
+          description: Session modified
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SessionInfo'
+        401:
+          description: Unauthorized
+          content: { }
+        404:
+          description: Session not found
+          content: {}
+        405:
+          description: Invalid input
+          content: {}
+        503:
+          description: Service unavailable
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorInfo'
+    delete:
+      tags:
+        - QoS sessions
+      summary: 'Free resources related to QoS session'
+      operationId: deleteSession
+      parameters:
+        - name: sessionId
+          in: path
+          description: session id that was obtained from the createSession operation
+          required: true
+          schema:
+            $ref: '#/components/schemas/SessionId'
+      responses:
+        204:
+          description: Session deleted
+          content: {}
+        401:
+          description: Unauthorized
+          content: { }
+        404:
+          description: Session not found
+          content: {}
+components:
+  schemas:
+    SessionId:
+      type: string
+      format: uuid
+      description: session id
+    SessionInfo:
+      description: Session related information. Session id shall be created by the service.
+        'ueAddr' - address of user equipment
+        'asAddr' - address of application server
+      type: object
+      properties:
+        id:
+          $ref: '#/components/schemas/SessionId'
+        ueAddr:
+          $ref: '#/components/schemas/AddrInfo'
+        asAddr:
+          $ref: '#/components/schemas/AddrInfo'
+        throughputProfile :
+          $ref: '#/components/schemas/ThroughputProfile'
+        notificationUrl:
+          type: string
+          format: uri
+          example: 'https://application-server/notifications'
+          description: allows asynchronous notification about session events
+      required:
+        - ueAddr
+        - asAddr
+    SessionUpdate:
+      description: Object used to update existing session.
+      type: object
+      properties:
+        throughputProfile:
+          $ref: '#/components/schemas/ThroughputProfile'
+    AddrInfo:
+        description: Address information for src or dest address
+        type: object
+        properties:
+          ipAddr:
+            $ref: '#/components/schemas/Ipv4Addr'
+          port:
+              type: integer
+          protocol:
+            type: string
+            enum:
+                - tcp
+                - udp
+                - any
+        required:
+          - ipAddr
+    Ipv4Addr:
+      type: string
+      format: ipv4
+      example: '198.51.100.1'
+    QosChanged:
+      type: object
+      properties:
+        id:
+          $ref: '#/components/schemas/SessionId'
+        throughputProfile:
+          $ref: '#/components/schemas/ThroughputProfile'
+    ThroughputProfile:
+      type: string
+      enum:
+        - S
+        - M
+        - L
+      description: Qualifier for the requested throughput profile -> small,medium,large. They correspond to specific sets of network parameters that will be negotiated with the network provider in advance.
+    ErrorInfo:
+      type: object
+      properties:
+        message:
+          type: string
+          description: error cause
+  securitySchemes:
+    oAuth2ClientCredentials:
+      type: oauth2
+      description: This API uses OAuth 2 with the client credentials grant flow.
+      flows:
+        clientCredentials:
+          tokenUrl: https://example.com/auth/realms/Sample/protocol/openid-connect/token
+          scopes:
+            { }
+security:
+  - oAuth2ClientCredentials: [ ]
