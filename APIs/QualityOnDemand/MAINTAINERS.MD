@@ -1,4 +1,6 @@
-Shilpa Padgaonkar (DT)  
-Petar Torre (Intel)  
-JOSE ANTONIO ORDOÑEZ LUCENA (Telefonica)  
-Ali Tizghadam (Telus)  
+| Org                    | Name                                                |
+| -----------------------| ----------------------------------------------------|
+| DT | Shilpa Padgaonkar |
+| Intel | Petar Torre |
+| Telefonica | JOSE ANTONIO ORDOÑEZ LUCENA |
+| Telus | Ali Tizghadam |
