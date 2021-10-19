@@ -34,7 +34,7 @@
 | GSMA | Tom van Pelt ||
 | GSMA | Gautham Hazari ||
 | GSMA | Faisal Zia ||
-| TMUS | Lyle Bertz | yes |
+| TMUS | Lyle Bertz | Yes |
 | TMUS | Carl Persson ||
 | ORANGE | Sylvain Morel |Yes|
 | ORANGE | William Diego ||
@@ -46,3 +46,4 @@
 | AT&T | Shahram Mohajeri ||
 |Ericsson | Jan Friman |Yes|
 | IBM | Jason Hunt | Yes |
+| IBM | Zyg Lozinski | (Yes) |
