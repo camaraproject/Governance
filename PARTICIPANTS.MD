@@ -46,4 +46,4 @@
 | AT&T | Shahram Mohajeri ||
 |Ericsson | Jan Friman |Yes|
 | IBM | Jason Hunt | Yes |
-| IBM | Zyg Lozinski | (Yes) |
+| IBM | Zyg Lozinski | Representative |
