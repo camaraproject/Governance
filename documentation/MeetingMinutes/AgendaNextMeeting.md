@@ -1,8 +1,11 @@
 Standard agenda points
-- List of initial participants already registered
-- Status of governance documents and project proposals
-- First ideas for API contributions
-- Open points / questions
+- Welcome new participants
+- Updates for project governance and approval
+- Status of sub projects
+- Status of working groups
+- API backlog
+- Open GitHub issues
+- AOB
 
 Additional agenda points
-- Tbd
+- Alliance and project name
