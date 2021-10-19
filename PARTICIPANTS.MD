@@ -44,6 +44,7 @@
 | AT&T | Barry Elia ||
 | AT&T | Michael Raftelis ||
 | AT&T | Shahram Mohajeri ||
-|Ericsson | Jan Friman |Yes|
+|Ericsson | Jan Friman ||
+|Ericsson | Bart van Kaathoven |Yes|
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
