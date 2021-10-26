@@ -1,8 +1,8 @@
 ## Functional scope:
-- Telco APIs (clarify what are the API types during the ramp up of the project, specifically the ones exposed to customers)
+From functional perspective the scope is limited to telco APIs, that means APIs in the domain of telco mobile networks, telco fixed line networks or supporting these (e.g. for authentication). The respective API families are clarified during the ramp up of the Telco Global API project, specifically the ones exposed to customers.
 
 ## Technical scope:
-- Service APIs
+Technically the scope is about northbound Service APIs, that means an abstraction / aggregation of e.g. 3GPP APIs or TM Forum APIs to hide telco complexity, keep control at the operator side and fulfill regulatory and data privacy constraints. Optionally in scope are east-/westbound APIs on the same abstraction / aggregation level.
 
 ## Service scope:
 - Collect API requirements from GSMA OPG subgroup and other sources
