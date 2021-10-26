@@ -3,6 +3,7 @@ From functional perspective the scope is limited to telco APIs, that means APIs 
 
 ## Technical scope:
 Technically the scope is about northbound Service APIs, that means an abstraction / aggregation of e.g. 3GPP APIs or TM Forum APIs to hide telco complexity, keep control at the operator side and fulfill regulatory and data privacy constraints. Optionally in scope are east-/westbound APIs on the same abstraction / aggregation level.
+![ServiceAPI Architecture](/documentation/ressources/ServiceAPI_Architecture.jpg)
 
 ## Service scope:
 The service scope of the Telco Global API project is limited to the following activities:
