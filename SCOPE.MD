@@ -8,19 +8,23 @@ Technically the scope is about northbound Service APIs, that means an abstractio
 ## Service scope:
 The service scope of the Telco Global API project is limited to the following activities:
 -	Collect API requirements from GSMA OPG subgroup and other sources. That can be a (prioritized) list of API families seen as useful for the customers, a functional descriptions of the APIs (attributes, function, result), and also non-functional requirements for the APIs (response time, scalability, performance, etc.)
--	Specify Service APIs (e.g. by Swagger) and create test cases / tools from a business and customer perspective
+-	Specify Service APIs (e.g. by Swagger) and create test plan / cases / tools from a business and customer perspective
 -	Implement Service APIs (reference implementation)
 -	Create test cases and perform verification/tests from developer perspective (to show that the Service API has been implemented correctly)
 -	Create documentation for Service APIs
 -	Test Service APIs from business/customer perspective (validation) in telco network(s)
 -	Create deployment packages for Service APIs
 -	Create a reference architecture for Service APIs (if possible preferred solution is to refer to an existing architecture)
+-	Define a standard development and test process incl. tools for the project
 
 ## Deliverables:
 The following deliverables are provided by the Telco Global API project:
 -	Service API code and documentation and
--	Test cases and tools
+-	Test plan, cases and tools
 
-both contained in deployment packages. In addition a
+both contained in deployment packages.
+In addition a
 -	Reference architecture for Service APIs
+-	Description of the standard development and test process
 
+is created.
