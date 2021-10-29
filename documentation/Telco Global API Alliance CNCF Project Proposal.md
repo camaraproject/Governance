@@ -24,9 +24,8 @@ The development of open, global, and interoperable API solutions can benefit cus
 * Accelerate commercial adoption
     * Create awareness around use cases and services.
     * Minimize implementation effort though easy-to-consume Service APIs.
-    * Foster the development of distribution channels to increase customer reach.
-    * Integrate the APIs in relevant developer’s environments and ecosystems.
-    * Provide customer service and support.
+    * Foster the API integration in relevant developer’s environments and ecosystems.
+    * Provide customer service and support for the design phase and experimentation.
 
 APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises.
 Telco Global API Project is an independent open-source project and not controlled by any single company.
