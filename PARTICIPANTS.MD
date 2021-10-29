@@ -14,6 +14,7 @@
 | Telefonica   | Miguel Alejandro Hernández ||
 | Telefonica   | Jose A Ordonez Lucena ||
 | Telefonica | Carlos Medina ||
+| Telefonica | Jesus Martin ||
 | Intel | Petar Torre | Yes |
 | Intel | Francesc Guim ||
 | Nokia | Rene Saathoff ||
