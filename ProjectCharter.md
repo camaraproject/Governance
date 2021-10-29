@@ -46,7 +46,7 @@ The development of open, global, and interoperable API solutions could benefit c
     * Provide customer service and support for the design phase and experimentation.
 
 APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises.
-Telco Global API Project is an independent open-source project and not controlled by any single company.
+Telco Global API Project is an independent open-source project and not controlled by any single company. How each operator monetize the API is completely out of the scope of the project. Implementation is still on the operator responsibility. Only scope of the Telco Global API Project is how APIs are designed or consumed technically.
 
 ## Governance
 
