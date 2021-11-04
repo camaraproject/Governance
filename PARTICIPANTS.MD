@@ -50,3 +50,4 @@
 |Ericsson | Emil Zhang ||
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
+| KDDI | Toshiyasu Wakayama | Yes |
