@@ -2,7 +2,7 @@
 | Org                    | Name                                                | Steering Board |
 | -----------------------| ----------------------------------------------------|----------------|
 | Deutsche Telekom AG   | Nathan Rader| Yes |
-| Deutsche Telekom AG   | Markus Kümmerle ||
+| Deutsche Telekom AG   | Markus Kümmerle | Representative |
 | Deutsche Telekom AG   | Shilpa Padgaonkar ||
 | Deutsche Telekom AG   | Herbert Damker ||
 | Deutsche Telekom AG   | Elmar Mundt ||
