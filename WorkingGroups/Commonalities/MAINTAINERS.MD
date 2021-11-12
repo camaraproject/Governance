@@ -4,3 +4,4 @@
 | DT | Shilpa Padgaonkar |
 | Telefonica| Jose Ordonez-Lucena |
 | Intel | Petar Torre |
+| Ericsson | Jan Friman |
