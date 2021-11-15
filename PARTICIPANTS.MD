@@ -51,6 +51,6 @@
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
 | KDDI | Toshiyasu Wakayama | Yes |
-| MobiledgeX | Heather Blanchard ||
-| MobiledgeX | Christoph Goertz ||
+| MobiledgeX | Heather Blanchard | Yes |
+| MobiledgeX | Christoph Goertz | Representative |
 | MobiledgeX | Thomas Vits ||
