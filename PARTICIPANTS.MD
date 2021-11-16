@@ -54,3 +54,5 @@
 | MobiledgeX | Heather Blanchard | Yes |
 | MobiledgeX | Christoph Goertz | Representative |
 | MobiledgeX | Thomas Vits ||
+| Bell Canada | Daniel Bernier ||
+| Bell Candada | Marc-Alexandre Choquette ||
