@@ -1,14 +1,14 @@
 openapi: 3.0.1
 info:
-  title: QoS stable latency API
-  description: QoS stable latency Service Enabling Network Function API
+  title: QoS for stable latency API
+  description: Service Enabling Network Function API for QoS control
   termsOfService: http://swagger.io/terms/
   contact:
     email: project-email@sample.com
   license:
     name: Apache 2.0
     url: https://www.apache.org/licenses/LICENSE-2.0.html
-  version: 1.0.0
+  version: 1.1.0
 externalDocs:
   description: Add external documents here
   url: https://example.com
@@ -27,30 +27,19 @@ paths:
       tags:
         - QoS sessions
       summary: 'Reserve resources for QoS session'
-      description: In case of successfully created session, actually granted qos level will be returned. The underlying mobile network can grant qos level that is lower than requested one.
+      description: In case of successfully created session, actually granted QoS level will be returned. The underlying mobile network can grant qos level that is lower than requested one.
       operationId: createSession
       requestBody:
-        description: Session related information.
-          If 'latencyProfile' is not provided, session with DEFAULT_QUALITY will be created.
+        description: Creates a new session without changing a QoS profile.
         content:
           application/json:
             schema:
-              $ref: '#/components/schemas/SessionInfo'
+              $ref: '#/components/schemas/CreateSession'
         required: true
       callbacks:
         qos-changed:
           '{$request.body#/notificationUrl}/qos-changed':
-            post:
-              requestBody:
-                required: true
-                content:
-                  application/json:
-                    schema:
-                      $ref: '#/components/schemas/QosChanged'
-              responses:
-                '204':
-                  description: Successful notification
-                  content: {}
+            $ref: '#/paths/~1qos-changed'
       responses:
         201:
           description: Session created
@@ -61,7 +50,7 @@ paths:
         401:
           description: Unauthorized
           content: {}
-        405:
+        400:
           description: Invalid input
           content: {}
         500:
@@ -77,28 +66,21 @@ paths:
               schema:
                 $ref: '#/components/schemas/ErrorInfo'
   /sessions/{sessionId}:
-    patch:
+    get:
       tags:
         - QoS sessions
-      summary: 'Modify resources related to QoS session'
-      operationId: modifySession
-      requestBody:
-        description: Session related information
-        content:
-          application/json:
-            schema:
-              $ref: '#/components/schemas/SessionUpdate'
-        required: true
+      summary: 'Get session information'
+      operationId: getSession
       parameters:
         - name: sessionId
           in: path
-          description: session id that was obtained from the createSession operation
+          description: Session ID that was obtained from the createSession operation
           required: true
           schema:
             $ref: '#/components/schemas/SessionId'
       responses:
         200:
-          description: Session modified
+          description: Contains information about active session
           content:
             application/json:
               schema:
@@ -108,9 +90,6 @@ paths:
           content: { }
         404:
           description: Session not found
-          content: {}
-        405:
-          description: Invalid input
           content: {}
         503:
           description: Service unavailable
@@ -126,7 +105,7 @@ paths:
       parameters:
         - name: sessionId
           in: path
-          description: session id that was obtained from the createSession operation
+          description: Session ID that was obtained from the createSession operation
           required: true
           schema:
             $ref: '#/components/schemas/SessionId'
@@ -140,88 +119,132 @@ paths:
         404:
           description: Session not found
           content: {}
+  /qos-changed:
+    post:
+      tags:
+        - AVP session callbacks
+      summary: 'AVP session QoS changed notification callback'
+      operationId: qosChanged
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/QosChanged'
+      responses:
+        '204':
+          description: Successful notification
+          content: {}
 components:
   schemas:
     SessionId:
       type: string
       format: uuid
-      description: session id
+      description: Session ID in UUID format
     SessionInfo:
-      description: Session related information. Session id shall be created by the service.
-        'ueAddr' - address of user equipment
-        'asAddr' - address of application server
+      allOf:
+        - $ref: '#/components/schemas/CreateSession'
+        - type: object
+          required:
+            - id
+            - duration
+            - startedAt
+            - expiresAt
+          properties:
+            id:
+              $ref: '#/components/schemas/SessionId'
+            startedAt:
+              type: integer
+              example: 1639479600
+              description: Timestamp of session start in seconds since unix epoch
+              format: int64
+            expiresAt:
+              type: integer
+              example: 1639566000
+              description: Timestamp of session expiration if the session was not deleted in seconds since unix epoch
+              format: int64
+          description: Session related information.
+    CreateSession:
+      description: Data type with attributes required for creating a session
       type: object
       properties:
-        id:
-          $ref: '#/components/schemas/SessionId'
+        duration:
+          type: integer
+          example: 86400
+          description: Session duration in seconds. Maximal value of 24 hours is used if not set.
+          format: int32
+          minimum: 1
+          maximum: 86400
         ueAddr:
-          $ref: '#/components/schemas/AddrInfo'
+          $ref: '#/components/schemas/Ipv4Addr'
         asAddr:
-          $ref: '#/components/schemas/AddrInfo'
-        latencyProfile:
-          $ref: '#/components/schemas/LatencyProfile'
-        notificationUrl:
+          $ref: '#/components/schemas/Ipv4Addr'
+        uePorts:
+          $ref: '#/components/schemas/PortsSpec'
+        asPorts:
+          $ref: '#/components/schemas/PortsSpec'
+        protocolIn:
+          $ref: '#/components/schemas/Protocol'
+        protocolOut:
+          $ref: '#/components/schemas/Protocol'
+        qos:
+          $ref: '#/components/schemas/QosProfile'
+        notificationUri:
           type: string
           format: uri
-          example: 'https://application-server/notifications'
-          description: allows asynchronous notification about session events
+          example: 'https://application-server.com/notifications'
+          description: Allows asynchronous delivery of session related events
+        notificationAuthToken:
+          type: string
+          example: 'c8974e592c2fa383d4a3960714'
+          description: Authentification token for callback API
       required:
         - ueAddr
         - asAddr
-    SessionUpdate:
-      description: Object used to update existing session.
-      type: object
-      properties:
-        latencyProfile:
-          $ref: '#/components/schemas/LatencyProfile'
-    AddrInfo:
-        description: Address information for src or dest address
-        type: object
-        properties:
-          ipAddr:
-            $ref: '#/components/schemas/Ipv4Addr'
-          port:
-              type: integer
-          protocol:
-            type: string
-            enum:
-                - tcp
-                - udp
-                - any
-        required:
-          - ipAddr
+        - protocolIn
+        - protocolOut
+        - qos
     Ipv4Addr:
       type: string
       format: ipv4
-      example: '198.51.100.1'
+      pattern: '^([01]?\d\d?|2[0-4]\d|25[0-5])(?:\.(?:[01]?\d\d?|2[0-4]\d|25[0-5])){3}(?:/[0-2]\d|/3[0-2])?$'
+      example: '192.168.0.1/24'
+      description: |
+        IPv4 address may be specified in form <address/mask> as:
+          - address - an IPv4 number in dotted-quad form 1.2.3.4. Only this exact IP number will match the flow control rule.
+          - address/mask - an IP number as above with a mask width of the form 1.2.3.4/24.
+            In this case, all IP numbers from 1.2.3.0 to 1.2.3.255 will match. The bit width MUST be valid for the IP version.
+    PortsSpec:
+      type: string
+      example: '5010-5020,5021,5022'
+      description: |
+        Ports may be specified as <{port/port-port}[,ports[,...]]>. The '-' notation specifies a range of ports (including boundaries).
+    Protocol:
+      type: string
+      enum:
+        - TCP
+        - UDP
+        - ANY
+      description: |
+        * `TCP` - Qualifier for TCP protocol
+        * `UDP` - Qualifier for UDP protocol
+        * `ANY` - Qualifier for all protocols
+    QosProfile:
+      type: string
+      enum:
+        - LOW_LATENCY
+      description: |
+        * `LOW_LATENCY` - Corresponds to a specific set of network parameters that will be negotiated with the network provider in advance
     QosChanged:
       type: object
       properties:
         id:
           $ref: '#/components/schemas/SessionId'
-        latencyProfile:
-          $ref: '#/components/schemas/LatencyProfile'
-    LatencyProfile:
-      type: string
-      enum:
-        - HIGH_QUALITY
-        - DEFAULT_QUALITY
-      description: Qualifier for the requested latency profile. HIGH_QUALITY corresponds to a specific set of network parameters that will be negotiated with the network provider in advance,
-        DEFAULT_QUALITY - no specific network parameters will be negotiated - this corresponds to the best effort QoS.
+        qos:
+          $ref: '#/components/schemas/QosProfile'
     ErrorInfo:
       type: object
       properties:
         message:
           type: string
-          description: error cause
-  securitySchemes:
-    oAuth2ClientCredentials:
-      type: oauth2
-      description: This API uses OAuth 2 with the client credentials grant flow.
-      flows:
-        clientCredentials:
-          tokenUrl: https://example.com/auth/realms/Sample/protocol/openid-connect/token
-          scopes:
-            { }
-security:
-  - oAuth2ClientCredentials: [ ]
+          description: Detailed error description
