@@ -248,3 +248,14 @@ components:
         message:
           type: string
           description: Detailed error description
+  securitySchemes:
+    oAuth2ClientCredentials:
+      type: oauth2
+      description: This API uses OAuth 2 with the client credentials grant flow.
+      flows:
+        clientCredentials:
+          tokenUrl: https://example.com/auth/realms/Sample/protocol/openid-connect/token
+          scopes:
+            { }
+security:
+  - oAuth2ClientCredentials: [ ]
