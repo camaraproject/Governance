@@ -6,3 +6,4 @@
 | Telus | Ali Tizghadam |
 | Ericsson | Emil Zhang |
 | Ericsson | Jan Friman |
+| KDDI | Toshi Wakayama |
