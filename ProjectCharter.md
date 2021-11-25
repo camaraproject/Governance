@@ -17,7 +17,7 @@ For specific guidance on the practical steps for contributing to any API sub-pro
 
 ## Principles
 The Telco Global API community adheres to the following principles:
-- Open: The Project is open source.
+- Open: The Project is open source. That especially means that the project has a clear pro-competitive goal to specify/harmonzize and develop open, global, and interoperable API solutions using an open and transparent process at every time. All participants are encouraged to be observant that there is no patent ambush by SEP holders and no market power abuse and report if any.
 - Welcoming and respectful: We abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 - Transparent and accessible: Changes to the Project organization, Project code repositories, and activities related to LF Projects, the Linux Foundation and CNCF (e.g. level, involvement, etc.) are done in public. A primary reason that the Telco Global API Project exists is as a forum for collaboration. The work in the project should be done in the open. Excepted as authorized by the Steering Committee with respect to security and code of conduct issues, community members and contributors must communicate in the open, ensure other community members and contributors can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the community. Exception to this is committee work, this may be done in private if discretion is necessary.
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
