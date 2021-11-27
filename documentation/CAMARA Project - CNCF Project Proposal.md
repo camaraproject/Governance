@@ -1,8 +1,8 @@
-# **CNCF Project proposal “Telco Global API Project”**
+# **CNCF Project proposal “CAMARA Project”**
 
 **Name of the Project**
 
-Telco Global API Project
+CAMARA Project
 
 **Description**
 
@@ -28,7 +28,7 @@ The development of open, global, and interoperable API solutions can benefit cus
     * Provide customer service and support for the design phase and experimentation.
 
 APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises.
-Telco Global API Project is an independent open-source project and not controlled by any single company. How each operator monetize the API is completely out of the scope of the project. Implementation is still on the operator responsibility. Only scope of the Telco Global API Project is how APIs are designed or consumed technically.
+CAMARA Project is an independent open-source project and not controlled by any single company. How each operator monetize the API is completely out of the scope of the project. Implementation is still on the operator responsibility. Only scope of the CAMARA Project is how APIs are designed or consumed technically.
 
 **Statement on alignment with CNCF mission**
 
@@ -42,7 +42,7 @@ Chris Aniszczyk (<caniszczyk@linuxfoundation.org>)
 
 **Unique Identifier**
 
-TelcoGlobalAPIProject
+camaraproject
 
 **Preferred Maturity Level**
 
@@ -55,7 +55,7 @@ CC-BY-4.0 (for documentation)
 
 **Source Control Repositories**
 
-<https://github.com/telekom/telco-global-api-alliance>
+<https://github.com/camaraproject/repo_main>
 
 **Initial Committers**
 
