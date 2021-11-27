@@ -143,7 +143,7 @@ After you've informed other maintainers, create a pull request to remove yoursel
 
 **How do I propose a decision?**
 
-Send an email to the Telco Global API Project mailing list with your motion. If there is no objection within a reasonable amount of time, consider the decision made. If there are objections and no consensus can be found, a vote may be called by a team participant.
+Send an email to the CAMARA Project mailing list with your motion. If there is no objection within a reasonable amount of time, consider the decision made. If there are objections and no consensus can be found, a vote may be called by a team participant.
 
 **How do I become a team participant?**
 
