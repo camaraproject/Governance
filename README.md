@@ -1,14 +1,14 @@
 <h1 align="center">
-  Telco Global API Project offered by
+  CAMARA Project offered by
   
-  Telco Global API Alliance
+  CAMARA - The Telco Global API Alliance
 </h1>
 
 <p align="center">
     <!---
      The below 2 shields will become functional when repo is made public later
-    <a href="/../../commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/telekom/global-telco-api-alliance?style=flat"></a>
-    <a href="/../../issues" title="Open Issues"><img src="https://img.shields.io/github/issues/telekom/global-telco-api-alliance?style=flat"></a>
+    <a href="/../../commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/camaraproject/repo_main?style=flat"></a>
+    <a href="/../../issues" title="Open Issues"><img src="https://img.shields.io/github/issues/camaraproject/repo_main?style=flat"></a>
     -->
     <a href="https://opensource.org/licenses/Apache-2.0" title="License"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg?style=flat"></a>
 </p>
@@ -46,11 +46,11 @@ The development of open, global, and interoperable API solutions can benefit cus
     * Provide customer service and support for the design phase and experimentation.
 
 APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises.
-Telco Global API Project is an independent open-source project and not controlled by any single company. How each operator monetize the API is completely out of the scope of the project. Implementation is still on the operator responsibility. Only scope of the Telco Global API Project is how APIs are designed or consumed technically.
+CAMARA Project is an independent open-source project and not controlled by any single company. How each operator monetize the API is completely out of the scope of the project. Implementation is still on the operator responsibility. Only scope of the CAMARA Project is how APIs are designed or consumed technically.
 
 ## Project Charter
 
-The governance, voting rules, IPRs and policies of the Telco Global API Project are documented in the [Project Charter](./ProjectCharter.md).
+The governance, voting rules, IPRs and policies of the CAMARA Project are documented in the [Project Charter](./ProjectCharter.md).
 The project structure and roles are documented in the [Project Structure And Roles](./ProjectStructureAndRoles.md).
 
 ## Code of Conduct
@@ -73,7 +73,7 @@ The following channels are available for discussions, feedback, and support requ
 | Type                     | Channel                                                |
 | ------------------------ | ------------------------------------------------------ |
 | **Issues**   | GitHub issues |
-| **Other Requests**    | <a href="mailto:opensource@telekom.de" title="Email Open Source Team"><img src="https://img.shields.io/badge/email-Open%20Source%20Team-green?logo=mail.ru&style=flat-square&logoColor=white"></a>   |
+| **Other Requests**    | <a href="mailto:markus.kuemmerle@t-systems.com" title="Email Open Source Team"><img src="https://img.shields.io/badge/email-Open%20Source%20Team-green?logo=mail.ru&style=flat-square&logoColor=white"></a>   |
 
 ## How to Contribute
 
