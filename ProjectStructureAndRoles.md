@@ -4,7 +4,7 @@
 
 **Sub-projects**
 
-The Telco Global API Project is organized primarily into sub-projects. Each sub-project is comprised of participants from multiple companies and organizations, with a common purpose of advancing the project with respect to a specific Service API topic, for example ‘streaming’ or ‘localization’. Our goal is to enable distributed decision making and code ownership. This will be done by providing focused forums for getting work done, making decisions, and onboarding new contributors.
+The CAMARA Project is organized primarily into sub-projects. Each sub-project is comprised of participants from multiple companies and organizations, with a common purpose of advancing the project with respect to a specific Service API topic, for example ‘streaming’ or ‘localization’. Our goal is to enable distributed decision making and code ownership. This will be done by providing focused forums for getting work done, making decisions, and onboarding new contributors.
 
 Areas covered by sub-projects may be vertically focused on particular Service API components or functions, cross-cutting/horizontal or spanning many/all functional areas of Service APIs. Some examples of each type are:
 
@@ -17,27 +17,27 @@ Each sub-project must have a README.md file (with a description of the sub-proj
 
 Some sub-projects may have distinct (although sometimes overlapping) sets of contributors and maintainers, who act as the sub-project’s technical leaders, organizers and facilitators.
 
-Where a sub-project has a release process, access and documentation should be such that more than one person can perform a release. Releases should be announced on the Telco Global API Project mailing list. Any new sub-projects should be first proposed on Telco Global API Project mailing list following the voting procedures listed in the project charter.
+Where a sub-project has a release process, access and documentation should be such that more than one person can perform a release. Releases should be announced on the CAMARA Project mailing list. Any new sub-projects should be first proposed on CAMARA Project mailing list following the voting procedures listed in the project charter.
 
 **Working Groups**
 
-Working groups are primarily used to facilitate topics of discussion that are in scope for the Telco Global API Project but that are short-lived or that span multiple sub-projects. If a subset of community members wants to get together and discuss a topic, they can do so with forming a Working Group. The steering committee decides upon implementing or removing working groups.
+Working groups are primarily used to facilitate topics of discussion that are in scope for the CAMARA Project but that are short-lived or that span multiple sub-projects. If a subset of community members wants to get together and discuss a topic, they can do so with forming a Working Group. The steering committee decides upon implementing or removing working groups.
 
-Working groups are documented in sub directories of the WG folder. Each working group must have a README.md file (with a description of the working group).
+Working groups are documented in sub directories of the WorkingGroups folder. Each working group must have a README.md file (with a description of the working group).
 
 ## Roles, Responsibilities and Requirements
 
 **Participants**
 
-Participant (= contributor) status may be given to those who intend to make ongoing contributions to the Telco Global API Project. This is usually in the form of code submissions and improvements and/or notable work on documentation but may also include other contributions such as organizing events or user support.
+Participant (= contributor) status may be given to those who intend to make ongoing contributions to the CAMARA Project. This is usually in the form of code submissions and improvements and/or notable work on documentation but may also include other contributions such as organizing events or user support.
 
 The current participants are listed in [PARTICIPANTS](./PARTICIPANTS.MD).
 
-Please note that the Telco Global API Project had received significant contributions from a number of unlisted individuals before this governance document was written, and thus formal team membership was created.
+Please note that the CAMARA Project had received significant contributions from a number of unlisted individuals before this governance document was written, and thus formal team membership was created.
 
 **Changes in Participantship**
 
-Changes in participantship have to be announced on the Telco Global API Project mailing list. They are decided by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) and formalized by changing the [PARTICIPANTS](./PARTICIPANTS.MD) file.
+Changes in participantship have to be announced on the CAMARA Project mailing list. They are decided by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) and formalized by changing the [PARTICIPANTS](./PARTICIPANTS.MD) file.
 
 A participant may resign by notifying the team mailing list. A participant with no project activity for a year is considered to have resigned. Participants that wish to resign are encouraged to propose another participant to take over their project work.
 
@@ -47,7 +47,7 @@ Maintainers are first and foremost contributors that have shown they are committ
 
 **Changes in Maintainership**
 
-Changes in maintainership have to be announced on the Telco Global API Project mailing list. They are decided by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all project maintainers and formalized by changing the MAINTAINERS.md file of the respective sub project or the [CODEOWNERS](./CODEOWNERS) file for the project itself.
+Changes in maintainership have to be announced on the CAMARA Project mailing list. They are decided by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all project maintainers and formalized by changing the MAINTAINERS.md file of the respective sub project or the [CODEOWNERS](./CODEOWNERS) file for the project itself.
 
 A maintainer or committer may resign by notifying the team mailing list. A maintainer with no project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another participant to take over their project work.
 
@@ -118,7 +118,7 @@ The On- / Offboarding section is informational and can be changed by [lazy cons
 The new member is
 
 - added to the list of contributors ([PARTICIPANTS](./PARTICIPANTS.MD)). Ideally by sending a PR of their own, at least approving said PR.
-- announced on the Telco Global API Project mailing list by an existing participant. Ideally, the new participant replies in this thread, acknowledging team membership.
+- announced on the CAMARA Project mailing list by an existing participant. Ideally, the new participant replies in this thread, acknowledging team membership.
 - added to group accounts where applicable. Services with some variety of a group account include but are not restricted to Digital Ocean, DockerHub, GSuite, Netlify, Twitter (via Tweetdeck), Youtube.
 - added to the team mailing list.
 
@@ -149,7 +149,7 @@ Send an email to the Telco Global API Project mailing list with your motion. I
 
 To become an official team participant, you should intend to make ongoing contributions to one or more sub-project(s). At that point, a team participant (typically a maintainer of the project) may propose you for membership. A possible, but not required, graduation path is to become a maintainer later.
 
-Should the decision be in favor, your new membership will also be announced on the Telco Global API Project mailing list.
+Should the decision be in favor, your new membership will also be announced on the CAMARA Project mailing list.
 
 **How do I add a sub-project?**
 
