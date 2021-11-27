@@ -1,28 +1,28 @@
 # Project Charter
 
-## Technical Charter of the Telco Global API Project
-This technical charter (the “Charter”) describes the rules and governance of the Telco Global API Project (the “Project”). It is meant to be followed by all the contributors and maintainers of, and other participants in (collectively, “participants”), the Project and the Telco Global API community. Common terminology used in this governance document is defined below:
-- **Telco Global API Alliance**: The sum of partners and people listed in the [PARTICIPANTS](./PARTICIPANTS.MD) file, the Telco Global API Project and the Telco Global API working group withing GSMA/OPG.
-- **Telco Global API community**: The sume of people listed in [PARTICIPANTS](./PARTICIPANTS.MD).
-- **Telco Global API Project**: The sum of all activities and sub-projects performed under the governance protocol defined in this document.
-- **Sub-projects**: A single sub directory in the Telco Global API Project led by a voluntary group, open to anyone to participate.
-- **Participant**: Participant = contributor of the private Telco Global API Project named in the file [PARTICIPANTS](./PARTICIPANTS.MD).
+## Technical Charter of the CAMARA Project
+This technical charter (the “Charter”) describes the rules and governance of the CAMARA Project (the “Project”). It is meant to be followed by all the contributors and maintainers of, and other participants in (collectively, “participants”), the Project and the CAMARA Project community. Common terminology used in this governance document is defined below:
+- **CAMARA - The Telco Global API Alliance**: The sum of partners and people listed in the [PARTICIPANTS](./PARTICIPANTS.MD) file, the CAMARA Project and the OPAG working group withing GSMA/OPG.
+- **CAMARA Project community**: The sume of people listed in [PARTICIPANTS](./PARTICIPANTS.MD).
+- **CAMARA Project**: The sum of all activities and sub-projects performed under the governance protocol defined in this document.
+- **Sub-projects**: A single sub directory in the CAMARA Project led by a voluntary group, open to anyone to participate.
+- **Participant**: Participant = contributor of the CAMARA Project named in the file [PARTICIPANTS](./PARTICIPANTS.MD).
 - **Maintainers**: Leaders of an individual sub-project or part thereof (MAINTAINERS.MD of the respective sub-project).
-- **Code Owners**: Leaders of the Telco Global API Project documented in the file [CODEOWNERS](./CODEOWNERS).
+- **Code Owners**: Leaders of the CAMARA Project documented in the file [CODEOWNERS](./CODEOWNERS).
 - **Partner**: Partner = member, company listed in [PARTICIPANTS](./PARTICIPANTS.MD).
 
-The Project is an independent open-source project, not controlled by any single company or organization and has been established as Global Telco API Project a Series of LF Projects, LLC. LF Projects, LLC is a Delaware series limited liability company (“LF Projects”). 
+The Project is an independent open-source project, not controlled by any single company or organization and has been established as CAMARA Project a Series of LF Projects, LLC. LF Projects, LLC is a Delaware series limited liability company (“LF Projects”). 
 
 For specific guidance on the practical steps for contributing to any API sub-project please see our [Contribution Guidelines](./CONTRIBUTING.md).
 
 ## Principles
-The Telco Global API community adheres to the following principles:
+The CAMARA Project community adheres to the following principles:
 - Open: The Project is open source. That especially means that the project has a clear pro-competitive goal to specify/harmonzize and develop open, global, and interoperable API solutions using an open and transparent process at every time. All participants are encouraged to be observant that there is no patent ambush by SEP holders and no market power abuse and report if any.
 - Welcoming and respectful: We abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
-- Transparent and accessible: Changes to the Project organization, Project code repositories, and activities related to LF Projects, the Linux Foundation and CNCF (e.g. level, involvement, etc.) are done in public. A primary reason that the Telco Global API Project exists is as a forum for collaboration. The work in the project should be done in the open. Excepted as authorized by the Steering Committee with respect to security and code of conduct issues, community members and contributors must communicate in the open, ensure other community members and contributors can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the community. Exception to this is committee work, this may be done in private if discretion is necessary.
+- Transparent and accessible: Changes to the Project organization, Project code repositories, and activities related to LF Projects, the Linux Foundation and CNCF (e.g. level, involvement, etc.) are done in public. A primary reason that the CAMARA Project exists is as a forum for collaboration. The work in the project should be done in the open. Excepted as authorized by the Steering Committee with respect to security and code of conduct issues, community members and contributors must communicate in the open, ensure other community members and contributors can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the community. Exception to this is committee work, this may be done in private if discretion is necessary.
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 
-## Telco Global API Project
+## CAMARA Project
 
 A global partnership could address much of the challenges in scaling API services across heterogenous operator architectures.
 
@@ -46,13 +46,13 @@ The development of open, global, and interoperable API solutions could benefit c
     * Provide customer service and support for the design phase and experimentation.
 
 APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises.
-Telco Global API Project is an independent open-source project and not controlled by any single company. How each operator monetize the API is completely out of the scope of the project. Implementation is still on the operator responsibility. Only scope of the Telco Global API Project is how APIs are designed or consumed technically.
+CAMARA Project is an independent open-source project and not controlled by any single company. How each operator monetize the API is completely out of the scope of the project. Implementation is still on the operator responsibility. Only scope of the CAMARA Project is how APIs are designed or consumed technically.
 
 ## Scope of the project
 
 **Functional scope**
 
-From functional perspective the scope is limited to telco APIs, that means APIs in the domain of telco mobile networks, telco fixed line networks or supporting these (e.g. for authentication). The respective API families are clarified during the ramp up of the Telco Global API project, specifically the ones exposed to customers.
+From functional perspective the scope is limited to telco APIs, that means APIs in the domain of telco mobile networks, telco fixed line networks or supporting these (e.g. for authentication). The respective API families are clarified during the ramp up of the CAMARA Project, specifically the ones exposed to customers.
 
 **Technical scope**
 
@@ -63,7 +63,7 @@ The Service APIs (incl. mapping tables for the attributes to the southbound APIs
 
 **Service scope**
 
-The service scope of the Telco Global API project is limited to the following activities:
+The service scope of the CAMARA Project is limited to the following activities:
 -	Collect API requirements from GSMA OPG subgroup and other sources. That can be a (prioritized) list of API families seen as useful for the customers, a functional descriptions of the APIs (attributes, function, result), and also non-functional requirements for the APIs (response time, scalability, performance, etc.)
 -	Specify Service APIs (e.g. by Swagger) and create test plan / cases / tools from a business and customer perspective
 -	Develop Service APIs (and reference implementation for transformation functions)
@@ -76,7 +76,7 @@ The service scope of the Telco Global API project is limited to the following ac
 
 **Deliverables**
 
-The following deliverables are provided by the Telco Global API project:
+The following deliverables are provided by the CAMARA Project:
 -	Service API code (incl. reference implementation for transformation functions) and documentation and
 -	Test plan, cases and tools
 
@@ -91,7 +91,7 @@ is created.
 
 **Steering Committee**
 
-The highest deciding committee is the Steering Committee of the Telco Global API Project. At the inception of the project, the voting members of the Steering Committee were agreed in a bootstrap steering committee meeting, with each company represented in the Participants.md file in the project’s repository appointing one voting member of the Steering Committee. The voting members will be listed in the [CODEOWNERS](./CODEOWNERS) file within the Project’s code repository. The Steering Committee decides on adding or removing members, and may choose an alternative approach for determining the voting members of the Steering Committee, and any such alternative approach will be documented in this [Project Charter](./ProjectCharter.md). Any meetings of the Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
+The highest deciding committee is the Steering Committee of the CAMARA Project. At the inception of the project, the voting members of the Steering Committee were agreed in a bootstrap steering committee meeting, with each company represented in the Participants.md file in the project’s repository appointing one voting member of the Steering Committee. The voting members will be listed in the [CODEOWNERS](./CODEOWNERS) file within the Project’s code repository. The Steering Committee decides on adding or removing members, and may choose an alternative approach for determining the voting members of the Steering Committee, and any such alternative approach will be documented in this [Project Charter](./ProjectCharter.md). Any meetings of the Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
 
 A member of the steering board can – in case of absence or unavailability - send a representative as stand-in. The steering board has to be informed before a representation including the duration of it. To avoid much changes in the steering board each member shall name a default stand-in.
 
@@ -114,7 +114,7 @@ Responsibilities: The Steering Committee is responsible for all aspects of overs
 
 **Voting Principles**
 
-The Telco Global API Project usually runs by informal consensus, however sometimes a formal decision must be made (reasons for this see below).
+The CAMARA Project usually runs by informal consensus, however sometimes a formal decision must be made (reasons for this see below).
 
 Depending on the subject matter, different methods of voting are used as laid out below.
 
@@ -122,15 +122,15 @@ For all votes, voting must be open for at least one week. The end date should be
 
 In all cases, all and only participants are eligible to vote, with the sole exception of the forced removal of a participant, in which said participant is not eligible to vote.
 
-Discussion and votes on personnel matters (including but not limited to team participantship and maintainership) are held in private. All other discussion and votes are held in public on the Telco Global API Project mailing list.
+Discussion and votes on personnel matters (including but not limited to team participantship and maintainership) are held in private. All other discussion and votes are held in public on the CAMARA Project mailing list.
 
 For public discussions, anyone interested is encouraged to participate. Formal power to object or vote is limited to participants.
 
 **Consensus**
 
-The default decision making mechanism for the Telco Global API Project is [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). This means that any decision on technical issues is considered supported by the team as long as nobody objects based on substantiated technical grounds.
+The default decision making mechanism for the CAMARA Project is [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). This means that any decision on technical issues is considered supported by the team as long as nobody objects based on substantiated technical grounds.
 
-Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will. Decisions may, but do not need to be called out and put up for decision on the Telco Global API Project mailing list at any time and by anyone.
+Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will. Decisions may, but do not need to be called out and put up for decision on the CAMARA Project mailing list at any time and by anyone.
 
 Consensus decisions can never override or go against the spirit of an earlier explicit vote.
 
@@ -166,7 +166,7 @@ For votes taken by email or similar asynchronous means, voting must be open for 
 
 **Technical decisions**
 
-Technical decisions that only affect a single sub-project are made informally by the maintainer of this sub-project, and [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy) is assumed. Technical decisions that span multiple parts of the Telco Global API Project should be discussed and made on the Telco Global API Project mailing list.
+Technical decisions that only affect a single sub-project are made informally by the maintainer of this sub-project, and [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy) is assumed. Technical decisions that span multiple parts of the CAMARA Project should be discussed and made on the CAMARA Project mailing list.
 
 Decisions are usually made by [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). If no consensus can be reached, the matter may be resolved by majority vote.
  
