@@ -1,7 +1,10 @@
 <h1 align="center">
   CAMARA Project offered by
-  
+  <br>
+  <img src="/documentation/ressources/Camara_logo_small.jpg">
+  <!---
   CAMARA - The Telco Global API Alliance
+  -->
 </h1>
 
 <p align="center">
