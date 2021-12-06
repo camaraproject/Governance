@@ -39,6 +39,7 @@
 | TMUS | Carl Persson ||
 | ORANGE | Sylvain Morel |Yes|
 | ORANGE | William Diego ||
+| ORANGE | Patrice Conil ||
 | AT&T | Wiley Wilkins | Yes |
 | AT&T | Brian Freeman ||
 | AT&T | Anisa Parikh ||
