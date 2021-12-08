@@ -6,3 +6,4 @@
 | Intel | Petar Torre |
 | Ericsson | Jan Friman |
 | KDDI | Toshi Wakayama |
+| Orange | Sylvain Morel|
