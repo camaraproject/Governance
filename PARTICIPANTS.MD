@@ -19,7 +19,7 @@
 | Intel | Francesc Guim ||
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot | Representative |
-| Nokia | Chris Jones | yes |
+| Nokia | Chris Jones | Yes |
 | Nokia | Jean-Marie Calmel ||
 | Nokia | Marc Erhardt ||
 | TIM | Roberto Procopio |Yes|
