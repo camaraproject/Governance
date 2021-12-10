@@ -18,7 +18,9 @@
 | Intel | Petar Torre | Yes |
 | Intel | Francesc Guim ||
 | Nokia | Rene Saathoff ||
-| Nokia | Tanja de Groot |Yes|
+| Nokia | Tanja de Groot | Representative |
+| Nokia | Chris Jones | yes |
+| Nokia | Jean-Marie Calmel ||
 | Nokia | Marc Erhardt ||
 | TIM | Roberto Procopio |Yes|
 | TIM | Fabrizio Moggio | Representative |
