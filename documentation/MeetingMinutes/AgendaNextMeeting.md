@@ -8,6 +8,4 @@ Standard agenda points
 - AOB
 
 Additional agenda points
-- Time for meetings
-- Representation in OPAG
-- MWC Announcement
+- 
