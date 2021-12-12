@@ -12,7 +12,7 @@
 | Deutsche Telekom AG   | Carlos Fernandes ||
 | Telefonica   | Juan Carlos Garcia | Yes |
 | Telefonica   | Miguel Alejandro Hernández ||
-| Telefonica   | Jose A Ordonez Lucena ||
+| Telefonica   | Jose A Ordonez Lucena | Representative |
 | Telefonica | Carlos Medina ||
 | Telefonica | Jesus Martin ||
 | Intel | Petar Torre | Yes |
