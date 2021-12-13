@@ -17,6 +17,7 @@
 | Telefonica | Jesus Martin ||
 | Intel | Petar Torre | Yes |
 | Intel | Francesc Guim ||
+| Intel | John Yates ||
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot | Representative |
 | Nokia | Chris Jones | Yes |
