@@ -1,4 +1,4 @@
 | Org                    | Name                                                |
 | -----------------------| ----------------------------------------------------|
-| Ericcson |  |
+| Ericsson |  |
 | KDDI | Toshi (Toshiyasu) Wakayama  |
