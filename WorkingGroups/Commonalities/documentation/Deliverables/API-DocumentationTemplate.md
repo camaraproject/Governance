@@ -8,4 +8,4 @@
 | |Endpoint definitions | What does each endpoint do is a critical part of the api documentation. It explains the consumer/developer your internal system. The documentation should explain what an endpoint is for and how it relates to other endpoints. It should also document:</br> - Http call methods supported. </br> - Parameteres along with description </br> - Expected responses If there are any constraints for an endpoint, it should be documented in this section. </br> It should be made clear if certain enpoints are restricted to only certain roles/users. | yes |
 |  |Errors|Error types along with error codes summary table can offer a good reference for the developers working with the API | yes |
 |  |Code snippets| Copy-paste sample code snippets help developers to get started right away. It helps provide a rich developer experience. This can include sample request examples. |  |
-|API Spec |Complete API Spec in yaml format | yes |
+|API Spec || Complete API Spec in yaml format | yes |
