@@ -8,4 +8,4 @@ Standard agenda points
 - AOB
 
 Additional agenda points
-- 
+- Telefonica API portal
