@@ -7,3 +7,4 @@
 |DT                      | Noel Wirzius                                       |
 |DT                      | Steffen Drüsedow                                   |
 |DT                      | Felix Dsouza                                       |
+|Intel                   | Cesc Guim                                          |
