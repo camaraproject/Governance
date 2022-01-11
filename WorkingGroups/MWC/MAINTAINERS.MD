@@ -2,6 +2,7 @@
 | -----------------------| ----------------------------------------------------|
 | DT | Markus Kümmerle |
 | Ericsson | Bart van Kaathoven |
+| Ericsson | Pehr Claesson |
 | GSMA | Henry Calvert |
 | GSMA | Tom van Pelt |
 | Intel | John Yates |
@@ -12,4 +13,3 @@
 | Telefonica | Jose Ordonez-Lucena |
 | TIM | Roberto Procopio |
 | TELUS | Ali Tizghadam |
-|  | Pehr |
