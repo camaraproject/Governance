@@ -9,3 +9,4 @@ Standard agenda points
 
 Additional agenda points
 - Telefonica API portal
+- Ericsson missing API concepts
