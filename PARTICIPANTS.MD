@@ -58,5 +58,5 @@
 | MobiledgeX | Heather Blanchard | Yes |
 | MobiledgeX | Christoph Goertz | Representative |
 | MobiledgeX | Thomas Vits ||
-| Bell Canada | Daniel Bernier ||
+| Bell Canada | Daniel Bernier | Yes |
 | Bell Canada | Marc-Alexandre Choquette ||
