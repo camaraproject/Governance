@@ -9,3 +9,4 @@
 |DT                      | Felix Dsouza                                       |
 |Intel                   | Cesc Guim                                          |
 |KDDI                    | Toshi Wakayama                                     |
+|ORANGE                  | Sylvain Morel                                      |
