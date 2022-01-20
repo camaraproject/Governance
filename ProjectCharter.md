@@ -64,7 +64,7 @@ The Service APIs (incl. mapping tables for the attributes to the southbound APIs
 **Service scope**
 
 The service scope of the CAMARA Project is limited to the following activities:
--	Collect API requirements from GSMA OPG subgroup and other sources. That can be a (prioritized) list of API families seen as useful for the customers, a functional descriptions of the APIs (attributes, function, result), and also non-functional requirements for the APIs (response time, scalability, performance, etc.)
+-	Collect API requirements from GSMA OPG subgroup and other sources. That can be a (prioritized) list of API families seen as useful for the customers, a functional descriptions of the APIs (attributes, function, result), and also non-functional requirements for the APIs (response time, scalability, performance, etc.). All APIs developed within GSMA/OPG and contributed to the CAMARA Project will be developed under Apache-2.0.
 -	Specify Service APIs (e.g. by Swagger) and create test plan / cases / tools from a business and customer perspective
 -	Develop Service APIs (and reference implementation for transformation functions)
 -	Create test cases and perform verification/tests from developer perspective (to show that the Service API / transformation function has been developed correctly)
@@ -76,7 +76,7 @@ The service scope of the CAMARA Project is limited to the following activities:
 
 **Deliverables**
 
-The following deliverables are provided by the CAMARA Project:
+The following deliverables are provided by the CAMARA Project (all materials developed in relation to the CAMARA Project will be developed under the Apache-2.0 license):
 -	Service API code (incl. reference implementation for transformation functions) and documentation and
 -	Test plan, cases and tools
 
@@ -179,10 +179,9 @@ Changes in participantship and maintainership are defined in [Project Structure 
 Participants acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. 
 
 Except with respect to alternative licenses approved by the Steering Committee as described below, all contributions to the Project are subject to the following: 
-- All new inbound code contributions to the Project must be made using the Apache License, Version 2.0, available at https://www.apache.org/licenses/LICENSE-2.0 (the “Project License”). 
-- All new inbound code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a steering committee approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
-- All outbound code will be made available under the Project License.
-- Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/). 
+- All new inbound contributions to the Project must be made using the Apache License, Version 2.0, available at https://www.apache.org/licenses/LICENSE-2.0 (the “Project License”). 
+- All new inbound contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a steering committee approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
+- All outbound materials and contributions will be made available under the Project License.
 - The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project. Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
 
 The Steering Committee may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire Steering Committee. 
