@@ -1,6 +1,6 @@
 | Org                    | Name                                                |
 | -----------------------| ----------------------------------------------------|
-| DT | Shilpa Padgaonkar |
+| DT | Mariusz Sozanski |
 | Intel | Petar Torre |
 | Telefonica | JOSE ANTONIO ORDOÑEZ LUCENA |
 | Telus | Ali Tizghadam |
