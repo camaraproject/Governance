@@ -3,7 +3,7 @@
 |Mobiledgex              | Christoph Goertz                                   |
 |Ericsson                | Joachim Dahlgren                                   |
 |Ericsson                | Jan Friman                                         |                                        
-|DT                      | Mariusz Sozanski                                   |
+|DT                      | Shilpa Padgaonkar                                   |
 |DT                      | Noel Wirzius                                       |
 |DT                      | Steffen Drüsedow                                   |
 |DT                      | Felix Dsouza                                       |
