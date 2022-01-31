@@ -62,4 +62,5 @@
 | Bell Canada | Daniel Bernier | Yes |
 | Bell Canada | Marc-Alexandre Choquette ||
 | Scenera | David Lee ||
-| Scenera | Andrew Wajs ||
+| Scenera | Andrew Wajs | Yes |
+| Vodafone | Johanna Wood | Yes |
