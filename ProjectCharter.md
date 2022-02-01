@@ -3,7 +3,7 @@
 ## Technical Charter of the CAMARA Project
 This technical charter (the “Charter”) describes the rules and governance of the CAMARA Project (the “Project”). It is meant to be followed by all the contributors and maintainers of, and other participants in (collectively, “participants”), the Project and the CAMARA Project community. Common terminology used in this governance document is defined below:
 - **CAMARA - The Telco Global API Alliance**: The sum of partners and people listed in the [PARTICIPANTS](./PARTICIPANTS.MD) file, the CAMARA Project and the OPAG working group withing GSMA/OPG.
-- **CAMARA Project community**: The sume of people listed in [PARTICIPANTS](./PARTICIPANTS.MD).
+- **CAMARA Project community**: The sum of people listed in [PARTICIPANTS](./PARTICIPANTS.MD).
 - **CAMARA Project**: The sum of all activities and sub-projects performed under the governance protocol defined in this document.
 - **Sub-projects**: A single sub directory in the CAMARA Project led by a voluntary group, open to anyone to participate.
 - **Participant**: Participant = contributor of the CAMARA Project named in the file [PARTICIPANTS](./PARTICIPANTS.MD).
@@ -17,7 +17,7 @@ For specific guidance on the practical steps for contributing to any API sub-pro
 
 ## Principles
 The CAMARA Project community adheres to the following principles:
-- Open: The Project is open source. That especially means that the project has a clear pro-competitive goal to specify/harmonzize and develop open, global, and interoperable API solutions using an open and transparent process at every time. All participants are encouraged to be observant that there is no patent ambush by SEP holders and no market power abuse and report if any.
+- Open: The Project is open source. That especially means that the project has a clear pro-competitive goal to specify/harmonize and develop open, global, and interoperable API solutions using an open and transparent process at every time. All participants are encouraged to be observant that there is no patent ambush by SEP holders and no market power abuse and report if any.
 - Welcoming and respectful: We abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 - Transparent and accessible: Changes to the Project organization, Project code repositories, and activities related to LF Projects, the Linux Foundation and CNCF (e.g. level, involvement, etc.) are done in public. A primary reason that the CAMARA Project exists is as a forum for collaboration. The work in the project should be done in the open. Excepted as authorized by the Steering Committee with respect to security and code of conduct issues, community members and contributors must communicate in the open, ensure other community members and contributors can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the community. Exception to this is committee work, this may be done in private if discretion is necessary.
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
