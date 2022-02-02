@@ -61,6 +61,6 @@
 | MobiledgeX | Thomas Vits ||
 | Bell Canada | Daniel Bernier | Yes |
 | Bell Canada | Marc-Alexandre Choquette ||
-| Scenera | David Lee ||
-| Scenera | Andrew Wajs | Yes |
+| Scenera | David Lee |Yes|
+| Scenera | Andrew Wajs | |
 | Vodafone | Johanna Wood | Yes |
