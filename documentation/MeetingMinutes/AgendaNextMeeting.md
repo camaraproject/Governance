@@ -9,4 +9,3 @@ Standard agenda points
 
 Additional agenda points
 - Telefonica API portal
-- Scenera presentation
