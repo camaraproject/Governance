@@ -12,6 +12,7 @@
 | GSMA | Henry Calvert |
 | GSMA | Tom van Pelt |
 | IBM | Jason Hunt |
+| IBM | Allison Bishop |
 | Intel | John Yates |
 | KDDI | Toshi (Toshiyasu) Wakayama |
 | MobiledgeX | Heather Blanchard |
