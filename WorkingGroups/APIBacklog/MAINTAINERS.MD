@@ -1,5 +1,5 @@
 | Org                    | Name                                                |
 | -----------------------| ----------------------------------------------------|
-| Ericsson | Bart von Kaathoven |
+| Ericsson | Jan Friman |
 | KDDI | Toshi (Toshiyasu) Wakayama  |
 | Telefonica | Jose Ordonez-Lucena  |
