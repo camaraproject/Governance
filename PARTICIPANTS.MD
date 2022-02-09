@@ -64,5 +64,6 @@
 | Scenera | David Lee |Yes|
 | Scenera | Andrew Wajs | |
 | Vodafone | Johanna Wood | Yes |
+| Vodafone | Kevin Smith | |
 | Dell | Saad Sheikh | Yes |
 
