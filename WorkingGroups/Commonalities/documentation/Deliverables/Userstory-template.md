@@ -5,6 +5,7 @@ This document specifies the template for documenting user stories related to API
 |----|----|----|
 |Summary| | M |
 |Actors and scope|| M |
+|NF Requirements|| O |
 |Pre-conditions|| M |
 |Begins when|| M |
 |Step 1|| (M/O/CM) |
