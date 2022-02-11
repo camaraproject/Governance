@@ -7,3 +7,8 @@
 * Specify, develop, document and test the APIs (with 1-2 Telcos)  
 * Schedule: from now to end at MWC 2022  
 * Location: virtually  
+
+## Meetings
+* Meetings are held virtually
+* Schedule: <tbd>
+* Meeting link: <tbd>
