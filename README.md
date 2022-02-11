@@ -66,6 +66,11 @@ We decided to apply _English_ as the primary project language.
 
 Consequently, all content will be made available primarily in English. We also ask all interested people to use English as language to create issues, in their code (comments, documentation etc.) and when you send requests to us. The application itself and all end-user facing content will be made available in other languages as needed.
 
+## Meetings
+* Meetings are held virtually
+* Schedule: bi-weekly, Thursday, 4pm CET
+* Meeting link: https://dtag.webex.com/dtag/j.php?MTID=m2c1144f27c7af8ef89a35abe80577c8f
+
 ## Documentation
 
 The full documentation for the project can be found in the "documentation" subfolder.
