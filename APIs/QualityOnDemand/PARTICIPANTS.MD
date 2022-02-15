@@ -10,3 +10,5 @@
 |Intel                   | Cesc Guim                                          |
 |KDDI                    | Toshi Wakayama                                     |
 |ORANGE                  | Sylvain Morel                                      |
+|ORANGE                  | Patrice Conil                                      |
+|ORANGE                  | Julien Giannandrea                                 |
