@@ -66,4 +66,5 @@
 | Vodafone | Johanna Wood | Yes |
 | Vodafone | Kevin Smith | |
 | Dell | Saad Sheikh | Yes |
-
+| Kandy | Philip Lintell | Yes |
+| Kandy | Ralph Page | Representative |
