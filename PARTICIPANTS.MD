@@ -68,3 +68,6 @@
 | Dell | Saad Sheikh | Yes |
 | Kandy | Philip Lintell | Yes |
 | Kandy | Ralph Page | Representative |
+| Kandy | Fatih Demirel |  |
+| Kandy | Andy Lee |  |
+| Kandy | Michael Leeder |  |
