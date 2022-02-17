@@ -8,10 +8,10 @@ info:
   license:
     name: Apache 2.0
     url: https://www.apache.org/licenses/LICENSE-2.0.html
-  version: 1.1.0
+  version: 1.2.0
 externalDocs:
-  description: Add external documents here
-  url: https://example.com
+  description: Product documentation
+  url: https://github.com/camaraproject/
 servers:
   - url: '{apiRoot}/{basePath}'
     variables:
@@ -37,9 +37,9 @@ paths:
               $ref: '#/components/schemas/CreateSession'
         required: true
       callbacks:
-        qos-changed:
-          '{$request.body#/notificationUrl}/qos-changed':
-            $ref: '#/paths/~1qos-changed'
+        notifications:
+          '{$request.body#/notificationUrl}/notifications':
+            $ref: '#/paths/~1notifications'
       responses:
         201:
           description: Session created
@@ -53,6 +53,12 @@ paths:
         400:
           description: Invalid input
           content: {}
+        409:
+          description: Conflict
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorInfo'
         500:
           description: Session not created
           content:
@@ -119,22 +125,28 @@ paths:
         404:
           description: Session not found
           content: {}
-  /qos-changed:
+  /notifications:
     post:
       tags:
-        - AVP session callbacks
-      summary: 'AVP session QoS changed notification callback'
-      operationId: qosChanged
+        - Session notifications callback
+      summary: 'Session notifications callback'
+      description: |
+        Important: this endpoint is to be implemented by the API consumer.
+        The QoD server will call this endpoint whenever any network related event occurs.
+        Currently only SESSION_TERMINATED event is implemented. Any other network events are ignored.
+      operationId: postNotification
       requestBody:
         required: true
         content:
           application/json:
             schema:
-              $ref: '#/components/schemas/QosChanged'
+              $ref: '#/components/schemas/Notification'
       responses:
         '204':
           description: Successful notification
           content: {}
+      security:
+        - apiKey: []
 components:
   schemas:
     SessionId:
@@ -144,26 +156,26 @@ components:
     SessionInfo:
       allOf:
         - $ref: '#/components/schemas/CreateSession'
-        - type: object
-          required:
-            - id
-            - duration
-            - startedAt
-            - expiresAt
-          properties:
-            id:
-              $ref: '#/components/schemas/SessionId'
-            startedAt:
-              type: integer
-              example: 1639479600
-              description: Timestamp of session start in seconds since unix epoch
-              format: int64
-            expiresAt:
-              type: integer
-              example: 1639566000
-              description: Timestamp of session expiration if the session was not deleted in seconds since unix epoch
-              format: int64
-          description: Session related information.
+      type: object
+      required:
+        - id
+        - duration
+        - startedAt
+        - expiresAt
+      properties:
+        id:
+          $ref: '#/components/schemas/SessionId'
+        startedAt:
+          type: integer
+          example: 1639479600
+          description: Timestamp of session start in seconds since unix epoch
+          format: int64
+        expiresAt:
+          type: integer
+          example: 1639566000
+          description: Timestamp of session expiration if the session was not deleted, in seconds since unix epoch
+          format: int64
+      description: Session related information.
     CreateSession:
       description: Data type with attributes required for creating a session
       type: object
@@ -171,7 +183,9 @@ components:
         duration:
           type: integer
           example: 86400
-          description: Session duration in seconds. Maximal value of 24 hours is used if not set.
+          description: |
+            Session duration in seconds. Maximal value of 24 hours is used if not set.
+            After session has expired the client will receive SESSION_TERMINATED event. See notification callback.
           format: int32
           minimum: 1
           maximum: 86400
@@ -207,7 +221,7 @@ components:
     Ipv4Addr:
       type: string
       format: ipv4
-      pattern: '^([01]?\d\d?|2[0-4]\d|25[0-5])(?:\.(?:[01]?\d\d?|2[0-4]\d|25[0-5])){3}(?:/[0-2]\d|/3[0-2])?$'
+      pattern: '^([01]?\d\d?|2[0-4]\d|25[0-5])(?:\.(?:[01]?\d\d?|2[0-4]\d|25[0-5])){3}(\/([0-9]|[1-2][0-9]|3[0-2]))?$'
       example: '192.168.0.1/24'
       description: |
         IPv4 address may be specified in form <address/mask> as:
@@ -235,6 +249,20 @@ components:
         - LOW_LATENCY
       description: |
         * `LOW_LATENCY` - Corresponds to a specific set of network parameters that will be negotiated with the network provider in advance
+    Notification:
+      type: object
+      required:
+        - sessionId
+        - event
+      properties:
+        sessionId:
+          $ref: '#/components/schemas/SessionId'
+        event:
+          $ref: '#/components/schemas/SessionEvent'
+    SessionEvent:
+      type: string
+      enum:
+        - SESSION_TERMINATED
     QosChanged:
       type: object
       properties:
@@ -258,4 +286,4 @@ components:
           scopes:
             { }
 security:
-  - oAuth2ClientCredentials: [ ]
+  - oAuth2ClientCredentials: []
