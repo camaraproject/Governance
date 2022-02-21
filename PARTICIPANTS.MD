@@ -71,3 +71,4 @@
 | Kandy | Fatih Demirel |  |
 | Kandy | Andy Lee |  |
 | Kandy | Michael Leeder |  |
+| Capgemini | Shamik Mishra | Yes  |
