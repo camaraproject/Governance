@@ -14,6 +14,7 @@
 | Deutsche Telekom AG | Elmar Mundt ||
 | Deutsche Telekom AG | Felix Dsouza ||
 | Deutsche Telekom AG | Herbert Damker ||
+| Deutsche Telekom AG | Jasmin Schulmeyer ||
 | Deutsche Telekom AG | Mariusz Sozanski ||
 | Deutsche Telekom AG | Markus Kümmerle | Representative |
 | Deutsche Telekom AG | Nathan Rader| Yes |
@@ -25,10 +26,13 @@
 | Ericsson | Emil Zhang ||
 | Ericsson | Jan Friman |Representative|
 | Ericsson | Joachim Dahlgren ||
+| Ericsson | Pehr Claesson ||
+| GSMA | Andrew Milne ||
 | GSMA | Faisal Zia ||
 | GSMA | Gautham Hazari ||
 | GSMA | Henry Calvert |Yes|
 | GSMA | Tom van Pelt ||
+| IBM | Allison Bishop ||
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
 | Intel | Francesc Guim ||
