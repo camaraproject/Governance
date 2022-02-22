@@ -1,1 +1,0 @@
-# QoS Profiles Mapping Table
