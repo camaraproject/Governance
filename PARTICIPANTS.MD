@@ -6,10 +6,10 @@
 | AT&T | Michael Raftelis ||
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
-| Bell Canada | Daniel Bernier | Yes |
+| Bell Canada | Daniel Bernier | |
 | Bell Canada | Marc-Alexandre Choquette ||
 | Capgemini | Shamik Mishra | Yes  |
-| Dell | Saad Sheikh | Yes |
+| Dell | Saad Sheikh | |
 | Deutsche Telekom AG | Carlos Fernandes ||
 | Deutsche Telekom AG | Elmar Mundt ||
 | Deutsche Telekom AG | Felix Dsouza ||
@@ -38,7 +38,7 @@
 | Intel | Francesc Guim ||
 | Intel | John Yates ||
 | Intel | Neal Oliver ||
-| Intel | Petar Torre | Yes |
+| Intel | Petar Torre | |
 | Kandy | Andy Lee |  |
 | Kandy | Fatih Demirel |  |
 | Kandy | Michael Leeder |  |
