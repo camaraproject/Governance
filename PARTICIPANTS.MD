@@ -72,6 +72,7 @@
 | Telefonica | Jose A Ordonez Lucena | Representative |
 | Telefonica | Juan Carlos Garcia | Yes |
 | Telefonica | Miguel Alejandro Hernández ||
+| Telefonica | Ruben Barrado Gonzalez ||
 | TELUS | Ali Tizghadam | Yes |
 | Vodafone | Johanna Wood | Yes |
 | Vodafone | Kevin Smith | |
