@@ -12,6 +12,7 @@
 | Dell | Saad Sheikh | Yes |
 | Deutsche Telekom AG | Carlos Fernandes ||
 | Deutsche Telekom AG | Elmar Mundt ||
+| Deutsche Telekom AG | Felix Dsouza ||
 | Deutsche Telekom AG | Herbert Damker ||
 | Deutsche Telekom AG | Mariusz Sozanski ||
 | Deutsche Telekom AG | Markus Kümmerle | Representative |
@@ -19,9 +20,11 @@
 | Deutsche Telekom AG | Noel Wirzius ||
 | Deutsche Telekom AG | Piotr Wesolowski ||
 | Deutsche Telekom AG | Shilpa Padgaonkar ||
+| Deutsche Telekom AG | Steffen Drüsedow ||
 | Ericsson | Bart van Kaathoven |Yes|
 | Ericsson | Emil Zhang ||
 | Ericsson | Jan Friman |Representative|
+| Ericsson | Joachim Dahlgren ||
 | GSMA | Faisal Zia ||
 | GSMA | Gautham Hazari ||
 | GSMA | Henry Calvert |Yes|
@@ -52,6 +55,7 @@
 | Nokia | Marc Erhardt ||
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot | Representative |
+| ORANGE | Julien Giannandrea ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sylvain Morel |Yes|
 | ORANGE | William Diego ||
