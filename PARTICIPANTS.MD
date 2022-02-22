@@ -13,6 +13,7 @@
 | Deutsche Telekom AG | Carlos Fernandes ||
 | Deutsche Telekom AG | Elmar Mundt ||
 | Deutsche Telekom AG | Herbert Damker ||
+| Deutsche Telekom AG | Mariusz Sozanski ||
 | Deutsche Telekom AG | Markus Kümmerle | Representative |
 | Deutsche Telekom AG | Nathan Rader| Yes |
 | Deutsche Telekom AG | Noel Wirzius ||
