@@ -1,7 +1,7 @@
 /*
  * CAMARA Project
  *
- * (C) 2021, YOUR_NAME, YOUR_COMPANY
+ * Copyright (c) 2022 Contributors | <Company> to CAMARA a Series of LF Projects, LLC
  *
  * All contributors /
  * copyright owners license this file to you under the Apache
