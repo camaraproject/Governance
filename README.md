@@ -71,6 +71,7 @@ Contribution and feedback is encouraged and always welcome. For more information
 
 Our commitment to open source means that we are enabling -in fact encouraging- all interested parties to contribute and become part of its developer community.
 * The current list of Project participants can be found here [PARTICIPANTS](./PARTICIPANTS.MD).
+* The current list of Working group participants can be found in the WD_PARTICIPANTS.MD file of the Working Group.
 * The current list of Codeowners and Maintainers of a Sub Project can be found in the CODEOWNERS and MAINTAINERS.MD file of the Sub Project.
 
 ## Licensing
