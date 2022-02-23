@@ -38,7 +38,7 @@
 | Intel | Francesc Guim ||
 | Intel | John Yates ||
 | Intel | Neal Oliver ||
-| Intel | Petar Torre | |
+| Intel | Petar Torre | Yes |
 | Kandy | Andy Lee |  |
 | Kandy | Fatih Demirel |  |
 | Kandy | Michael Leeder |  |
