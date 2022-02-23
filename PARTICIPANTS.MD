@@ -28,6 +28,7 @@
 | Ericsson | Jan Friman |Representative|
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Pehr Claesson ||
+| Google Cloud | Sridhar Gollapudi | Yes |
 | GSMA | Andrew Milne ||
 | GSMA | Faisal Zia ||
 | GSMA | Gautham Hazari ||
