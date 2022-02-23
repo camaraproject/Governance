@@ -2,6 +2,7 @@
 | -----------------------| ----------------------------------------------------|--------------------------------|
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia |Representative|
+| AT&T | Bill Knotts ||
 | AT&T | Brian Freeman ||
 | AT&T | Michael Raftelis ||
 | AT&T | Shahram Mohajeri ||
