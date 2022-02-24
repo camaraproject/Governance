@@ -8,8 +8,8 @@ The CAMARA Project is organized primarily into Sub Projects. Each Sub Project is
 
 Areas covered by Sub Projects may be vertically focused on particular Service API components or functions, cross-cutting/horizontal or spanning many/all functional areas of Service APIs. Some examples of each type are:
 
-- Vertical: Vertical: Quality on Demand, Localization
-- Horizontal: Horizontal: Scalability, Architecture, Lifecycle, Service
+- Vertical: Quality on Demand, Localization
+- Horizontal: Scalability, Architecture, Lifecycle, Service
 
 Each Sub Project is documented in a separate repository.
 
