@@ -117,11 +117,11 @@ Send an email to the CAMARA Project mailing list with your motion. If there is n
 
 **How do I become a Project participant?**
 
-To become an official Project participant, you should intend to make ongoing contributions to one or more Sub Project(s). At that point you simply have to add your name to the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file of the Project and announce it on the Project mailing list.A possible, but not required, graduation path is to become a Codeowner of a Maintainer later
+To become an official Project participant, you should intend to make ongoing contributions to one or more Sub Project(s). At that point you simply have to add your name to the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file of the Project and announce it on the Project mailing list. A possible, but not required, graduation path is to become a Codeowner or a Maintainer later.
 
 **How do I add a Sub Project?**
 
-As a Project participant, propose the new Sub Project to the Steering Committee. If Steering Committee accepts, create the Sub Project in the GitHub repository. Add at least a README.MD explaining the description and the goal of the Sub Project, a CODEOWNERS and a MAINTAINERS.MD with the Maintainers of the Sub Project (at this point, this probably means you).
+As a Project participant, propose the new Sub Project to the Steering Committee. If Steering Committee accepts, it creates the Sub Project in the GitHub repository. Add at least a README.MD explaining the description and the goal of the Sub Project, a CODEOWNERS and a MAINTAINERS.MD with the Maintainers of the Sub Project (at this point, this probably means you).
 
 **How do I archive or remove a Sub Project?**
 
@@ -133,4 +133,4 @@ A Maintainer may resign by notifying the Project mailing list and remove his nam
 
 **How do I remove a Project participant?**
 
-Project participants may resign by notifying the team mailing list and removing their names from [PARTICIPANTS.MD](./PARTICIPANTS.MD).
+Project participants may resign by notifying the Project mailing list and removing their names from [PARTICIPANTS.MD](./PARTICIPANTS.MD).
