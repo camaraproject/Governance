@@ -40,6 +40,7 @@
 | Ericsson | Márk László Mikecz ||
 | Ericsson | Patrick Hofkens ||
 | Ericsson | Pehr Claesson ||
+| Ericsson | Peter Chen ||
 | Google Cloud | Sridhar Gollapudi | Yes |
 | Google Cloud | Stella Loh | |
 | GSMA | Andrew Milne ||
