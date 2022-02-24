@@ -15,7 +15,7 @@ Each Sub Project is documented in a separate repository.
 
 Each Sub Project must have a README.MD file (with a description of the Sub Project), a CODEOWNERS and a MAINTAINERS.MD file. A Sub Project should have at least one Maintainer. Ideally a SubProject is managed by two or more Maintainers, depending on the size and scope of the Sub Project. Here, the responsibilities must be clearly agreed upon between all of the Maintainers. This includes coordinating who is responsible for which issues and pull requests. The Contributors to a Sub Project are recorded by the mechanisms of GitHub in the Sub Project’s repository. Each Contributor, Codeowner and Maintainer should also be listed in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file in the root directory.
 
-Some Sub Projects may have distinct (although sometimes overlapping) sets of Contributors, Codeowners and Maintainers, who act as the Sub Project’s technical leaders, organizers and facilitators.
+Some Sub Projects may have distinct (although sometimes overlapping) sets of Contributors, Codeowners and Maintainers.
 
 Where a Sub Project has a release process, access and documentation should be such that more than one person can perform a release. Releases should be announced on the CAMARA Project mailing list.
 
