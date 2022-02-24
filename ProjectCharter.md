@@ -182,7 +182,7 @@ Decisions are usually made by [lazy consensus](https://couchdb.apache.org/bylaws
  
 ## Intellectual Property Policy
 
--Project participants acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project.
+Project participants acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project.
 
 Except with respect to alternative licenses approved by the Steering Committee as described below, all contributions to the Project are subject to the following:
 - All new inbound APIs and definitions, code, testing scripts and tools, machine-readable YAML files and similar contributions to the Project (“Apache Materials”) must be made using the Apache License, Version 2.0, available at https://www.apache.org/licenses/LICENSE-2.0 (the “Project License”). 
