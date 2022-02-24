@@ -48,6 +48,7 @@
 | GSMA | Gautham Hazari ||
 | GSMA | Henry Calvert |Yes|
 | GSMA | Tom van Pelt ||
+| Hutchison | Sandra Ondrusova ||
 | IBM | Allison Bishop ||
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
