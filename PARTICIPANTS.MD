@@ -1,5 +1,7 @@
 | Org                    | Name                                                | Steering Committee participant |
 | -----------------------| ----------------------------------------------------|--------------------------------|
+| Apple | Darryl Chiles ||
+| Apple | Samy Touati ||
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia |Representative|
 | AT&T | Bill Knotts ||
@@ -7,10 +9,14 @@
 | AT&T | Michael Raftelis ||
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
+| AWS | Milton Yu ||
+| AWS | Tetsuya Nakamura ||
 | Bell Canada | Daniel Bernier | |
 | Bell Canada | Marc-Alexandre Choquette ||
 | Capgemini | Shamik Mishra | Yes  |
 | Dell | Saad Sheikh | |
+| Deutsche Telekom AG | Akos Hunyadi ||
+| Deutsche Telekom AG | Andre Danner ||
 | Deutsche Telekom AG | Carlos Fernandes ||
 | Deutsche Telekom AG | Elmar Mundt ||
 | Deutsche Telekom AG | Felix Dsouza ||
@@ -18,17 +24,24 @@
 | Deutsche Telekom AG | Jasmin Schulmeyer ||
 | Deutsche Telekom AG | Mariusz Sozanski ||
 | Deutsche Telekom AG | Markus Kümmerle | Representative |
+| Deutsche Telekom AG | Markus Schumburg| |
 | Deutsche Telekom AG | Nathan Rader| Yes |
 | Deutsche Telekom AG | Noel Wirzius ||
 | Deutsche Telekom AG | Piotr Wesolowski ||
 | Deutsche Telekom AG | Shilpa Padgaonkar ||
 | Deutsche Telekom AG | Steffen Drüsedow ||
+| Deutsche Telekom AG | Ursula Harrison ||
 | Ericsson | Bart van Kaathoven |Yes|
+| Ericsson | Benedek Kovács ||
 | Ericsson | Emil Zhang ||
 | Ericsson | Jan Friman |Representative|
+| Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
+| Ericsson | Márk László Mikecz ||
+| Ericsson | Patrick Hofkens ||
 | Ericsson | Pehr Claesson ||
 | Google Cloud | Sridhar Gollapudi | Yes |
+| Google Cloud | Stella Loh | |
 | GSMA | Andrew Milne ||
 | GSMA | Faisal Zia ||
 | GSMA | Gautham Hazari ||
@@ -47,9 +60,12 @@
 | Kandy | Philip Lintell | Yes |
 | Kandy | Ralph Page | Representative |
 | KDDI | Toshiyasu Wakayama | Yes |
+| LF| Chris Aniszcyk |  |
+| LF| Scott Nicholas |  |
 | Microsoft | Landon Cox |Yes|
 | Microsoft | Michael Brown ||
 | Microsoft | Ricardo Villarreal ||
+| Microsoft | Rui Carmo ||
 | Microsoft | Thilo Ewald ||
 | MobiledgeX | Christoph Goertz | Representative |
 | MobiledgeX | Heather Blanchard | Yes |
@@ -58,9 +74,11 @@
 | NGMN Alliance | Klaus Moschner ||
 | Nokia | Chris Jones | Yes |
 | Nokia | Jean-Marie Calmel ||
+| Nokia | Gergely Csatari ||
 | Nokia | Marc Erhardt ||
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot | Representative |
+| ORI | Jose José Domingos ||
 | ORANGE | Julien Giannandrea ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sylvain Morel |Yes|
@@ -69,16 +87,23 @@
 | Scenera | David Lee |Yes|
 | T-Mobile US | Carl Persson ||
 | T-Mobile US| Lyle Bertz | Yes |
+| T-Mobile US | Max Caldwell ||
+| T-Mobile US | Murat Karabulut ||
 | TIM | Andrea Calvi ||
 | TIM | Fabrizio Moggio | Representative |
 | TIM | Marco Signorelli ||
 | TIM | Roberto Procopio |Yes|
+| Telefonica | Alejandro Alonso Portero ||
+| Telefonica | Alexandre Harmand ||
 | Telefonica | Carlos Medina ||
+| Telefonica | Diego R. Lopez ||
 | Telefonica | Jesus Martin ||
 | Telefonica | Jose A Ordonez Lucena | Representative |
 | Telefonica | Juan Carlos Garcia | Yes |
 | Telefonica | Miguel Alejandro Hernández ||
 | Telefonica | Ruben Barrado Gonzalez ||
+| Telefonica | Victor Barranco Fernandez ||
 | TELUS | Ali Tizghadam | Yes |
+| Vodafone | Edon Orphir | |
 | Vodafone | Johanna Wood | Yes |
 | Vodafone | Kevin Smith | |
