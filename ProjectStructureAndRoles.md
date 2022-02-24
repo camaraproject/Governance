@@ -63,11 +63,11 @@ Each Project participant can contribute to the Sub Projects of the Project. Cont
 
 **Codeowners**
 
-Codeowners can merge code and accept pull requests. A Codeowner is responsible for the overall quality and stewardship of the Project. Contributors can get a Codeowner role if they are deeply involved in contributing code, pull request review, and triaging issues in the project for a minimum of three months and perform an ongoing contribution. Codeowners are decided by the Maintainers and formalized by changing the CODEOWNERS file. Changes in codeownership have to be announced on the CAMARA Project mailing list.
+Codeowners can merge code and accept pull requests. A Codeowner is responsible for the overall quality and stewardship of the Project. Contributors can get a Codeowner role if they are deeply involved in contributing code, pull request review, and triaging issues in the Sub Project for a minimum of three months and perform an ongoing contribution. Codeowners are decided by the Maintainers and formalized by changing the CODEOWNERS file. Changes in codeownership have to be announced on the CAMARA Project mailing list.
 
 **Maintainers**
 
-Maintainers are the leaders of a Sub Project. Maintainers are first and foremost contributors that have shown they are committed to the long-term success of a Sub Project. Contributors wanting to become Maintainers are expected to be deeply involved in contributing code, pull request review, nd triaging issues in the project for a minimum of three months and perform an ongoing contribution.
+Maintainers are the leaders of a Sub Project. Maintainers are first and foremost contributors that have shown they are committed to the long-term success of a Sub Project. Contributors wanting to become Maintainers are expected to be deeply involved in contributing code, pull request review, and triaging issues in the Sub Project for a minimum of three months and perform an ongoing contribution.
 
 **Changes in maintainership**
 
