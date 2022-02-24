@@ -130,7 +130,7 @@ In all cases, all and only Project participants are eligible to vote, with the s
 
 Discussion and votes on personnel matters (including but not limited to Project participantship) are held in private. All other discussion and votes are held in public on the CAMARA Project mailing list.
 
-For public discussions, anyone interested is encouraged to participate. Formal power to object or vote is limited to participants.
+For public discussions, anyone interested is encouraged to participate. Formal power to object or vote is limited to Project participants.
 
 **Consensus**
 
