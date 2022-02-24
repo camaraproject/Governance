@@ -142,7 +142,7 @@ Consensus decisions can never override or go against the spirit of an earlier ex
 
 If any Project participant raises objections, the Project participants work together towards a solution that all involved can accept. This solution is again subject to [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy).
 
-In case no consensus can be found, but a decision one way or the other must be made, any participant may call a formal majority vote.
+In case no consensus can be found, but a decision one way or the other must be made, any Project participant may call a formal majority vote.
 
 **Majority vote**
 
