@@ -95,8 +95,6 @@ Maintainers lead one or more Sub Project(s) or parts thereof and serve as a poin
 
 Maintainers are also intended to be organizers and facilitators, responsible for the continued operation and progress of the Sub Project and for communication and co-ordination with the other Sub Projects, the Steering Committee, and the Project participants. 
 
-Defined by: entry in Sub Project MAINTAINERS.MD file.
-
 Maintainers should actively participate in pull request reviews and are expected to respond to assigned pull requests in a reasonable time frame, either providing insights, or assign the pull requests to other Maintainers.
 
 The following responsibilities must be met by the Maintainer for a Sub Project:
