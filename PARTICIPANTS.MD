@@ -102,6 +102,7 @@
 | Telefonica | Jesus Martin ||
 | Telefonica | Jose A Ordonez Lucena | Representative |
 | Telefonica | Juan Carlos Garcia | Yes |
+| Telefonica | Luis Diaz Martin ||
 | Telefonica | Miguel Alejandro Hernández ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Victor Barranco Fernandez ||
