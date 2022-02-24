@@ -102,7 +102,7 @@ The following responsibilities must be met by the Maintainer for a Sub Project:
 - Make and approve technical design decisions for the Sub Project.
 - Set the technical direction and priorities for the Sub Project.
 - Define milestones and releases.
-- Mentor and guide Contributors, and Codeowners to the Sub Project.
+- Mentor and guide Contributors and Codeowners to the Sub Project.
 - Ensure continued health of Sub Project
   - Adequate test coverage to confidently release
   - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
