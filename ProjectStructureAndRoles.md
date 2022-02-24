@@ -13,7 +13,7 @@ Areas covered by Sub Projects may be vertically focused on particular Service AP
 
 Each Sub Project is documented in a separate repository.
 
-Each Sub Project must have a README.MD file (with a description of the Sub Project), a CODEOWNERS and a MAINTAINERS.MD file. A Sub Project should have at least one Maintainer. Ideally a SubProject is managed by two or more Maintainers, depending on the size and scope of the Sub Project. Here, the responsibilities must be clearly agreed upon between all of the Maintainers. This includes coordinating who is responsible for which issues and pull requests. The Contributors to a Sub Project are recorded by the mechanisms of GitHub in the Sub Project’s repository. Each Contributor, Codeowner and Maintainer should also be listed in the [PARTICIPANTS](./PARTICIPANTS.MD) file in the root directory.
+Each Sub Project must have a README.MD file (with a description of the Sub Project), a CODEOWNERS and a MAINTAINERS.MD file. A Sub Project should have at least one Maintainer. Ideally a SubProject is managed by two or more Maintainers, depending on the size and scope of the Sub Project. Here, the responsibilities must be clearly agreed upon between all of the Maintainers. This includes coordinating who is responsible for which issues and pull requests. The Contributors to a Sub Project are recorded by the mechanisms of GitHub in the Sub Project’s repository. Each Contributor, Codeowner and Maintainer should also be listed in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file in the root directory.
 
 Some Sub Projects may have distinct (although sometimes overlapping) sets of Contributors, Codeowners and Maintainers, who act as the Sub Project’s technical leaders, organizers and facilitators.
 
@@ -31,7 +31,7 @@ As mentioned before the contributions to the Sub Projects were documented in the
 
 **Mailing list**
 
-A Project mailing list is established, each Project participant documented in [PARTICIPANTS](./PARTICIPANTS.MD) is added.
+A Project mailing list is established, each Project participant documented in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is added.
 
 ## Roles, Responsibilities and Requirements
 
@@ -39,23 +39,23 @@ A Project mailing list is established, each Project participant documented in [P
 
 Project participant (= contributor) status may be given to those who intend to make ongoing contributions to the CAMARA Project. This is usually in the form of code submissions and improvements and/or notable work on documentation but may also include other contributions such as organizing events or user support.
 
-The current Project participants are listed in [PARTICIPANTS](./PARTICIPANTS.MD).
+The current Project participants are listed in [PARTICIPANTS.MD](./PARTICIPANTS.MD).
 
 Please note that the CAMARA Project had received significant contributions from a number of unlisted individuals before this governance document was written, and thus formal team membership was created.
 
-To be listed in [PARTICIPANTS](./PARTICIPANTS.MD) is prerequisite for getting any other role in the Project. Also any other role within the Project has to be returned before deleting the name in [PARTICIPANTS](./PARTICIPANTS.MD).
+To be listed in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is prerequisite for getting any other role in the Project. Also any other role within the Project has to be returned before deleting the name in [PARTICIPANTS.MD](./PARTICIPANTS.MD).
 
 **Changes in Project participantship**
 
-A new Project participant can get Project participantship by adding his name to the [PARTICIPANTS](./PARTICIPANTS.MD) file of the Project. Changes in Project participantship have to be announced on the CAMARA Project mailing list. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy).
+A new Project participant can get Project participantship by adding his name to the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file of the Project. Changes in Project participantship have to be announced on the CAMARA Project mailing list. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy).
 
-A Project participant may resign by notifying the team mailing list and removing his name of the [PARTICIPANTS](./PARTICIPANTS.MD) file. A Project participant with no project activity for a year is considered to have resigned. Project participants that wish to resign are encouraged to propose another Project participant to take over their project work.
+A Project participant may resign by notifying the team mailing list and removing his name of the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file. A Project participant with no project activity for a year is considered to have resigned. Project participants that wish to resign are encouraged to propose another Project participant to take over their project work.
 
 **Working Group participants**
 
 Each Project participant can be part of one or more of the Working Groups of the Project by adding his name to the WD-PARTICIPANTS.MD files. By that he gets the role Working Group participants.
 
-A Working Group participant may resign by removing his name of the [PARTICIPANTS](./PARTICIPANTS.MD) file.
+A Working Group participant may resign by removing his name of the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file.
 
 **Contributors**
 
@@ -119,7 +119,7 @@ Send an email to the CAMARA Project mailing list with your motion. If there is n
 
 **How do I become a Project participant?**
 
-To become an official Project participant, you should intend to make ongoing contributions to one or more Sub Project(s). At that point you simply have to add your name to the [PARTICIPANTS](./PARTICIPANTS.MD) file of the Project and announce it on the Project mailing list.A possible, but not required, graduation path is to become a Codeowner of a Maintainer later
+To become an official Project participant, you should intend to make ongoing contributions to one or more Sub Project(s). At that point you simply have to add your name to the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file of the Project and announce it on the Project mailing list.A possible, but not required, graduation path is to become a Codeowner of a Maintainer later
 
 **How do I add a Sub Project?**
 
@@ -135,4 +135,4 @@ A Maintainer may resign by notifying the Project mailing list and remove his nam
 
 **How do I remove a Project participant?**
 
-Project participants may resign by notifying the team mailing list and removing their names from [PARTICIPANTS](./PARTICIPANTS.MD).
+Project participants may resign by notifying the team mailing list and removing their names from [PARTICIPANTS.MD](./PARTICIPANTS.MD).
