@@ -53,9 +53,9 @@ A Project participant may resign by notifying the team mailing list and removing
 
 **Working Group participants**
 
-Each Project participant can be part of one or more of the Working Groups of the Project by adding his name to the WG_PARTICIPANTS.MD files. By that he gets the role Working Group participants.
+Each Project participant can be part of one or more of the Working Groups of the Project by adding his name to the WG_PARTICIPANTS.MD files. By that he gets the role Working Group participant.
 
-A Working Group participant may resign by removing his name of the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file.
+A Working Group participant may resign by removing his name of the WG_PARTICIPANTS.MD file.
 
 **Contributors**
 
