@@ -2,7 +2,7 @@
 
 ## Project Structure
 
-**Sub-projects**
+**Sub Projects**
 
 The CAMARA Project is organized primarily into Sub Projects. Each Sub Project is comprised of Project participants from multiple companies and organizations, with a common purpose of advancing the Sub Project with respect to a specific Service API topic, for example ‘quality on demand’ or ‘localization’. Our goal is to enable distributed decision making and code ownership. This will be done by providing focused forums for getting work done, making decisions, and onboarding new Contributors.
 
