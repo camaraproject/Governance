@@ -2,7 +2,7 @@
 
 ## Technical Charter of the CAMARA Project
 
-This technical charter (the “Charter”) describes the rules and governance of the CAMARA Project (the “Project”). It is meant to be followed by all the contributors, codeowners and maintainers of, and other participants in (collectively, “participants”), the Project. Common terminology used in this governance document is defined below:
+This technical charter (the “Charter”) describes the rules and governance of the CAMARA Project (the “Project”). It is meant to be followed by all the contributors, codeowners and maintainers of, and other participants in (collectively, “Project participants”), the Project. Common terminology used in this governance document is defined below:
 - **CAMARA Project**: The sum of all activities and Sub Projects performed under the governance protocol defined in this document.
 - **Project participant**: participants in the CAMARA Project who have been named in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) for the Project.
 - **Steering Committee**: the oversight body for the Project.
