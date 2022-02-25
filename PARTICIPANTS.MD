@@ -16,6 +16,7 @@
 | Bell Canada | Marc-Alexandre Choquette ||
 | Capgemini | Deepak A. Gunjal | Yes  |
 | Capgemini | Shamik Mishra | Yes  |
+| China Unicom | Gao Chen | |
 | Dell | Saad Sheikh | |
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
