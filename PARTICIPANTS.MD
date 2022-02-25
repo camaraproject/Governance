@@ -99,7 +99,7 @@
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Klaus Moschner ||
 | Nokia | Chris Jones | Yes |
-| Nokia | Daniel Bedekovich | Yes |
+| Nokia | Daniel Bedekovich | |
 | Nokia | Gergely Csatari ||
 | Nokia | Jean-Marie Calmel ||
 | Nokia | Marc Erhardt ||
