@@ -14,6 +14,7 @@
 | AWS | Tetsuya Nakamura ||
 | Bell Canada | Daniel Bernier | |
 | Bell Canada | Marc-Alexandre Choquette ||
+| Capgemini | Deepak A. Gunjal | Yes  |
 | Capgemini | Shamik Mishra | Yes  |
 | Dell | Saad Sheikh | |
 | Deutsche Telekom AG | Akos Hunyadi ||
