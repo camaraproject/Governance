@@ -40,7 +40,7 @@ You are welcome to contribute documentation to the project.
 
 The following rule governs documentation contributions:
 
-* Contributions must be licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+* Contributions must be licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
 At least if you add a new documentation to the repository, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file.
 
