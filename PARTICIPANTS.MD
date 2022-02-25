@@ -24,6 +24,7 @@
 | Dell | Saad Sheikh | |
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
+| Deutsche Telekom AG | Basma Driss ||
 | Deutsche Telekom AG | Carlos Fernandes ||
 | Deutsche Telekom AG | Elmar Mundt ||
 | Deutsche Telekom AG | Felix Dsouza ||
@@ -32,11 +33,14 @@
 | Deutsche Telekom AG | Mariusz Sozanski ||
 | Deutsche Telekom AG | Markus Kümmerle | Representative |
 | Deutsche Telekom AG | Markus Schumburg| |
+| Deutsche Telekom AG | Matthias Maurer| |
 | Deutsche Telekom AG | Nathan Rader| Yes |
 | Deutsche Telekom AG | Noel Wirzius ||
+| Deutsche Telekom AG | Pablo Brito ||
 | Deutsche Telekom AG | Piotr Wesolowski ||
 | Deutsche Telekom AG | Shilpa Padgaonkar ||
 | Deutsche Telekom AG | Steffen Drüsedow ||
+| Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
 | Ericsson | Bart van Kaathoven |Yes|
 | Ericsson | Benedek Kovács ||
