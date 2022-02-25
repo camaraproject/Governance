@@ -44,17 +44,26 @@
 | Deutsche Telekom AG | Ursula Harrison ||
 | Ericsson | Bart van Kaathoven |Yes|
 | Ericsson | Benedek Kovács ||
+| Ericsson | Carlos Bravo ||
 | Ericsson | Emil Zhang ||
+| Ericsson | Henrik Voigt ||
 | Ericsson | Jan Friman |Representative|
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
+| Ericsson | Klaus Schneider ||
 | Ericsson | Márk László Mikecz ||
 | Ericsson | Patrick Hofkens ||
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
+| Ericsson | Sarmad Nafees ||
+| Google Cloud | Amol Tuli | |
+| Google Cloud | Dutt Kalapatapu | |
 | Google Cloud | Sridhar Gollapudi | Yes |
 | Google Cloud | Stella Loh | |
+| Google Cloud | Vivek Gupta | |
+| GS Labs | Vikram Barate | |
 | GSMA | Andrew Milne ||
+| GSMA | David Pollington ||
 | GSMA | Faisal Zia ||
 | GSMA | Gautham Hazari ||
 | GSMA | Henry Calvert |Yes|
@@ -63,9 +72,13 @@
 | IBM | Allison Bishop ||
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
+| Intel | Amit Shah ||
+| Intel | Bob Monkman ||
 | Intel | Francesc Guim ||
 | Intel | John Yates ||
-| Intel | Neal Oliver ||
+| Intel | Michael Holzerland ||
+| Intel | Oliver Neal ||
+| Intel | Oliver Roos ||
 | Intel | Petar Torre | Yes |
 | Kandy | Andy Lee |  |
 | Kandy | Fatih Demirel |  |
@@ -73,8 +86,6 @@
 | Kandy | Philip Lintell | Yes |
 | Kandy | Ralph Page | Representative |
 | KDDI | Toshiyasu Wakayama | Yes |
-| LF| Chris Aniszcyk |  |
-| LF| Scott Nicholas |  |
 | Microsoft | Landon Cox |Yes|
 | Microsoft | Michael Brown ||
 | Microsoft | Ricardo Villarreal ||
