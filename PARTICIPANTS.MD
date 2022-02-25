@@ -14,7 +14,7 @@
 | AWS | Tetsuya Nakamura ||
 | Bell Canada | Daniel Bernier | |
 | Bell Canada | Marc-Alexandre Choquette ||
-| Capgemini | Deepak A. Gunjal | Yes  |
+| Capgemini | Deepak A. Gunjal |  |
 | Capgemini | Shamik Mishra | Yes  |
 | China Unicom | Gao Chen | |
 | CNCF | Arpit Joshipura | |
