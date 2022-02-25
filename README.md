@@ -49,7 +49,7 @@ Consequently, all content will be made available primarily in English. We also a
 ## Meetings
 * Meetings are held virtually
 * Schedule: Each second Thursday in a month, 4pm CET
-* Meeting link: https://dtag.webex.com/dtag/j.php?MTID=m2c1144f27c7af8ef89a35abe80577c8f
+* Meeting link: https://dtag.webex.com/dtag/j.php?MTID=m79544089ecb17cfa5046b7e1982926f3
 
 ## Documentation
 
