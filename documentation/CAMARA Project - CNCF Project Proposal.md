@@ -28,8 +28,7 @@ Sandbox
 
 **License**
 
-Apache License 2.0 (for source code), 
-CC-BY-4.0 (for documentation)
+Apache License 2.0 (for source code and documentation)
 
 **Source Control Repositories**
 
