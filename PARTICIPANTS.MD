@@ -10,6 +10,7 @@
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
 | AWS | Milton Yu ||
+| AWS | Taha Najeeb ||
 | AWS | Tetsuya Nakamura ||
 | Bell Canada | Daniel Bernier | |
 | Bell Canada | Marc-Alexandre Choquette ||
