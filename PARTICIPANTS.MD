@@ -148,7 +148,6 @@
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Dallas Rathbone | |
 | TELUS | Jim Slevinksy | |
-| TELUS | Rainer Iraschko | |
 | Verizon | Shammi Naz Amin | |
 | Vodafone | Edon Orphir | |
 | Vodafone | Johanna Wood | Yes |
