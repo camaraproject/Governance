@@ -90,45 +90,66 @@
 | Microsoft | Michael Brown ||
 | Microsoft | Ricardo Villarreal ||
 | Microsoft | Rui Carmo ||
+| Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
+| Microsoft | Thorsten Kaasch ||
 | MobiledgeX | Christoph Goertz | Representative |
 | MobiledgeX | Heather Blanchard | Yes |
 | MobiledgeX | Thomas Vits ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Klaus Moschner ||
 | Nokia | Chris Jones | Yes |
-| Nokia | Jean-Marie Calmel ||
+| Nokia | Daniel Bedekovich | Yes |
 | Nokia | Gergely Csatari ||
+| Nokia | Jean-Marie Calmel ||
 | Nokia | Marc Erhardt ||
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot | Representative |
-| ORI | Jose José Domingos ||
+| Nokia | Zoltan Olah ||
+| ORANGE | Bertrand Refabert ||
+| ORANGE | Delsart Gwenaelle ||
+| ORANGE | Guillaume Nevicato||
 | ORANGE | Julien Giannandrea ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sylvain Morel |Yes|
 | ORANGE | William Diego ||
+| ORI | Jose José Domingos ||
 | Scenera | Andrew Wajs | |
 | Scenera | David Lee |Yes|
 | T-Mobile US | Carl Persson ||
+| T-Mobile US | Dan Sershen ||
+| T-Mobile US | Jonathan Morrow ||
 | T-Mobile US| Lyle Bertz | Yes |
 | T-Mobile US | Max Caldwell ||
 | T-Mobile US | Murat Karabulut ||
+| T-Mobile US | Noah Dahlstrom ||
+| T-Mobile US | Priyadarshini Menon ||
+| T-Mobile US | Ron Marquardt ||
+| T-Mobile US | Shannon Silversmith ||
 | TIM | Andrea Calvi ||
+| TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio | Representative |
 | TIM | Marco Signorelli ||
 | TIM | Roberto Procopio |Yes|
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alexandre Harmand ||
 | Telefonica | Carlos Medina ||
+| Telefonica | David Guillen ||
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Jesus Martin ||
 | Telefonica | Jose A Ordonez Lucena | Representative |
 | Telefonica | Juan Carlos Garcia | Yes |
 | Telefonica | Luis Diaz Martin ||
 | Telefonica | Miguel Alejandro Hernández ||
+| Telefonica | Oscar Garcia Canton ||
+| Telefonica | Patricia Ventura Gomez ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Victor Barranco Fernandez ||
 | TELUS | Ali Tizghadam | Yes |
+| TELUS | Dallas Rathbone | |
+| TELUS | Jim Slevinksy | |
+| TELUS | Rainer Iraschko | |
+| Verizon | Shammi Naz Amin | |
 | Vodafone | Edon Orphir | |
 | Vodafone | Johanna Wood | Yes |
 | Vodafone | Kevin Smith | |
