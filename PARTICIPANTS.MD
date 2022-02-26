@@ -72,7 +72,6 @@
 | IBM | Allison Bishop ||
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
-| Intel | Amit Shah ||
 | Intel | Bob Monkman ||
 | Intel | Francesc Guim ||
 | Intel | John Yates ||
