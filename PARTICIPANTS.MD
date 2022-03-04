@@ -24,7 +24,6 @@
 | Dell | Saad Sheikh | |
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
-| Deutsche Telekom AG | Basma Driss ||
 | Deutsche Telekom AG | Carlos Fernandes ||
 | Deutsche Telekom AG | Elmar Mundt ||
 | Deutsche Telekom AG | Felix Dsouza ||
