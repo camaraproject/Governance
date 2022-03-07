@@ -148,6 +148,7 @@
 | TELUS | Jim Slevinksy | |
 | Verizon | Shammi Naz Amin | |
 | Vodafone | Edon Orphir | |
+| Vodafone | Eric Murray | |
+| Vodafone | Iván Nieto| |
 | Vodafone | Johanna Wood | Yes |
 | Vodafone | Kevin Smith | |
-| Vodafone | Eric Murray | |
