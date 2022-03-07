@@ -83,6 +83,8 @@
 | Kandy | Michael Leeder |  |
 | Kandy | Philip Lintell | Yes |
 | Kandy | Ralph Page | Representative |
+| KDDI | Bo Ribbing |  |
+| KDDI | Brian Vaughn |  |
 | KDDI | Toshiyasu Wakayama | Yes |
 | Microsoft | Landon Cox |Yes|
 | Microsoft | Michael Brown ||
