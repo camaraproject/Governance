@@ -1,5 +1,7 @@
 | Org                    | Name                                                | Steering Committee participant |
 | -----------------------| ----------------------------------------------------|--------------------------------|
+| amdocs | Bernard Heuse ||
+| amdocs | David Hovey ||
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
 | AT&T | Anisa Parikh ||
