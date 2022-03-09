@@ -132,6 +132,7 @@
 | TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio | Representative |
 | TIM | Marco Signorelli ||
+| TIM | Raffaele Passannanti ||
 | TIM | Roberto Procopio |Yes|
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alexandre Harmand ||
