@@ -21,7 +21,6 @@
 | China Unicom | Gao Chen | |
 | CNCF | Arpit Joshipura | |
 | CNCF | Chris Aniszczyk | |
-| CNCF | Scott Nicholas | |
 | Dell | Saad Sheikh | |
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
