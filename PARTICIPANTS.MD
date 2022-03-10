@@ -22,7 +22,6 @@
 | CNCF | Arpit Joshipura | |
 | CNCF | Chris Aniszczyk | |
 | CNCF | Scott Nicholas | |
-| CNCF | Todd Benzies | |
 | Dell | Saad Sheikh | |
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
@@ -61,7 +60,6 @@
 | Google Cloud | Dutt Kalapatapu | |
 | Google Cloud | Sridhar Gollapudi | Yes |
 | Google Cloud | Stella Loh | |
-| Google Cloud | Vivek Gupta | |
 | GS Labs | Vikram Barate | |
 | GSMA | Andrew Milne ||
 | GSMA | David Pollington ||
