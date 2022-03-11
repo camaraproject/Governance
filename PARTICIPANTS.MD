@@ -14,6 +14,10 @@
 | AWS | Milton Yu ||
 | AWS | Taha Najeeb ||
 | AWS | Tetsuya Nakamura ||
+| axiata | Anthony Rodrigo ||
+| axiata | Namal Jayathilake ||
+| axiata | Roslind Kaur Kirpal Singh ||
+| axiata | Viranga Seneviratne ||
 | Bell Canada | Daniel Bernier | |
 | Bell Canada | Marc-Alexandre Choquette ||
 | Capgemini | Deepak A. Gunjal |  |
