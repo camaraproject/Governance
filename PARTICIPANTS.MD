@@ -111,6 +111,8 @@
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot | Representative |
 | Nokia | Zoltan Olah ||
+| Open Sesaame | Julien McCrea ||
+| Open Sesaame | Tim Fox ||
 | ORANGE | Bertrand Refabert ||
 | ORANGE | Delsart Gwenaelle ||
 | ORANGE | Guillaume Nevicato||
