@@ -1,5 +1,7 @@
 | Org                    | Name                                                | Steering Committee participant |
 | -----------------------| ----------------------------------------------------|--------------------------------|
+| Accenture | Adriano Poloni ||
+| Accenture | Giuseppe di Nuccio ||
 | amdocs | Bernard Heuse ||
 | amdocs | David Hovey ||
 | Apple | Darryl Chiles ||
