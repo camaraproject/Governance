@@ -91,6 +91,7 @@
 | KDDI | Bo Ribbing |  |
 | KDDI | Brian Vaughn |  |
 | KDDI | Toshiyasu Wakayama | Yes |
+| Mavenir | Jane Shen ||
 | Microsoft | Landon Cox |Yes|
 | Microsoft | Michael Brown ||
 | Microsoft | Ricardo Villarreal ||
