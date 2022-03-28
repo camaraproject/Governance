@@ -143,7 +143,6 @@
 | TIM | Roberto Procopio |Yes|
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alexandre Harmand ||
-| Telefonica | Carlos Medina ||
 | Telefonica | David Guillen ||
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Jesus Martin ||
