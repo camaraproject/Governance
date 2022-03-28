@@ -91,7 +91,13 @@
 | KDDI | Bo Ribbing |  |
 | KDDI | Brian Vaughn |  |
 | KDDI | Toshiyasu Wakayama | Yes |
+| Mavenir | Ashok Khuntia ||
+| Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
+| Mavenir | Michal Sedivy ||
+| Mavenir | Peter Schubert ||
+| Mavenir | Tarek El-Basyouny ||
+| Mavenir | Viswanath Krishnamurthy ||
 | Microsoft | Landon Cox |Yes|
 | Microsoft | Michael Brown ||
 | Microsoft | Ricardo Villarreal ||
