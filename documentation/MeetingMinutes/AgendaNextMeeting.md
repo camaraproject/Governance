@@ -6,4 +6,5 @@ Standard agenda points
 - AOB
 
 Additional agenda points
-- Telefonica API portal
+- Telefonica API contribution
+- OPAG API list
