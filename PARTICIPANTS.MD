@@ -91,6 +91,7 @@
 | KDDI | Bo Ribbing |  |
 | KDDI | Brian Vaughn |  |
 | KDDI | Toshiyasu Wakayama | Yes |
+| Mavenir | Ananth Kollipara ||
 | Mavenir | Ashok Khuntia ||
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
