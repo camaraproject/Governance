@@ -13,7 +13,7 @@
 | AT&T | Michael Raftelis ||
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
-| AWS | Milton Yu ||
+| AWS | Ishwar Parulkar ||
 | AWS | Taha Najeeb ||
 | AWS | Tetsuya Nakamura ||
 | axiata | Anthony Rodrigo ||
