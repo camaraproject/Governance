@@ -72,6 +72,7 @@
 | GSMA | Faisal Zia ||
 | GSMA | Gautham Hazari ||
 | GSMA | Henry Calvert |Yes|
+| GSMA | Mark Cornall ||
 | GSMA | Tom van Pelt ||
 | Hutchison | Sandra Ondrusova ||
 | IBM | Allison Bishop ||
