@@ -110,7 +110,6 @@
 | MobiledgeX | Thomas Vits ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
-| NGMN Alliance | Klaus Moschner ||
 | Nokia | Chris Jones | Yes |
 | Nokia | Daniel Bedekovich | |
 | Nokia | Gergely Csatari ||
