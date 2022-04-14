@@ -14,7 +14,6 @@
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
 | AWS | Ishwar Parulkar ||
-| AWS | Taha Najeeb ||
 | AWS | Tetsuya Nakamura ||
 | axiata | Anthony Rodrigo ||
 | axiata | Namal Jayathilake ||
