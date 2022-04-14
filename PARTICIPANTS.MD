@@ -97,7 +97,6 @@
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
 | Mavenir | Michal Sedivy ||
-| Mavenir | Peter Schubert ||
 | Mavenir | Tarek El-Basyouny ||
 | Mavenir | Viswanath Krishnamurthy ||
 | Microsoft | Landon Cox |Yes|
