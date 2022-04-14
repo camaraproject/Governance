@@ -107,8 +107,7 @@
 | Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
 | Microsoft | Thorsten Kaasch ||
-| MobiledgeX | Christoph Goertz | Representative |
-| MobiledgeX | Heather Blanchard | Yes |
+| MobiledgeX | Christoph Goertz | Yes |
 | MobiledgeX | Thomas Vits ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
