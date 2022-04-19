@@ -133,7 +133,6 @@
 | Splunk | Khalid Ali | |
 | Splunk | Matt Olson | |
 | Splunk | Young Cho | |
-| T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Carl Persson ||
 | T-Mobile US | Dan Sershen ||
 | T-Mobile US | Jonathan Morrow ||
