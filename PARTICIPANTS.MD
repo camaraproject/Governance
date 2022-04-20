@@ -49,6 +49,7 @@
 | Ericsson | Bart van Kaathoven |Yes|
 | Ericsson | Benedek Kovács ||
 | Ericsson | Carlos Bravo ||
+| Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
 | Ericsson | Henrik Voigt ||
 | Ericsson | Jan Friman |Representative|
