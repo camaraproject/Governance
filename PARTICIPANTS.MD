@@ -68,9 +68,7 @@
 | Google Cloud | Stella Loh | |
 | GS Labs | Vikram Barate | |
 | GSMA | Andrew Milne ||
-| GSMA | David Pollington ||
 | GSMA | Faisal Zia ||
-| GSMA | Gautham Hazari ||
 | GSMA | Henry Calvert |Yes|
 | GSMA | Mark Cornall ||
 | GSMA | Tom van Pelt ||
