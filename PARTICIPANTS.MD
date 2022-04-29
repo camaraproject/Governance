@@ -37,7 +37,6 @@
 | Deutsche Telekom AG | Jasmin Schulmeyer ||
 | Deutsche Telekom AG | Mariusz Sozanski ||
 | Deutsche Telekom AG | Markus Kümmerle | Representative |
-| Deutsche Telekom AG | Matthias Maurer| |
 | Deutsche Telekom AG | Nathan Rader| Yes |
 | Deutsche Telekom AG | Noel Wirzius ||
 | Deutsche Telekom AG | Pablo Brito ||
