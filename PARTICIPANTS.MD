@@ -131,6 +131,8 @@
 | ORI | Jose José Domingos ||
 | Scenera | Andrew Wajs | |
 | Scenera | David Lee |Yes|
+| SK Telecom | Clark Park | |
+| SK Telecom | Yoon Sun Jung | |
 | Splunk | Khalid Ali | |
 | Splunk | Matt Olson | |
 | Splunk | Young Cho | |
