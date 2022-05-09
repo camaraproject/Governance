@@ -22,6 +22,9 @@
 | axiata | Viranga Seneviratne ||
 | Bell Canada | Daniel Bernier | |
 | Bell Canada | Marc-Alexandre Choquette ||
+| Broadpeak | Christoph Neumann |  |
+| Broadpeak | Guillaume Bichot |  |
+| Broadpeak | Tuan Tran |  |
 | Capgemini | Deepak A. Gunjal |  |
 | Capgemini | Shamik Mishra | Yes  |
 | China Unicom | Gao Chen | |
