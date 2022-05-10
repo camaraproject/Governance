@@ -154,6 +154,7 @@
 | TIM | Roberto Procopio |Yes|
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alexandre Harmand ||
+| Telefonica | Aurelia Martinez Guerra ||
 | Telefonica | David Guillen ||
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Jesus Martin ||
