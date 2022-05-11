@@ -68,6 +68,7 @@
 | Google Cloud | Dutt Kalapatapu | |
 | Google Cloud | Sridhar Gollapudi | Yes |
 | Google Cloud | Stella Loh | |
+| GS Labs | Amit Wankhede | |
 | GS Labs | Vikram Barate | |
 | GSMA | Andrew Milne ||
 | GSMA | Faisal Zia ||
