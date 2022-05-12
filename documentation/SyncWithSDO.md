@@ -1,4 +1,4 @@
-| SDO | Contact by parnter |
+| SDO | Contact by partner |
 |---|---|
 | 3GPP SA5 | Telefonica |
 | ETNO (European Telecommunications Network Operators) | Telefonica |
