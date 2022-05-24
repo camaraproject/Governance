@@ -29,6 +29,10 @@ All Working Groups are documented in one GitHub repository “WorkingGroups” w
 
 As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, and the contributions to Working Groups were documented in the GitHub repository “WorkingGroups”. All contributions beyond that, esp. contributions to the Project itself or the the Steering Committee are documented in the GitHub repository “Governance”.
 
+**Document status, branches and linking to issues**
+
+tbd
+
 **Mailing list**
 
 A Project mailing list is established, each Project participant documented in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is added.
