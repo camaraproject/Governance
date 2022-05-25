@@ -20,6 +20,7 @@
 | axiata | Ravi Kamalendiran ||
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Viranga Seneviratne ||
+| Bell Canada | Bozidar Pasagic | |
 | Bell Canada | Daniel Bernier | |
 | Bell Canada | Marc-Alexandre Choquette ||
 | British Telecom | Milan Lalovic | |
