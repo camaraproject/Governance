@@ -22,6 +22,7 @@
 | axiata | Viranga Seneviratne ||
 | Bell Canada | Daniel Bernier | |
 | Bell Canada | Marc-Alexandre Choquette ||
+| British Telecom | Milan Lalovic | |
 | Broadpeak | Christoph Neumann |  |
 | Broadpeak | Guillaume Bichot |  |
 | Broadpeak | Tuan Tran |  |
