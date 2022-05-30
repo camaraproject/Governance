@@ -51,7 +51,7 @@ To be listed in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is prerequisite for getting
 
 **Changes in Project participantship**
 
-A new Project participant can get Project participantship by adding his name to the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file of the Project. Changes in Project participantship have to be announced on the CAMARA Project mailing list. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy).
+A new Project participant can get Project participantship by adding his name to the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file of the Project. Changes in Project participantship have to be announced on the CAMARA Project mailing list by the new participant. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy).
 
 A Project participant may resign by notifying the team mailing list and removing his name of the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file. A Project participant with no project activity for a year is considered to have resigned. Project participants that wish to resign are encouraged to propose another Project participant to take over their project work.
 
@@ -117,7 +117,7 @@ The following responsibilities must be met by the Maintainer for a Sub Project:
 
 **How do I propose a decision?**
 
-Send an email to the CAMARA Project mailing list with your motion. If there is no objection within a reasonable amount of time, consider the decision made. If there are objections and no consensus can be found, a vote may be called by a Project participant.
+Send an email to the CAMARA Project mailing list with your motion. If there is no objection within a reasonable amount of time (1 week after most recent meeting / email announcement of the decision), consider the decision made. If there are objections and no consensus can be found, a vote may be called by a Project participant.
 
 **How do I become a Project participant?**
 
