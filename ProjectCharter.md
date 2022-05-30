@@ -174,7 +174,7 @@ For votes taken by email or similar asynchronous means, voting decisions require
 
 **Technical decisions**
 
-Technical decisions that only affect a single Sub Project are made informally by the maintainers of this Sub Project, and [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy) is assumed.
+Technical decisions that only affect a single Sub Project are made informally by the maintainers of this Sub Project, and [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy) is assumed. If no consensus can be reached, the matter may be resolved by majority vote.
 
 Technical decisions that span multiple parts of the CAMARA Project should be discussed and made on the CAMARA Project mailing list.
 
