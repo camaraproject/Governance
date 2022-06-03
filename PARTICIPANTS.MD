@@ -111,6 +111,8 @@
 | Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
 | Microsoft | Thorsten Kaasch ||
+| Nabstract | Babu Narayan ||
+| Nabstract | Vaibhav Mehta ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
 | Nokia | Chris Jones | Yes |
