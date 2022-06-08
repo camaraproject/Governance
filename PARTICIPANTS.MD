@@ -75,6 +75,7 @@
 | GS Labs | Amit Wankhede | |
 | GS Labs | Vikram Barate | |
 | GSMA | Andrew Milne ||
+| GSMA | Andrew Parker ||
 | GSMA | Faisal Zia ||
 | GSMA | Henry Calvert |Yes|
 | GSMA | Mark Cornall ||
