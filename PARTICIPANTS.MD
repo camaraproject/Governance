@@ -51,6 +51,7 @@
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
+| Deutsche Telekom AG | Yamina Kelm ||
 | Ericsson | Bart van Kaathoven |Yes|
 | Ericsson | Benedek Kovács ||
 | Ericsson | Carlos Bravo ||
