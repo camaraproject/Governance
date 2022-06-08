@@ -29,9 +29,21 @@ All Working Groups are documented in one GitHub repository “WorkingGroups” w
 
 As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, and the contributions to Working Groups were documented in the GitHub repository “WorkingGroups”. All contributions beyond that, esp. contributions to the Project itself or the the Steering Committee are documented in the GitHub repository “Governance”.
 
-**Document status, branches and linking to issues**
+**Use branches to reflect the artefact status**
 
-tbd
+All Sub Projects and Working Groups have to work with 4 branches to reflect the status of the artefacts (API descriptions, API code, documentation, etc.):
+- *CON*	Branch for contributions
+- *WIP*	Branch for work-in-progress
+- *RTR*	Branch for artefacts which are ready-to-review
+- *main*	Branch for deliverables which can be shared externally
+
+All contributions (e.g. initial files, tools, templates) to CAMARA have to be made only to the CON branch. If Project participants intend to start working on an topic first they have to copy the respective artefacts to the WIP branch. The original copy of the artefacts is kept in the CON branch.
+
+In the WIP branch the real work takes place. If artefacts get ready for review these have to me moved from the WIP branch to the RTR branch. The artefacts in the WIP branch have to be removed. Technically, there is no such mechanism as "moving" between branches in GitHub. So files have to be copied/created in a parallel branch and have to be deleted from the original one.
+
+In the RTR branch the review and inclusion of findings takes place. If artefacts are accepted by the Sub Project or Working Group these have to be moved/merged to the main branch. The artefacts on the RTR branch have to be removed.
+
+For copying/moving/merging changes into a branch pull requests have to be initiated. For these pull requests a standardized naming *target-branch_target-subject_user* shall be used.
 
 **Mailing list**
 
