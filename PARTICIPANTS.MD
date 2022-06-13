@@ -182,3 +182,4 @@
 | Vodafone | Iván Nieto| |
 | Vodafone | Johanna Wood | Yes |
 | Vodafone | Kevin Smith | |
+| Verizon | Mahesh Chapalamadugu | |
