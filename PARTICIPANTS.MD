@@ -177,6 +177,7 @@
 | TELUS | Dallas Rathbone | |
 | TELUS | Jim Slevinksy | |
 | Verizon | Shammi Naz Amin | |
+| Verizon | Syed A Rehman | |
 | Vodafone | Edon Orphir | |
 | Vodafone | Eric Murray | |
 | Vodafone | Iván Nieto| |
