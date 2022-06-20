@@ -180,5 +180,6 @@
 | Vodafone | Edon Orphir | |
 | Vodafone | Eric Murray | |
 | Vodafone | Iván Nieto| |
+| Vodafone | Jennifer Didoni | |
 | Vodafone | Johanna Wood | Yes |
 | Vodafone | Kevin Smith | |
