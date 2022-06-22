@@ -86,6 +86,7 @@
 | IBM | Zyg Lozinski | Representative |
 | Intel | Francesc Guim ||
 | Intel | John Yates ||
+| Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
 | Intel | Oliver Neal ||
 | Intel | Oliver Roos ||
