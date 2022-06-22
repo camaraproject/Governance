@@ -86,6 +86,7 @@
 | IBM | Zyg Lozinski | Representative |
 | Intel | Francesc Guim ||
 | Intel | John Yates ||
+| Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
 | Intel | Oliver Neal ||
 | Intel | Oliver Roos ||
@@ -176,10 +177,12 @@
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Dallas Rathbone | |
 | TELUS | Jim Slevinksy | |
+| Verizon | Mahesh Chapalamadugu | |
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
 | Vodafone | Edon Orphir | |
 | Vodafone | Eric Murray | |
 | Vodafone | Iván Nieto| |
+| Vodafone | Jennifer Didoni | |
 | Vodafone | Johanna Wood | Yes |
 | Vodafone | Kevin Smith | |
