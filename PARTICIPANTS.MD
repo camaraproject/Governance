@@ -1,5 +1,6 @@
 | Org                    | Name                                                | Steering Committee participant |
 | -----------------------| ----------------------------------------------------|--------------------------------|
+| A1 | Manfred Moormann ||
 | Accenture | Adriano Poloni ||
 | Accenture | Giuseppe di Nuccio ||
 | amdocs | Bernard Heuse ||
@@ -144,6 +145,11 @@
 | Splunk | Khalid Ali | |
 | Splunk | Matt Olson | |
 | Splunk | Young Cho | |
+| Spry Fox Networks | Jignesh Sorathia  | |
+| Spry Fox Networks | Mike Bowring   | |
+| Spry Fox Networks | Parichaya Shrivastava   | |
+| Spry Fox Networks | Ramesh Shanmugasundaram   | |
+| Spry Fox Networks | Steven Ballantyne   | |
 | T-Mobile US | Carl Persson ||
 | T-Mobile US | Dan Sershen ||
 | T-Mobile US | Jonathan Morrow ||
