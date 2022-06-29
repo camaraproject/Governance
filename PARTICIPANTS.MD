@@ -197,5 +197,5 @@
 | Vodafone | Iván Nieto| |
 | Vodafone | Jennifer Didoni | |
 | Vodafone | Johanna Wood | Yes |
-| Vodafone | Kevin Smith | |
+| Vodafone / 5GFF | Kevin Smith | |
 | Vodafone | Steven Pater | |
