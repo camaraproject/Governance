@@ -117,6 +117,10 @@
 | Microsoft | Thorsten Kaasch ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Vaibhav Mehta ||
+| Nearby Computing | David Carrera ||
+| Nearby Computing | Monika Valdez ||
+| Nearby Computing | Oscar Trullols ||
+| Nearby Computing | Sergi Alonso ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
 | Nokia | Chris Jones | Yes |
