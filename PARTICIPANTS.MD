@@ -187,7 +187,9 @@
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Dallas Rathbone | |
 | TELUS | Jim Slevinksy | |
+| Verizon / 5GFF | Janine Grasso | Yes |
 | Verizon | Mahesh Chapalamadugu | |
+| Verizon / 5GFF | Miguel Carames | Representative |
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
 | Vodafone | Edon Orphir | |
