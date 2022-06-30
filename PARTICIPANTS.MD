@@ -192,6 +192,7 @@
 | Verizon / 5GFF | Miguel Carames | Representative |
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
+| Verizon / 5GFF | Kevin Xu | |
 | Vodafone | Edon Orphir | |
 | Vodafone | Eric Murray | |
 | Vodafone | Iván Nieto| |
