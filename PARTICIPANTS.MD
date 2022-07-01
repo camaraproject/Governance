@@ -189,11 +189,11 @@
 | TELUS | Dallas Rathbone | |
 | TELUS | Jim Slevinksy | |
 | Verizon / 5GFF | Janine Grasso | Yes |
+| Verizon / 5GFF | Kevin Xu | |
 | Verizon | Mahesh Chapalamadugu | |
 | Verizon / 5GFF | Miguel Carames | Representative |
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
-| Verizon / 5GFF | Kevin Xu | |
 | Vodafone | Edon Orphir | |
 | Vodafone | Eric Murray | |
 | Vodafone | Iván Nieto| |
