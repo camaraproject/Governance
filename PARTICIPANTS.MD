@@ -110,6 +110,7 @@
 | Mavenir | Viswanath Krishnamurthy ||
 | Microsoft | Landon Cox |Yes|
 | Microsoft | Michael Brown ||
+| Microsoft | Moushumi Ghosal ||
 | Microsoft | Ricardo Villarreal ||
 | Microsoft | Rui Carmo ||
 | Microsoft | Shawn Hakl  ||
