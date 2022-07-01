@@ -192,6 +192,7 @@
 | Verizon / 5GFF | Kevin Xu | |
 | Verizon | Mahesh Chapalamadugu | |
 | Verizon / 5GFF | Miguel Carames | Representative |
+| Verizon / 5GFF | Raghuram Parvataneni | |
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
 | Vodafone | Edon Orphir | |
