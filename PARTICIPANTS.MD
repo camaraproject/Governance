@@ -201,3 +201,5 @@
 | Vodafone | Johanna Wood | Yes |
 | Vodafone / 5GFF | Kevin Smith | |
 | Vodafone | Steven Pater | |
+| VROMBR | Frederic Thuard | |
+| VROMBR | Michael Pastor | |
