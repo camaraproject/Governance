@@ -188,11 +188,13 @@
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Dallas Rathbone | |
 | TELUS | Jim Slevinksy | |
+| Verizon | Alicia Miller | |
 | Verizon / 5GFF | Janine Grasso | Yes |
 | Verizon / 5GFF | Kevin Xu | |
 | Verizon | Mahesh Chapalamadugu | |
 | Verizon / 5GFF | Miguel Carames | Representative |
 | Verizon | Shammi Naz Amin | |
+| Verizon | Raghuram Parvataneni | |
 | Verizon | Syed A Rehman | |
 | Vodafone | Edon Orphir | |
 | Vodafone | Eric Murray | |
