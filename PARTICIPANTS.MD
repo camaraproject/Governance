@@ -108,6 +108,7 @@
 | Mavenir | Michal Sedivy ||
 | Mavenir | Tarek El-Basyouny ||
 | Mavenir | Viswanath Krishnamurthy ||
+| MEF | Daniel Bar-Lev ||
 | Microsoft | Landon Cox |Yes|
 | Microsoft | Michael Brown ||
 | Microsoft | Moushumi Ghosal ||
