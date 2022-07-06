@@ -155,6 +155,7 @@
 | Spry Fox Networks | Parichaya Shrivastava   | |
 | Spry Fox Networks | Ramesh Shanmugasundaram   | |
 | Spry Fox Networks | Steven Ballantyne   | |
+| Spry Fox Networks | Stuart Waine   | |
 | T-Mobile US | Carl Persson ||
 | T-Mobile US | Dan Sershen ||
 | T-Mobile US | Jonathan Morrow ||
