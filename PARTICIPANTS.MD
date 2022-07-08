@@ -33,6 +33,9 @@
 | China Unicom | Gao Chen | |
 | CNCF | Arpit Joshipura | |
 | CNCF | Chris Aniszczyk | |
+| CTHINGS | Arnold Wierzejski | |
+| CTHINGS | Dagna Frydrych | |
+| CTHINGS | Shreyas Vinod | |
 | Dell | Saad Sheikh | |
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
