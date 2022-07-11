@@ -84,6 +84,7 @@
 | GSMA | Henry Calvert |Yes|
 | GSMA | Mark Cornall ||
 | GSMA | Tom van Pelt ||
+| GSMA | Gemicha West ||
 | Hutchison | Sandra Ondrusova ||
 | IBM | Allison Bishop ||
 | IBM | Jason Hunt | Yes |
