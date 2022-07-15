@@ -193,8 +193,8 @@
 | Telefonica | Patricia Ventura Gomez ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Victor Barranco Fernandez ||
-| Telstra | Brett Hill | |
-| Telstra | Senthoor Punniamoorthy | |
+| Telstra / 5GFF | Brett Hill | |
+| Telstra / 5GFF | Senthoor Punniamoorthy | |
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Dallas Rathbone | |
 | TELUS | Jim Slevinksy | |
