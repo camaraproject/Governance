@@ -122,7 +122,6 @@
 | Microsoft | Rui Carmo ||
 | Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
-| Microsoft | Thorsten Kaasch ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Vaibhav Mehta ||
 | Nearby Computing | David Carrera ||
