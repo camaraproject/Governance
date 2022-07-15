@@ -56,6 +56,8 @@
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
 | Deutsche Telekom AG | Yamina Kelm ||
+| EdgeXR | Jesse Bijl ||
+| EdgeXR | Thomas Vits ||
 | Ericsson | Bart van Kaathoven |Yes|
 | Ericsson | Benedek Kovács ||
 | Ericsson | Carlos Bravo ||
