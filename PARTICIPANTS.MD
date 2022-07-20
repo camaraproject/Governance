@@ -45,6 +45,7 @@
 | Deutsche Telekom AG | Herbert Damker ||
 | Deutsche Telekom AG | Jasmin Schulmeyer ||
 | Deutsche Telekom AG | Marcin Jarcab ||
+| Deutsche Telekom AG | Mario Bodemann ||
 | Deutsche Telekom AG | Mariusz Sozanski ||
 | Deutsche Telekom AG | Markus Kümmerle | Representative |
 | Deutsche Telekom AG | Nathan Rader| Yes |
