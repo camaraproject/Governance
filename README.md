@@ -60,7 +60,7 @@ The following channels are available for discussions, feedback, and support requ
 
 | Type                     | Channel                                                |
 | ------------------------ | ------------------------------------------------------ |
-| **Issues**   | GitHub issues |
+| **Issues**   | [GitHub issues](https://github.com/camaraproject/Governance/issues/new) |
 | **Other Requests**    | <a href="mailto:markus.kuemmerle@t-systems.com" title="Email CAMARA Project Team"><img src="https://img.shields.io/badge/email-Open%20Source%20Team-green?logo=mail.ru&style=flat-square&logoColor=white"></a>   |
 
 ## How to Contribute
@@ -76,4 +76,4 @@ Our commitment to open source means that we are enabling -in fact encouraging- a
 
 ## Licensing
 
-See the respective chapter in the [Project Charter](./ProjectCharter.md).
+See the respective chapter in the [Project Charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md#intellectual-property-policy).
