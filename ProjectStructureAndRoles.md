@@ -37,7 +37,7 @@ All Sub Projects and Working Groups have to work with 4 branches to reflect the 
 - *RTR*	Branch for artefacts which are ready-to-review
 - *main*	Branch for deliverables which can be shared externally
 
-All contributions (e.g. initial files, tools, templates) to CAMARA have to be made only to the CON branch. If Project participants intend to start working on an topic first they have to copy the respective artefacts to the WIP branch. The original copy of the artefacts is kept in the CON branch.
+All contributions (e.g. initial files, tools, templates) to CAMARA have to be made only to the CON branch. If Project participants intend to start working on an topic first they have to move the respective artefacts to the WIP branch. The original copy of the artefacts is deleted in the CON branch.
 
 In the WIP branch the real work takes place. If artefacts get ready for review these have to me moved from the WIP branch to the RTR branch. The artefacts in the WIP branch have to be removed. Technically, there is no such mechanism as "moving" between branches in GitHub. So files have to be copied/created in a parallel branch and have to be deleted from the original one.
 
