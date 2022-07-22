@@ -154,7 +154,7 @@
 | ORANGE | Patrice Conil ||
 | ORANGE | Sylvain Morel |Yes|
 | ORANGE | William Diego ||
-| ORI | Jose José Domingos ||
+| ORI | José Domingos ||
 | Scenera | Andrew Wajs | |
 | Scenera | David Lee |Yes|
 | SK Telecom | Clark Park | |
