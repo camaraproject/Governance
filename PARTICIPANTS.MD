@@ -142,7 +142,7 @@
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot | Representative |
 | Nokia | Zoltan Olah ||
-| Open Sesaame | Julien McCrea ||
+| Open Sesaame | Julian McCrea ||
 | Open Sesaame | Tim Fox ||
 | ORANGE | Alexandru Ciinaru ||
 | ORANGE | Bertrand Refabert ||
