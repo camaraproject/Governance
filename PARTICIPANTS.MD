@@ -72,8 +72,8 @@
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Klaus Schneider ||
+| Ericsson | Márk László Mikecz ||
 | Ericsson | Miguel A. Garcia-Martin ||
-| Ericsson | Patrick Hofkens ||
 | Ericsson | Patrick Hofkens ||
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
