@@ -17,6 +17,7 @@
 | AWS | Ishwar Parulkar ||
 | AWS | Tetsuya Nakamura ||
 | axiata | Anthony Rodrigo ||
+| axiata | Methsiri Kumara ||
 | axiata | Namal Jayathilake ||
 | axiata | Ravi Kamalendiran ||
 | axiata | Roslind Kaur Kirpal Singh ||
