@@ -95,6 +95,7 @@
 | IBM | Allison Bishop ||
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
+| Intel | Bob Monkman ||
 | Intel | Francesc Guim ||
 | Intel | John Yates ||
 | Intel | Larry Horner ||
@@ -188,6 +189,7 @@
 | Telefonica | Alexandre Harmand ||
 | Telefonica | Aurelia Martinez Guerra ||
 | Telefonica | David Guillen ||
+| Telefonica | Carlos Medina Gonzalez ||
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Jesus Martin ||
 | Telefonica | Jose A Ordonez Lucena | Representative |
