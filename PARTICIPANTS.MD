@@ -213,6 +213,7 @@
 | Verizon | Raghuram Parvataneni | |
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
+| Vodafone | David Frankland | |
 | Vodafone | Edon Orphir | |
 | Vodafone | Eric Murray | |
 | Vodafone | Iván Nieto| |
