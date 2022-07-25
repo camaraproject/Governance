@@ -6,12 +6,12 @@
 </h1>
 
 <p align="center">
-    <!---
-     The below 2 shields will become functional when repo is made public later
-    <a href="/../../commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/camaraproject/repo_main?style=flat"></a>
-    <a href="/../../issues" title="Open Issues"><img src="https://img.shields.io/github/issues/camaraproject/repo_main?style=flat"></a>
-    -->
-    <a href="https://opensource.org/licenses/Apache-2.0" title="License"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg?style=flat"></a>
+<a href="https://github.com/camaraproject/Governance/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/camaraproject/Governance?style=plastic"></a>
+<a href="https://github.com/camaraproject/Governance/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/camaraproject/Governance?style=plastic"></a>
+<a href="https://github.com/camaraproject/Governance/pulls" title="Open Pull Requests"><img src="https://img.shields.io/github/issues-pr/camaraproject/Governance?style=plastic"></a>
+<a href="https://github.com/camaraproject/Governance/graphs/contributors" title="Contributors"><img src="https://img.shields.io/github/contributors/camaraproject/Governance?style=plastic"></a>
+<a href="https://github.com/camaraproject/Governance" title="Repo Size"><img src="https://img.shields.io/github/repo-size/camaraproject/Governance?style=plastic"></a>
+<a href="https://github.com/camaraproject/Governance/blob/main/documentation/LICENSE.APACHE2.0" title="License"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg?style=plastic"></a>
 </p>
 
 <p align="center">
