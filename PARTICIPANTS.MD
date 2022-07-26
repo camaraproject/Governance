@@ -11,6 +11,7 @@
 | AT&T | Barry Elia |Representative|
 | AT&T | Bill Knotts ||
 | AT&T | Brian Freeman ||
+| AT&T | Dan Druta ||
 | AT&T | Michael Raftelis ||
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
