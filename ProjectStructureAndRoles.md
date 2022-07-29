@@ -29,21 +29,24 @@ All Working Groups are documented in one GitHub repository “WorkingGroups” w
 
 As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, and the contributions to Working Groups were documented in the GitHub repository “WorkingGroups”. All contributions beyond that, esp. contributions to the Project itself or the the Steering Committee are documented in the GitHub repository “Governance”.
 
-**Use branches to reflect the artefact status**
+**Changes and contributions to CAMARA**
 
-All Sub Projects and Working Groups have to work with 4 branches to reflect the status of the artefacts (API descriptions, API code, documentation, etc.):
-- *CON*	Branch for contributions
-- *WIP*	Branch for work-in-progress
-- *RTR*	Branch for artefacts which are ready-to-review
-- *main*	Branch for deliverables which can be shared externally
+In the Project the “Fork and pull model” is used. Changes and contributions to CAMARA shall follow this process:
 
-All contributions (e.g. initial files, tools, templates) to CAMARA have to be made only to the CON branch. If Project participants intend to start working on an topic first they have to move the respective artefacts to the WIP branch. The original copy of the artefacts is deleted in the CON branch.
+1 All changes / contributions shall start with an issue to which initial documents, API definitions or code can be attached. The issue should be discussed in the community before to work out the best form of action. By means of the issue the traceability of the contributions to CAMARA is also ensured. In addition as general rule there shall be no (later) pull request without an issue (except minor corrections, to be label as “minor”).
 
-In the WIP branch the real work takes place. If artefacts get ready for review these have to me moved from the WIP branch to the RTR branch. The artefacts in the WIP branch have to be removed. Technically, there is no such mechanism as "moving" between branches in GitHub. So files have to be copied/created in a parallel branch and have to be deleted from the original one.
+2 Either the issue creator or one of the Sub Project Maintainers then shall assign the issue to one of the Contributors of the Sub Project.
 
-In the RTR branch the review and inclusion of findings takes place. If artefacts are accepted by the Sub Project or Working Group these have to be moved/merged to the main branch. The artefacts on the RTR branch have to be removed.
+3 This Contributor shall create a fork (if necessary), shall create a new branch, and shall copy the branch link into the issue. For the naming of the branch a clear and concrete description shall be used.
 
-For copying/moving/merging changes into a branch pull requests have to be initiated. For these pull requests a standardized naming *target-branch_target-subject_user* shall be used.
+Now he can work on the solution and add commits to the branch. If he’s done with the work the Contributor shall create a pull request, copy the pull request link into the issue and vice versa and add the commits to the pull request. For the naming of the pull request a clear and concrete description shall be used.
+
+4 The Contributor now shall invite other Sub Project Contributors to review the pull request. He shall invite at least 2 Maintainers from different companies and all Codeowners of the Sub Project. Only the initial Contributor should edit a pull request in review (he is responsible to react on comments) or allow other Contributors explicitly to commit into the pull request.
+
+5 The pull request shall be approved by all Contributors included in the review. For conflicting cases rules will be defined later. A two days cool off period after the approval shall be kept.
+
+6 Finally one of the Codeowners of the Sub Project shall merge the pull request into the main branch. By that he closes the pull request. He also shall close the branch and the issue (if not already automatically done).
+Deliverables of the Sub Project are all artefacts in the main branch.
 
 **Mailing list**
 
