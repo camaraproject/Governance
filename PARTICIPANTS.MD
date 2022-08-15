@@ -1,5 +1,6 @@
 | Org                    | Name                                                | Steering Committee participant |
 | -----------------------| ----------------------------------------------------|--------------------------------|
+| A1 | Arnold Pfeiffer ||
 | A1 | Manfred Moormann ||
 | Accenture | Adriano Poloni ||
 | Accenture | Giuseppe di Nuccio ||
