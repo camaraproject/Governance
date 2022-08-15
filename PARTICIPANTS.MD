@@ -136,7 +136,6 @@
 | Nearby Computing | Sergi Alonso ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
-| Nokia | Chris Jones | Yes |
 | Nokia | Daniel Bedekovich | |
 | Nokia | Gergely Csatari ||
 | Nokia | Jean-Marie Calmel ||
