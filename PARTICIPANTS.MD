@@ -137,13 +137,13 @@
 | Nearby Computing | Sergi Alonso ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
-| Nokia | Chris Jones | |
+| Nokia | Chris Jones | Representative |
 | Nokia | Daniel Bedekovich | |
 | Nokia | Gergely Csatari ||
 | Nokia | Jean-Marie Calmel ||
 | Nokia | Marc Erhardt ||
 | Nokia | Rene Saathoff ||
-| Nokia | Tanja de Groot | Representative |
+| Nokia | Tanja de Groot | Yes |
 | Nokia | Zoltan Olah ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Tim Fox ||
