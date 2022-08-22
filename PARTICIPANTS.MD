@@ -113,6 +113,7 @@
 | KDDI | Bo Ribbing |  |
 | KDDI | Brian Vaughn |  |
 | KDDI | Toshiyasu Wakayama | Yes |
+| KDDI | Yusuke Nakano |  |
 | Mavenir | Ananth Kollipara ||
 | Mavenir | Ashok Khuntia ||
 | Mavenir | Dejan Leskaroski ||
