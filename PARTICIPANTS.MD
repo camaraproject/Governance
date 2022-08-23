@@ -197,7 +197,6 @@
 | Telefonica | Juan Carlos Garcia | Yes |
 | Telefonica | Luis Diaz Martin ||
 | Telefonica | Miguel Alejandro Hernández ||
-| Telefonica | Oscar Garcia Canton ||
 | Telefonica | Patricia Ventura Gomez ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Victor Barranco Fernandez ||
