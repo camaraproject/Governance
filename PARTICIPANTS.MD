@@ -13,6 +13,7 @@
 | AT&T | Bill Knotts ||
 | AT&T | Brian Freeman ||
 | AT&T | Dan Druta ||
+| AT&T | Gervais-Martial Ngueko ||
 | AT&T | Michael Raftelis ||
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
