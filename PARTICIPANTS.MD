@@ -25,7 +25,7 @@
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Viranga Seneviratne ||
 | Bell Canada | Bozidar Pasagic | |
-| Bell Canada | Daniel Bernier | |
+| Bell Canada | Juan Esquivel | |
 | Bell Canada | Marc-Alexandre Choquette ||
 | British Telecom | Milan Lalovic | |
 | Broadpeak | Christoph Neumann |  |
