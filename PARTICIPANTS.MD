@@ -27,7 +27,9 @@
 | axiata | Viranga Seneviratne ||
 | Bell Canada | Bozidar Pasagic | |
 | Bell Canada | Juan Esquivel | |
+| Bell Canada | Karen Meulenkamp | |
 | Bell Canada | Marc-Alexandre Choquette ||
+| Bell Canada | Sean Garagan | |
 | British Telecom | Milan Lalovic | |
 | Broadpeak | Christoph Neumann |  |
 | Broadpeak | Guillaume Bichot |  |
