@@ -125,6 +125,12 @@
 | Mavenir | Tarek El-Basyouny ||
 | Mavenir | Viswanath Krishnamurthy ||
 | MEF | Daniel Bar-Lev ||
+| Meta | Bhartendu Chaurasia ||
+| Meta | Diego Marí Moretón ||
+| Meta | Bhabani Panda ||
+| Meta | Rehan Siddiqui ||
+| Meta | Ulas Kozat ||
+| Meta | Xinli Hou ||
 | Microsoft | Landon Cox |Yes|
 | Microsoft | Michael Brown ||
 | Microsoft | Moushumi Ghosal ||
