@@ -100,6 +100,10 @@
 | IBM | Allison Bishop ||
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
+| Infobib | Joe Murphy ||
+| Infobib | John Murtagh ||
+| Infobib | Kosta Pribic ||
+| Infobib | Kwok Onn Looi ||
 | Intel | Bob Monkman ||
 | Intel | Francesc Guim ||
 | Intel | John Yates ||
