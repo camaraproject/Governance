@@ -62,7 +62,6 @@
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
-| Deutsche Telekom AG | Yamina Kelm ||
 | EdgeXR | Jesse Bijl ||
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
