@@ -57,6 +57,7 @@
 | Deutsche Telekom AG | Noel Wirzius ||
 | Deutsche Telekom AG | Pablo Brito ||
 | Deutsche Telekom AG | Piotr Wesolowski ||
+| Deutsche Telekom AG | Prashant Goswami ||
 | Deutsche Telekom AG | Shilpa Padgaonkar ||
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
@@ -234,4 +235,3 @@
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
-| Deutsche Telekom AG | Prashant Goswami ||
