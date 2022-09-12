@@ -62,6 +62,7 @@
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
+| DriveU | Eli ??? ||
 | EdgeXR | Jesse Bijl ||
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
