@@ -2,6 +2,7 @@
 | -----------------------| ----------------------------------------------------|--------------------------------|
 | A1 | Arnold Pfeiffer ||
 | A1 | Manfred Moormann ||
+| A1 | Thomas Walzer ||
 | Accenture | Adriano Poloni ||
 | Accenture | Giuseppe di Nuccio ||
 | amdocs | Bernard Heuse ||
