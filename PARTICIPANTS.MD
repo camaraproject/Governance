@@ -232,7 +232,6 @@
 | Vodafone | Edon Orphir | |
 | Vodafone | Eric Murray | |
 | Vodafone | Iván Nieto| |
-| Vodafone | Jennifer Didoni | |
 | Vodafone | Johanna Wood | Yes |
 | Vodafone / 5GFF | Kevin Smith | |
 | Vodafone | Steven Pater | |
