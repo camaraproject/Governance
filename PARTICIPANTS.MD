@@ -35,6 +35,9 @@
 | Broadpeak | Christoph Neumann |  |
 | Broadpeak | Guillaume Bichot |  |
 | Broadpeak | Tuan Tran |  |
+| Cablelabs | Mark Bridges |  |
+| Cablelabs | Paul Fonte |  |
+| Cablelabs | Philip Rosenberg-Watt |  |
 | Capgemini | Deepak A. Gunjal |  |
 | Capgemini | Shamik Mishra | Yes  |
 | China Unicom | Gao Chen | |
