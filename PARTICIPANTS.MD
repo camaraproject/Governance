@@ -135,8 +135,10 @@
 | Mavenir | Viswanath Krishnamurthy ||
 | MEF | Daniel Bar-Lev ||
 | Meta | Bhartendu Chaurasia ||
+| Meta | Dennis Punjabi ||
 | Meta | Diego Marí Moretón ||
 | Meta | Bhabani Panda ||
+| Meta | Pushkar Raj ||
 | Meta | Rehan Siddiqui ||
 | Meta | Ulas Kozat ||
 | Meta | Xinli Hou ||
