@@ -213,6 +213,7 @@
 | Telefonica | Carlos Medina Gonzalez ||
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Jesus Martin ||
+| Telefonica | Jesús Peña García-Oliva ||
 | Telefonica | Jose A Ordonez Lucena | Representative |
 | Telefonica | Juan Carlos Garcia | Yes |
 | Telefonica | Luis Diaz Martin ||
