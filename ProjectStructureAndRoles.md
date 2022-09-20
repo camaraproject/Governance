@@ -42,7 +42,7 @@ In the Project the “Fork and pull model” is used. Changes and contributions 
 
 3 This Contributor shall create a fork (if necessary), shall create a new branch, and shall copy the branch link into the issue. For the naming of the branch a clear and concrete description shall be used.
 
-Now he can work on the solution and add commits to the branch. If he’s done with the work the Contributor shall create a pull request, copy the pull request link into the issue and vice versa and add the commits to the pull request. For the naming of the pull request a clear and concrete description shall be used.
+Now they can work on the solution and add commits to the branch. If they are done with the work the Contributor shall create a pull request, refer the addressed issue(s) in the pull request description and add the commits to the pull request. For the naming of the pull request a clear and concrete description shall be used.
 
 4 The Contributor now shall invite other Sub Project Contributors to review the pull request. He shall invite at least 2 Maintainers from different companies and all Codeowners of the Sub Project. Only the initial Contributor should edit a pull request in review (he is responsible to react on comments) or allow other Contributors explicitly to commit into the pull request.
 
