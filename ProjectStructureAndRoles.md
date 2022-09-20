@@ -17,7 +17,7 @@ Each Sub Project must have a README.MD file (with a description of the Sub Proje
 
 Some Sub Projects may have distinct (although sometimes overlapping) sets of Contributors, Codeowners and Maintainers.
 
-As document standard only Markdown format shall be used. Only exception are supporting documents, for these other formats like PDF or PPT are allowed.
+As document standard for documents in the main branch of Sub Projects only Markdown format shall be used. Only exception are supporting documents, for these other formats like PDF or PPT are allowed (Note: Documents which are meant as base for discussion or to explain change requests are best attached to an issue).
 
 Where a Sub Project has a release process, access and documentation should be such that more than one person can perform a release. Releases should be announced on the CAMARA Project mailing list.
 
