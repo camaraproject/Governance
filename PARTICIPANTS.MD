@@ -101,7 +101,6 @@
 | GSMA | Mark Cornall ||
 | GSMA | Tom van Pelt ||
 | Hutchison | Sandra Ondrusova ||
-| IBM | Allison Bishop ||
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
 | Infobib | Joe Murphy ||
@@ -126,7 +125,6 @@
 | KDDI | Brian Vaughn |  |
 | KDDI | Toshiyasu Wakayama | Yes |
 | KDDI | Yusuke Nakano |  |
-| Mavenir | Ananth Kollipara ||
 | Mavenir | Ashok Khuntia ||
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
