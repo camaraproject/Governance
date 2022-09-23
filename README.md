@@ -67,7 +67,7 @@ The Steering Committee is the oversight body for the CAMARA Project. The Steerin
 | Scenera	| David Lee |
 | T-Mobile US	| Lyle Bertz |
 | Telecom Italia	| Roberto Procopio (Fabrizio Moggio) |
-| Telefonica	| Juan Carlos Garcia (Jose A Ordonez Lucena) |
+| Telefonica	| Juan Carlos Garcia (Jose Ordonez Lucena) |
 | TELUS	| Ali Tizghadam (Shalin Hudda) |
 | Vodafone	| Steven Pater (Johanna Wood) |
 
