@@ -159,7 +159,6 @@
 | Nokia | Chris Jones | Representative |
 | Nokia | Daniel Bedekovich | |
 | Nokia | Gergely Csatari ||
-| Nokia | Jean-Marie Calmel ||
 | Nokia | Marc Erhardt ||
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot | Yes |
