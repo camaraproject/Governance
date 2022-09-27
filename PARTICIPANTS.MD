@@ -124,7 +124,8 @@
 | Kandy | Ralph Page | Representative |
 | KDDI | Bo Ribbing |  |
 | KDDI | Brian Vaughn |  |
-| KDDI | Toshiyasu Wakayama | Yes |
+| KDDI | Shingo Watanabe | Yes |
+| KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
 | Mavenir | Ashok Khuntia ||
 | Mavenir | Dejan Leskaroski ||
