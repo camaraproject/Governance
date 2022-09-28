@@ -104,10 +104,10 @@
 | Hutchison | Sandra Ondrusova ||
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
-| Infobib | Joe Murphy ||
-| Infobib | John Murtagh ||
-| Infobib | Kosta Pribic ||
-| Infobib | Kwok Onn Looi ||
+| Infobip | Joe Murphy ||
+| Infobip | John Murtagh ||
+| Infobip | Kosta Pribic ||
+| Infobip | Kwok Onn Looi ||
 | Intel | Bob Monkman ||
 | Intel | Francesc Guim ||
 | Intel | John Yates ||
