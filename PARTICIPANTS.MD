@@ -216,6 +216,7 @@
 | Telefonica | Jose A Ordonez Lucena | Representative |
 | Telefonica | Juan Carlos Garcia | Yes |
 | Telefonica | Luis Diaz Martin ||
+| Telefonica | Maria Virtudes Briz Ruiz ||
 | Telefonica | Miguel Alejandro Hernández ||
 | Telefonica | Patricia Ventura Gomez ||
 | Telefonica | Ruben Barrado Gonzalez ||
