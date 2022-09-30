@@ -26,6 +26,12 @@
 | axiata | Ravi Kamalendiran ||
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Viranga Seneviratne ||
+| BearingPoint | Adam Kowalczyk ||
+| BearingPoint | Carsten Aue ||
+| BearingPoint | Julius Hafer ||
+| BearingPoint | Marcel Tietjen ||
+| BearingPoint | Nicolas Deyle ||
+| BearingPoint | Tobias Bothur ||
 | Bell Canada | Bozidar Pasagic | |
 | Bell Canada | Juan Esquivel | |
 | Bell Canada | Karen Meulenkamp | |
