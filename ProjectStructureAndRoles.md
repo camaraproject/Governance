@@ -13,9 +13,11 @@ Areas covered by Sub Projects may be vertically focused on particular Service AP
 
 Each Sub Project is documented in a separate repository.
 
-Each Sub Project must have a README.MD file (with a description of the Sub Project), a CODEOWNERS and a MAINTAINERS.MD file. A Sub Project should have at least one Maintainer. Ideally a SubProject is managed by two or more Maintainers, depending on the size and scope of the Sub Project. Here, the responsibilities must be clearly agreed upon between all of the Maintainers. This includes coordinating who is responsible for which issues and pull requests. The Contributors to a Sub Project are recorded by the mechanisms of GitHub in the Sub Project’s repository. Each Contributor, Codeowner and Maintainer should also be listed in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file in the root directory. Each Sub Project should have a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and subdirectories /documentation, /code/API_code and /code/API_definitions. Writing permission to a Sub Project only codeowners should have.
+Each Sub Project must have a README.MD file (with a description of the Sub Project), a CODEOWNERS and a MAINTAINERS.MD file. A Sub Project should have at least one Maintainer. Ideally a Sub Project is managed by two or more Maintainers, depending on the size and scope of the Sub Project. Here, the responsibilities must be clearly agreed upon between all of the Maintainers. This includes coordinating who is responsible for which issues and pull requests. The Contributors to a Sub Project are recorded by the mechanisms of GitHub in the Sub Project’s repository. Each Contributor, Codeowner and Maintainer should also be listed in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file in the Governance repository root directory. Each Sub Project should have a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and subdirectories /documentation/API_documentation, /documentation/Meeting_Minutes, /documentation/Supporting_Documents, /code/API_code and /code/API_definitions. Writing permission to a Sub Project only codeowners should have.
 
 Some Sub Projects may have distinct (although sometimes overlapping) sets of Contributors, Codeowners and Maintainers.
+
+As document standard for documents in the main branch of Sub Projects only Markdown format shall be used. Only exception are supporting documents, for these other formats like PDF or PPT are allowed (Note: Documents which are meant as base for discussion or to explain change requests are best attached to an issue).
 
 Where a Sub Project has a release process, access and documentation should be such that more than one person can perform a release. Releases should be announced on the CAMARA Project mailing list.
 
@@ -29,21 +31,25 @@ All Working Groups are documented in one GitHub repository “WorkingGroups” w
 
 As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, and the contributions to Working Groups were documented in the GitHub repository “WorkingGroups”. All contributions beyond that, esp. contributions to the Project itself or the the Steering Committee are documented in the GitHub repository “Governance”.
 
-**Use branches to reflect the artefact status**
+**Changes and contributions to CAMARA**
 
-All Sub Projects and Working Groups have to work with 4 branches to reflect the status of the artefacts (API descriptions, API code, documentation, etc.):
-- *CON*	Branch for contributions
-- *WIP*	Branch for work-in-progress
-- *RTR*	Branch for artefacts which are ready-to-review
-- *main*	Branch for deliverables which can be shared externally
+In the Project the “Fork and pull model” is used. Changes and contributions to CAMARA shall follow this process:
+![PR_Approval_Process](/documentation/ressources/PR_Approval_Process.png)
 
-All contributions (e.g. initial files, tools, templates) to CAMARA have to be made only to the CON branch. If Project participants intend to start working on an topic first they have to move the respective artefacts to the WIP branch. The original copy of the artefacts is deleted in the CON branch.
+1 All changes / contributions shall start with an issue to which initial documents, API definitions or code can be attached. The issue should be discussed in the Sub Project community before to work out the best form of action. By means of the issue the traceability of the contributions to CAMARA is also ensured. In addition as general rule there shall be no (later) pull request without a reference to an issue (except minor corrections, to be label as “minor”).
 
-In the WIP branch the real work takes place. If artefacts get ready for review these have to me moved from the WIP branch to the RTR branch. The artefacts in the WIP branch have to be removed. Technically, there is no such mechanism as "moving" between branches in GitHub. So files have to be copied/created in a parallel branch and have to be deleted from the original one.
+2 Either the issue creator or one of the Sub Project Maintainers then shall assign the issue to one of the Contributors of the Sub Project.
 
-In the RTR branch the review and inclusion of findings takes place. If artefacts are accepted by the Sub Project or Working Group these have to be moved/merged to the main branch. The artefacts on the RTR branch have to be removed.
+3 This Contributor shall create a fork (if necessary), shall create a new branch, and shall copy the branch link into the issue. For the naming of the branch a clear and concrete description shall be used.
 
-For copying/moving/merging changes into a branch pull requests have to be initiated. For these pull requests a standardized naming *target-branch_target-subject_user* shall be used.
+Now they can work on the solution and add commits to the branch. If they are done with the work the Contributor shall create a pull request, refer the addressed issue(s) in the pull request description (and vice versa) and add the commits to the pull request. For the naming of the pull request a clear and concrete description shall be used.
+
+4 The Contributor now shall invite other Sub Project Contributors to review the pull request. The Contributor shall invite at least 2 Maintainers from different companies and all Codeowners of the Sub Project. As default all Maintainers and all Codeowners shall be invited as reviewers. Only the initial Contributor should edit a pull request in review (the Contributor is responsible to react on comments) or allow other Contributors explicitly to commit into the pull request.
+
+5 The pull request shall be approved by all Contributors included in the review within a 2 weeks period. If a Contributor doesn't perform a review within that time frame the Contributor automatically accepts the pull request. For conflicting cases rules will be defined later. A two days cool off period after the approval shall be kept.
+
+6 Finally one of the Codeowners of the Sub Project shall merge the pull request into the main branch. By that the Codeowner closes the pull request. The Codeowner also shall close the branch and the issue (if not already automatically done).
+Deliverables of the Sub Project are all artefacts in the main branch.
 
 **Mailing list**
 
