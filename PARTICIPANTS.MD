@@ -23,6 +23,7 @@
 | axiata | Anthony Rodrigo ||
 | axiata | Methsiri Kumara ||
 | axiata | Namal Jayathilake ||
+| axiata | Nipun Hevavitharana ||
 | axiata | Ravi Kamalendiran ||
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Viranga Seneviratne ||
