@@ -176,7 +176,9 @@
 | ORANGE | Alexandru Ciinaru ||
 | ORANGE | Bertrand Refabert ||
 | ORANGE | Delsart Gwenaelle ||
+| ORANGE | Frederic Fieau ||
 | ORANGE | Guillaume Nevicato||
+| ORANGE | Jean Luc Sire ||
 | ORANGE | Jerome Larrode ||
 | ORANGE | Julien Giannandrea ||
 | ORANGE | Olivier Mathieu ||
