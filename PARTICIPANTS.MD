@@ -125,7 +125,6 @@
 | Intel | Petar Torre | Yes |
 | Kandy | Andy Lee |  |
 | Kandy | Fatih Demirel |  |
-| Kandy | Meron El Paz |  |
 | Kandy | Michael Leeder |  |
 | Kandy | Philip Lintell | Yes |
 | Kandy | Ralph Page | Representative |
