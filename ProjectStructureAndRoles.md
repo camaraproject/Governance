@@ -51,7 +51,7 @@ Now they can work on the solution and add commits to the branch. If they are don
 6 Finally one of the Codeowners of the Sub Project shall merge the pull request into the main branch. By that the Codeowner closes the pull request. The Codeowner also shall close the branch and the issue (if not already automatically done).
 Deliverables of the Sub Project are all artefacts in the main branch.
 
-More details can be found in the [CONTRIBUTING.MD](CONTRIBUTING.MD).
+More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md).
 
 **Mailing list**
 
