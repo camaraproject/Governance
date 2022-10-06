@@ -2,19 +2,23 @@
 
 ## Code of conduct
 
-All participants of the project community must abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) derived from [Contributor Covenant](https://www.contributor-covenant.org/). Only by respecting each other can we develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting _project email address_ and/or a project maintainer.
+All participants of the CAMARA Project must abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) derived from [Contributor Covenant](https://www.contributor-covenant.org/). Only by respecting each other can we develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting _project email address_ and/or a Project maintainer.
 
-We appreciate your courtesy of avoiding political questions here. Issues which are not related to the project itself will be closed by our community managers.
+We appreciate your courtesy of avoiding political questions here. Issues which are not related to the project itself will be closed by our Project maintainers.
 
 ## Engaging in our project
 
-We use GitHub to manage reviews of pull requests.
+The process how contributions are progressed in CAMARA is defined in [ProjectStructureAndRoles.md](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md#project-structure). In the present document you can find some detailed information.
 
-* If you have a trivial fix or improvement, go ahead and create a pull request, addressing (with `@...`) a suitable maintainer of this repository (see [CODEOWNERS](./CODEOWNERS) or the specific MAINTAINERS.MD file of the sub-project you want to contribute to) in the description of the pull request.
+If you need a general basic and friendly introduction to git and GitHub, you are encouraged to watch the [GitHub for poets](https://www.youtube.com/watch?v=BCQHnlnPusY) series.
 
-* If you plan to do something more involved, please reach out to us and send an email to _project email address_. This will avoid unnecessary work and surely give you and us a good deal of inspiration.
+The starting point of any contribution should be an issue or a pull request:
 
-* Relevant coding style guidelines are available in the respective sub-repositories as they are programming language-dependent.
+* If you have a trivial fix or improvement, go ahead and create a pull request, addressing (with `@...`) a suitable maintainer of the respective repository (see the specific CODEOWNERS or MAINTAINERS.MD file of the Sub Project you want to contribute to) in the description of the pull request.
+
+*	If you have a bigger change then please open an issue in the respective repository and put in all initial documents.
+
+*	If you are unsure, please reach out to the Sub Project community. This will avoid unnecessary work and surely give you and us a good deal of inspiration.
 
 ## Steps to Contribute
 
