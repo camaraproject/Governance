@@ -173,7 +173,6 @@
 | Nokia | Zoltan Olah ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Tim Fox ||
-| ORANGE | Alexandru Ciinaru ||
 | ORANGE | Bertrand Refabert ||
 | ORANGE | Delsart Gwenaelle ||
 | ORANGE | Frederic Fieau ||
