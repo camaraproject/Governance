@@ -50,11 +50,11 @@ The following rule governs documentation contributions:
 
 * At least if you add a new documentation to the repository, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file or send an onboarding email to _project email address_.
 
-## Branches
+## Creating Branches
 
 Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of our repository. If you need a friendly video introduction to git branching, please try [part two of "GitHub for Poets"](https://www.youtube.com/watch?v=oPpnCh7InLY) on Youtube, you may also read GitHub's ["Creating and deleting branches within your repository"](https://docs.github.com/en/articles/creating-and-deleting-branches-within-your-repository) for a deep dive.
 
-## Pull Requests
+## Creating Pull Requests
 
 For adding modifications to a branch in CAMARA, a pull request has to be initiated. When you open a pull request, you're proposing your changes and requesting that someone reviews and pulls in your contribution and merges them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in different colors.
 
