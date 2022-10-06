@@ -10,7 +10,7 @@ We appreciate your courtesy of avoiding political questions here. Issues which a
 
 The process how contributions are progressed in CAMARA is defined in [ProjectStructureAndRoles.md](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md#project-structure). In the present document you can find some detailed information.
 
-If you need a general basic and friendly introduction to git and GitHub, you are encouraged to watch the [GitHub for poets](https://www.youtube.com/watch?v=BCQHnlnPusY) series.
+If you need a general basic and friendly introduction to git and GitHub, you are encouraged to watch the ["GitHub for poets"](https://www.youtube.com/watch?v=BCQHnlnPusY) series.
 
 The starting point of any contribution should be an issue or a pull request:
 
@@ -20,13 +20,15 @@ The starting point of any contribution should be an issue or a pull request:
 
 *	If you are unsure, please reach out to the Sub Project community. This will avoid unnecessary work and surely give you and us a good deal of inspiration.
 
-## Steps to Contribute
+## Working on issues
 
 Should you wish to work on an issue, please claim it first by commenting on the GitHub issue that you want to work on. This is to prevent duplicated efforts from other contributors on the same issue.
 
 If you have questions about one of the issues, please comment on them, and one of the maintainers will clarify.
 
-We kindly ask you to follow the [Pull Request Checklist](#Pull-Request-Checklist) to ensure reviews can happen accordingly.
+Please provide as much context as possible when you open an issue. The information you provide must be comprehensive enough to reproduce that issue for the assignee. Therefore, contributors may use but aren't restricted to the issue template provided by the project maintainers.
+
+Please apply one or more applicable labels to your issue so that all community members are able to cluster the issues better. This applies especially for the Working Groups repository, please add the label of the Working Group to the issue.
 
 ## Contributing Code
 
@@ -35,8 +37,8 @@ You are welcome to contribute code in order to fix a bug or to implement a new f
 The following rule governs code contributions:
 
 * Contributions must be licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
-* Newly created files must be opened by an instantiated version to the file 'templates/file-header.txt'
-* At least if you add a new file to the repository, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file.
+* Newly created files must be opened by an instantiated version to the [file-header.txt](https://github.com/camaraproject/Governance/blob/main/declarations/templates/file-header.txt).
+* At least if you add a new file to the repository, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file or send an onboarding email to _project email address_.
 
 ## Contributing Documentation
 
@@ -46,7 +48,26 @@ The following rule governs documentation contributions:
 
 * Contributions must be licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
-At least if you add a new documentation to the repository, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file.
+At least if you add a new documentation to the repository, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file or send an onboarding email to _project email address_.
+
+## Branches
+
+Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of our repository. If you need a friendly video introduction to git branching, please try [part two of "GitHub for Poets"](https://www.youtube.com/watch?v=oPpnCh7InLY) on Youtube, you may also read GitHub's ["Creating and deleting branches within your repository"](https://docs.github.com/en/articles/creating-and-deleting-branches-within-your-repository) for a deep dive.
+
+## Pull Requests
+
+For adding modifications to a branch in CAMARA, a pull request has to be initiated. When you open a pull request, you're proposing your changes and requesting that someone reviews and pulls in your contribution and merges them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in different colors.
+
+Anyone with read access to a repository can create a pull request. You can specify which branch you'd like to merge your changes into when you create your pull request. You can link a pull request to an issue to show that a fix is in progress and to automatically close the issue when someone merges the pull request (see ["Linking a pull request to an issue"](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)).
+
+By using GitHub's @mention feature in your pull request message, you can ask for feedback from specific people.
+
+For more information on pull requests watch the third episode of ["GitHub for Poets"](https://www.youtube.com/watch?v=_NrSWLQsDL4). For a deep dive, see GitHub's docs:
+*	[About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+*	[Propose changes](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
+*	[Collaborate with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
+
+We kindly ask you to follow the [Pull Request Checklist](#Pull-Request-Checklist) to ensure reviews can happen accordingly.
 
 ## Pull Request Checklist
 
@@ -56,22 +77,10 @@ At least if you add a new documentation to the repository, add your name into th
 
 * Test your changes as thoroughly as possible before you commit them. Preferably, automate your test by unit/integration tests. If tested manually, provide information about the test scope in the PR description (e.g. “Test passed: Upgrade version from 0.42 to 0.42.23.”).
 
-* Create _Work In Progress [WIP]_ pull requests only if you need clarification or an explicit review before you can continue your work item.
-
-* If your patch is not getting reviewed or you need a specific person to review it, you can @-reply a reviewer asking for a review in the pull request or a comment, or you can ask for a review by contacting us via _project email address_.
+* If your patch is not getting reviewed or you need a specific person to review it, you can @-reply a reviewer asking for a review in the pull request or a comment, or you can ask for a review by contacting the Sub Project community.
 
 * Post review:
   * If a review requires you to change your commit(s), please test the changes again.
   * Amend the affected commit(s) and force push onto your branch.
   * Set respective comments in your GitHub review to resolved.
   * Create a general PR comment to notify the reviewers that your amendments are ready for another round of review.
-
-## Issues and Planning
-
-* We use GitHub issues to track bugs and enhancement requests.
-
-* Please provide as much context as possible when you open an issue. The information you provide must be comprehensive enough to reproduce that issue for the assignee. Therefore, contributors may use but aren't restricted to the issue template provided by the project maintainers.
-
-* When creating an issue, try using one of our issue templates which already contain some guidelines on which content is expected to process the issue most efficiently. If no template applies, you can of course also create an issue from scratch.
-
-* Please apply one or more applicable labels to your issue so that all community members are able to cluster the issues better.
