@@ -53,7 +53,7 @@ Deliverables of the Sub Project are all artefacts in the main branch.
 
 **Mailing list**
 
-A Project mailing list is established, each Project participant documented in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is added.
+A Project mailing list is established, each Project participant documented in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is added. A message to all Project participants can be sent using <all@lists.camaraproject.org>.
 
 ## Roles, Responsibilities and Requirements
 
@@ -69,9 +69,9 @@ To be listed in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is prerequisite for getting
 
 **Changes in Project participantship**
 
-A new Project participant can get Project participantship by adding his name to the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file of the Project. Changes in Project participantship have to be announced on the CAMARA Project mailing list by the new participant. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy).
+A new Project participant can get Project participantship by sending a message to <all+subscribe@lists.camaraproject.org>. Changes in Project participantship have to be announced on the CAMARA Project mailing list by the new participant. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy).
 
-A Project participant may resign by notifying the team mailing list and removing his name of the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file. A Project participant with no project activity for a year is considered to have resigned. Project participants that wish to resign are encouraged to propose another Project participant to take over their project work.
+A Project participant may resign by notifying the team mailing list and by sending a message to <all+unsubscribe@lists.camaraproject.org>. A Project participant with no project activity for a year is considered to have resigned. Project participants that wish to resign are encouraged to propose another Project participant to take over their project work.
 
 **Working Group participants**
 
@@ -139,7 +139,7 @@ Send an email to the CAMARA Project mailing list with your motion. If there is n
 
 **How do I become a Project participant?**
 
-To become an official Project participant, you should intend to make ongoing contributions to one or more Sub Project(s). At that point you simply have to add your name to the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file of the Project and announce it on the Project mailing list. A possible, but not required, graduation path is to become a Codeowner or a Maintainer later.
+To become an official Project participant, you should intend to make ongoing contributions to one or more Sub Project(s). At that point you simply have to send a message to <all+subscribe@lists.camaraproject.org> and announce it on the Project mailing list. A possible, but not required, graduation path is to become a Codeowner or a Maintainer later.
 
 **How do I add a Sub Project?**
 
@@ -155,4 +155,4 @@ A Maintainer may resign by notifying the Project mailing list and remove his nam
 
 **How do I remove a Project participant?**
 
-Project participants may resign by notifying the Project mailing list and removing their names from [PARTICIPANTS.MD](./PARTICIPANTS.MD).
+Project participants may resign by notifying the Project mailing list and sending a message to <all+unsubscribe@lists.camaraproject.org>.
