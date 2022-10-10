@@ -38,7 +38,7 @@ The following rule governs code contributions:
 
 * Contributions must be licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
 * Newly created files must be opened by an instantiated version to the [file-header.txt](https://github.com/camaraproject/Governance/blob/main/declarations/templates/file-header.txt).
-* At least if you add a new file to the repository, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file or send an onboarding email to _project email address_.
+* At least if you add a new file to the repository, send an onboarding email to <all+subscribe@lists.camaraproject.org>.
 
 ## Contributing Documentation
 
@@ -48,7 +48,7 @@ The following rule governs documentation contributions:
 
 * Contributions must be licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
-* At least if you add a new documentation to the repository, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file or send an onboarding email to _project email address_.
+* At least if you add a new documentation to the repository, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file or send an onboarding email to <all+subscribe@lists.camaraproject.org>.
 
 ## Creating Branches
 
