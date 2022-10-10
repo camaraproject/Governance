@@ -71,7 +71,9 @@ The Steering Committee is the oversight body for the CAMARA Project. The Steerin
 | TELUS	| Ali Tizghadam (Shalin Hudda) |
 | Vodafone	| Steven Pater (Johanna Wood) |
 
-The Steering Committee meetings are held virtually, are open for the public and are scheduled each Thursday in a month at 4pm CET time. You’re welcome to join via: https://dtag.webex.com/dtag/j.php?MTID=m79544089ecb17cfa5046b7e1982926f3
+The Steering Committee meetings are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CET time. You’re welcome to join via: https://dtag.webex.com/dtag/j.php?MTID=m79544089ecb17cfa5046b7e1982926f3
+
+A message to all Steering Committee participants can be sent using <tsc@lists.camaraproject.org>.
 
 ## Documentation
 
@@ -82,8 +84,9 @@ The following channels are available for discussions, feedback, and support requ
 
 | Type                     | Channel                                                |
 | ------------------------ | ------------------------------------------------------ |
+| **Join / Subscribe** | <all+subscribe@lists.camaraproject.org> |
 | **Issues**   | [GitHub issues](https://github.com/camaraproject/Governance/issues/new) |
-| **Other Requests**    | <a href="mailto:markus.kuemmerle@t-systems.com" title="Email CAMARA Project Team"><img src="https://img.shields.io/badge/email-Open%20Source%20Team-green?logo=mail.ru&style=flat-square&logoColor=white"></a>   |
+| **Other Requests**    | <adm@lists.camaraproject.org>   |
 
 ## How to Contribute
 
