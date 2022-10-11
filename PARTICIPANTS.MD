@@ -219,6 +219,7 @@
 | Telefonica | David Guillen ||
 | Telefonica | Carlos Medina Gonzalez ||
 | Telefonica | Diego R. Lopez ||
+| Telefonica | Diego Gonzales Martinez ||
 | Telefonica | Emilio Abraham Garrido Garcia ||
 | Telefonica | Jesus Martin ||
 | Telefonica | Jesús Peña García-Oliva ||
