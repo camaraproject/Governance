@@ -16,7 +16,7 @@ The starting point of any contribution should be an issue or a pull request:
 
 * If you have a trivial fix or improvement, go ahead and create a pull request, addressing (with `@...`) a suitable maintainer of the respective repository (see the specific CODEOWNERS or MAINTAINERS.MD file of the Sub Project you want to contribute to) in the description of the pull request.
 
-*	If you have a bigger change then please open an issue in the respective repository and put in all initial documents.
+*	If you have a bigger change (esp. that requires new documents) then please open an issue in the respective repository (and upload all initial documents in it).
 
 *	If you are unsure, please reach out to the Sub Project community. This will avoid unnecessary work and surely give you and us a good deal of inspiration.
 
@@ -75,7 +75,7 @@ We kindly ask you to follow the [Pull Request Checklist](#Pull-Request-Checklist
 
 * Work on a fork of the repository.
 
-* Branch from the main branch and, if needed, rebase to the current main branch before submitting your pull request. If it doesn't merge cleanly with main you may be asked to rebase your changes.
+* Branch from the main branch and, if needed, rebase to the current main branch before submitting your pull request. If it doesn't merge cleanly with main you may be asked to rebase your changes (see this ["Git rebase tutorial for help"]()).
 
 * Commits should be as small as possible while ensuring that each commit is correct independently (i.e., each commit should compile and pass tests).
 
