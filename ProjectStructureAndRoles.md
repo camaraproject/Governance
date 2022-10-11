@@ -6,11 +6,6 @@
 
 The CAMARA Project is organized primarily into Sub Projects. Each Sub Project is comprised of Project participants from multiple companies and organizations, with a common purpose of advancing the Sub Project with respect to a specific Service API topic, for example ‘quality on demand’ or ‘localization’. Our goal is to enable distributed decision making and code ownership. This will be done by providing focused forums for getting work done, making decisions, and onboarding new Contributors.
 
-Areas covered by Sub Projects may be vertically focused on particular Service API components or functions, cross-cutting/horizontal or spanning many/all functional areas of Service APIs. Some examples of each type are:
-
-- Vertical: Quality on Demand, Localization
-- Horizontal: Scalability, Architecture, Lifecycle, Service
-
 Each Sub Project is documented in a separate repository.
 
 Each Sub Project must have a README.MD file (with a description of the Sub Project), a CODEOWNERS and a MAINTAINERS.MD file. A Sub Project should have at least one Maintainer. Ideally a Sub Project is managed by two or more Maintainers, depending on the size and scope of the Sub Project. Here, the responsibilities must be clearly agreed upon between all of the Maintainers. This includes coordinating who is responsible for which issues and pull requests. The Contributors to a Sub Project are recorded by the mechanisms of GitHub in the Sub Project’s repository. Each Contributor, Codeowner and Maintainer should also be listed in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file in the Governance repository root directory. Each Sub Project should have a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and subdirectories /documentation/API_documentation, /documentation/MeetingMinutes, /documentation/SupportingDocuments, /code/API_code and /code/API_definitions. Writing permission to a Sub Project only codeowners should have.
@@ -75,17 +70,17 @@ A Project participant may resign by notifying the team mailing list and by sendi
 
 **Working Group participants**
 
-Each Project participant can be part of one or more of the Working Groups of the Project by adding his name to the WG_PARTICIPANTS.MD files. By that he gets the role Working Group participant.
+Each Project participant can be part of one or more of the Working Groups of the Project by subscribing to the mailing list(s). By that he gets the role Working Group participant, the WG_PARTICIPANTS.MD file(s) is/are then also adjusted by the administrators of the Project.
 
-A Working Group participant may resign by removing his name of the WG_PARTICIPANTS.MD file.
+A Working Group participant may resign by unsubscribing from the mailing list(s), the WG_PARTICIPANTS.MD file(s) is/are adjusted by the administrators of the Project.
 
 **Contributors**
 
-Each Project participant can contribute to the Sub Projects of the Project. Contributors to a Sub Project can contribute by creating pull requests. There’s no formal process for becoming or resigning as Contributor. The list of Contributors of a specific Sub Project is maintained by GitHub.
+Each Project participant can contribute to the Sub Projects of the Project. Contributors to a Sub Project can contribute by creating pull requests. To become or resign as Contributor please subscribe / unsubscribe to the mailing list of the Sub Project. The list of Contributors of a specific Sub Project is maintained by the administrators of the Project using GitHub functionality.
 
 **Codeowners**
 
-Codeowners can merge code and accept pull requests. A Codeowner is responsible for the overall quality and stewardship of the Project. Contributors can get a Codeowner role if they are deeply involved in contributing code, pull request review, and triaging issues in the Sub Project for a minimum of three months and perform an ongoing contribution. Codeowners are decided by the Maintainers and formalized by changing the CODEOWNERS file. Changes in codeownership have to be announced on the CAMARA Project mailing list.
+Codeowners can merge code and accept pull requests. A Codeowner is responsible for the overall quality and stewardship of the Project. Contributors can get a Codeowner role if they are Contributors and deeply involved in contributing code, pull request review, and triaging issues in the Sub Project for a minimum of three months and perform an ongoing contribution. Codeowners are decided by the Maintainers and formalized by changing the CODEOWNERS file. Changes in codeownership have to be announced on the CAMARA Project mailing list.
 
 **Maintainers**
 
