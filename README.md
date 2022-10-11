@@ -84,7 +84,8 @@ The following channels are available for discussions, feedback, and support requ
 
 | Type                     | Channel                                                |
 | ------------------------ | ------------------------------------------------------ |
-| **Join / Subscribe** | <all+subscribe@lists.camaraproject.org> |
+| **Join CAMARA** | <all+subscribe@lists.camaraproject.org> |
+| **Leave CAMARA** | <all+unsubscribe@lists.camaraproject.org> |
 | **Issues**   | [GitHub issues](https://github.com/camaraproject/Governance/issues/new) |
 | **Other Requests**    | <adm@lists.camaraproject.org>   |
 
