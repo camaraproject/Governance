@@ -52,7 +52,9 @@ The following rule governs documentation contributions:
 
 ## Creating Branches
 
-Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of our repository. If you need a friendly video introduction to git branching, please try [part two of "GitHub for Poets"](https://www.youtube.com/watch?v=oPpnCh7InLY) on Youtube, you may also read GitHub's ["Creating and deleting branches within your repository"](https://docs.github.com/en/articles/creating-and-deleting-branches-within-your-repository) for a deep dive.
+Branches allow to develop features, fix bugs, or safely experiment with new ideas in a contained area of our repository. If you need a friendly video introduction to git branching, please try [part two of "GitHub for Poets"](https://www.youtube.com/watch?v=oPpnCh7InLY) on Youtube, you may also read GitHub's ["Creating and deleting branches within your repository"](https://docs.github.com/en/articles/creating-and-deleting-branches-within-your-repository) for a deep dive. 
+
+Creating branches within the project repositories itself requires write access to the repository and will done by code owners for specific purposes. For contribution into the branches of the project the "fork and pull model" is used. You need to create the branch for your contribution within a fork of the repository (see [part three of "GitHub for Poets"](https://youtu.be/_NrSWLQsDL4) for an friendly explanation or ["Working with forks"](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks).
 
 ## Creating Pull Requests
 
@@ -70,6 +72,8 @@ For more information on pull requests watch the third episode of ["GitHub for Po
 We kindly ask you to follow the [Pull Request Checklist](#Pull-Request-Checklist) to ensure reviews can happen accordingly.
 
 ## Pull Request Checklist
+
+* Work on a fork of the repository.
 
 * Branch from the main branch and, if needed, rebase to the current main branch before submitting your pull request. If it doesn't merge cleanly with main you may be asked to rebase your changes.
 
