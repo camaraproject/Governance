@@ -37,7 +37,7 @@ You are welcome to contribute code in order to fix a bug or to implement a new f
 The following rule governs code contributions:
 
 * Contributions must be licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
-* Newly created files must be opened by an instantiated version to the [file-header.txt](https://github.com/camaraproject/Governance/blob/main/declarations/templates/file-header.txt).
+* Newly created files must start with an instantiated version to the [file-header.txt](https://github.com/camaraproject/Governance/blob/main/declarations/templates/file-header.txt).
 * At least if you add a new file to the repository and you're not a Project participant, send an onboarding email to <all+subscribe@lists.camaraproject.org>.
 
 ## Contributing Documentation
