@@ -46,10 +46,12 @@ Now they can work on the solution and add commits to the branch. If they are don
 
 4 The Contributor now shall invite other Sub Project Contributors to review the pull request. The Contributor shall invite at least 2 Maintainers from different companies and all Codeowners of the Sub Project. As default all Maintainers and all Codeowners shall be invited as reviewers. Only the initial Contributor should edit a pull request in review (the Contributor is responsible to react on comments) or allow other Contributors explicitly to commit into the pull request.
 
-5 The pull request shall be approved by all Contributors included in the review within a 2 weeks period. If a Contributor doesn't perform a review within that time frame the Contributor automatically accepts the pull request. For conflicting cases rules will be defined later. A two days cool off period after the approval shall be kept.
+5 The pull request shall be approved by all Contributors included in the review within a 2 weeks period. If a Contributor doesn't perform a review within that time frame the Contributor automatically accepts the pull request. For conflicting cases rules will be defined later. A two days cool off period after the approval shall be kept. A pull request review in certain cases might lead to a pull request not being approved. In this case, the Codeowner shall close the pull request (and the branch, and the issue) with the appropriate comments and the contribution shall not get merged into the main branch.
 
 6 Finally one of the Codeowners of the Sub Project shall merge the pull request into the main branch. By that the Codeowner closes the pull request. The Codeowner also shall close the branch and the issue (if not already automatically done).
 Deliverables of the Sub Project are all artefacts in the main branch.
+
+More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md).
 
 **Mailing list**
 
