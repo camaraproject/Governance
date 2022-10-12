@@ -75,7 +75,7 @@ We kindly ask you to follow the [Pull Request Checklist](#Pull-Request-Checklist
 
 * Work on a fork of the repository.
 
-* Branch from the main branch and, if needed, rebase to the current main branch before submitting your pull request. If it doesn't merge cleanly with main you may be asked to rebase your changes (see this ["Git rebase tutorial for help"](https://www.codementor.io/git/tutorial/git-rebase-split-old-commit-master)).
+* Branch from the main branch and, if needed, rebase to the current main branch before submitting your pull request. If it doesn't merge cleanly with main you may be asked to rebase your changes (see also [Keeping your pull request in sync with the base branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/keeping-your-pull-request-in-sync-with-the-base-branch) and [More ways to keep your pull request branch up-to-date](https://github.blog/changelog/2022-02-03-more-ways-to-keep-your-pull-request-branch-up-to-date).
 
 * Commits should be as small as possible while ensuring that each commit is correct independently (i.e., each commit should compile and pass tests).
 
