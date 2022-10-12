@@ -70,7 +70,7 @@ A Project participant may resign by notifying the team mailing list and by sendi
 
 **Working Group participants**
 
-Each Project participant can be part of one or more of the Working Groups of the Project by subscribing to the mailing list(s). By that he gets the role Working Group participant, the WG_PARTICIPANTS.MD file(s) is/are then also adjusted by the administrators of the Project.
+Each Project participant can be part of one or more of the Working Groups of the Project by subscribing to the mailing list(s). By that the Project participant gets the role Working Group participant, the WG_PARTICIPANTS.MD file(s) is/are then also adjusted by the administrators of the Project.
 
 A Working Group participant may resign by unsubscribing from the mailing list(s), the WG_PARTICIPANTS.MD file(s) is/are adjusted by the administrators of the Project.
 
@@ -146,7 +146,7 @@ As a Project participant, propose the removal of a Sub Project to the Steering C
 
 **How do I remove an inactive Maintainer?**
 
-A Maintainer may resign by notifying the Project mailing list and remove his name from the MAINTAINERS.MD. A Maintainer with no Project activity for a year will be treated as if he had resigned. 
+A Maintainer may resign by notifying the Project mailing list and remove his name from the MAINTAINERS.MD. A Maintainer with no Project activity for a year will be treated as if the Maintainer had resigned. 
 
 **How do I remove a Project participant?**
 
