@@ -50,7 +50,7 @@ Consequently, all content will be made available primarily in English. We also a
 The Steering Committee is the oversight body for the CAMARA Project. The Steering Committee currently consists of the following participants:
 | Partner                     | Name(s)                                                |
 | --------------------------- | ------------------------------------------------------ |
-| 5GFF	| Janine Grasso (Miguel Carames, Kevin Smith) |
+| 5GFF	| Janine Grasso (Parry Booker, Kevin Smith) |
 | AT&T	| Wiley Wilkins (Barry Elia) |
 | Capgemini	| Shamik Mishra |
 | Deutsche Telekom AG	| Nathan Rader (Markus Kümmerle) |
