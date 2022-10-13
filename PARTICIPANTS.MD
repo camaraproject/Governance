@@ -128,7 +128,6 @@
 | Kandy | Fatih Demirel |  |
 | Kandy | Michael Leeder |  |
 | Kandy | Philip Lintell | Yes |
-| Kandy | Ralph Page | Representative |
 | KDDI | Bo Ribbing |  |
 | KDDI | Brian Vaughn |  |
 | KDDI | Shingo Watanabe | Yes |

@@ -59,7 +59,7 @@ The Steering Committee is the oversight body for the CAMARA Project. The Steerin
 | GSMA	| Henry Calvert |
 | IBM	| Jason Hunt (Zyg Lozinski) |
 | Intel	| Petar Torre |
-| Kandy	| Philip Lintell (Ralph Page) |
+| Kandy	| Philip Lintell |
 | KDDI	| Shingo Watanabe (Toshiyasu Wakayama) |
 | Microsoft	| Landon Cox |
 | Nokia	| Tanja de Groot (Chris Jones) |
