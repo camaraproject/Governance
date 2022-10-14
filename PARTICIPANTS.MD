@@ -228,7 +228,6 @@
 | Telstra / 5GFF | Brett Hill | |
 | Telstra / 5GFF | Senthoor Punniamoorthy | |
 | TELUS | Ali Tizghadam | Yes |
-| TELUS | Dallas Rathbone | |
 | TELUS | Jim Slevinksy | |
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Janine Grasso | Yes |
