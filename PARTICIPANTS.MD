@@ -12,7 +12,6 @@
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia |Representative|
 | AT&T | Bill Knotts ||
-| AT&T | Brian Freeman ||
 | AT&T | Dan Druta ||
 | AT&T | Gervais-Martial Ngueko ||
 | AT&T | Michael Raftelis ||
@@ -153,7 +152,6 @@
 | Microsoft | Michael Brown ||
 | Microsoft | Moushumi Ghosal ||
 | Microsoft | Ricardo Villarreal ||
-| Microsoft | Rui Carmo ||
 | Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
 | Nabstract | Babu Narayan ||
@@ -173,7 +171,6 @@
 | Nokia | Zoltan Olah ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Tim Fox ||
-| ORANGE | Bertrand Refabert ||
 | ORANGE | Delsart Gwenaelle ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Guillaume Nevicato||
