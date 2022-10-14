@@ -194,16 +194,13 @@
 | Spry Fox Networks | Ramesh Shanmugasundaram   | |
 | Spry Fox Networks | Steven Ballantyne   | |
 | Spry Fox Networks | Stuart Waine   | |
-| T-Mobile US | Carl Persson ||
 | T-Mobile US | Dan Sershen ||
 | T-Mobile US | Jonathan Morrow ||
 | T-Mobile US| Lyle Bertz | Yes |
 | T-Mobile US | Max Caldwell ||
 | T-Mobile US | Murat Karabulut ||
-| T-Mobile US | Noah Dahlstrom ||
 | T-Mobile US | Priyadarshini Menon ||
 | T-Mobile US | Ron Marquardt ||
-| T-Mobile US | Shannon Silversmith ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio | Representative |
