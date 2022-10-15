@@ -233,7 +233,7 @@
 | Verizon / 5GFF | Janine Grasso | Yes |
 | Verizon / 5GFF | Kevin Xu | |
 | Verizon | Mahesh Chapalamadugu | |
-| Verizon / 5GFF | Miguel Carames | Representative |
+| Verizon / 5GFF | Parry Booker | Representative |
 | Verizon / 5GFF | Priyanka Shah | |
 | Verizon | Raghuram Parvataneni | |
 | Verizon | Shammi Naz Amin | |
