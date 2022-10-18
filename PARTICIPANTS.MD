@@ -223,6 +223,7 @@
 | Telefonica | Maria Virtudes Briz Ruiz ||
 | Telefonica | Miguel Alejandro Hernández ||
 | Telefonica | Patricia Ventura Gomez ||
+| Telefonica | Pedro Diez Garcia ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Victor Barranco Fernandez ||
 | Telstra / 5GFF | Brett Hill | |
