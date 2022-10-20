@@ -105,6 +105,7 @@
 | GSMA | Andrew Milne ||
 | GSMA | Andrew Parker ||
 | GSMA | Faisal Zia ||
+| GSMA | Gareth Williams ||
 | GSMA | Gemicha West ||
 | GSMA | Henry Calvert |Yes|
 | GSMA | Mark Cornall ||
