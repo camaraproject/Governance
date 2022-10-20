@@ -20,6 +20,7 @@
 | AWS | Ishwar Parulkar ||
 | AWS | Tetsuya Nakamura ||
 | axiata | Anthony Rodrigo ||
+| axiata | Harin Honestyandi Parandika  ||
 | axiata | Methsiri Kumara ||
 | axiata | Namal Jayathilake ||
 | axiata | Nipun Hevavitharana ||
