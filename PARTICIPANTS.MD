@@ -173,6 +173,7 @@
 | Nokia | Zoltan Olah ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Tim Fox ||
+| ORANGE | Assange Niang Mbengue ||
 | ORANGE | Delsart Gwenaelle ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Guillaume Nevicato||
