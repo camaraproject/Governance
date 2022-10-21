@@ -95,6 +95,7 @@
 | Ericsson | Peter Chen ||
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Sylvain Gendron ||
+| Ericsson | Thorsten Lohmar ||
 | Google Cloud | Amol Tuli | |
 | Google Cloud | Dutt Kalapatapu | |
 | Google Cloud | Sridhar Gollapudi | Yes |
