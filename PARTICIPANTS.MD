@@ -54,6 +54,7 @@
 | CTHINGS | Dagna Frydrych | |
 | CTHINGS | Shreyas Vinod | |
 | Dell | Saad Sheikh | |
+| Dell | Vaishali Gupta | |
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
 | Deutsche Telekom AG | Carlos Fernandes ||
