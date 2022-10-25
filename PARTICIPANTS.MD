@@ -223,6 +223,7 @@
 | Telefonica | Jesus Martin ||
 | Telefonica | Jesús Peña García-Oliva ||
 | Telefonica | Jose A Ordonez Lucena | Representative |
+| Telefonica | Jose Luis Urien Pinedo ||
 | Telefonica | Juan Carlos Garcia | Yes |
 | Telefonica | Luis Diaz Martin ||
 | Telefonica | Maria Virtudes Briz Ruiz ||
