@@ -69,7 +69,7 @@ The Steering Committee is the oversight body for the CAMARA Project. The Steerin
 | Telecom Italia	| Roberto Procopio (Fabrizio Moggio) |
 | Telefonica	| Juan Carlos Garcia (Jose Ordonez Lucena) |
 | TELUS	| Ali Tizghadam |
-| Vodafone	| Steven Pater (Johanna Wood) |
+| Vodafone	| Steven Pater |
 
 The Steering Committee meetings are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CET time. You’re welcome to join via: https://dtag.webex.com/dtag/j.php?MTID=m79544089ecb17cfa5046b7e1982926f3
 
