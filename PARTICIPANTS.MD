@@ -237,6 +237,7 @@
 | Telstra / 5GFF | Senthoor Punniamoorthy | |
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Jim Slevinksy | |
+| TIM Brazil | pclima | |
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Janine Grasso | Yes |
 | Verizon / 5GFF | Kevin Xu | |
