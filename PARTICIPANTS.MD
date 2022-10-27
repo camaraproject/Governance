@@ -199,6 +199,7 @@
 | Spry Fox Networks | Ramesh Shanmugasundaram   | |
 | Spry Fox Networks | Steven Ballantyne   | |
 | Spry Fox Networks | Stuart Waine   | |
+| STC | Albaraa A. Bajnaid   | |
 | T-Mobile US | Dan Sershen ||
 | T-Mobile US | Jonathan Morrow ||
 | T-Mobile US| Lyle Bertz | Yes |
