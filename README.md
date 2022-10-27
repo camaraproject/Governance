@@ -52,7 +52,7 @@ The Steering Committee is the oversight body for the CAMARA Project. The Steerin
 | --------------------------- | ------------------------------------------------------ |
 | 5GFF	| Janine Grasso (Parry Booker, Kevin Smith) |
 | AT&T	| Wiley Wilkins (Barry Elia) |
-| Capgemini	| Shamik Mishra |
+| Capgemini	| Deepak A. Gunjal |
 | Deutsche Telekom AG	| Nathan Rader (Markus Kümmerle) |
 | Ericsson	| Bart van Kaathoven (Jan Friman) |
 | Google Cloud	| Sridhar Gollapudi |
