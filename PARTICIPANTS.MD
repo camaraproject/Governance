@@ -240,7 +240,7 @@
 | TELUS | Jim Slevinksy | |
 | TIM Brazil | pclima | |
 | Verizon | Alicia Miller | |
-| Verizon / 5GFF | Janine Grasso | Yes |
+| Verizon / 5GFF | Jeremy Giese | Yes |
 | Verizon / 5GFF | Kevin Xu | |
 | Verizon | Mahesh Chapalamadugu | |
 | Verizon / 5GFF | Parry Booker | Representative |
