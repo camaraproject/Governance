@@ -5,6 +5,7 @@
 | A1 | Thomas Walzer ||
 | Accenture | Adriano Poloni ||
 | Accenture | Giuseppe di Nuccio ||
+| Aloaha | Stefan Engelbert ||
 | amdocs | Bernard Heuse ||
 | amdocs | David Hovey ||
 | Apple | Darryl Chiles ||
@@ -254,6 +255,7 @@
 | Vodafone | Iván Nieto| |
 | Vodafone | Johanna Wood | Yes |
 | Vodafone / 5GFF | Kevin Smith | |
+| Vodafone | Marta Martin | |
 | Vodafone | Steven Pater | |
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
