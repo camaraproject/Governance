@@ -202,6 +202,7 @@
 | Spry Fox Networks | Steven Ballantyne   | |
 | Spry Fox Networks | Stuart Waine   | |
 | STC | Albaraa A. Bajnaid   | |
+| STC | Mohammed A. Adlani   | |
 | T-Mobile US | Dan Sershen ||
 | T-Mobile US | Jonathan Morrow ||
 | T-Mobile US| Lyle Bertz | Yes |
