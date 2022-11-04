@@ -256,13 +256,11 @@
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
 | Vodafone | David Frankland | |
-| Vodafone | Edon Orphir | |
 | Vodafone | Eric Murray | |
 | Vodafone | Iván Nieto| |
-| Vodafone | Johanna Wood | Yes |
 | Vodafone / 5GFF | Kevin Smith | |
 | Vodafone | Marta Martin | |
-| Vodafone | Steven Pater | |
+| Vodafone | Steven Pater | Yes |
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
