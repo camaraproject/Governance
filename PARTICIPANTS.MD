@@ -224,7 +224,6 @@
 | Telefonica | Alexandre Harmand ||
 | Telefonica | Aurelia Martinez Guerra ||
 | Telefonica | David Guillen ||
-| Telefonica | Carlos Medina Gonzalez ||
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Diego Gonzales Martinez ||
 | Telefonica | Emilio Abraham Garrido Garcia ||
