@@ -5,6 +5,9 @@
 | A1 | Thomas Walzer ||
 | Accenture | Adriano Poloni ||
 | Accenture | Giuseppe di Nuccio ||
+| Airtel India | Ramit Chawla ||
+| Airtel India | Sudhir Mittal ||
+| Airtel India | Varun Talus ||
 | Aloaha | Stefan Engelbert ||
 | amdocs | Bernard Heuse ||
 | amdocs | David Hovey ||
