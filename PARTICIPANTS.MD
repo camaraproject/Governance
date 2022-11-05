@@ -26,7 +26,6 @@
 | axiata | Anthony Rodrigo ||
 | axiata | Harin Honestyandi Parandika  ||
 | axiata | Methsiri Kumara ||
-| axiata | Namal Jayathilake ||
 | axiata | Nipun Hevavitharana ||
 | axiata | Ravi Kamalendiran ||
 | axiata | Roslind Kaur Kirpal Singh ||
