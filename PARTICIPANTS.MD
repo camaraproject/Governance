@@ -178,27 +178,19 @@
 | Nokia | Tanja de Groot | Yes |
 | Nokia | Zoltan Olah ||
 | Open Sesaame | Julian McCrea ||
-| Open Sesaame | Tim Fox ||
 | ORANGE | Assange Niang Mbengue ||
-| ORANGE | Delsart Gwenaelle ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Guillaume Nevicato||
 | ORANGE | Jean Luc Sire ||
-| ORANGE | Jerome Larrode ||
-| ORANGE | Julien Giannandrea ||
 | ORANGE | Ludovic Robert ||
 | ORANGE | Olivier Mathieu ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sylvain Morel |Yes|
-| ORANGE | William Diego ||
-| ORI | José Domingos ||
 | Scenera | Andrew Wajs | |
 | Scenera | David Lee |Yes|
 | Seoul National University | Kiho Lee | |
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
-| Splunk | Matt Olson | |
-| Splunk | Young Cho | |
 | Spry Fox Networks | Jignesh Sorathia  | |
 | Spry Fox Networks | Mike Bowring   | |
 | Spry Fox Networks | Parichaya Shrivastava   | |
@@ -208,11 +200,8 @@
 | STC | Albaraa A. Bajnaid   | |
 | STC | Mohammed A. Adlani   | |
 | T-Mobile US | Dan Sershen ||
-| T-Mobile US | Jonathan Morrow ||
 | T-Mobile US| Lyle Bertz | Yes |
-| T-Mobile US | Max Caldwell ||
 | T-Mobile US | Murat Karabulut ||
-| T-Mobile US | Priyadarshini Menon ||
 | T-Mobile US | Ron Marquardt ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
