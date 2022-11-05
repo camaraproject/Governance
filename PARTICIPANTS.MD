@@ -226,7 +226,7 @@
 | Vodafone | David Frankland | |
 | Vodafone | Eric Murray | |
 | Vodafone | Iván Nieto| |
-| Vodafone / 5GFF | Kevin Smith | |
+| Vodafone / 5GFF | Kevin Smith | Representative |
 | Vodafone | Marta Martin | |
 | Vodafone | Steven Pater | Yes |
 | VROMBR | Frederic Thuard | |
