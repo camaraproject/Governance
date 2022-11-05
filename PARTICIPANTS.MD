@@ -34,10 +34,7 @@
 | BearingPoint | Adam Kowalczyk ||
 | BearingPoint | Carsten Aue ||
 | BearingPoint | Julius Hafer ||
-| BearingPoint | Marcel Tietjen ||
-| BearingPoint | Nicolas Deyle ||
 | BearingPoint | Tobias Bothur ||
-| Bell Canada | Bozidar Pasagic | |
 | Bell Canada | Juan Esquivel | |
 | Bell Canada | Karen Meulenkamp | |
 | Bell Canada | Marc-Alexandre Choquette ||
@@ -49,13 +46,10 @@
 | Cablelabs | Mark Bridges |  |
 | Cablelabs | Paul Fonte |  |
 | Cablelabs | Philip Rosenberg-Watt |  |
-| Capgemini | Deepak A. Gunjal |  |
-| Capgemini | Shamik Mishra | Yes  |
+| Capgemini | Deepak A. Gunjal | Yes |
 | China Unicom | Gao Chen | |
 | CNCF | Arpit Joshipura | |
-| CNCF | Chris Aniszczyk | |
 | CTHINGS | Arnold Wierzejski | |
-| CTHINGS | Dagna Frydrych | |
 | CTHINGS | Shreyas Vinod | |
 | Dell | Saad Sheikh | |
 | Dell | Vaishali Gupta | |
@@ -85,7 +79,6 @@
 | EdgeXR | Thomas Vits ||
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Bart van Kaathoven |Yes|
-| Ericsson | Benedek Kovács ||
 | Ericsson | Carlos Bravo ||
 | Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
@@ -94,26 +87,20 @@
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Klaus Schneider ||
-| Ericsson | Márk László Mikecz ||
 | Ericsson | Miguel A. Garcia-Martin ||
-| Ericsson | Patrick Hofkens ||
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
-| Google Cloud | Amol Tuli | |
 | Google Cloud | Dutt Kalapatapu | |
 | Google Cloud | Sridhar Gollapudi | Yes |
 | Google Cloud | Stella Loh | |
 | Google Cloud | Vivek Gupta | |
 | GS Labs | Amit Wankhede | |
 | GS Labs | Vikram Barate | |
-| GSMA | Andrew Milne ||
 | GSMA | Andrew Parker ||
-| GSMA | Faisal Zia ||
 | GSMA | Gareth Williams ||
-| GSMA | Gemicha West ||
 | GSMA | Henry Calvert |Yes|
 | GSMA | Mark Cornall ||
 | GSMA | Tom van Pelt ||
@@ -124,9 +111,7 @@
 | Infobip | John Murtagh ||
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
-| Intel | Bob Monkman ||
 | Intel | Francesc Guim ||
-| Intel | John Yates ||
 | Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
 | Intel | Oliver Neal ||
