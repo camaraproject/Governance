@@ -121,23 +121,19 @@
 | Kandy | Fatih Demirel |  |
 | Kandy | Michael Leeder |  |
 | Kandy | Philip Lintell | Yes |
-| KDDI | Bo Ribbing |  |
 | KDDI | Brian Vaughn |  |
 | KDDI | Shingo Watanabe | Yes |
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
-| Mavenir | Ashok Khuntia ||
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
 | Mavenir | Michal Sedivy ||
-| Mavenir | Tarek El-Basyouny ||
 | Mavenir | Viswanath Krishnamurthy ||
 | MEF | Daniel Bar-Lev ||
 | Meta | Bhartendu Chaurasia ||
 | Meta | Dennis Punjabi ||
 | Meta | Diego Marí Moretón ||
 | Meta | Bhabani Panda ||
-| Meta | Pushkar Raj ||
 | Meta | Rehan Siddiqui ||
 | Meta | Ulas Kozat ||
 | Meta | Xinli Hou ||
