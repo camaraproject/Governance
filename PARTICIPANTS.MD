@@ -190,6 +190,7 @@
 | TIM | Marco Signorelli ||
 | TIM | Raffaele Passannanti ||
 | TIM | Roberto Procopio |Yes|
+| TIM Brazil | Paulo Cesar Dias Lima | |
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alexandre Harmand ||
 | Telefonica | Aurelia Martinez Guerra ||
@@ -214,7 +215,6 @@
 | Telstra / 5GFF | Senthoor Punniamoorthy | |
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Jim Slevinksy | |
-| TIM Brazil | pclima | |
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Jeremy Giese | Yes |
 | Verizon / 5GFF | Kevin Xu | |
