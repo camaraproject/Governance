@@ -85,6 +85,7 @@
 | Ericsson | Jan Friman |Representative|
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
+| Ericsson | Joakim Uddenfeldt ||
 | Ericsson | Klaus Schneider ||
 | Ericsson | Miguel A. Garcia-Martin ||
 | Ericsson | Pehr Claesson ||
@@ -92,6 +93,7 @@
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
+| Gapask | Rajesh Murthy ||
 | Google Cloud | Dutt Kalapatapu | |
 | Google Cloud | Sridhar Gollapudi | Yes |
 | Google Cloud | Stella Loh | |
