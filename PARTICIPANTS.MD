@@ -143,6 +143,7 @@
 | Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
 | Nabstract | Babu Narayan ||
+| Nabstract | Ishan Shah ||
 | Nabstract | Vaibhav Mehta ||
 | Nearby Computing | David Carrera ||
 | Nearby Computing | Monika Valdez ||
