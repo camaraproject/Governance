@@ -149,6 +149,7 @@
 | Nearby Computing | Monika Valdez ||
 | Nearby Computing | Oscar Trullols ||
 | Nearby Computing | Sergi Alonso ||
+| Netcracker | Dmytro Gassanov ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
 | Nokia | Chris Jones | Representative |
