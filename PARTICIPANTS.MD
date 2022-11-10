@@ -126,6 +126,7 @@
 | KDDI | Shingo Watanabe | Yes |
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
+| Lotusflare | Eric Morhenn |  |
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
 | Mavenir | Michal Sedivy ||
