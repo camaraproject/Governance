@@ -219,6 +219,7 @@
 | Telefonica | Victor Barranco Fernandez ||
 | Telstra / 5GFF | Brett Hill | |
 | Telstra | Channa Seneviratne | |
+| Telstra | Abdul Majid Hussain | |
 | Telstra / 5GFF | Senthoor Punniamoorthy | |
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Jim Slevinksy | |
