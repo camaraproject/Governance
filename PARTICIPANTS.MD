@@ -123,6 +123,7 @@
 | Kandy | Michael Leeder |  |
 | Kandy | Philip Lintell | Yes |
 | KDDI | Brian Vaughn |  |
+| KDDI | Keichi Okonogi |  |
 | KDDI | Shingo Watanabe | Yes |
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
@@ -217,6 +218,7 @@
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Victor Barranco Fernandez ||
 | Telstra / 5GFF | Brett Hill | |
+| Telstra | Channa Seneviratne | |
 | Telstra / 5GFF | Senthoor Punniamoorthy | |
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Jim Slevinksy | |
