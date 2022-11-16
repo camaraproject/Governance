@@ -88,6 +88,7 @@
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Joakim Uddenfeldt ||
 | Ericsson | Klaus Schneider ||
+| Ericsson | Lutfi Yelkenci ||
 | Ericsson | Miguel A. Garcia-Martin ||
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
