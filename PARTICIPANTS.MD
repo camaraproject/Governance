@@ -119,6 +119,7 @@
 | Intel | Oliver Neal ||
 | Intel | Oliver Roos ||
 | Intel | Petar Torre | Yes |
+| Itorix | Adeep Tahir ||
 | Kandy | Andy Lee |  |
 | Kandy | Fatih Demirel |  |
 | Kandy | Michael Leeder |  |
