@@ -91,6 +91,7 @@
 | Ericsson | Klaus Schneider ||
 | Ericsson | Lutfi Yelkenci ||
 | Ericsson | Miguel A. Garcia-Martin ||
+| Ericsson | Mohamed ElGamal ||
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
 | Ericsson | Sarmad Nafees ||
