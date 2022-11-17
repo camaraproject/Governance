@@ -80,6 +80,7 @@
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Bart van Kaathoven |Yes|
 | Ericsson | Carlos Bravo ||
+| Ericsson | Denis Borscia ||
 | Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
 | Ericsson | Henrik Voigt ||
@@ -225,6 +226,7 @@
 | Telstra | Channa Seneviratne | |
 | Telstra | Abdul Majid Hussain | |
 | Telstra / 5GFF | Senthoor Punniamoorthy | |
+| Telstra | Varun Nair | |
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Jim Slevinksy | |
 | Verizon | Alicia Miller | |
