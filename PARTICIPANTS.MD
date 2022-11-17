@@ -203,6 +203,7 @@
 | TIM | Raffaele Passannanti ||
 | TIM | Roberto Procopio |Yes|
 | TIM Brazil | Paulo Cesar Dias Lima | |
+| TIM Brazil | Robson De Andrade Esteves | |
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alexandre Harmand ||
 | Telefonica | Aurelia Martinez Guerra ||
