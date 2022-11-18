@@ -231,6 +231,7 @@
 | Telstra | Varun Nair | |
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Jim Slevinksy | |
+| TM Forum | George Glass | |
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Jeremy Giese | Yes |
 | Verizon / 5GFF | Kevin Xu | |
