@@ -161,12 +161,12 @@
 | Netcracker | Dmytro Gassanov ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
-| Nokia | Chris Jones | Representative |
+| Nokia | Chris Jones | Yes |
 | Nokia | Daniel Bedekovich | |
 | Nokia | Gergely Csatari ||
 | Nokia | Marc Erhardt ||
 | Nokia | Rene Saathoff ||
-| Nokia | Tanja de Groot | Yes |
+| Nokia | Tanja de Groot | Representative |
 | Nokia | Zoltan Olah ||
 | Open Sesaame | Julian McCrea ||
 | ORANGE | Assange Niang Mbengue ||
