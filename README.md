@@ -62,7 +62,7 @@ The Steering Committee is the oversight body for the CAMARA Project. The Steerin
 | Kandy	| Philip Lintell |
 | KDDI	| Shingo Watanabe (Toshiyasu Wakayama) |
 | Microsoft	| Landon Cox |
-| Nokia	| Chris Jone (Tanja de Groot) |
+| Nokia	| Chris Jones (Tanja de Groot) |
 | ORANGE	| Sylvain Morel |
 | Scenera	| David Lee |
 | T-Mobile US	| Lyle Bertz |
