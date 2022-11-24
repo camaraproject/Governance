@@ -199,6 +199,7 @@
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio | Representative |
+| TIM | Francesco Vadala ||
 | TIM | Marco Signorelli ||
 | TIM | Raffaele Passannanti ||
 | TIM | Roberto Procopio |Yes|
