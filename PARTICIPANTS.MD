@@ -190,6 +190,7 @@
 | Spry Fox Networks | Stuart Waine   | |
 | STC | Albaraa A. Bajnaid   | |
 | STC | Mohammed A. Adlani   | |
+| Swisscom | Lukas Leuthold   | |
 | T-Mobile NL | Muhammad Ahmad   | |
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Dan Sershen ||
