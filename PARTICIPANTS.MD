@@ -132,6 +132,7 @@
 | KDDI | Shingo Watanabe | Yes |
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
+| KPN | Leon Denelsen ||
 | Lotusflare | Eric Morhenn |  |
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
@@ -253,4 +254,5 @@
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
+|  | Ankita Kohli ||
 |  | Kuldeep Kumar ||
