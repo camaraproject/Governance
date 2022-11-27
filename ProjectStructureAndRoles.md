@@ -12,6 +12,8 @@ Each Sub Project lead repository must have a README.MD file (with a description 
   
 A reference implementation repository only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code. Writing permission to a Sub Project reference implementation repository only codeowners should have.
 
+For ease of use there are templates for both types of repositories containing all necessary files which can be cloned and adapted.
+
 Some Sub Projects may have distinct (although sometimes overlapping) sets of Contributors, Codeowners and Maintainers.
 
 As document standard for documents in the main branch of Sub Projects only Markdown format shall be used. Only exception are supporting documents, for these other formats like PDF or PPT are allowed (Note: Documents which are meant as base for discussion or to explain change requests are best attached to an issue).
