@@ -129,6 +129,7 @@
 | Kandy | Philip Lintell | Yes |
 | KDDI | Brian Vaughn |  |
 | KDDI | Keichi Okonogi |  |
+| KDDI | Masaki Suzuki |  |
 | KDDI | Shingo Watanabe | Yes |
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
