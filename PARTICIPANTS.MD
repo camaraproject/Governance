@@ -99,6 +99,7 @@
 | Ericsson | Thorsten Lohmar ||
 | Gapask | Rajesh Murthy ||
 | Google Cloud | Dutt Kalapatapu | |
+| Google Cloud | Rittwik Jana | |
 | Google Cloud | Sridhar Gollapudi | Yes |
 | Google Cloud | Stella Loh | |
 | Google Cloud | Vivek Gupta | |
