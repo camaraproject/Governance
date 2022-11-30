@@ -207,6 +207,7 @@
 | TIM | Marco Signorelli ||
 | TIM | Raffaele Passannanti ||
 | TIM | Roberto Procopio |Yes|
+| TIM Brazil | Bruno Leandro Campos De Miranda | |
 | TIM Brazil | Paulo Cesar Dias Lima | |
 | TIM Brazil | Robson De Andrade Esteves | |
 | Telefonica | Alejandro Alonso Portero ||
@@ -253,6 +254,7 @@
 | Vodafone | Iván Nieto| |
 | Vodafone / 5GFF | Kevin Smith | Representative |
 | Vodafone | Marta Martin | |
+| Vodafone | Sachin Kumar | |
 | Vodafone | Steven Pater | Yes |
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
