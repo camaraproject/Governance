@@ -39,6 +39,7 @@
 | Bell Canada | Karen Meulenkamp | |
 | Bell Canada | Marc-Alexandre Choquette ||
 | Bell Canada | Sean Garagan | |
+| BridgeAlliance | Achuth Pai | |
 | British Telecom | Milan Lalovic | |
 | Broadpeak | Christoph Neumann |  |
 | Broadpeak | Guillaume Bichot |  |
@@ -171,6 +172,7 @@
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot | Representative |
 | Nokia | Zoltan Olah ||
+| Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Frederic Fieau ||
