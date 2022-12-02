@@ -232,6 +232,7 @@
 | Telefonica | Mona Mokhber ||
 | Telefonica | Patricia Ventura Gomez ||
 | Telefonica | Pedro Diez Garcia ||
+| Telefonica | Rocio Ortiz Pena ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Victor Barranco Fernandez ||
 | Telstra / 5GFF | Brett Hill | |
