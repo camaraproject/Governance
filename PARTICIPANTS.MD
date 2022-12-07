@@ -137,6 +137,7 @@
 | KDDI | Yusuke Nakano |  |
 | KPN | Leon Denelsen ||
 | Lotusflare | Eric Morhenn |  |
+| Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
 | Mavenir | Michal Sedivy ||
