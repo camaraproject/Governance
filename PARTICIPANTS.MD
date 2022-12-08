@@ -47,6 +47,7 @@
 | Cablelabs | Mark Bridges |  |
 | Cablelabs | Paul Fonte |  |
 | Cablelabs | Philip Rosenberg-Watt |  |
+| Cablelabs | R. Levensalor |  |
 | Capgemini | Deepak A. Gunjal | Yes |
 | China Unicom | Gao Chen | |
 | CNCF | Arpit Joshipura | |
@@ -110,6 +111,7 @@
 | GSMA | Gareth Williams ||
 | GSMA | Henry Calvert |Yes|
 | GSMA | Mark Cornall ||
+| GSMA | T. Rehman ||
 | GSMA | Tom van Pelt ||
 | Hutchison | Sandra Ondrusova ||
 | IBM | Jason Hunt | Yes |
