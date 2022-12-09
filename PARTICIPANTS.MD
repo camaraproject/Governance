@@ -50,6 +50,7 @@
 | Cablelabs | Randy Levensalor |  |
 | Capgemini | Deepak A. Gunjal | Yes |
 | China Unicom | Gao Chen | |
+| Cisco | raguntup | |
 | CNCF | Arpit Joshipura | |
 | CTHINGS | Arnold Wierzejski | |
 | CTHINGS | Shreyas Vinod | |
