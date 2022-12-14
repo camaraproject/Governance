@@ -75,6 +75,7 @@
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
+| Dish | Media Johnsen ||
 | DriveU | Eli Shapira ||
 | EdgeXR | Jesse Bijl ||
 | EdgeXR | Jon Gainsley ||
