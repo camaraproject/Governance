@@ -188,6 +188,7 @@
 | ORANGE | Olivier Mathieu ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sylvain Morel |Yes|
+| Redhat | Hanen Garcia ||
 | Scenera | Andrew Wajs | |
 | Scenera | David Lee |Yes|
 | Seoul National University | Kiho Lee | |
