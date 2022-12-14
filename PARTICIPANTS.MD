@@ -114,6 +114,7 @@
 | GSMA | Mark Cornall ||
 | GSMA | T. Rehman ||
 | GSMA | Tom van Pelt ||
+| Huawei | Albert Wang ||
 | Huawei | Qing Shuting ||
 | Hutchison | Sandra Ondrusova ||
 | IBM | Jason Hunt | Yes |
