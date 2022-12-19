@@ -53,6 +53,7 @@
 | China Unicom | Gao Chen | |
 | Cisco | Ravi Guntupalli | |
 | CNCF | Arpit Joshipura | |
+| CNCF | Kurt Taylor | |
 | CTHINGS | Arnold Wierzejski | |
 | CTHINGS | Shreyas Vinod | |
 | Dell | Saad Sheikh | |
