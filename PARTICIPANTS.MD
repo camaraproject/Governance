@@ -82,6 +82,7 @@
 | Dish | Jingyi Zhou ||
 | DriveU | Eli Shapira ||
 | EANTC | Carsten Rossenhoevel ||
+| EANTC | Dirk Hetzer ||
 | EdgeXR | Jesse Bijl ||
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
