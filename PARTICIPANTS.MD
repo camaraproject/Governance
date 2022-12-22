@@ -81,6 +81,7 @@
 | Dish | Media Johnsen ||
 | Dish | Jingyi Zhou ||
 | DriveU | Eli Shapira ||
+| EANTC | Carsten Rossenhoevel ||
 | EdgeXR | Jesse Bijl ||
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
