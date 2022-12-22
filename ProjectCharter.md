@@ -61,7 +61,7 @@ From functional perspective the scope is limited to telco APIs, that means APIs 
 **Technical scope**
 
 Technically the scope is about northbound Service APIs, that means an abstraction / aggregation of e.g. 3GPP APIs or TM Forum APIs to hide telco complexity, keep control at the operator side and fulfill regulatory and data privacy constraints. Optionally in scope are east-/westbound APIs on the same abstraction / aggregation level.
-![ServiceAPI Architecture](/documentation/ressources/ServiceAPI_Architecture.jpg)
+![ServiceAPI Architecture](/documentation/images/ServiceAPI_Architecture.jpg)
 
 The Service APIs (incl. mapping tables for the attributes to the southbound APIs if useful) are in scope of the Project and in scope of the harmonization. The transformations functions (business logic that calls the southbound APIs, transforms the data and provides the function for the Service APIs) are in scope of the Project as example / reference implementations, but not in scope of the harmonization. So each telco operator can implement the transformation functions in the best manner considering network topology and vendors, and can use the reference implementation as an orientation and starting point.
 
