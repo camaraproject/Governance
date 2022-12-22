@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/documentation/ressources/CAMARA_logo_black.png">
+  <img src="/documentation/images/CAMARA_logo_black.png">
   <!---
   CAMARA - The Telco Global API Alliance
   -->
