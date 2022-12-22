@@ -33,7 +33,7 @@ As mentioned before the contributions to the Sub Projects were documented in the
 **Changes and contributions to CAMARA**
 
 In the Project the “Fork and pull model” is used. Changes and contributions to CAMARA shall follow this process:
-![PR_Approval_Process](/documentation/ressources/PR_Approval_Process.png)
+![PR_Approval_Process](/documentation/images/PR_Approval_Process.png)
 
 1 All changes / contributions shall start with an issue to which initial documents, API definitions or code can be attached. The issue should be discussed in the Sub Project community before to work out the best form of action. By means of the issue the traceability of the contributions to CAMARA is also ensured. In addition as general rule there shall be no (later) pull request without a reference to an issue (except minor corrections, to be label as “minor”).
 
