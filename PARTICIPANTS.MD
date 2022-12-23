@@ -87,6 +87,7 @@
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
 | EdgeXR | Thomas Vits ||
+| Ericsson | Ajit R. Raghavan ||
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Bart van Kaathoven |Yes|
 | Ericsson | Carlos Bravo ||
