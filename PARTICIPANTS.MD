@@ -145,6 +145,7 @@
 | KDDI | Keichi Okonogi |  |
 | KDDI | Masaki Suzuki |  |
 | KDDI | Shingo Watanabe | Yes |
+| KDDI | T. Ogawara |  |
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
 | KPN | Leon Denelsen ||
