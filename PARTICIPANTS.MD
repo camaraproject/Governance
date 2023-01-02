@@ -198,6 +198,7 @@
 | ORANGE | Olivier Mathieu ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sylvain Morel |Yes|
+| Radisys | Ashok Rawat ||
 | Redhat | Hanen Garcia ||
 | Scenera | Andrew Wajs | |
 | Scenera | David Lee |Yes|
