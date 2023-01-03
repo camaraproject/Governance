@@ -8,7 +8,6 @@
 | Airtel India | Ramit Chawla ||
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
-| Aloaha | Stefan Engelbert ||
 | amdocs | Bernard Heuse ||
 | amdocs | David Hovey ||
 | Apple | Darryl Chiles ||
@@ -54,6 +53,7 @@
 | Cisco | Ravi Guntupalli | |
 | CNCF | Arpit Joshipura | |
 | CNCF | Kurt Taylor | |
+| CodeB | Stefan Engelbert ||
 | CTHINGS | Arnold Wierzejski | |
 | CTHINGS | Shreyas Vinod | |
 | Dell | Saad Sheikh | |
