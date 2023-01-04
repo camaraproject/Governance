@@ -194,6 +194,7 @@
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Guillaume Nevicato||
+| ORANGE | Guy Vidal||
 | ORANGE | Jean Luc Sire ||
 | ORANGE | Ludovic Robert ||
 | ORANGE | Olivier Mathieu ||
