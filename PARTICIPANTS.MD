@@ -278,6 +278,7 @@
 | Vodafone / 5GFF | Kevin Smith | Representative |
 | Vodafone | Marta Martin | |
 | Vodafone | Sachin Kumar | |
+| Vodafone | Simon Gordon | |
 | Vodafone | Steven Pater | Yes |
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
