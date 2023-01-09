@@ -39,7 +39,9 @@
 | Bell Canada | Marc-Alexandre Choquette ||
 | Bell Canada | Sean Garagan | |
 | BridgeAlliance | Achuth Pai | |
+| BridgeAlliance | A. Yerra | |
 | BridgeAlliance | Ken Wee | |
+| BridgeAlliance | Kumar Gaurav Singh | |
 | British Telecom | Milan Lalovic | |
 | Broadpeak | Christoph Neumann |  |
 | Broadpeak | Guillaume Bichot |  |
