@@ -128,6 +128,7 @@
 | Huawei | Liang Feng ||
 | Huawei | Qing Shuting ||
 | Huawei | Roger Fengyulin ||
+| Huawei | Roger Wangrong ||
 | Hutchison | Sandra Ondrusova ||
 | IBM | Jason Hunt | Yes |
 | IBM | Zyg Lozinski | Representative |
