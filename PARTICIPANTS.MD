@@ -157,6 +157,7 @@
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
 | KPN | Leon Denelsen ||
+| LibertyGlobal | Awais Ahmad ||
 | Lotusflare | Eric Morhenn |  |
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
