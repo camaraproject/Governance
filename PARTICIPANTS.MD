@@ -194,6 +194,7 @@
 | Nokia | Marc Erhardt ||
 | Nokia | Rene Saathoff ||
 | Nokia | Tanja de Groot | Representative |
+| Nokia | William Stanley ||
 | Nokia | Zoltan Olah ||
 | Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
