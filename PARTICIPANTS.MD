@@ -146,6 +146,7 @@
 | Itorix | Adeep Tahir ||
 | Kandy | Andy Lee |  |
 | Kandy | Fatih Demirel |  |
+| Kandy | Kim Jones |  |
 | Kandy | Michael Leeder |  |
 | Kandy | Philip Lintell | Yes |
 | KDDI | Brian Vaughn |  |
