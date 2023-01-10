@@ -136,6 +136,7 @@
 | Infobip | John Murtagh ||
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
+| Infobip | ShivPrakash Ojha ||
 | Intel | Francesc Guim ||
 | Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
