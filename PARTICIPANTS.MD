@@ -211,6 +211,7 @@
 | Radisys | Ashok Rawat ||
 | Redhat | Hanen Garcia ||
 | Scenera | Andrew Wajs | |
+| Scenera | Chien Lim | |
 | Scenera | David Lee |Yes|
 | Seoul National University | Kiho Lee | |
 | Shabodi | Nitin | |
