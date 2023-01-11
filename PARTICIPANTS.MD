@@ -213,6 +213,7 @@
 | Scenera | Andrew Wajs | |
 | Scenera | David Lee |Yes|
 | Seoul National University | Kiho Lee | |
+| Shabodi | Nitin | |
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
 | Spry Fox Networks | Jignesh Sorathia  | |
