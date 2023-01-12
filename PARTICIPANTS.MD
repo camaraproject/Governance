@@ -197,6 +197,8 @@
 | Nokia | Tanja de Groot | Representative |
 | Nokia | William Stanley ||
 | Nokia | Zoltan Olah ||
+| Nos | Nuno Erodrigues ||
+| Nos | Orlando Almeida ||
 | NTT Data | Luis Rubio Martinez ||
 | Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
