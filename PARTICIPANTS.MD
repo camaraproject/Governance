@@ -197,6 +197,7 @@
 | Nokia | Tanja de Groot | Representative |
 | Nokia | William Stanley ||
 | Nokia | Zoltan Olah ||
+| NTT Data | Luis Rubio Martinez ||
 | Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
 | ORANGE | Assange Niang Mbengue ||
