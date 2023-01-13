@@ -122,7 +122,7 @@
 | GSMA | Gareth Williams ||
 | GSMA | Henry Calvert |Yes|
 | GSMA | Mark Cornall ||
-| GSMA | T. Rehman ||
+| GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
 | Huawei | Albert Wang ||
 | Huawei | Liang Feng ||
