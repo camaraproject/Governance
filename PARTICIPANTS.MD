@@ -202,6 +202,7 @@
 | NTT Data | Luis Rubio Martinez ||
 | Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
+| Oracle | Amit Savita ||
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Guillaume Nevicato||
