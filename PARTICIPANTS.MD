@@ -230,6 +230,7 @@
 | Spry Fox Networks | Stuart Waine   | |
 | STC | Albaraa A. Bajnaid   | |
 | STC | Mohammed A. Adlani   | |
+| Sunrise | Aaron Pearce   | |
 | Swisscom | Lukas Leuthold   | |
 | T-Mobile NL | Muhammad Ahmad   | |
 | T-Mobile US | Anup Koyadan Chathoth ||
