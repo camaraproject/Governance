@@ -17,6 +17,7 @@
 | AT&T | Bill Knotts ||
 | AT&T | Dan Druta ||
 | AT&T | Gervais-Martial Ngueko ||
+| AT&T | Jorge Hernandez Herrero ||
 | AT&T | Michael Raftelis ||
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
