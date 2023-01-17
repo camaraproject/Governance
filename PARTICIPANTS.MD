@@ -178,6 +178,7 @@
 | Microsoft | Ricardo Villarreal ||
 | Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
+| Midokura | Alon Harel ||
 | Midokura | Kenji Shimizu ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
