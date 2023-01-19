@@ -76,7 +76,6 @@
 | Deutsche Telekom AG | Noel Wirzius ||
 | Deutsche Telekom AG | Pablo Brito ||
 | Deutsche Telekom AG | Piotr Wesolowski ||
-| Deutsche Telekom AG | Prashant Goswami ||
 | Deutsche Telekom AG | Rafal Artych ||
 | Deutsche Telekom AG | Shilpa Padgaonkar ||
 | Deutsche Telekom AG | Steffen Drüsedow ||
