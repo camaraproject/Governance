@@ -81,6 +81,7 @@
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
+| Dish | Jinsook Ryu ||
 | Dish | Media Johnsen ||
 | Dish | Jingyi Zhou ||
 | DriveU | Eli Shapira ||
