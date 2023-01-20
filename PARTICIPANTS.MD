@@ -187,6 +187,7 @@
 | Nabstract | Ishan Shah ||
 | Nabstract | Vaibhav Mehta ||
 | Nearby Computing | David Carrera ||
+| Nearby Computing | Maria Serrano ||
 | Nearby Computing | Monika Valdez ||
 | Nearby Computing | Oscar Trullols ||
 | Nearby Computing | Sergi Alonso ||
