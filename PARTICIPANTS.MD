@@ -208,6 +208,7 @@
 | Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
 | Oracle | Amit Savita ||
+| Oracle | Piyush Sarwal ||
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Guillaume Nevicato||
