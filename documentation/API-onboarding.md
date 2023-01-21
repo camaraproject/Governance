@@ -6,11 +6,11 @@ This document aims at describing a clear, consistent and transparent process for
 
 The process pipeline is depicted in the figure below.
 
-API\_process\_pipeline.jpg
+![API process pipeline](images/API_process_pipeline.png)
 
 All stages within this process pipeline are documented in the CAMARA API overview list. An example can be seen here:
 
-API\_overview\_list.jpg
+![API process pipeline](images/API_overview_list.png)
 
 Details and clarifications on the stages conforming this pipeline are provided in the following sections.
 
