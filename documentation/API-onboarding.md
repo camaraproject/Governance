@@ -1,88 +1,75 @@
 # API onboarding and management in CAMARA
 
-
-## Table of Contents
-
-  - [Introduction](#introduction)
-  - [API proposal template](#api-proposal-template)
-  - [API proposal summary report](#api-proposal-summary-report)
-  - [API proposal ballot](#api-proposal-ballot)
-    - [Main tenets for SC voting](#main-tenets-for-sc-voting)
-  - [API backlog maintenance](#api-backlog-maintenance)
-
-
-
 ## Introduction
 
-This document aims at reporting a clear, consistent and transparent process for the onboarding (submission) and management (maintenance) of API proposals in CAMARA project. The process explained herein applies for both CAMARA companies and partner organizations (e.g. [OPG](https://www.gsma.com/futurenetworks/5g-operator-platform/)'s OPAG and [5GFF](https://www.verizon.com/about/5g-future-forum)).
+This document aims at describing a clear, consistent and transparent process for the onboarding (submission) and management (maintenance) of API proposals and APIs in the CAMARA Project.
 
-The process pipeline is depicted in the figure below. The CAMARA company or partner organization acting as API owner shall decide which option to go for, depending on whether the API proposal fits within the scope of an existing Sub-Project (see current list [here](https://github.com/camaraproject)) or not. 
+The process pipeline is depicted in the figure below.
 
-![Pipeline](./ressources/onboarding-pipeline.png)
+API\_process\_pipeline.jpg
 
-Details and clarifications on the stages conforming this pipeline are provided in the upcoming sections. 
+All stages within this process pipeline are documented in the CAMARA API overview list. An example can be seen here:
 
-## API proposal template
-The pipeline is triggered with the submission of the API proposal. To that end, the API owner shall fill out the template available [here](https://github.com/camaraproject/WorkingGroups/blob/main/Commonalities/documentation/Deliverables/API-proposal-template.md). 
+API\_overview\_list.jpg
 
-This template will be used as a **checklist** to decide on including/not including the API proposal in the backlog.
+Details and clarifications on the stages conforming this pipeline are provided in the following sections.
 
-Instructions for submission: 
-- API template name: `APIproposal_<APIname>_<owner>.md`
-- Submission directory: the template shall be posted at [APIBacklog WG]((https://github.com/camaraproject/WorkingGroups/tree/main/APIBacklog) (if option A) or to the specific API Sub Project (if option B). 
+## Submission of an API proposal
 
-Upon submission, the API proposal is formally registered in CAMARA. From this moment on:
-- The APIBacklog coordinator validates that the API proposal is duly filled out. If some input is missing, the API owner will be notified accordingly, so an amended version can be re-submitted. 
-- Once sanity check is done, the APIBacklog WG participants shall declare their support/no support to the API proposal. For this activity, a reference time window of duration has been defined. 
+The pipeline is triggered with the submission of an API proposal. This API proposal can represent a new API or a new API family.
 
-## API proposal summary report
-Once the time window gets finalized, the [APIBacklog WG](https://github.com/camaraproject/WorkingGroups/tree/main/APIBacklog) coordinator shall prepare a summary report for the API proposal. The structure of this report is available [here](https://github.com/camaraproject/WorkingGroups/blob/main/Commonalities/documentation/Deliverables/API-Summary-report-template.md). 
+API proposals can be submitted by everybody, e.g. GSMA OPAG, external or CAMARA member companies, and existing CAMARA Sub Projects or Working Groups (if these realize that the scope has to be increased).
 
-The [APIBacklog WG](https://github.com/camaraproject/WorkingGroups/tree/main/APIBacklog) coordinator will send the summary report to the Steering Committee (SC) at least **one week prior** to the SC meeting where the API proposal will be voted upon. 
+To proceed with the submission, the API proposal owner shall follow these steps:
 
-## API proposal ballot
-Upon receiving the summary report and notification from the [APIBacklog WG](https://github.com/camaraproject/WorkingGroups/tree/main/APIBacklog) coordinator, the SC will study the proposal and voite it at the next SC meeting. 
+- Fill in the template available here and save it with the following name: "APIproposal\_\<APIname\>\_\<owner\>. md" locally.
+- Create a new issue in the API Backlog Working Group repository, labeled with "API Backlog".
+- Upload the filled-in template to GitHub repository folder for API proposals ([https://github.com/camaraproject/WorkingGroups/tree/main/APIBacklog](https://github.com/camaraproject/WorkingGroups/tree/main/APIBacklog)) via pull request. This pull request shall be associated to the issue created in the previous step.
 
-Decision options are based on basic majority:
-- `No-Go!`(>50% companies vote NO). Objecting companies shall provide justifications why.
-- `Go!` (<=50% companies vote NO). In such a case, the SC shall specify whether the API proposal is to be hosted by a new or existing Sub Project.
+## Evaluation of the API proposal
 
-### Main tenets for SC voting
-- **Tenet #1**: Open-source projects are contribution-driven.  There should no be guidelines to prevent partners to contribute. 
-    - If a partner/customer/OPAG would like to contribute a certain API (which is on priority ”X” in the backlog, not necessarily priority 1), they should be welcomed to do it.<br>
-- **Tenet #2**: SC shall make sure that APIs belonging together (close topic/content, API families) are developed within the same Sub Project, while ensuring that Sub Projects are not too small (i.e., difficult to track them down) or too big (difficult to be managed).<br>
-- **Tenet #3**: There could be situations where API proposal complies with acceptance criteria (template duly filled out), but has not supporters other than the proponent company. What to do in this situation?	
-    - Recommendation is to accept the API proposal, and sees how successful  will be in terms of industry adoption. 
+Upon submission, the "API Backlog" Working Group (WG) validates the API proposal. In particular:
 
+- The API Backlog WG coordinator checks that the template is duly filled in. Otherwise, the API proposal owner will be requested to provide missing information.
+- After this sanity check, each WG participant declares his/her support (which is also documented in the template).
 
-## API backlog maintenance
-The [APIBacklog WG](https://github.com/camaraproject/WorkingGroups/tree/main/APIBacklog) coordinator is responsible for keeping the status of API proposals updated throughout their lifetime. This information is captured in a live table available [here](URL-To-Be-Defined). Once a new API proposal is formally registered in CAMARA, the [APIBacklog WG](https://github.com/camaraproject/WorkingGroups/tree/main/APIBacklog) will add a new entry to this table, and maintain it. 
+Finally the pull request is merged into the main branch and the API proposal template is sent to the Steering Committee of CAMARA at least one week prior to the Steering Committee meeting where the API proposal shall be voted upon.
 
-> _NOTE: The content below will be removed from these guidelines, once PR [#77](https://github.com/camaraproject/WorkingGroups/pull/77) is approved._
+This whole step shall be done within 2 regular meetings of the API Backlog WG. In parallel, the API proposal is formally registered in CAMARA by adding it to the CAMARA API overview list (API Backlog WG creates a new line in the table and fills in API family name, API family owner, API family proposal registration date, the link to the application template and the supporters for it).
 
-### Live table template
+## API proposal Steering Committee decision
 
-| **Name**  |  **Owner**  | **Priority** | **API proposal registration date** | **Status**  | **Supporters** | **Link to the filled-in template** |
-| --- |  ---  | --- | --- | --- | --- | --- |
-| --- |  ---  | --- | --- | --- | --- | --- |
-| --- |  ---  | --- | --- | --- | --- | --- |
+Upon receiving the API proposal and notification from the API Backlog WG, the Steering Committee studies the proposal and votes it at the Steering Committee meeting.
 
-### Table Attributes
-- `Name`: it is the name of the API proposal. 
-- `Owner`: it is the CAMARA company or partner organization (e.g. OPAG, 5GFF) that leads the API proposal.
-- `Priority`: it specifies the priority of the API proposal, considering availability (readiness of standards and functionality in commercial products) and market relevance. This is to be decided by the API backlog WG participants. Priority value options:
-	- Short-term
-	- Medium-term
-	- Long-term
-- `Registration date`: it specifies the date when the API proposal was formally registered in CAMARA backlog. The date follows the YYYY/MM/DD format. 
-- `Status`: it specifies the status of the API in the pipeline. Status value options:
-	- Not Submitted and no Sub-Project exists
-	- Not submitted but Sub-Project exists (specify Sub-Project and include link)
-	- Submitted 
-	- Under evaluation
-	- Ready for SteerCo decision
-	- Approved (specify Sub-Project and include link)
-- `Supporters`: it lists the CAMARA companies or partner organizations that support working out API proposal in CAMARA. 
-- `Link to the filled-in template`: URL where the filled-in template for API proposal has been submitted. If no URL is specified, it is assumed that no submission has been done yet; in such a case, the API is captured in the backlog for guidance/reference for future submissions.
+- No-Go! Objecting companies shall provide justifications why. The API proposal is rejected and will not be included in any API Sub Project.
+- Go! In this case, the Steering Committee shall specify whether the API proposal is to be hosted by a new or existing Sub Project.
 
+Main tenets for Steering Committee voting:
 
+- Tenet #1: Open-source projects are contribution-driven. There should be no guidelines to prevent partners to contribute. If a company would like to work on a certain API proposal they should be welcome to do it.
+- Tenet #2: Steering Committee shall make sure that APIs belonging together (close topic/content, API families) are developed within the same Sub Project, while ensuring that Sub Projects are not too small (difficult to track them down) or too big (difficult to be managed).
+- Tenet #3: There could be situations where API proposal complies with acceptance criteria (template duly filled out) but has not supporters other than the proponent company. What to do in this situation? Recommendation is to accept the API proposal and see how successful it will be in terms of industry adoption.
+
+The Steering Committee documents the decision in the CAMARA API overview list (fills in columns Steering Committee date and Steering Committee decision / Sub Project; in case of a No-Go "Rejected" is documented there).
+
+## API management and maintenance
+
+In case of a GO decision of the Steering Committee the named Sub Project takes over responsibility for the new API or API family and starts making contributions for the API definition(s), API documentation, provider implementation and test artefacts.
+
+The Sub Project will follow the versioning guidelines as defined in the Commonalities Working Group to maintain the API versions. Based on an internal consensus within the Sub Project, releases will be cherry-picked and release branches will be appropriately created. If a deliverable (API definition, API documentation, API code, successful test) for a release of an API is available (accepted by the Sub Project and merged in the main branch) the Sub Projects adds the link to it in the CAMARA API overview list.
+
+If there are more than one API in an API family / API Sub Project for each of them a separate line in the CAMARA API overview list shall be added.
+
+If there are more than one releases for an API for each of these releases a separate line in the CAMARA API overview list shall be added.
+
+The requested data to be filled in the CAMARA API overview list is API name, API release, link to API definition, link to API documentation, link to API code and partner which has tested an API release.
+
+## API deployment
+
+If an API is successfully tested in one or more operator networks, it can be used for deployment also in live environments.
+
+In case an operator (CAMARA partner company or external company) uses an API definition of a CAMARA API release, this operator is recommended to document it in the last column (API deployed at company and country) of the CAMARA API overview list. If possible, also a link to the site (e.g. portal) where the deployed API can be accessed is recommended to be inserted.
+
+## Clean up
+
+Lines for old releases of APIs (when these aren't deployed anywhere anymore) in the CAMARA API overview list can be deleted by the responsible API Sub Project.
