@@ -255,6 +255,7 @@
 | TIM Brazil | Bruno Leandro Campos De Miranda | |
 | TIM Brazil | Paulo Cesar Dias Lima | |
 | TIM Brazil | Robson De Andrade Esteves | |
+| Telefonica | Agustin Martin Gonzalez ||
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alexandre Harmand ||
 | Telefonica | Aurelia Martinez Guerra ||
