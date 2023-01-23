@@ -204,6 +204,7 @@
 | Nokia | Zoltan Olah ||
 | Nos | Nuno Erodrigues ||
 | Nos | Orlando Almeida ||
+| NTT Data | Josef Reisinger ||
 | NTT Data | Luis Rubio Martinez ||
 | Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
