@@ -129,6 +129,7 @@
 | GSMA | Tom van Pelt ||
 | Huawei | Albert Wang ||
 | Huawei | Liang Feng ||
+| Huawei | Maria Jose Mossi (Pepa) ||
 | Huawei | Qing Shuting ||
 | Huawei | Roger Fengyulin ||
 | Huawei | Roger Wangrong ||
