@@ -241,6 +241,7 @@
 | STC | Mohammed A. Adlani   | |
 | Sunrise | Aaron Pearce   | |
 | Swisscom | Lukas Leuthold   | |
+| Syniverse | Jyrki Penttinen   | |
 | T-Mobile NL | Muhammad Ahmad   | |
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Dan Sershen ||
