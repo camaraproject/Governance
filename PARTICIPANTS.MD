@@ -112,6 +112,7 @@
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
+| Fujitsu | Kazu Sakumoto ||
 | Fujitsu | T. Hasegawa ||
 | Gapask | Rajesh Murthy ||
 | Google Cloud | Dutt Kalapatapu | |
