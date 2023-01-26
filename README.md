@@ -61,7 +61,7 @@ The Steering Committee is the oversight body for the CAMARA Project. The Steerin
 | Intel	| Petar Torre |
 | Kandy	| Philip Lintell |
 | KDDI	| Shingo Watanabe (Toshiyasu Wakayama) |
-| Microsoft	| Landon Cox |
+| Microsoft	| Landon Cox (Ricardo Villarreal) |
 | Nokia	| Chris Jones (Tanja de Groot) |
 | ORANGE	| Sylvain Morel |
 | Scenera	| David Lee |
