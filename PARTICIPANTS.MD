@@ -250,6 +250,7 @@
 | T-Mobile US| Lyle Bertz | Yes |
 | T-Mobile US | Murat Karabulut ||
 | T-Mobile US | Ron Marquardt ||
+| TechMahindra | Mohit Luthra ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio | Representative |
