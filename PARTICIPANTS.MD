@@ -39,6 +39,7 @@
 | Bell Canada | Karen Meulenkamp | |
 | Bell Canada | Marc-Alexandre Choquette ||
 | Bell Canada | Sean Garagan | |
+| Bics | Kenneth Hardat | |
 | BridgeAlliance | Achuth Pai | |
 | BridgeAlliance | A. Yerra | |
 | BridgeAlliance | Ken Wee | |
