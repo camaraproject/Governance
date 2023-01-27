@@ -214,8 +214,11 @@
 | Open Sesaame | Julian McCrea ||
 | Oracle | Amit Savita ||
 | Oracle | Azhar Mirza ||
+| Oracle | Chandra Bommanaveni ||
+| Oracle | Kinshuk Kulshreshtha ||
 | Oracle | Luis Silva ||
 | Oracle | Piyush Sarwal ||
+| Oracle | Walter Prior ||
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Guillaume Nevicato||
@@ -294,6 +297,7 @@
 | Telstra | Varun Nair | |
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Jim Slevinksy | |
+| TELUS | Oswaldo Lauschner | |
 | TM Forum | George Glass | |
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Jeremy Giese | Yes |
