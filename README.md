@@ -29,7 +29,7 @@
 
 ## Mission statement
 
-4G/5G network capabilities exposed through APIs provide a large benefit for customers. By hiding telco complexity behind APIs and making the APIs available across telco networks and countries, CAMARA enables an easy and seamless access.
+Telco network capabilities exposed through APIs provide a large benefit for customers. By hiding telco complexity behind APIs and making the APIs available across telco networks and countries, CAMARA enables easy and seamless access.
 
 ## Project Charter
 
