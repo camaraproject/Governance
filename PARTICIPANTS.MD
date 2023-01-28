@@ -86,7 +86,7 @@
 | Dish | Media Johnsen ||
 | Dish | Jingyi Zhou ||
 | DriveU | Eli Shapira ||
-| Domus | Magnus ? ||
+| Domos | Magnus ? ||
 | EANTC | Carsten Rossenhoevel ||
 | EANTC | Dirk Hetzer ||
 | EdgeXR | Jesse Bijl ||
