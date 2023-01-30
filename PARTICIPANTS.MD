@@ -245,6 +245,7 @@
 | Spry Fox Networks | Steven Ballantyne   | |
 | Spry Fox Networks | Stuart Waine   | |
 | STC | Albaraa A. Bajnaid   | |
+| STC | Fahad Tanwir   | |
 | STC | Mohammed A. Adlani   | |
 | Sunrise | Aaron Pearce   | |
 | Swisscom | Lukas Leuthold   | |
