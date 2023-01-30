@@ -218,6 +218,7 @@
 | Oracle | Kinshuk Kulshreshtha ||
 | Oracle | Luis Silva ||
 | Oracle | Piyush Sarwal ||
+| Oracle | Ruta Abhay Potnis ||
 | Oracle | Walter Prior ||
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Frederic Fieau ||
