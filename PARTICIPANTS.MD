@@ -231,6 +231,7 @@
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
 | Redhat | Hanen Garcia ||
+| Reply | Gianmarco Sciortino ||
 | Scenera | Andrew Wajs | |
 | Scenera | Chien Lim | |
 | Scenera | David Lee |Yes|
