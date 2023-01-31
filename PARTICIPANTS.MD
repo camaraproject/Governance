@@ -165,6 +165,7 @@
 | KDDI | Yusuke Nakano |  |
 | KPN | Leon Denelsen ||
 | LibertyGlobal | Awais Ahmad ||
+| LibertyGlobal | W. Rees ||
 | Lotusflare | Eric Morhenn |  |
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
