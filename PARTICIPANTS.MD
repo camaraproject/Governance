@@ -138,6 +138,7 @@
 | Huawei | Roger Wangrong ||
 | Hutchison | Sandra Ondrusova ||
 | IBM | Jason Hunt | Yes |
+| IBM | Pablo Kahale ||
 | IBM | Zyg Lozinski | Representative |
 | Infobip | Joe Murphy ||
 | Infobip | John Murtagh ||
