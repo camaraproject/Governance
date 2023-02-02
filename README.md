@@ -71,7 +71,7 @@ The Steering Committee is the oversight body for the CAMARA Project. The Steerin
 | TELUS	| Ali Tizghadam |
 | Vodafone	| Steven Pater |
 
-The Steering Committee meetings are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CET time. You’re welcome to join via: https://dtag.webex.com/dtag/j.php?MTID=m79544089ecb17cfa5046b7e1982926f3
+The Steering Committee meetings are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CET time. You’re welcome to join via: https://dtag.webex.com/dtag/j.php?MTID=m3132241789c25fcbeab76a9875b90cbb
 
 A message to all Steering Committee participants can be sent using <tsc@lists.camaraproject.org>.
 
