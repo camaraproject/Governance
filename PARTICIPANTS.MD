@@ -200,12 +200,12 @@
 | Netcracker | Dmytro Gassanov ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
-| Nokia | Chris Jones | Yes |
+| Nokia | Chris Jones | Representative |
 | Nokia | Daniel Bedekovich | |
 | Nokia | Gergely Csatari ||
 | Nokia | Marc Erhardt ||
 | Nokia | Rene Saathoff ||
-| Nokia | Tanja de Groot | Representative |
+| Nokia | Tanja de Groot | Yes |
 | Nokia | William Stanley ||
 | Nokia | Zoltan Olah ||
 | Nos | Nuno Erodrigues ||
