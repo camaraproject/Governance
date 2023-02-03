@@ -51,6 +51,7 @@
 | Cablelabs | Mark Bridges |  |
 | Cablelabs | Paul Fonte |  |
 | Cablelabs | Philip Rosenberg-Watt |  |
+| Cablelabs | R. Gandotra |  |
 | Cablelabs | Randy Levensalor |  |
 | Capgemini | Deepak A. Gunjal | Yes |
 | China Unicom | Gao Chen | |
