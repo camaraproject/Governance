@@ -54,6 +54,7 @@
 | Cablelabs | R. Gandotra |  |
 | Cablelabs | Randy Levensalor |  |
 | Capgemini | Deepak A. Gunjal | Yes |
+| Charter | Patrick Schultz ||
 | China Unicom | Gao Chen | |
 | Cisco | Ravi Guntupalli | |
 | CNCF | Arpit Joshipura | |
