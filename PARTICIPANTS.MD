@@ -48,6 +48,7 @@
 | Broadpeak | Christoph Neumann |  |
 | Broadpeak | Guillaume Bichot |  |
 | Broadpeak | Tuan Tran |  |
+| Byte | Apaz ||
 | Cablelabs | Mark Bridges |  |
 | Cablelabs | Paul Fonte |  |
 | Cablelabs | Philip Rosenberg-Watt |  |
