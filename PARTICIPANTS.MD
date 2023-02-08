@@ -309,6 +309,7 @@
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Jim Slevinksy | |
 | TELUS | Oswaldo Lauschner | |
+| TELUS | Theohar Konomi | |
 | TM Forum | George Glass | |
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Jeremy Giese | Yes |
