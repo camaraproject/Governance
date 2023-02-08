@@ -254,6 +254,7 @@
 | STC | Albaraa A. Bajnaid   | |
 | STC | Fahad Tanwir   | |
 | STC | Mohammed A. Adlani   | |
+| STC | Naeem Ur Rehman ||
 | Sunrise | Aaron Pearce   | |
 | Swisscom | Lukas Leuthold   | |
 | Syniverse | Jyrki Penttinen   | |
