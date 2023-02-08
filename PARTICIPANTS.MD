@@ -148,6 +148,7 @@
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
 | Infobip | ShivPrakash Ojha ||
+| Infosys | Gnanapriya Chidambaranathan ||
 | Intel | Francesc Guim ||
 | Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
