@@ -134,6 +134,7 @@
 | GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
 | Huawei | Albert Wang ||
+| Huawei | Junyi Zhou ||
 | Huawei | Liang Feng ||
 | Huawei | Maria Jose Mossi (Pepa) ||
 | Huawei | Qing Shuting ||
