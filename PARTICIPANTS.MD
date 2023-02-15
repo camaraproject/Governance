@@ -170,6 +170,7 @@
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
 | KPN | Leon Denelsen ||
+| KT | Yeon Loo Lim ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | W. Rees ||
 | Lotusflare | Eric Morhenn |  |
