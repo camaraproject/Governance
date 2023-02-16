@@ -221,6 +221,7 @@
 | Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
 | Oracle | Amit Savita ||
+| Oracle | Anil Rao ||
 | Oracle | Azhar Mirza ||
 | Oracle | Chandra Bommanaveni ||
 | Oracle | Kinshuk Kulshreshtha ||
