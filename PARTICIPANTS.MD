@@ -269,6 +269,7 @@
 | T-Mobile US | Murat Karabulut ||
 | T-Mobile US | Ron Marquardt ||
 | TCS | Priya Chopra ||
+| TCS | Rajeev Gokana ||
 | TechMahindra | Mohit Luthra ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
