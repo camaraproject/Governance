@@ -64,6 +64,7 @@
 | CodeB | Stefan Engelbert ||
 | CTHINGS | Arnold Wierzejski | |
 | CTHINGS | Shreyas Vinod | |
+| Dell | Mihai Lazar | |
 | Dell | Saad Sheikh | |
 | Dell | Vaishali Gupta | |
 | Deutsche Telekom AG | Akos Hunyadi ||
@@ -133,6 +134,7 @@
 | GSMA | Mark Cornall ||
 | GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
+| Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
 | Huawei | Junyi Zhou ||
 | Huawei | Liang Feng ||
@@ -268,6 +270,7 @@
 | T-Mobile US| Lyle Bertz | Yes |
 | T-Mobile US | Murat Karabulut ||
 | T-Mobile US | Ron Marquardt ||
+| TCS | Pranay Rsahay ||
 | TCS | Priya Chopra ||
 | TCS | Rajeev Gokana ||
 | TechMahindra | Mohit Luthra ||
@@ -330,6 +333,7 @@
 | Vodafone | Fraser King | Eric Murray | |
 | Vodafone | Iván Nieto| |
 | Vodafone / 5GFF | Kevin Smith | Representative |
+| Vodafone | Mahesh Joshi | |
 | Vodafone | Marta Martin | |
 | Vodafone | Sachin Kumar | |
 | Vodafone | Simon Gordon | |
