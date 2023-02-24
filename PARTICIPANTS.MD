@@ -134,6 +134,7 @@
 | GSMA | Mark Cornall ||
 | GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
+| HCL | Ramyang Pandya ||
 | Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
 | Huawei | Junyi Zhou ||
