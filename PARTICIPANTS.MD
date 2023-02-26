@@ -137,6 +137,7 @@
 | HCL | Ramyang Pandya ||
 | Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
+| Huawei | Jiafeng Zhu ||
 | Huawei | Junyi Zhou ||
 | Huawei | Liang Feng ||
 | Huawei | Maria Jose Mossi (Pepa) ||
