@@ -5,9 +5,11 @@
 | A1 | Thomas Walzer ||
 | Accenture | Adriano Poloni ||
 | Accenture | Giuseppe di Nuccio ||
+| AclDigital | Sagar Nangare ||
 | Airtel India | Ramit Chawla ||
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
+| Alicon | Ike Alisson ||
 | amdocs | Bernard Heuse ||
 | amdocs | David Hovey ||
 | Apple | Darryl Chiles ||
@@ -21,6 +23,7 @@
 | AT&T | Michael Raftelis ||
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
+| AWS | Chivas Nambiar ||
 | AWS | Ishwar Parulkar ||
 | AWS | Tetsuya Nakamura ||
 | axiata | Anthony Rodrigo ||
@@ -118,6 +121,7 @@
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
+| Foo | Ziad Hawwa ||
 | Fujitsu | Kazu Sakumoto ||
 | Fujitsu | T. Hasegawa ||
 | Gapask | Rajesh Murthy ||
@@ -199,6 +203,8 @@
 | Microsoft | Thilo Ewald ||
 | Midokura | Alon Harel ||
 | Midokura | Kenji Shimizu ||
+| Millicom | Alejandro Blacut ||
+| Minsait | Francisco Rodriguez Garcia ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
 | Nabstract | Vaibhav Mehta ||
@@ -222,6 +228,7 @@
 | Nos | Orlando Almeida ||
 | NTT Data | Josef Reisinger ||
 | NTT Data | Luis Rubio Martinez ||
+| Nuage | Gabriel Klein ||
 | Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
 | Oracle | Amit Savita ||
@@ -267,6 +274,7 @@
 | Swisscom | Lukas Leuthold   | |
 | Syniverse | Jyrki Penttinen   | |
 | T-Mobile NL | Muhammad Ahmad   | |
+| T-Mobile US | Antoine Egho ||
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Dan Sershen ||
 | T-Mobile US| Lyle Bertz | Yes |
@@ -315,6 +323,7 @@
 | Telstra | Abdul Majid Hussain | |
 | Telstra / 5GFF | Senthoor Punniamoorthy | |
 | Telstra | Varun Nair | |
+| Teltarif | Alexander Kuch ||
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Jim Slevinksy | |
 | TELUS | Oswaldo Lauschner | |
@@ -322,6 +331,7 @@
 | TM Forum | George Glass | |
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Jeremy Giese | Yes |
+| Verizon | Kapil Maheshwari ||
 | Verizon / 5GFF | Kevin Xu | |
 | Verizon | Mahesh Chapalamadugu | |
 | Verizon / 5GFF | Parry Booker | Representative |
@@ -336,6 +346,7 @@
 | Vodafone | Iván Nieto| |
 | Vodafone / 5GFF | Kevin Smith | Representative |
 | Vodafone | Mahesh Joshi | |
+| Vodafone | Mariusz Dawidowicz ||
 | Vodafone | Marta Martin | |
 | Vodafone | Sachin Kumar | |
 | Vodafone | Simon Gordon | |
@@ -344,6 +355,7 @@
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
 | Wiocc | Jason Tutty ||
+| Zain | Devajeet Datta ||
 |  | Abrar Sadd ||
 |  | Ankita Kohli ||
 |  | Carlos Vazbagper ||
