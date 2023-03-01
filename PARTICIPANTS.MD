@@ -351,6 +351,7 @@
 | Vodafone | Sachin Kumar | |
 | Vodafone | Simon Gordon | |
 | Vodafone | Steven Pater | Yes |
+| Vonage | Chris Skowronek ||
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
