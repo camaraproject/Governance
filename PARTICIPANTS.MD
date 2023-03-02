@@ -246,6 +246,7 @@
 | ORANGE | Guy Vidal||
 | ORANGE | Jean Luc Sire ||
 | ORANGE | Ludovic Robert ||
+| ORANGE | Manoj Mourya ||
 | ORANGE | Olivier Mathieu ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sylvain Morel |Yes|
@@ -279,7 +280,9 @@
 | T-Mobile US | Dan Sershen ||
 | T-Mobile US| Lyle Bertz | Yes |
 | T-Mobile US | Murat Karabulut ||
+| T-Mobile US | Murthy Gorty ||
 | T-Mobile US | Ron Marquardt ||
+| T-Mobile US | Srujana Punyapu ||
 | TCS | Pranay Rsahay ||
 | TCS | Priya Chopra ||
 | TCS | Rajeev Gokana ||
@@ -360,7 +363,9 @@
 |  | Abrar Sadd ||
 |  | Ankita Kohli ||
 |  | Carlos Vazbagper ||
+|  | Emmanuele Benedetto ||
 |  | Jae Yeol Kim ||
+|  | Juan de Toro ||
 |  | K. Reifenrath ||
 |  | Kuldeep Kumar ||
 |  | R. Sanvatsarkar ||
