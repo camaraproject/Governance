@@ -61,6 +61,7 @@
 | Charter | Patrick Schultz ||
 | China Unicom | Gao Chen | |
 | Cisco | Ravi Guntupalli | |
+| Claro | Luis Olaechea ||
 | CNCF | Arpit Joshipura | |
 | CNCF | Kurt Taylor | |
 | CodeB | Jussi Makela ||
@@ -138,6 +139,7 @@
 | GSMA | Mark Cornall ||
 | GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
+| Hawaiiantel | Kevin Folan ||
 | HCL | Ramyang Pandya ||
 | Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
@@ -164,6 +166,7 @@
 | Intel | Oliver Neal ||
 | Intel | Oliver Roos ||
 | Intel | Petar Torre | Yes |
+| ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
 | Kandy | Andy Lee |  |
 | Kandy | Fatih Demirel |  |
@@ -205,6 +208,7 @@
 | Midokura | Kenji Shimizu ||
 | Millicom | Alejandro Blacut ||
 | Minsait | Francisco Rodriguez Garcia ||
+| Mobi2buy | Fabio Copello ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
 | Nabstract | Vaibhav Mehta ||
@@ -254,9 +258,11 @@
 | Radisys | Ashok Rawat ||
 | Redhat | Hanen Garcia ||
 | Reply | Gianmarco Sciortino ||
+| Saitro | Luis Carlos Toledo ||
 | Scenera | Andrew Wajs | |
 | Scenera | Chien Lim | |
 | Scenera | David Lee |Yes|
+| Securamobile | Gautam Hazari ||
 | Seoul National University | Kiho Lee | |
 | Shabodi | Nitin | |
 | SK Telecom | Clark Park | |
@@ -298,6 +304,7 @@
 | TIM Brazil | Bruno Leandro Campos De Miranda | |
 | TIM Brazil | Paulo Cesar Dias Lima | |
 | TIM Brazil | Robson De Andrade Esteves | |
+| Telecomsxchange | Ameed Jamous ||
 | Telefonica | Agustin Martin Gonzalez ||
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alexandre Harmand ||
@@ -321,10 +328,11 @@
 | Telefonica | Rocio Ortiz Pena ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Victor Barranco Fernandez ||
+| Telstra | Abdul Majid Hussain | |
 | Telstra / 5GFF | Brett Hill | |
 | Telstra | Channa Seneviratne | |
-| Telstra | Abdul Majid Hussain | |
-| Telstra / 5GFF | Senthoor Punniamoorthy | |
+| Telstra | George Karroum ||
+| Telstra | Senthoor Punniamoorthy | |
 | Telstra | Varun Nair | |
 | Teltarif | Alexander Kuch ||
 | TELUS | Ali Tizghadam | Yes |
@@ -332,6 +340,7 @@
 | TELUS | Oswaldo Lauschner | |
 | TELUS | Theohar Konomi | |
 | TM Forum | George Glass | |
+| Tykelab | M. Massaroni ||
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Jeremy Giese | Yes |
 | Verizon | Kapil Maheshwari ||
@@ -360,6 +369,7 @@
 | VROMBR | Titouan Vatonne ||
 | Wiocc | Jason Tutty ||
 | Zain | Devajeet Datta ||
+| ZTE | Jie Hu ||
 |  | Abrar Sadd ||
 |  | Ankita Kohli ||
 |  | Carlos Vazbagper ||
