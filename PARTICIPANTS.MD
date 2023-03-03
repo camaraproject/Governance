@@ -139,7 +139,7 @@
 | GSMA | Mark Cornall ||
 | GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
-| Hawaiiantel | Kevin Folan ||
+| Hawaiian Telecom | Kevin Folan ||
 | HCL | Ramyang Pandya ||
 | Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
