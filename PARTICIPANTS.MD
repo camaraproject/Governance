@@ -279,6 +279,7 @@
 | STC | Mohammed A. Adlani   | |
 | STC | Naeem Ur Rehman ||
 | Sunrise | Aaron Pearce   | |
+| Swisscom | Felix Sutter   | |
 | Swisscom | Lukas Leuthold   | |
 | Syniverse | Jyrki Penttinen   | |
 | T-Mobile NL | Muhammad Ahmad   | |
