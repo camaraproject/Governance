@@ -341,6 +341,7 @@
 | TELUS | Oswaldo Lauschner | |
 | TELUS | Theohar Konomi | |
 | TM Forum | George Glass | |
+| Trustrelay | Lukas Hohl ||
 | Tykelab | M. Massaroni ||
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Jeremy Giese | Yes |
