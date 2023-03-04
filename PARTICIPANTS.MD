@@ -47,6 +47,7 @@
 | BridgeAlliance | A. Yerra | |
 | BridgeAlliance | Ken Wee | |
 | BridgeAlliance | Kumar Gaurav Singh | |
+| Brillio | Kishore Vutukuri ||
 | British Telecom | Milan Lalovic | |
 | Broadpeak | Christoph Neumann |  |
 | Broadpeak | Guillaume Bichot |  |
@@ -352,6 +353,7 @@
 | Verizon | Raghuram Parvataneni | |
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
+| Vodacom | Surajj Jaggernath ||
 | Vodafone | David Frankland | |
 | Vodafone | Eric Murray | |
 | Vodafone | Fraser King | Eric Murray | |
