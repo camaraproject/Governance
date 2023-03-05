@@ -209,6 +209,7 @@
 | Midokura | Kenji Shimizu ||
 | Millicom | Alejandro Blacut ||
 | Minsait | Francisco Rodriguez Garcia ||
+| Mksa | Koffi Kodjo ||
 | Mobi2buy | Fabio Copello ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
