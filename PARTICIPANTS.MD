@@ -138,7 +138,7 @@
 | Google Cloud | Sridhar Gollapudi | Yes |
 | Google Cloud | Stella Loh | |
 | Google Cloud | Vivek Gupta | |
-| Grambell | Adis ||
+| Grambell | Adis Ceman ||
 | GS Labs | Amit Wankhede | |
 | GS Labs | Vikram Barate | |
 | GSMA | Andrew Parker ||
