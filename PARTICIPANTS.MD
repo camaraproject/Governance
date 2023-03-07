@@ -265,6 +265,7 @@
 | ORANGE | Olivier Mathieu ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sylvain Morel |Yes|
+| ORI | José Domingos ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
 | Redhat | Hanen Garcia ||
