@@ -390,7 +390,7 @@
 |  | Abrar Sadd ||
 |  | Ankita Kohli ||
 |  | Carlos Vazbagper ||
-|  | Dibyendu Haripal ||
+|  | Dibyendu Singha Roy ||
 |  | Emmanuele Benedetto ||
 |  | Jae Yeol Kim ||
 |  | Juan de Toro ||
