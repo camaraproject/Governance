@@ -23,6 +23,7 @@
 | AT&T | Michael Raftelis ||
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
+| Atrinet | Yoav Segman ||
 | AWS | Chivas Nambiar ||
 | AWS | Ishwar Parulkar ||
 | AWS | Tetsuya Nakamura ||
@@ -60,6 +61,7 @@
 | Cablelabs | Randy Levensalor |  |
 | Capgemini | Deepak A. Gunjal | Yes |
 | Charter | Patrick Schultz ||
+| China Mobile | Lisa Gao ||
 | China Unicom | Gao Chen | |
 | Cisco | Ravi Guntupalli | |
 | Claro | Luis Olaechea ||
@@ -109,6 +111,7 @@
 | Ericsson | Denis Borscia ||
 | Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
+| Ericsson | Fatih Bastan ||
 | Ericsson | Henrik Voigt ||
 | Ericsson | Jan Friman |Representative|
 | Ericsson | Jimmy Ahlberg ||
@@ -118,11 +121,14 @@
 | Ericsson | Lutfi Yelkenci ||
 | Ericsson | Miguel A. Garcia-Martin ||
 | Ericsson | Mohamed ElGamal ||
+| Ericsson | Oscar Divorra Escoda ||
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
+| Etiya | Serafettin Acir ||
+| Evergent | Murali Raman ||
 | Foo | Ziad Hawwa ||
 | Fujitsu | Kazu Sakumoto ||
 | Fujitsu | T. Hasegawa ||
@@ -132,6 +138,7 @@
 | Google Cloud | Sridhar Gollapudi | Yes |
 | Google Cloud | Stella Loh | |
 | Google Cloud | Vivek Gupta | |
+| Grambell | Adis ||
 | GS Labs | Amit Wankhede | |
 | GS Labs | Vikram Barate | |
 | GSMA | Andrew Parker ||
@@ -141,6 +148,7 @@
 | GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
 | Hawaiian Telecom | Kevin Folan ||
+| HCL | Norbert Naveen ||
 | HCL | Ramyang Pandya ||
 | Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
@@ -155,6 +163,7 @@
 | IBM | Jason Hunt | Yes |
 | IBM | Pablo Kahale ||
 | IBM | Zyg Lozinski | Representative |
+| Ilabs | Harm Arendshorst ||
 | Infobip | Joe Murphy ||
 | Infobip | John Murtagh ||
 | Infobip | Kosta Pribic ||
@@ -335,6 +344,7 @@
 | Telstra / 5GFF | Brett Hill | |
 | Telstra | Channa Seneviratne | |
 | Telstra | George Karroum ||
+| Telstra | Ian Mounsey ||
 | Telstra | Senthoor Punniamoorthy | |
 | Telstra | Varun Nair | |
 | Teltarif | Alexander Kuch ||
@@ -368,22 +378,26 @@
 | Vodafone | Sachin Kumar | |
 | Vodafone | Simon Gordon | |
 | Vodafone | Steven Pater | Yes |
+| Vonage | Chris Howell ||
 | Vonage | Chris Skowronek ||
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
 | Wiocc | Jason Tutty ||
+| Wit Software | Rita Pires ||
 | Zain | Devajeet Datta ||
 | ZTE | Jie Hu ||
 |  | Abrar Sadd ||
 |  | Ankita Kohli ||
 |  | Carlos Vazbagper ||
+|  | Dibyendu Haripal ||
 |  | Emmanuele Benedetto ||
 |  | Jae Yeol Kim ||
 |  | Juan de Toro ||
 |  | K. Reifenrath ||
 |  | Kuldeep Kumar ||
 |  | R. Sanvatsarkar ||
+|  | Sangramra Jekakade ||
 |  | Sativarios ||
 |  | Tom Collins ||
 |  | Tousif Ahmed ||
