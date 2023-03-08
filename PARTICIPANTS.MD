@@ -70,6 +70,7 @@
 | CNCF | Kurt Taylor | |
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
+| Convergenc3 | Loyiso Mlandu ||
 | CTHINGS | Arnold Wierzejski | |
 | CTHINGS | Shreyas Vinod | |
 | Dell | Mihai Lazar | |
@@ -392,6 +393,7 @@
 | VROMBR | Titouan Vatonne ||
 | Wiocc | Jason Tutty ||
 | Wit Software | Armindo Antunes ||
+| Wit Software | Marcio Almeida ||
 | Wit Software | Rita Pires ||
 | Zain | Devajeet Datta ||
 | ZTE | Jie Hu ||
