@@ -21,6 +21,7 @@
 | AT&T | Gervais-Martial Ngueko ||
 | AT&T | Jorge Hernandez Herrero ||
 | AT&T | Michael Raftelis ||
+| AT&T | S. B. ||
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
 | Atrinet | Yoav Segman ||
@@ -193,6 +194,7 @@
 | KPN | Leon Denelsen ||
 | KT | Yeon Loo Lim ||
 | LibertyGlobal | Awais Ahmad ||
+| LibertyGlobal | Oscar Tejedor Garcia ||
 | LibertyGlobal | W. Rees ||
 | Lotusflare | Eric Morhenn |  |
 | Matrixx | Elisabeth Andersson ||
@@ -209,6 +211,7 @@
 | Meta | Ulas Kozat ||
 | Meta | Xinli Hou ||
 | Microsoft | Landon Cox |Yes|
+| Microsoft | Joe Biron ||
 | Microsoft | Michael Brown ||
 | Microsoft | Moushumi Ghosal ||
 | Microsoft | Ricardo Villarreal | Representative |
@@ -231,6 +234,7 @@
 | Netcracker | Dmytro Gassanov ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
+| Nokia Bell Labs | Bessem Sayadi ||
 | Nokia | Chris Jones | Representative |
 | Nokia | Daniel Bedekovich | |
 | Nokia | Gergely Csatari ||
@@ -376,15 +380,18 @@
 | Vodafone | Mahesh Joshi | |
 | Vodafone | Mariusz Dawidowicz ||
 | Vodafone | Marta Martin | |
+| Vodafone | Nevin Aquinas ||
 | Vodafone | Sachin Kumar | |
 | Vodafone | Simon Gordon | |
 | Vodafone | Steven Pater | Yes |
+| Vonage | Andrew Pratt ||
 | Vonage | Chris Howell ||
 | Vonage | Chris Skowronek ||
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
 | Wiocc | Jason Tutty ||
+| Wit Software | Armindo Antunes ||
 | Wit Software | Rita Pires ||
 | Zain | Devajeet Datta ||
 | ZTE | Jie Hu ||
