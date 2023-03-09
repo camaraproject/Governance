@@ -131,6 +131,7 @@
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
 | Etiya | Serafettin Acir ||
+| Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
 | Foo | Ziad Hawwa ||
 | Fujitsu | Kazu Sakumoto ||
