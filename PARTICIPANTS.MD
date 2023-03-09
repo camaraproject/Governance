@@ -375,6 +375,7 @@
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
 | Vodacom | Surajj Jaggernath ||
+| Vodafone | Alexander Boraczynski ||
 | Vodafone | David Frankland | |
 | Vodafone | Eric Murray | |
 | Vodafone | Fraser King | Eric Murray | |
@@ -384,8 +385,10 @@
 | Vodafone | Mariusz Dawidowicz ||
 | Vodafone | Marta Martin | |
 | Vodafone | Nevin Aquinas ||
+| Vodafone | Ralph-Joachim Gramberg ||
 | Vodafone | Sachin Kumar | |
 | Vodafone | Simon Gordon | |
+| Vodafone | Sönke Peters | |
 | Vodafone | Steven Pater | Yes |
 | Vonage | Andrew Pratt ||
 | Vonage | Chris Howell ||
