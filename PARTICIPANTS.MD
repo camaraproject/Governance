@@ -5,7 +5,7 @@
 | A1 | Thomas Walzer ||
 | Accenture | Adriano Poloni ||
 | Accenture | Giuseppe di Nuccio ||
-| AclDigital | Sagar Nangare ||
+| ACL Digital | Sagar Suresh Nangare ||
 | Airtel India | Ramit Chawla ||
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
