@@ -282,7 +282,7 @@
 | Scenera | Andrew Wajs | |
 | Scenera | Chien Lim | |
 | Scenera | David Lee |Yes|
-| Securamobile | Gautam Hazari ||
+| Sekura Mobile Intelligence | Gautam Hazari ||
 | Seoul National University | Kiho Lee | |
 | Shabodi | Nitin | |
 | SK Telecom | Clark Park | |
