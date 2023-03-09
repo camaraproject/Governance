@@ -364,6 +364,7 @@
 | TM Forum | George Glass | |
 | Trustrelay | Lukas Hohl ||
 | Tykelab | M. Massaroni ||
+| Ultrabase | Cesar Obach ||
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Jeremy Giese | Yes |
 | Verizon | Kapil Maheshwari ||
