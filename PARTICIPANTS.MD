@@ -70,6 +70,7 @@
 | CNCF | Kurt Taylor | |
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
+| Cognizant | Siddharth Khatri ||
 | Convergenc3 | Loyiso Mlandu ||
 | CTHINGS | Arnold Wierzejski | |
 | CTHINGS | Shreyas Vinod | |
@@ -194,6 +195,7 @@
 | KDDI | Yusuke Nakano |  |
 | KPN | Leon Denelsen ||
 | KT | Yeon Loo Lim ||
+| Kyndryl | Pablo Montes ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Oscar Tejedor Garcia ||
 | LibertyGlobal | W. Rees ||
