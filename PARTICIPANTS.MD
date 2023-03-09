@@ -10,8 +10,10 @@
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
 | Alicon | Ike Alisson ||
+| amdocs | Andrew DSouza ||
 | amdocs | Bernard Heuse ||
-| amdocs | David Hovey ||
+| amdocs | Cameron Ross Dunne ||
+| amdocs | Sara Philpott ||
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
 | AT&T | Anisa Parikh ||
