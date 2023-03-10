@@ -11,6 +11,7 @@
 | Airtel India | Varun Talus ||
 | Alicon | Ike Alisson ||
 | amdocs | Bernard Heuse ||
+| amdocs | Cameron Ross Dunne ||
 | amdocs | David Hovey ||
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
@@ -27,6 +28,7 @@
 | Atrinet | Yoav Segman ||
 | AWS | Chivas Nambiar ||
 | AWS | Ishwar Parulkar ||
+| AWS | Sankar Panneerselvam ||
 | AWS | Tetsuya Nakamura ||
 | axiata | Anthony Rodrigo ||
 | axiata | Harin Honestyandi Parandika  ||
@@ -66,6 +68,7 @@
 | China Unicom | Gao Chen | |
 | Cisco | Ravi Guntupalli | |
 | Claro | Luis Olaechea ||
+| CM | Bas Gijzen ||
 | CNCF | Arpit Joshipura | |
 | CNCF | Kurt Taylor | |
 | CodeB | Jussi Makela ||
@@ -167,6 +170,7 @@
 | IBM | Jason Hunt | Yes |
 | IBM | Pablo Kahale ||
 | IBM | Zyg Lozinski | Representative |
+| IDC | John Byrne ||
 | Ilabs | Harm Arendshorst ||
 | Infobip | Joe Murphy ||
 | Infobip | John Murtagh ||
@@ -254,6 +258,7 @@
 | Nuage | Gabriel Klein ||
 | Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
+| Open Sesaame | Mateusz Mul ||
 | Oracle | Amit Savita ||
 | Oracle | Anil Rao ||
 | Oracle | Azhar Mirza ||
@@ -398,6 +403,7 @@
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
+| Wiocc | Evalyne Ndungu ||
 | Wiocc | Jason Tutty ||
 | Wit Software | Armindo Antunes ||
 | Wit Software | Marcio Almeida ||
