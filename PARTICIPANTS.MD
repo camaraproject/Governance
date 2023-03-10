@@ -166,6 +166,7 @@
 | Huawei | Qing Shuting ||
 | Huawei | Roger Fengyulin ||
 | Huawei | Roger Wangrong ||
+| Huawei | Zhengzhilong ||
 | Hutchison | Sandra Ondrusova ||
 | IBM | Jason Hunt | Yes |
 | IBM | Pablo Kahale ||
