@@ -76,7 +76,7 @@
 | CodeB | Stefan Engelbert ||
 | Cognizant | Siddharth Khatri ||
 | Convergenc3 | Loyiso Mlandu ||
-| Cpaasaa | Rob Kurver ||
+| CPAAS ACCELERATION ALLIANCE | Rob Kurver ||
 | CTHINGS | Arnold Wierzejski | |
 | CTHINGS | Shreyas Vinod | |
 | Dell | Mihai Lazar | |
