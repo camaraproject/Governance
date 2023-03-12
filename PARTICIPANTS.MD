@@ -28,6 +28,7 @@
 | Atrinet | Yoav Segman ||
 | AWS | Chivas Nambiar ||
 | AWS | Ishwar Parulkar ||
+| AWS | P. Shahane ||
 | AWS | Sankar Panneerselvam ||
 | AWS | Tetsuya Nakamura ||
 | axiata | Anthony Rodrigo ||
@@ -75,6 +76,7 @@
 | CodeB | Stefan Engelbert ||
 | Cognizant | Siddharth Khatri ||
 | Convergenc3 | Loyiso Mlandu ||
+| Cpaasaa | Rob Kurver ||
 | CTHINGS | Arnold Wierzejski | |
 | CTHINGS | Shreyas Vinod | |
 | Dell | Mihai Lazar | |
@@ -423,5 +425,6 @@
 |  | R. Sanvatsarkar ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
+|  | Sergio Alonso ||
 |  | Tom Collins ||
 |  | Tousif Ahmed ||
