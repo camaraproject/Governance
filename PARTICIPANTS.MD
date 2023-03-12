@@ -364,7 +364,6 @@
 | Telstra | Ian Mounsey ||
 | Telstra | Senthoor Punniamoorthy | |
 | Telstra | Varun Nair | |
-| Teltarif | Alexander Kuch ||
 | TELUS | Ali Tizghadam | Yes |
 | TELUS | Jim Slevinksy | |
 | TELUS | Oswaldo Lauschner | |
