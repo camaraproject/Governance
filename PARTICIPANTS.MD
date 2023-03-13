@@ -161,6 +161,7 @@
 | HCL | Ramyang Pandya ||
 | Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
+| Huawei | Chuanyu Chen ||
 | Huawei | Jiafeng Zhu ||
 | Huawei | Junyi Zhou ||
 | Huawei | Liang Feng ||
@@ -231,6 +232,7 @@
 | Midokura | Alon Harel ||
 | Midokura | Kenji Shimizu ||
 | Millicom | Alejandro Blacut ||
+| Mindsbeam | Bharathkumar Annamalai ||
 | Minsait | Francisco Rodriguez Garcia ||
 | Mksa | Koffi Kodjo ||
 | Mobi2buy | Fabio Copello ||
@@ -262,7 +264,7 @@
 | Ookla | Leandro de Marchi ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
-| Oracle | Amit Savita ||
+| Oracle | Amit Kumar Savita ||
 | Oracle | Anil Rao ||
 | Oracle | Azhar Mirza ||
 | Oracle | Chandra Bommanaveni ||
@@ -369,6 +371,7 @@
 | TELUS | Oswaldo Lauschner | |
 | TELUS | Theohar Konomi | |
 | TM Forum | George Glass | |
+| Trilio | Paulo Peres ||
 | Trustrelay | Lukas Hohl ||
 | Tykelab | M. Massaroni ||
 | ultraTELCO | Cesar Obach ||
