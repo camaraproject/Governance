@@ -66,6 +66,7 @@
 | Capgemini | Deepak A. Gunjal | Yes |
 | Charter | Patrick Schultz ||
 | China Mobile | Lisa Gao ||
+| China Mobile | Jundian Shi ||
 | China Unicom | Gao Chen | |
 | Cisco | Ravi Guntupalli | |
 | Claro | Luis Olaechea ||
