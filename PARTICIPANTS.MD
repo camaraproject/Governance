@@ -4,6 +4,7 @@
 | A1 | Manfred Moormann ||
 | A1 | Thomas Walzer ||
 | Accenture | Adriano Poloni ||
+| Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
 | ACL Digital | Sagar Suresh Nangare ||
 | Airtel India | Ramit Chawla ||
@@ -13,6 +14,7 @@
 | amdocs | Bernard Heuse ||
 | amdocs | Cameron Ross Dunne ||
 | amdocs | David Hovey ||
+| amdocs | Steve Plain ||
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
 | AT&T | Anisa Parikh ||
@@ -388,6 +390,7 @@
 | Verizon | Syed A Rehman | |
 | Vodacom | Surajj Jaggernath ||
 | Vodafone | Alexander Boraczynski ||
+| Vodafone | Benedikt Blome ||
 | Vodafone | David Frankland | |
 | Vodafone | Eric Murray | |
 | Vodafone | Fraser King | Eric Murray | |
@@ -405,6 +408,7 @@
 | Vonage | Andrew Pratt ||
 | Vonage | Chris Howell ||
 | Vonage | Chris Skowronek ||
+| Vonage | Jose Recio ||
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
