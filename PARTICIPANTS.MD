@@ -93,6 +93,7 @@
 | Deutsche Telekom AG | Felix Dsouza ||
 | Deutsche Telekom AG | Herbert Damker ||
 | Deutsche Telekom AG | Jasmin Schulmeyer ||
+| Deutsche Telekom AG | Jörg Heurer ||
 | Deutsche Telekom AG | Mario Bodemann ||
 | Deutsche Telekom AG | Markus Kümmerle | Representative |
 | Deutsche Telekom AG | Nathan Rader| Yes |
@@ -158,6 +159,7 @@
 | GSMA | Andrew Parker ||
 | GSMA | Gareth Williams ||
 | GSMA | Henry Calvert |Yes|
+| GSMA | Lucy Thatcher ||
 | GSMA | Mark Cornall ||
 | GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
@@ -207,6 +209,7 @@
 | KDDI | T. Ogawara |  |
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
+| KPN | Ellen Aartsen ||
 | KPN | Leon Denelsen ||
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
@@ -252,13 +255,18 @@
 | Netcracker | Dmytro Gassanov ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
+| Nokia | Amitha Sachin Chawda ||
 | Nokia | Atul Purohit ||
 | Nokia Bell Labs | Bessem Sayadi ||
 | Nokia | Chris Jones | Representative |
 | Nokia | Daniel Bedekovich | |
+| Nokia | Dhiraj Malhotra ||
 | Nokia | Gergely Csatari ||
 | Nokia | Marc Erhardt ||
+| Nokia | Mario Vasconcelli ||
+| Nokia | Mohan 1. Rao ||
 | Nokia | Rene Saathoff ||
+| Nokia | Shkumbin Hamiti ||
 | Nokia | Tanja de Groot | Yes |
 | Nokia | William Stanley ||
 | Nokia | Zoltan Olah ||
@@ -386,6 +394,7 @@
 | Verizon | Kapil Maheshwari ||
 | Verizon / 5GFF | Kevin Xu | |
 | Verizon | Mahesh Chapalamadugu | |
+| Verizon | Michael Sullivan ||
 | Verizon / 5GFF | Parry Booker | Representative |
 | Verizon / 5GFF | Pranab Das | |
 | Verizon / 5GFF | Priyanka Shah | |
