@@ -107,13 +107,15 @@
 | Dish | Media Johnsen ||
 | Dish | Jingyi Zhou ||
 | DriveU | Eli Shapira ||
-| Domos | Magnus ? ||
+| Domos | Magnus Olden ||
+| EAND | Vikram Rana ||
 | EANTC | Carsten Rossenhoevel ||
 | EANTC | Dirk Hetzer ||
 | EdgeXR | Jesse Bijl ||
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
 | EdgeXR | Thomas Vits ||
+| Equityai | Matthew Webster ||
 | Ericsson | Ajit R. Raghavan ||
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Bart van Kaathoven |Yes|
@@ -249,6 +251,7 @@
 | Netcracker | Dmytro Gassanov ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
+| Nokia | Atul Purohit ||
 | Nokia Bell Labs | Bessem Sayadi ||
 | Nokia | Chris Jones | Representative |
 | Nokia | Daniel Bedekovich | |
