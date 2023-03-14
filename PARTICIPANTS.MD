@@ -255,7 +255,6 @@
 | Netcracker | Dmytro Gassanov ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
-| Nokia | Amitha Sachin Chawda ||
 | Nokia | Atul Purohit ||
 | Nokia Bell Labs | Bessem Sayadi ||
 | Nokia | Chris Jones | Representative |
@@ -337,6 +336,7 @@
 | TCS | Pranay Rsahay ||
 | TCS | Priya Chopra ||
 | TCS | Rajeev Gokana ||
+| TechMahindra | Amitha Sachin Chawda ||
 | TechMahindra | Mohit Luthra ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
