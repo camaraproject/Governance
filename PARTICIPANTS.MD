@@ -67,6 +67,7 @@
 | Cablelabs | Randy Levensalor |  |
 | Capgemini | Deepak A. Gunjal | Yes |
 | Charter | Patrick Schultz ||
+| China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
 | China Unicom | Gao Chen | |
 | Cisco | Ravi Guntupalli | |
