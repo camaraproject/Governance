@@ -71,6 +71,7 @@
 | China Mobile | Lisa Gao ||
 | China Unicom | Gao Chen | |
 | Cisco | Ravi Guntupalli | |
+| Cisco | Ravi Shek ||
 | Claro | Luis Olaechea ||
 | CM | Bas Gijzen ||
 | CNCF | Arpit Joshipura | |
@@ -407,6 +408,7 @@
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
 | Vodacom | Surajj Jaggernath ||
+| Vodafone | Alex Pertwee ||
 | Vodafone | Alexander Boraczynski ||
 | Vodafone | Benedikt Blome ||
 | Vodafone | David Frankland | |
@@ -446,6 +448,7 @@
 |  | Juan de Toro ||
 |  | K. Reifenrath ||
 |  | Kuldeep Kumar ||
+|  | Mcihra ||
 |  | R. Sanvatsarkar ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
