@@ -217,6 +217,7 @@
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
 | LibertyGlobal | Awais Ahmad ||
+| LibertyGlobal | Max Gasparroni || 
 | LibertyGlobal | Oscar Tejedor Garcia ||
 | LibertyGlobal | W. Rees ||
 | Lotusflare | Eric Morhenn |  |
