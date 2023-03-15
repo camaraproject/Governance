@@ -77,6 +77,7 @@
 | CNCF | Kurt Taylor | |
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
+| Cognizant | R. Karthikraj ||
 | Cognizant | Siddharth Khatri ||
 | Convergenc3 | Loyiso Mlandu ||
 | CPAAS ACCELERATION ALLIANCE | Rob Kurver ||
@@ -147,6 +148,7 @@
 | Foo | Ziad Hawwa ||
 | Fujitsu | Kazu Sakumoto ||
 | Fujitsu | T. Hasegawa ||
+| Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | Google Cloud | Dutt Kalapatapu | |
 | Google Cloud | Rittwik Jana | |
@@ -210,6 +212,7 @@
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
 | KPN | Ellen Aartsen ||
+| KPN | Guido Luijten ||
 | KPN | Leon Denelsen ||
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
@@ -261,6 +264,7 @@
 | Nokia | Daniel Bedekovich | |
 | Nokia | Dhiraj Malhotra ||
 | Nokia | Gergely Csatari ||
+| Nokia | Javier Ger ||
 | Nokia | Marc Erhardt ||
 | Nokia | Mario Vasconcelli ||
 | Nokia | Mohan 1. Rao ||
