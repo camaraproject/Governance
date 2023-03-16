@@ -309,7 +309,7 @@
 | Radisys | Ashok Rawat ||
 | Redhat | Hanen Garcia ||
 | Reply | Gianmarco Sciortino ||
-| Rogers | N. Manolak ||
+| Rogers | Nicholas Manolakos ||
 | Saitro | Luis Carlos Toledo ||
 | Scenera | Andrew Wajs | |
 | Scenera | Chien Lim | |
