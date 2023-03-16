@@ -165,6 +165,7 @@
 | GSMA | Henry Calvert |Yes|
 | GSMA | Lucy Thatcher ||
 | GSMA | Mark Cornall ||
+| GSMA | Steve Russ ||
 | GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
 | Hawaiian Telecom | Kevin Folan ||
