@@ -124,6 +124,7 @@
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Bart van Kaathoven |Yes|
 | Ericsson | Carlos Bravo ||
+| Ericsson | Cormac A. Hegarty ||
 | Ericsson | Denis Borscia ||
 | Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
@@ -200,6 +201,7 @@
 | Intel | Petar Torre | Yes |
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
+| Juniper | Sukhdev Kapur ||
 | Kandy | Andy Lee |  |
 | Kandy | Fatih Demirel |  |
 | Kandy | Kim Jones |  |
@@ -307,6 +309,7 @@
 | Radisys | Ashok Rawat ||
 | Redhat | Hanen Garcia ||
 | Reply | Gianmarco Sciortino ||
+| Rogers | N. Manolak ||
 | Saitro | Luis Carlos Toledo ||
 | Scenera | Andrew Wajs | |
 | Scenera | Chien Lim | |
