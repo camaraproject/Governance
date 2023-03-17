@@ -174,7 +174,7 @@
 | Hawaiian Telecom | Kevin Folan ||
 | HCL | Norbert Naveen ||
 | HCL | Ramyang Pandya ||
-| HGC International | Niklas Bergvall ||
+| HGC | Niklas Bergvall ||
 | Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
 | Huawei | Chuanyu Chen ||
