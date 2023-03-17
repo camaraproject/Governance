@@ -89,6 +89,7 @@
 | Dell | Vaishali Gupta | |
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
+| Deutsche Telekom AG | Axel Nennker ||
 | Deutsche Telekom AG | Carlos Fernandes ||
 | Deutsche Telekom AG | Dawid Wróblewski||
 | Deutsche Telekom AG | Elmar Mundt ||
@@ -129,6 +130,7 @@
 | Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
 | Ericsson | Fatih Bastan ||
+| Ericsson | Gregory Liokumovich ||
 | Ericsson | Henrik Voigt ||
 | Ericsson | Jan Friman |Representative|
 | Ericsson | Jimmy Ahlberg ||
@@ -168,9 +170,11 @@
 | GSMA | Steve Russ ||
 | GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
+| Gwirio | David Roux ||
 | Hawaiian Telecom | Kevin Folan ||
 | HCL | Norbert Naveen ||
 | HCL | Ramyang Pandya ||
+| HGC International | Niklas Bergvall ||
 | Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
 | Huawei | Chuanyu Chen ||
@@ -218,6 +222,7 @@
 | KPN | Ellen Aartsen ||
 | KPN | Guido Luijten ||
 | KPN | Leon Denelsen ||
+| KT | Jemin Chung ||
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
 | LibertyGlobal | Awais Ahmad ||
@@ -346,6 +351,7 @@
 | TCS | Pranay Rsahay ||
 | TCS | Priya Chopra ||
 | TCS | Rajeev Gokana ||
+| TCS | Sibasish Pradhan ||
 | TechMahindra | Amitha Sachin Chawda ||
 | TechMahindra | Mohit Luthra ||
 | TIM | Andrea Calvi ||
@@ -440,6 +446,7 @@
 | Wiocc | Jason Tutty ||
 | Wit Software | Armindo Antunes ||
 | Wit Software | Marcio Almeida ||
+| Wit Software | Paulo Sousa ||
 | Wit Software | Rita Pires ||
 | Zain | Devajeet Datta ||
 | ZTE | Jie Hu ||
