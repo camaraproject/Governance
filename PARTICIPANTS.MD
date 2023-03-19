@@ -120,6 +120,7 @@
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
 | EdgeXR | Thomas Vits ||
+| ENEA | Osvaldo Aldao ||
 | Equityai | Matthew Webster ||
 | Ericsson | Ajit R. Raghavan ||
 | Ericsson | Arun Raghuramu ||
