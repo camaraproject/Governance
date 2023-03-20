@@ -150,6 +150,7 @@
 | Etiya | Serafettin Acir ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
+| Fido | Francesco Panina ||
 | Foo | Ziad Hawwa ||
 | Fujitsu | Kazu Sakumoto ||
 | Fujitsu | T. Hasegawa ||
@@ -198,6 +199,9 @@
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
 | Infobip | ShivPrakash Ojha ||
+| Infolysis | Nikolaos GKATZIOS ||
+| Infolysis | Nikolaos VRIONIS ||
+| Infolysis | Vaios KOUMARAS ||
 | Infosys | Gnanapriya Chidambaranathan ||
 | Intel | Francesc Guim ||
 | Intel | Larry Horner ||
@@ -226,6 +230,7 @@
 | KT | Jemin Chung ||
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
+| LCN | Rathnakumar Kayyar ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Max Gasparroni || 
 | LibertyGlobal | Oscar Tejedor Garcia ||
@@ -283,6 +288,7 @@
 | Nokia | Shkumbin Hamiti ||
 | Nokia | Tanja de Groot | Yes |
 | Nokia | William Stanley ||
+| Nokia | Yatin Dharamshi ||
 | Nokia | Zoltan Olah ||
 | Nos | Nuno Erodrigues ||
 | Nos | Orlando Almeida ||
@@ -461,7 +467,9 @@
 |  | K. Reifenrath ||
 |  | Kuldeep Kumar ||
 |  | Mcihra ||
+|  | Prashant Shrivastava ||
 |  | R. Sanvatsarkar ||
+|  | Radu Spataru ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
 |  | Sergio Alonso ||
