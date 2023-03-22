@@ -137,6 +137,7 @@
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Joakim Uddenfeldt ||
+| Ericsson | Kishor Kumar A. ||
 | Ericsson | Klaus Schneider ||
 | Ericsson | Lutfi Yelkenci ||
 | Ericsson | Miguel A. Garcia-Martin ||
