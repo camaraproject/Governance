@@ -187,6 +187,7 @@
 | Huawei | Qing Shuting ||
 | Huawei | Roger Fengyulin ||
 | Huawei | Roger Wangrong ||
+| Huawei | Sword Lijian ||
 | Huawei | Zhengzhilong ||
 | Hutchison | Sandra Ondrusova ||
 | IBM | Jason Hunt | Yes |
@@ -318,11 +319,13 @@
 | ORANGE | Patrice Conil ||
 | ORANGE | Sylvain Morel |Yes|
 | ORI | José Domingos ||
+| PWC | Florian Groene ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
 | Redhat | Hanen Garcia ||
 | Reply | Gianmarco Sciortino ||
 | Rogers | Nicholas Manolakos ||
+| Rohde & Schwarz | Tim Kittel ||
 | Saitro | Luis Carlos Toledo ||
 | Scenera | Andrew Wajs | |
 | Scenera | Chien Lim | |
