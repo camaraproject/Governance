@@ -47,6 +47,7 @@ You are welcome to contribute documentation to the project.
 The following rule governs documentation contributions:
 
 * Contributions must be licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+* Only exception are contributions to the Marketing Working Group in the folder [https://github.com/camaraproject/WorkingGroups/tree/main/Marketing](https://github.com/camaraproject/WorkingGroups/tree/main/Marketing). For that the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode.txt) shall apply.
 
 * At least if you add a new documentation to the repository and you're not a Project participant, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file or send an onboarding email to <all+subscribe@lists.camaraproject.org>.
 
