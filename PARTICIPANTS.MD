@@ -178,6 +178,7 @@
 | HCL | Norbert Naveen ||
 | HCL | Ramyang Pandya ||
 | HGC | Niklas Bergvall ||
+| HPE | Joao Martins ||
 | Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
 | Huawei | Chuanyu Chen ||
