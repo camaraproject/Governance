@@ -55,6 +55,7 @@
 | BridgeAlliance | Ken Wee | |
 | BridgeAlliance | Kumar Gaurav Singh | |
 | Brillio | Kishore Vutukuri ||
+| British Telecom | Abhijit Das Gupta | |
 | British Telecom | Milan Lalovic | |
 | Broadpeak | Christoph Neumann |  |
 | Broadpeak | Guillaume Bichot |  |
@@ -151,6 +152,7 @@
 | Etiya | Serafettin Acir ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
+| F5 | Peter Nas ||
 | Fido | Francesco Panina ||
 | Foo | Ziad Hawwa ||
 | Fujitsu | Kazu Sakumoto ||
@@ -178,9 +180,11 @@
 | HCL | Norbert Naveen ||
 | HCL | Ramyang Pandya ||
 | HGC | Niklas Bergvall ||
+| HPE | Jaime Garcia ||
 | HPE | Joao Martins ||
 | Hrvatski Telekom | Zlatka Milic ||
 | Huawei | Albert Wang ||
+| Huawei | Alex Wuning ||
 | Huawei | Chuanyu Chen ||
 | Huawei | Jiafeng Zhu ||
 | Huawei | Junyi Zhou ||
@@ -238,6 +242,7 @@
 | LibertyGlobal | Max Gasparroni || 
 | LibertyGlobal | Oscar Tejedor Garcia ||
 | LibertyGlobal | W. Rees ||
+| Locationguru | Achmed Shaheer ||
 | Lotusflare | Eric Morhenn |  |
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
@@ -277,6 +282,7 @@
 | Netcracker | Dmytro Gassanov ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
+| Nokia | Akin Akintola ||
 | Nokia | Atul Purohit ||
 | Nokia Bell Labs | Bessem Sayadi ||
 | Nokia | Chris Jones | Representative |
@@ -459,6 +465,7 @@
 | Wit Software | Armindo Antunes ||
 | Wit Software | Marcio Almeida ||
 | Wit Software | Paulo Sousa ||
+| Wit Software | Raul Fonseca ||
 | Wit Software | Rita Pires ||
 | Zain | Devajeet Datta ||
 | ZTE | Jie Hu ||
