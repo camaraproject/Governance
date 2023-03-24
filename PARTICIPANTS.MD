@@ -395,6 +395,7 @@
 | Telefonica | Emilio Abraham Garrido Garcia ||
 | Telefonica | Jesus Martin ||
 | Telefonica | Jesús Peña García-Oliva ||
+| Telefonica | Jorge Garcia Hospital ||
 | Telefonica | Jose A Ordonez Lucena | Representative |
 | Telefonica | Jose Luis Urien Pinedo ||
 | Telefonica | Juan Carlos Garcia | Yes |
