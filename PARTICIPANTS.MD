@@ -237,6 +237,7 @@
 | KT | Jemin Chung ||
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
+| Lammda | Hans Thorsen Lamm ||
 | LCN | Rathnakumar Kayyar ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Max Gasparroni || 
@@ -341,6 +342,8 @@
 | Sekura Mobile Intelligence | Gautam Hazari ||
 | Seoul National University | Kiho Lee | |
 | Shabodi | Nitin | |
+| Shabodi | Vikram Chopra | |
+| Sigscale | Vances ||
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
 | Spry Fox Networks | Jignesh Sorathia  | |
@@ -353,6 +356,7 @@
 | STC | Fahad Tanwir   | |
 | STC | Mohammed A. Adlani   | |
 | STC | Naeem Ur Rehman ||
+| Summit Tech | Doug Makishima ||
 | Sunrise | Aaron Pearce   | |
 | Swisscom | Felix Sutter   | |
 | Swisscom | Lukas Leuthold   | |
@@ -383,6 +387,7 @@
 | TIM Brazil | Bruno Leandro Campos De Miranda | |
 | TIM Brazil | Paulo Cesar Dias Lima | |
 | TIM Brazil | Robson De Andrade Esteves | |
+| Telecom Sudparis | Vincent Gauthier ||
 | Telecomsxchange | Ameed Jamous ||
 | Telefonica | Agustin Martin Gonzalez ||
 | Telefonica | Alejandro Alonso Portero ||
