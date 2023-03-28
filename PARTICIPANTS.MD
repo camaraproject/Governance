@@ -241,6 +241,7 @@
 | Kyndryl | Pablo Montes ||
 | Lammda | Hans Thorsen Lamm ||
 | LCN | Rathnakumar Kayyar ||
+| LG U+ | Jerry ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Max Gasparroni || 
 | LibertyGlobal | Oscar Tejedor Garcia ||
@@ -476,6 +477,7 @@
 | Wit Software | Paulo Sousa ||
 | Wit Software | Raul Fonseca ||
 | Wit Software | Rita Pires ||
+| Wiwynn | Karl Chiang ||
 | Zain | Devajeet Datta ||
 | ZTE | Jie Hu ||
 |  | Abrar Sadd ||
