@@ -25,6 +25,7 @@
 | AT&T | Jorge Hernandez Herrero ||
 | AT&T | Michael Raftelis ||
 | AT&T | S. B. ||
+| AT&T | Sachin Kakkar ||
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley Wilkins | Yes |
 | Atrinet | Yoav Segman ||
@@ -218,6 +219,7 @@
 | Intel | Petar Torre | Yes |
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
+| JT Global | Rupert Goldie ||
 | Juniper | Sukhdev Kapur ||
 | Kandy | Andy Lee |  |
 | Kandy | Fatih Demirel |  |
@@ -376,6 +378,7 @@
 | TCS | Sibasish Pradhan ||
 | TechMahindra | Amitha Sachin Chawda ||
 | TechMahindra | Mohit Luthra ||
+| TechMahindra | Sahil Sood ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio | Representative |
