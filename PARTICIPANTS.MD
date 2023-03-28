@@ -343,7 +343,7 @@
 | Seoul National University | Kiho Lee | |
 | Shabodi | Nitin | |
 | Shabodi | Vikram Chopra | |
-| Sigscale | Vances ||
+| Sigscale | Vance Shipley ||
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
 | Spry Fox Networks | Jignesh Sorathia  | |
