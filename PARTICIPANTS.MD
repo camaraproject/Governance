@@ -72,6 +72,7 @@
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
 | China Unicom | Gao Chen | |
+| Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Ravi Guntupalli | |
 | Cisco | Ravi Shek ||
 | Claro | Luis Olaechea ||
@@ -86,6 +87,7 @@
 | CPAAS ACCELERATION ALLIANCE | Rob Kurver ||
 | CTHINGS | Arnold Wierzejski | |
 | CTHINGS | Shreyas Vinod | |
+| Defne | Erhan Ermisoglu ||
 | Dell | Mihai Lazar | |
 | Dell | Saad Sheikh | |
 | Dell | Vaishali Gupta | |
@@ -135,6 +137,7 @@
 | Ericsson | Fatih Bastan ||
 | Ericsson | Gregory Liokumovich ||
 | Ericsson | Henrik Voigt ||
+| Ericsson | Istvan Andras Horvath ||
 | Ericsson | Jan Friman |Representative|
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
@@ -284,6 +287,7 @@
 | Nearby Computing | Oscar Trullols ||
 | Nearby Computing | Sergi Alonso ||
 | Netcracker | Dmytro Gassanov ||
+| Next Curve | Leonard Lee ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
 | Nokia | Akin Akintola ||
