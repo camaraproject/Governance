@@ -20,6 +20,7 @@
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia |Representative|
 | AT&T | Bill Knotts ||
+| AT&T | Catherine Lefevre ||
 | AT&T | Dan Druta ||
 | AT&T | Gervais-Martial Ngueko ||
 | AT&T | Jorge Hernandez Herrero ||
@@ -91,6 +92,7 @@
 | Dell | Mihai Lazar | |
 | Dell | Saad Sheikh | |
 | Dell | Vaishali Gupta | |
+| DeTeCon | Pawel Krysiak ||
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
 | Deutsche Telekom AG | Axel Nennker ||
@@ -117,7 +119,8 @@
 | Dish | Jingyi Zhou ||
 | DriveU | Eli Shapira ||
 | Domos | Magnus Olden ||
-| EAND | Vikram Rana ||
+| E& | Jamal Sahyoun ||
+| E& | Vikram Rana ||
 | EANTC | Carsten Rossenhoevel ||
 | EANTC | Dirk Hetzer ||
 | EdgeXR | Jesse Bijl ||
@@ -281,6 +284,7 @@
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
 | Nabstract | Vaibhav Mehta ||
+| Nantisystem | Esteban Quijano Bonfil ||
 | Nearby Computing | David Carrera ||
 | Nearby Computing | Maria Serrano ||
 | Nearby Computing | Monika Valdez ||
@@ -404,8 +408,9 @@
 | Telefonica | Aurelia Martinez Guerra ||
 | Telefonica | Cristina Santana Casillas ||
 | Telefonica | David Guillen ||
-| Telefonica | Diego R. Lopez ||
+| Telefonica | Diego Enrique Yonadi ||
 | Telefonica | Diego Gonzales Martinez ||
+| Telefonica | Diego R. Lopez ||
 | Telefonica | Emilio Abraham Garrido Garcia ||
 | Telefonica | Jesus Martin ||
 | Telefonica | Jesús Peña García-Oliva ||
