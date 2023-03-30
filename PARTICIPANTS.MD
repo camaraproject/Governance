@@ -349,6 +349,7 @@
 | Sekura Mobile Intelligence | Gautam Hazari ||
 | Seoul National University | Kiho Lee | |
 | Shabodi | Nitin | |
+| Shabodi | Umair Ali Rashid | |
 | Shabodi | Vikram Chopra | |
 | Sigscale | Vance Shipley ||
 | SK Telecom | Clark Park | |
@@ -489,6 +490,7 @@
 |  | Carlos Vazbagper ||
 |  | Deepankar ||
 |  | Dibyendu Singha Roy ||
+|  | D S Rao ||
 |  | Emmanuele Benedetto ||
 |  | Jae Yeol Kim ||
 |  | Juan de Toro ||
