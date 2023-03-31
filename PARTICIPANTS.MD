@@ -84,6 +84,7 @@
 | CodeB | Stefan Engelbert ||
 | Cognizant | R. Karthikraj ||
 | Cognizant | Siddharth Khatri ||
+| Cognizant | Vigneshwaran S ||
 | Convergenc3 | Loyiso Mlandu ||
 | CPAAS ACCELERATION ALLIANCE | Rob Kurver ||
 | CTHINGS | Arnold Wierzejski | |
@@ -128,6 +129,7 @@
 | EdgeXR | Sunay Tripathi ||
 | EdgeXR | Thomas Vits ||
 | ENEA | Osvaldo Aldao ||
+| Entel | Duran Nardecchia Eduardo ||
 | Equityai | Matthew Webster ||
 | Ericsson | Ajit R. Raghavan ||
 | Ericsson | Arun Raghuramu ||
@@ -160,6 +162,7 @@
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
 | F5 | Peter Nas ||
+| Fareastone | Meytsai ||
 | Fido | Francesco Panina ||
 | Foo | Ziad Hawwa ||
 | Fujitsu | Kazu Sakumoto ||
