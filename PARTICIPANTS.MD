@@ -345,6 +345,7 @@
 | PWC | Florian Groene ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
+| Rain | Henri Kivioja ||
 | Redhat | Hanen Garcia ||
 | Reply | Gianmarco Sciortino ||
 | Rogers | Nicholas Manolakos ||
@@ -495,6 +496,7 @@
 | ZTE | Jie Hu ||
 |  | Abrar Sadd ||
 |  | Ankita Kohli ||
+|  | Ayush Agarwal ||
 |  | Carlos Vazbagper ||
 |  | Deepankar ||
 |  | Dibyendu Singha Roy ||
