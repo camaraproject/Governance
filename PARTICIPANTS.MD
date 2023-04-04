@@ -211,6 +211,7 @@
 | IBM | Pablo Kahale ||
 | IBM | Zyg Lozinski | Representative |
 | IDC | John Byrne ||
+| IIT Demokritos | Harilaos Koumaras ||
 | Ilabs | Harm Arendshorst ||
 | Infobip | Joe Murphy ||
 | Infobip | John Murtagh ||
