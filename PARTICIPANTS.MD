@@ -72,6 +72,7 @@
 | Charter | Patrick Schultz ||
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
+| China Telecom | Xu Dan ||
 | China Unicom | Gao Chen | |
 | Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Ravi Guntupalli | |
@@ -234,7 +235,7 @@
 | Kandy | Fatih Demirel |  |
 | Kandy | Kim Jones |  |
 | Kandy | Michael Leeder |  |
-| Kandy | Philip Lintell | Yes |
+| Kandy | Philip Linttell | Yes |
 | KDDI | Brian Vaughn |  |
 | KDDI | Keichi Okonogi |  |
 | KDDI | Masaki Suzuki |  |
@@ -362,6 +363,7 @@
 | Sigscale | Vance Shipley ||
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
+| Skyvera | Philip Linttell ||
 | Spry Fox Networks | Jignesh Sorathia  | |
 | Spry Fox Networks | Mike Bowring   | |
 | Spry Fox Networks | Parichaya Shrivastava   | |
