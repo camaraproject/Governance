@@ -465,6 +465,7 @@
 | Verizon | Raghuram Parvataneni | |
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
+| Viavi Solutions | Madhur Mehta ||
 | Vodacom | Surajj Jaggernath ||
 | Vodafone | Alex Pertwee ||
 | Vodafone | Alexander Boraczynski ||
