@@ -331,6 +331,7 @@
 | Oracle | Kinshuk Kulshreshtha ||
 | Oracle | Luis Silva ||
 | Oracle | Piyush Sarwal ||
+| Oracle | Richard Williams ||
 | Oracle | Ruta Abhay Potnis ||
 | Oracle | Walter Prior ||
 | ORANGE | Assange Niang Mbengue ||
@@ -353,6 +354,7 @@
 | Rogers | Nicholas Manolakos ||
 | Rohde & Schwarz | Tim Kittel ||
 | Saitro | Luis Carlos Toledo ||
+| Sakon | Chris Simandl ||
 | Scenera | Andrew Wajs | |
 | Scenera | Chien Lim | |
 | Scenera | David Lee |Yes|
