@@ -218,6 +218,7 @@
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
 | Infobip | ShivPrakash Ojha ||
+| Infobip | Zeljko Nejasmic ||
 | Infolysis | Nikolaos GKATZIOS ||
 | Infolysis | Nikolaos VRIONIS ||
 | Infolysis | Vaios KOUMARAS ||
