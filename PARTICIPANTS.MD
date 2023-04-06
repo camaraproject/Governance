@@ -121,6 +121,7 @@
 | Dish | Jingyi Zhou ||
 | DriveU | Eli Shapira ||
 | Domos | Magnus Olden ||
+| E& | Amiahuja ||
 | E& | Jamal Sahyoun ||
 | E& | Vikram Rana ||
 | EANTC | Carsten Rossenhoevel ||
@@ -392,6 +393,7 @@
 | T-Mobile US | Murthy Gorty ||
 | T-Mobile US | Ron Marquardt ||
 | T-Mobile US | Srujana Punyapu ||
+| TCS | Pramath Jha ||
 | TCS | Pranay Rsahay ||
 | TCS | Priya Chopra ||
 | TCS | Rajeev Gokana ||
