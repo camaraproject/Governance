@@ -69,7 +69,7 @@
 | Cablelabs | R. Gandotra |  |
 | Cablelabs | Randy Levensalor |  |
 | Capgemini | Deepak A. Gunjal | Yes |
-| Centillion | Nick ||
+| Centillion | Nicholas Venezia ||
 | Charter | Patrick Schultz ||
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
@@ -522,7 +522,6 @@
 |  | K. Reifenrath ||
 |  | Kuldeep Kumar ||
 |  | Mcihra ||
-|  | Nick Venezia ||
 |  | Prashant Shrivastava ||
 |  | R. Sanvatsarkar ||
 |  | Radu Spataru ||
