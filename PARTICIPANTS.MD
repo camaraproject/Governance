@@ -121,7 +121,7 @@
 | Dish | Jingyi Zhou ||
 | DriveU | Eli Shapira ||
 | Domos | Magnus Olden ||
-| E& | Amiahuja ||
+| E& | Amit Ahuja ||
 | E& | Jamal Sahyoun ||
 | E& | Vikram Rana ||
 | EANTC | Carsten Rossenhoevel ||
