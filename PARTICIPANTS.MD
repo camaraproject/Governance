@@ -69,6 +69,7 @@
 | Cablelabs | R. Gandotra |  |
 | Cablelabs | Randy Levensalor |  |
 | Capgemini | Deepak A. Gunjal | Yes |
+| Centillion | Nick ||
 | Charter | Patrick Schultz ||
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
@@ -122,6 +123,7 @@
 | DriveU | Eli Shapira ||
 | Domos | Magnus Olden ||
 | E& | Amit Ahuja ||
+| E& | Hacene Sali ||
 | E& | Jamal Sahyoun ||
 | E& | Vikram Rana ||
 | EANTC | Carsten Rossenhoevel ||
@@ -132,6 +134,7 @@
 | EdgeXR | Thomas Vits ||
 | ENEA | Osvaldo Aldao ||
 | Entel | Duran Nardecchia Eduardo ||
+| Entrust | Sergi Garreta ||
 | Equityai | Matthew Webster ||
 | Ericsson | Ajit R. Raghavan ||
 | Ericsson | Arun Raghuramu ||
@@ -356,12 +359,14 @@
 | Rogers | Nicholas Manolakos ||
 | Rohde & Schwarz | Tim Kittel ||
 | Saitro | Luis Carlos Toledo ||
-| Sakon | Chris Simandl ||
+| Sakon | Chris Simandl ||.
+| Samsung | Shannon Park ||
 | Scenera | Andrew Wajs | |
 | Scenera | Chien Lim | |
 | Scenera | David Lee |Yes|
 | Sekura Mobile Intelligence | Gautam Hazari ||
 | Seoul National University | Kiho Lee | |
+| Shabodi | Harpreet | |
 | Shabodi | Nitin | |
 | Shabodi | Umair Ali Rashid | |
 | Shabodi | Vikram Chopra | |
@@ -452,6 +457,7 @@
 | TELUS | Theohar Konomi | |
 | TM Forum | George Glass | |
 | Trilio | Paulo Peres ||
+| Trilio | Rodolfo Casas ||
 | Trustrelay | Lukas Hohl ||
 | Tykelab | M. Massaroni ||
 | ultraTELCO | Cesar Obach ||
@@ -516,6 +522,7 @@
 |  | K. Reifenrath ||
 |  | Kuldeep Kumar ||
 |  | Mcihra ||
+|  | Nick Venezia ||
 |  | Prashant Shrivastava ||
 |  | R. Sanvatsarkar ||
 |  | Radu Spataru ||
