@@ -74,6 +74,7 @@
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
 | China Telecom | Xu Dan ||
+| China Unicom | F. Yang | |
 | China Unicom | Gao Chen | |
 | Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Ravi Guntupalli | |
@@ -125,6 +126,7 @@
 | E& | Amit Ahuja ||
 | E& | Hacene Sali ||
 | E& | Jamal Sahyoun ||
+| E& | Syed Iqbal Hussain ||
 | E& | Vikram Rana ||
 | EANTC | Carsten Rossenhoevel ||
 | EANTC | Dirk Hetzer ||
@@ -252,6 +254,7 @@
 | KPN | Ellen Aartsen ||
 | KPN | Guido Luijten ||
 | KPN | Leon Denelsen ||
+| KPN | Tony Spooner ||
 | KT | Jemin Chung ||
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
@@ -525,6 +528,7 @@
 |  | Prashant Shrivastava ||
 |  | R. Sanvatsarkar ||
 |  | Radu Spataru ||
+|  | Rahul Panwar ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
 |  | Sergio Alonso ||
