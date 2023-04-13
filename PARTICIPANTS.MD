@@ -511,6 +511,7 @@
 | Wit Software | Rita Pires ||
 | Wiwynn | Karl Chiang ||
 | Zain | Devajeet Datta ||
+| ZTE | Lijuan Chen ||
 | ZTE | Jie Hu ||
 |  | Abrar Sadd ||
 |  | Ankita Kohli ||
