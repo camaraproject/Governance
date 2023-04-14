@@ -254,6 +254,7 @@
 | KPN | Ellen Aartsen ||
 | KPN | Guido Luijten ||
 | KPN | Leon Denelsen ||
+| KPN | Sjoerd Visser ||
 | KPN | Tony Spooner ||
 | KT | Jemin Chung ||
 | KT | Yeon Loo Lim ||
@@ -534,5 +535,6 @@
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
 |  | Sergio Alonso ||
+|  | Sridhar Paiyya ||
 |  | Tom Collins ||
 |  | Tousif Ahmed ||
