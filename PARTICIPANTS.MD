@@ -79,6 +79,7 @@
 | Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Ravi Guntupalli | |
 | Cisco | Ravi Shek ||
+| Citictel | Gabriel Shui ||
 | Claro | Luis Olaechea ||
 | CM | Bas Gijzen ||
 | CNCF | Arpit Joshipura | |
@@ -513,6 +514,7 @@
 | Zain | Devajeet Datta ||
 | ZTE | Lijuan Chen ||
 | ZTE | Jie Hu ||
+| ZTE | Wang Changjin ||
 |  | Abrar Sadd ||
 |  | Ankita Kohli ||
 |  | Ayush Agarwal ||
