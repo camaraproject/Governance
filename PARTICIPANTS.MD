@@ -13,7 +13,6 @@
 | Alicon | Ike Alisson ||
 | amdocs | Bernard Heuse ||
 | amdocs | Cameron Ross Dunne ||
-| amdocs | David Hovey ||
 | amdocs | Steve Plain ||
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
