@@ -85,6 +85,7 @@
 | CNCF | Kurt Taylor | |
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
+| Cognizant | Manish Jain ||
 | Cognizant | R. Karthikraj ||
 | Cognizant | Siddharth Khatri ||
 | Cognizant | Vigneshwaran S ||
@@ -384,6 +385,7 @@
 | Spry Fox Networks | Ramesh Shanmugasundaram   | |
 | Spry Fox Networks | Steven Ballantyne   | |
 | Spry Fox Networks | Stuart Waine   | |
+| Starhub | Rajesh Naresh Mhatre ||
 | STC | Albaraa A. Bajnaid   | |
 | STC | Fahad Tanwir   | |
 | STC | Mohammed A. Adlani   | |
