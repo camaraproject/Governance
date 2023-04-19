@@ -220,6 +220,7 @@
 | IBM | Zyg Lozinski | Representative |
 | IDC | John Byrne ||
 | IIT Demokritos | Harilaos Koumaras ||
+| Ikerlan | G. Nieto ||
 | Ikerlan | Idela Iglesia ||
 | Ilabs | Harm Arendshorst ||
 | Infobip | Joe Murphy ||
@@ -317,6 +318,7 @@
 | Nokia | Chris Jones | Representative |
 | Nokia | Daniel Bedekovich | |
 | Nokia | Dhiraj Malhotra ||
+| Nokia | Gabor Somogyi ||
 | Nokia | Gergely Csatari ||
 | Nokia | Javier Ger ||
 | Nokia | Marc Erhardt ||
