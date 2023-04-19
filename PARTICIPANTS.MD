@@ -209,7 +209,7 @@
 | Huawei | Junyi Zhou ||
 | Huawei | Liang Feng ||
 | Huawei | Maria Jose Mossi (Pepa) ||
-| Huawei | Qing Shuting ||
+| Huawei | Shuting Qing ||
 | Huawei | Roger Fengyulin ||
 | Huawei | Roger Wangrong ||
 | Huawei | Sword Lijian ||
