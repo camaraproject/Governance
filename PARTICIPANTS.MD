@@ -3,6 +3,7 @@
 | A1 | Arnold Pfeiffer ||
 | A1 | Manfred Moormann ||
 | A1 | Thomas Walzer ||
+| AabVin | Acheem ||
 | Accenture | Adriano Poloni ||
 | Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
@@ -219,6 +220,7 @@
 | IBM | Zyg Lozinski | Representative |
 | IDC | John Byrne ||
 | IIT Demokritos | Harilaos Koumaras ||
+| Ikerlan | Idela Iglesia ||
 | Ilabs | Harm Arendshorst ||
 | Infobip | Joe Murphy ||
 | Infobip | John Murtagh ||
@@ -386,6 +388,7 @@
 | Spry Fox Networks | Steven Ballantyne   | |
 | Spry Fox Networks | Stuart Waine   | |
 | Starhub | Rajesh Naresh Mhatre ||
+| Starhub | Vanitha Ramaswami ||
 | STC | Albaraa A. Bajnaid   | |
 | STC | Fahad Tanwir   | |
 | STC | Mohammed A. Adlani   | |
@@ -466,7 +469,9 @@
 | Trilio | Rodolfo Casas ||
 | Trustrelay | Lukas Hohl ||
 | Tykelab | M. Massaroni ||
+| Twilio | Felipe Gutierrez ||
 | ultraTELCO | Cesar Obach ||
+| ultraTELCO | Vanessa Diaz ||
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Jeremy Giese | Yes |
 | Verizon | Kapil Maheshwari ||
