@@ -12,6 +12,7 @@
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
 | Alicon | Ike Alisson ||
+| amdocs | Andrew DSouza ||
 | amdocs | Bernard Heuse ||
 | amdocs | Cameron Ross Dunne ||
 | amdocs | Steve Plain ||
@@ -164,6 +165,7 @@
 | Ericsson | Oscar Divorra Escoda ||
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
+| Ericsson | Rajat Kandoi ||
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
