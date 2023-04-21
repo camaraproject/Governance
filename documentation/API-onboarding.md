@@ -12,7 +12,7 @@ All stages within this process pipeline are documented in the CAMARA API overvie
 
 ![API process pipeline](ressources/API_overview_list.png)
 
-Details and clarifications on the stages conforming this pipeline are provided in the following sections.
+This is only a draft for the overview list, the real overview list shall be implemented based on HTML so that changes can be tracked easily. Details and clarifications on the stages conforming this pipeline are provided in the following sections.
 
 ## Submission of an API proposal
 
