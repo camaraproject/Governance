@@ -18,7 +18,7 @@ This is only a draft for the overview list, the real overview list shall be impl
 
 The pipeline is triggered with the submission of an API proposal. This API proposal can represent a new API or a new API family.
 
-API proposals can be submitted by everybody, e.g. GSMA OPAG, external or CAMARA member companies, and existing CAMARA Sub Projects or Working Groups (if these realize that the scope has to be increased).
+API proposals can be submitted by everybody, e.g. GSMA OPAG, external or CAMARA member companies, and existing CAMARA Sub Projects or Working Groups (if these realize that the scope has to be increased). 
 
 To proceed with the submission, the API proposal owner shall follow these steps:
 
