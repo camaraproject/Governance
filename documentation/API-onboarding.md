@@ -62,6 +62,8 @@ If there are more than one API in an API family / API Sub Project for each of th
 
 If there are more than one releases for an API for each of these releases a separate line in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) shall be added.
 
+If there are more than one provider implementations for one releases for an API for each of these provider implementations a separate line in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) shall be added.
+
 The requested data to be filled in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) is API name, API release, link to API definition, link to API documentation, link to API code and partner which has tested an API release.
 
 ## API deployment
