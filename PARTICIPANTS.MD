@@ -221,6 +221,7 @@
 | IBM | Pablo Kahale ||
 | IBM | Zyg Lozinski | Representative |
 | IDC | John Byrne ||
+| IEEE | Mak Saleh ||
 | IIT Demokritos | Harilaos Koumaras ||
 | Ikerlan | G. Nieto ||
 | Ikerlan | Idela Iglesia ||
