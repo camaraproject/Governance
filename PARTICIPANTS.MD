@@ -74,6 +74,7 @@
 | Charter | Patrick Schultz ||
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
+| China Mobile | Liu Yuyjy ||
 | China Telecom | Xu Dan ||
 | China Unicom | F. Yang | |
 | China Unicom | Gao Chen | |
