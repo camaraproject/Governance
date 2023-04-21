@@ -60,7 +60,7 @@ The Sub Project will follow the versioning guidelines as defined in the Commonal
 
 If there are more than one API in an API family / API Sub Project for each of them a separate line in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) shall be added.
 
-If there are more than one releases for an API for each of these releases a separate line in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) shall be added.
+If there are more than one releases for an API for each of these releases a separate line in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) shall be added. It is target only to have 3 releases for one API at the same time: one in development and two in production.
 
 If there are more than one provider implementations for one releases for an API for each of these provider implementations a separate line in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) shall be added.
 
