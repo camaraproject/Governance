@@ -50,7 +50,7 @@ Main tenets for Steering Committee voting:
 - Tenet #2: Steering Committee shall make sure that APIs belonging together (close topic/content, API families) are developed within the same Sub Project, while ensuring that Sub Projects are not too small (difficult to track them down) or too big (difficult to be managed).
 - Tenet #3: There could be situations where API proposal complies with acceptance criteria (template duly filled out) but has not supporters other than the proponent company. What to do in this situation? Recommendation is to accept the API proposal and see how successful it will be in terms of industry adoption.
 
-The Steering Committee documents the decision in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) (fills in columns Steering Committee date and Steering Committee decision / Sub Project; in case of a No-Go "Rejected" is documented there).
+The Steering Committee may also propose changes to an API proposal and take the decision considering these changes. The Steering Committee documents the decision in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) (fills in columns Steering Committee date and Steering Committee decision / Sub Project; in case of a No-Go "Rejected" is documented there).
 
 ## API management and maintenance
 
