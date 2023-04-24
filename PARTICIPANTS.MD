@@ -72,6 +72,7 @@
 | Capgemini | Deepak A. Gunjal | Yes |
 | Centillion | Nicholas Venezia ||
 | Charter | Patrick Schultz ||
+| China Mobile | Hanbai Wang ||
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
 | China Mobile | Liu Yuyjy ||
@@ -259,6 +260,7 @@
 | KDDI | T. Ogawara |  |
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
+| Kinetix | Paolo Galeotti ||
 | KPN | Ellen Aartsen ||
 | KPN | Guido Luijten ||
 | KPN | Leon Denelsen ||
@@ -472,6 +474,7 @@
 | TELUS | Oswaldo Lauschner | |
 | TELUS | Theohar Konomi | |
 | TM Forum | George Glass | |
+| Toyota | Lei Zhong ||
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
 | Trustrelay | Lukas Hohl ||
