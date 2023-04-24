@@ -123,6 +123,7 @@
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
+| Digicel Group | Miguel Vervaet ||
 | Dish | Jinsook Ryu ||
 | Dish | Media Johnsen ||
 | Dish | Jingyi Zhou ||
@@ -386,6 +387,7 @@
 | Shabodi | Umair Ali Rashid | |
 | Shabodi | Vikram Chopra | |
 | Sigscale | Vance Shipley ||
+| Sinch | Vesa Lindberg ||
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
 | Skyvera | Philip Linttell ||
