@@ -75,7 +75,7 @@
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
 | China Mobile | Liu Yuyjy ||
-| China Telecom | Xu Dan ||
+| China Telecom | Dan Xu ||
 | China Unicom | F. Yang | |
 | China Unicom | Gao Chen | |
 | Chunghwa Telecom | MingHsun Lee ||
