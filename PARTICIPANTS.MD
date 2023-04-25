@@ -18,6 +18,7 @@
 | amdocs | Steve Plain ||
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
+| Asiainfo | Liz W. ||
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia |Representative|
 | AT&T | Bill Knotts ||
@@ -83,6 +84,7 @@
 | Cisco | Ravi Guntupalli | |
 | Cisco | Ravi Shek ||
 | Citictel | Gabriel Shui ||
+| Claro | Joao Nero ||
 | Claro | Luis Olaechea ||
 | CM | Bas Gijzen ||
 | CNCF | Arpit Joshipura | |
@@ -203,6 +205,7 @@
 | Hawaiian Telecom | Kevin Folan ||
 | HCL | Norbert Naveen ||
 | HCL | Ramyang Pandya ||
+| HGC | Ashwinnabil Careem ||
 | HGC | Niklas Bergvall ||
 | HPE | Jaime Garcia ||
 | HPE | Joao Martins ||
@@ -328,6 +331,7 @@
 | Nokia | Gabor Somogyi ||
 | Nokia | Gergely Csatari ||
 | Nokia | Javier Ger ||
+| Nokia | Jonathan Kline ||
 | Nokia | Marc Erhardt ||
 | Nokia | Mario Vasconcelli ||
 | Nokia | Mohan 1. Rao ||
@@ -364,11 +368,14 @@
 | ORANGE | Manoj Mourya ||
 | ORANGE | Olivier Mathieu ||
 | ORANGE | Patrice Conil ||
+| ORANGE | Sebastian Dewet ||
 | ORANGE | Sylvain Morel |Yes|
 | ORI | José Domingos ||
+| Phronesis | Matt ||
 | PWC | Florian Groene ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
+| Radisys | Tapas Raiguru ||
 | Rain | Henri Kivioja ||
 | Redhat | Hanen Garcia ||
 | Reply | Gianmarco Sciortino ||
@@ -387,6 +394,7 @@
 | Shabodi | Umair Ali Rashid | |
 | Shabodi | Vikram Chopra | |
 | Sigscale | Vance Shipley ||
+| Sinch | Harsha Appuhami Ralalage ||
 | Sinch | Vesa Lindberg ||
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
