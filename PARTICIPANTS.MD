@@ -205,7 +205,7 @@
 | Hawaiian Telecom | Kevin Folan ||
 | HCL | Norbert Naveen ||
 | HCL | Ramyang Pandya ||
-| HGC | Ashwinnabil Careem ||
+| HGC | Ashwin Nabil Careem ||
 | HGC | Niklas Bergvall ||
 | HPE | Jaime Garcia ||
 | HPE | Joao Martins ||
