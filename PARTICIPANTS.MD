@@ -371,7 +371,7 @@
 | ORANGE | Sebastian Dewet ||
 | ORANGE | Sylvain Morel |Yes|
 | ORI | José Domingos ||
-| Phronesis | Matt ||
+| Phronesis | Matthew Hornsey ||
 | PWC | Florian Groene ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
