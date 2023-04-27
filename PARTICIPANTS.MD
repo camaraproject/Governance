@@ -474,6 +474,7 @@
 | Telefonica | Pedro Diez Garcia ||
 | Telefonica | Rocio Ortiz Pena ||
 | Telefonica | Ruben Barrado Gonzalez ||
+| Telefonica | Sergio Francis Coortiz ||
 | Telefonica | Victor Barranco Fernandez ||
 | Telstra | Abdul Majid Hussain | |
 | Telstra / 5GFF | Brett Hill | |
