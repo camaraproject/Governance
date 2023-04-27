@@ -95,6 +95,7 @@
 | Cognizant | R. Karthikraj ||
 | Cognizant | Siddharth Khatri ||
 | Cognizant | Vigneshwaran S ||
+| Confluent | Oliver Plane ||
 | Convergenc3 | Loyiso Mlandu ||
 | CPAAS ACCELERATION ALLIANCE | Rob Kurver ||
 | CTHINGS | Arnold Wierzejski | |
@@ -423,6 +424,7 @@
 | T-Mobile US| Lyle Bertz | Yes |
 | T-Mobile US | Murat Karabulut ||
 | T-Mobile US | Murthy Gorty ||
+| T-Mobile US | Poornima Magadevan ||
 | T-Mobile US | Ron Marquardt ||
 | T-Mobile US | Srujana Punyapu ||
 | Tango Networks | Gavin Sweet ||
@@ -484,6 +486,7 @@
 | TELUS | Jim Slevinksy | |
 | TELUS | Oswaldo Lauschner | |
 | TELUS | Theohar Konomi | |
+| Titanium Platform | Dave Jackson ||
 | TM Forum | George Glass | |
 | Toyota | Lei Zhong ||
 | Trilio | Paulo Peres ||
