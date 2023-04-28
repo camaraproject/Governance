@@ -324,6 +324,7 @@
 | Next Curve | Leonard Lee ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
+| Nife | Nida ||
 | Nokia | Akin Akintola ||
 | Nokia | Atul Purohit ||
 | Nokia Bell Labs | Bessem Sayadi ||
