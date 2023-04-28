@@ -499,6 +499,7 @@
 | ultraTELCO | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
 | Verizon | Alicia Miller | |
+| Verizon | Bjorn Hjelm ||
 | Verizon / 5GFF | Jeremy Giese | Yes |
 | Verizon | Kapil Maheshwari ||
 | Verizon / 5GFF | Kevin Xu | |
@@ -510,6 +511,7 @@
 | Verizon | Raghuram Parvataneni | |
 | Verizon | Shammi Naz Amin | |
 | Verizon | Syed A Rehman | |
+| Vertis Solutions | Julio Araujo ||
 | Viavi Solutions | Madhur Mehta ||
 | Vodacom | Surajj Jaggernath ||
 | Vodafone | Alex Pertwee ||
