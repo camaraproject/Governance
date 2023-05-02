@@ -432,6 +432,7 @@
 | Tango Networks | Gavin Sweet ||
 | TCS | Pramath Jha ||
 | TCS | Pranay Rsahay ||
+| TCS | Prateek Vashisht ||
 | TCS | Priya Chopra ||
 | TCS | Rajeev Gokana ||
 | TCS | Sibasish Pradhan ||
