@@ -55,7 +55,6 @@
 | Bell Canada | Sean Garagan | |
 | Bics | Kenneth Hardat | |
 | BridgeAlliance | Achuth Pai | |
-| BridgeAlliance | A. Yerra | |
 | BridgeAlliance | Ken Wee | |
 | BridgeAlliance | Kumar Gaurav Singh | |
 | Brillio | Kishore Vutukuri ||
@@ -65,6 +64,7 @@
 | Broadpeak | Guillaume Bichot |  |
 | Broadpeak | Tuan Tran |  |
 | Byte | Apaz ||
+| Cablelabs | A. Yerra | |
 | Cablelabs | Mark Bridges |  |
 | Cablelabs | Paul Fonte |  |
 | Cablelabs | Philip Rosenberg-Watt |  |
