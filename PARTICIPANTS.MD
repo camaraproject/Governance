@@ -58,7 +58,7 @@
 | BridgeAlliance | Ken Wee | |
 | BridgeAlliance | Kumar Gaurav Singh | |
 | Brillio | Kishore Vutukuri ||
-| British Telecom | Abhijit Das Gupta | |
+| British Telecom | Abhijit Dasgupta | |
 | British Telecom | Milan Lalovic | |
 | Broadpeak | Christoph Neumann |  |
 | Broadpeak | Guillaume Bichot |  |
