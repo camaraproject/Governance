@@ -52,6 +52,10 @@ Deliverables of the Sub Project are all artefacts in the main branch.
 
 More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md).
 
+**API onboarding and management in CAMARA**
+
+The API onboarding and management in CAMARA is descriped in [API-onboarding.md](./documentation/API-onboarding.md).
+
 **Mailing list**
 
 A Project mailing list is established, each Project participant documented in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is added. A message to all Project participants can be sent using <all@lists.camaraproject.org>.
