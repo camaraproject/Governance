@@ -225,6 +225,7 @@
 | Huawei | Sword Lijian ||
 | Huawei | Zhengzhilong ||
 | Hutchison | Sandra Ondrusova ||
+| iBasis | Nicola Tamma ||
 | IBM | Jason Hunt | Yes |
 | IBM | Pablo Kahale ||
 | IBM | Zyg Lozinski | Representative |
@@ -350,6 +351,7 @@
 | NTT Data | Luis Rubio Martinez ||
 | Nuage | Gabriel Klein ||
 | Ookla | Leandro de Marchi ||
+| Open ID | Gail Hodges ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
 | Oracle | Amit Kumar Savita ||
@@ -375,6 +377,7 @@
 | ORANGE | Sylvain Morel |Yes|
 | ORI | José Domingos ||
 | Phronesis | Matthew Hornsey ||
+| Proximus | Ivan Parvais ||
 | PWC | Florian Groene ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
