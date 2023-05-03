@@ -351,7 +351,7 @@
 | NTT Data | Luis Rubio Martinez ||
 | Nuage | Gabriel Klein ||
 | Ookla | Leandro de Marchi ||
-| Open ID | Gail Hodges ||
+| OpenID Foundation | Gail Hodges ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
 | Oracle | Amit Kumar Savita ||
