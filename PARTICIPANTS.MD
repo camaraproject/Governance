@@ -19,6 +19,7 @@
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
 | Asiainfo | Liz W. ||
+| Asiainfo | Zhang L. H. ||
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia |Representative|
 | AT&T | Bill Knotts ||
