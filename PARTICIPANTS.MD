@@ -351,6 +351,7 @@
 | NTT Data | Luis Rubio Martinez ||
 | Nuage | Gabriel Klein ||
 | Ookla | Leandro de Marchi ||
+| OpenID Foundation / Verizon | Bjorn Hjelm ||
 | OpenID Foundation | Gail Hodges ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
@@ -504,7 +505,6 @@
 | ultraTELCO | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
 | Verizon | Alicia Miller | |
-| Verizon | Bjorn Hjelm ||
 | Verizon / 5GFF | Jeremy Giese | Yes |
 | Verizon | Kapil Maheshwari ||
 | Verizon / 5GFF | Kevin Xu | |
