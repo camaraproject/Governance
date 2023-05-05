@@ -8,6 +8,7 @@
 | Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
 | ACL Digital | Sagar Suresh Nangare ||
+| Acom Networks | Harold Chen ||
 | Airtel India | Ramit Chawla ||
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
@@ -252,6 +253,7 @@
 | Intel | Oliver Neal ||
 | Intel | Oliver Roos ||
 | Intel | Petar Torre | Yes |
+| Intraway | Diego Ambuhl ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
 | JT Global | Rupert Goldie ||
