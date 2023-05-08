@@ -380,6 +380,7 @@
 | ORANGE | Sebastian Dewet ||
 | ORANGE | Sylvain Morel |Yes|
 | ORI | José Domingos ||
+| PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Matthew Hornsey ||
 | Proximus | Ivan Parvais ||
 | PWC | Florian Groene ||
@@ -418,7 +419,8 @@
 | Starhub | Rajesh Naresh Mhatre ||
 | Starhub | Vanitha Ramaswami ||
 | STC | Albaraa A. Bajnaid   | |
-| STC | Fahad Tanwir   | |
+| STC | Fahad Tanwir | |
+| STC | Ezafar C. | |
 | STC | Mohammed A. Adlani   | |
 | STC | Naeem Ur Rehman ||
 | Summit Tech | Doug Makishima ||
@@ -583,4 +585,5 @@
 |  | Sergio Alonso ||
 |  | Sridhar Paiyya ||
 |  | Tom Collins ||
+|  | Tomer Ilan ||
 |  | Tousif Ahmed ||
