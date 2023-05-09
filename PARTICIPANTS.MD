@@ -246,6 +246,7 @@
 | Infolysis | Nikolaos GKATZIOS ||
 | Infolysis | Nikolaos VRIONIS ||
 | Infolysis | Vaios KOUMARAS ||
+| Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
 | Intel | Francesc Guim ||
 | Intel | Larry Horner ||
