@@ -14,7 +14,7 @@ If you need a general basic and friendly introduction to git and GitHub, you are
 
 The starting point of any contribution should be an issue or a pull request:
 
-* If you have a trivial fix or improvement, go ahead and create a pull request, addressing (with `@...`) a suitable maintainer of the respective repository (see the specific CODEOWNERS or MAINTAINERS.MD file of the Sub Project you want to contribute to) in the description of the pull request.
+* If you have a trivial fix or improvement, go ahead and create a pull request, addressing (with `@...`) a suitable maintainer of the respective repository (see the specific CODEOWNERS.MD or MAINTAINERS.MD file of the Sub Project you want to contribute to) in the description of the pull request.
 
 *	If you have a bigger change (esp. that requires new documents) then please open an issue in the respective repository (and upload all initial documents in it).
 
