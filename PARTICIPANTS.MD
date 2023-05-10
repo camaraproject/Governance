@@ -346,6 +346,7 @@
 | Nokia | Rene Saathoff ||
 | Nokia | Shkumbin Hamiti ||
 | Nokia | Tanja de Groot | Yes |
+| Nokia | Uwe Rauschenbach ||
 | Nokia | William Stanley ||
 | Nokia | Yatin Dharamshi ||
 | Nokia | Zoltan Olah ||
@@ -411,6 +412,7 @@
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
 | Skyvera | Philip Linttell ||
+| Skyvera | Ravi Shankar ||
 | Spry Fox Networks | Jignesh Sorathia  | |
 | Spry Fox Networks | Mike Bowring   | |
 | Spry Fox Networks | Parichaya Shrivastava   | |
