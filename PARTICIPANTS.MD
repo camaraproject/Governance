@@ -98,6 +98,7 @@
 | Cognizant | R. Karthikraj ||
 | Cognizant | Siddharth Khatri ||
 | Cognizant | Vigneshwaran S ||
+| Comtech | Jamie Hart ||
 | Confluent | Oliver Plane ||
 | Convergenc3 | Loyiso Mlandu ||
 | CPAAS ACCELERATION ALLIANCE | Rob Kurver ||
