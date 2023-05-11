@@ -16,6 +16,7 @@
 | amdocs | Andrew DSouza ||
 | amdocs | Bernard Heuse ||
 | amdocs | Cameron Ross Dunne ||
+| amdocs | Gautam Gupta ||
 | amdocs | Steve Plain ||
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
@@ -437,6 +438,7 @@
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Dan Sershen ||
 | T-Mobile US| Lyle Bertz | Yes |
+| T-Mobile US | Mark Bales ||
 | T-Mobile US | Murat Karabulut ||
 | T-Mobile US | Murthy Gorty ||
 | T-Mobile US | Poornima Magadevan ||
