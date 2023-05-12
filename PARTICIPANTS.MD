@@ -232,6 +232,7 @@
 | iBasis | Nicola Tamma ||
 | IBM | Jason Hunt | Yes |
 | IBM | Pablo Kahale ||
+| IBM | Yusuf Mirza ||
 | IBM | Zyg Lozinski | Representative |
 | IDC | John Byrne ||
 | IEEE | Mak Saleh ||
@@ -558,6 +559,7 @@
 | VROMBR | Titouan Vatonne ||
 | Wiocc | Evalyne Ndungu ||
 | Wiocc | Jason Tutty ||
+| Wispir | Graham Link ||
 | Wit Software | Armindo Antunes ||
 | Wit Software | Marcio Almeida ||
 | Wit Software | Paulo Sousa ||
