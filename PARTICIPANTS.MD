@@ -496,6 +496,7 @@
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Sergio Francisco Ortiz ||
 | Telefonica | Victor Barranco Fernandez ||
+| Telenor | Aqeel Ahmed ||
 | Telstra | Abdul Majid Hussain | |
 | Telstra / 5GFF | Brett Hill | |
 | Telstra | Channa Seneviratne | |
