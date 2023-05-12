@@ -557,9 +557,9 @@
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
+| Whispir | Graham Link ||
 | Wiocc | Evalyne Ndungu ||
 | Wiocc | Jason Tutty ||
-| Wispir | Graham Link ||
 | Wit Software | Armindo Antunes ||
 | Wit Software | Marcio Almeida ||
 | Wit Software | Paulo Sousa ||
