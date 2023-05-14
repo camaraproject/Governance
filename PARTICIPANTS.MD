@@ -79,6 +79,7 @@
 | China Mobile | Hanbai Wang ||
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
+| China Mobile | Liu Yifu ||
 | China Mobile | Liu Yuyjy ||
 | China Telecom | Dan Xu ||
 | China Unicom | F. Yang | |
