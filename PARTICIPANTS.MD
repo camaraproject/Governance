@@ -73,6 +73,7 @@
 | Cablelabs | Philip Rosenberg-Watt |  |
 | Cablelabs | R. Gandotra |  |
 | Cablelabs | Randy Levensalor |  |
+| Canopus Networks | Arun Vishwanath ||
 | Capgemini | Deepak A. Gunjal | Yes |
 | Centillion | Nicholas Venezia ||
 | Charter | Patrick Schultz ||
