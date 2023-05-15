@@ -520,6 +520,7 @@
 | Twilio | Felipe Gutierrez ||
 | ultraTELCO | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
+| University of Patras | Christos Tranoris ||
 | Vay | Jesus Gonzales Tejeria ||
 | Verizon | Alicia Miller | |
 | Verizon / 5GFF | Jeremy Giese | Yes |
