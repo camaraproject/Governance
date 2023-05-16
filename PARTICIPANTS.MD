@@ -302,6 +302,7 @@
 | Mavenir | Michal Sedivy ||
 | Mavenir | Viswanath Krishnamurthy ||
 | MEF | Daniel Bar-Lev ||
+| MEF | Karthik ||
 | Meta | Bhartendu Chaurasia ||
 | Meta | Dennis Punjabi ||
 | Meta | Diego Marí Moretón ||
@@ -378,6 +379,7 @@
 | Oracle | Ruta Abhay Potnis ||
 | Oracle | Walter Prior ||
 | ORANGE | Assange Niang Mbengue ||
+| ORANGE | Eric Tartanson ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Guillaume Nevicato||
 | ORANGE | Guy Vidal||
