@@ -112,6 +112,7 @@
 | Dell | Mihai Lazar | |
 | Dell | Saad Sheikh | |
 | Dell | Vaishali Gupta | |
+| Deloitte | Mohammad Shammout ||
 | DeTeCon | Pawel Krysiak ||
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
