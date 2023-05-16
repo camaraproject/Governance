@@ -52,6 +52,7 @@
 | BearingPoint | Carsten Aue ||
 | BearingPoint | Julius Hafer ||
 | BearingPoint | Tobias Bothur ||
+| Beijing University of Posts and Telecommunications | Junli Xue ||
 | Bell Canada | Juan Esquivel | |
 | Bell Canada | Karen Meulenkamp | |
 | Bell Canada | Marc-Alexandre Choquette ||
