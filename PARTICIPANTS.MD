@@ -291,6 +291,7 @@
 | LCN | Rathnakumar Kayyar ||
 | LG U+ | Jerry ||
 | LibertyGlobal | Awais Ahmad ||
+| LibertyGlobal | Bobasola ||
 | LibertyGlobal | Max Gasparroni || 
 | LibertyGlobal | Oscar Tejedor Garcia ||
 | LibertyGlobal | W. Rees ||
