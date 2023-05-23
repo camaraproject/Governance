@@ -56,7 +56,8 @@
 | Bell Canada | Juan Esquivel | |
 | Bell Canada | Karen Meulenkamp | |
 | Bell Canada | Marc-Alexandre Choquette ||
-| Bell Canada | Sean Garagan | |
+| Bell Canada | Sean Garagan | |,
+| Beyon | Noora AlFaraj ||
 | Bics | Kenneth Hardat | |
 | BridgeAlliance | Achuth Pai | |
 | BridgeAlliance | Ken Wee | |
@@ -103,6 +104,7 @@
 | Cognizant | Siddharth Khatri ||
 | Cognizant | Vigneshwaran S ||
 | Comtech | Jamie Hart ||
+| Comviva | Vidhi Mehta ||
 | Confluent | Oliver Plane ||
 | Convergenc3 | Loyiso Mlandu ||
 | CPAAS ACCELERATION ALLIANCE | Rob Kurver ||
@@ -385,6 +387,7 @@
 | ORANGE | Guillaume Nevicato||
 | ORANGE | Guy Vidal||
 | ORANGE | Jean Luc Sire ||
+| ORANGE | John Eisenman ||
 | ORANGE | Ludovic Robert ||
 | ORANGE | Manoj Mourya ||
 | ORANGE | Olivier Mathieu ||
@@ -419,6 +422,7 @@
 | Sigscale | Vance Shipley ||
 | Sinch | Harsha Appuhami Ralalage ||
 | Sinch | Vesa Lindberg ||
+| Singtel | Ming Hui Foo ||
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
 | Skyvera | Philip Linttell ||
@@ -525,6 +529,7 @@
 | Twilio | Felipe Gutierrez ||
 | ultraTELCO | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
+| Umnia | Tareq Abu Issa ||
 | University of Patras | Christos Tranoris ||
 | Vay | Jesus Gonzales Tejeria ||
 | Verizon | Alicia Miller | |
