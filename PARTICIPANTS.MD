@@ -103,6 +103,7 @@
 | Cognizant | R. Karthikraj ||
 | Cognizant | Siddharth Khatri ||
 | Cognizant | Vigneshwaran S ||
+| Colony Networks | Michael Kuhlmann ||
 | Comtech | Jamie Hart ||
 | Comviva | Vidhi Mehta ||
 | Confluent | Oliver Plane ||
@@ -137,6 +138,7 @@
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
+| Dhiraagu | Ibrahim Yasir ||
 | Digicel Group | Miguel Vervaet ||
 | Dish | Jinsook Ryu ||
 | Dish | Media Johnsen ||
@@ -146,6 +148,7 @@
 | E& | Amit Ahuja ||
 | E& | Hacene Sali ||
 | E& | Jamal Sahyoun ||
+| E& | Mohammad Sahid Khan ||
 | E& | Syed Iqbal Hussain ||
 | E& | Vikram Rana ||
 | EANTC | Carsten Rossenhoevel ||
@@ -263,6 +266,7 @@
 | Intel | Oliver Neal ||
 | Intel | Oliver Roos ||
 | Intel | Petar Torre | Yes |
+| Intersec | Sebastian Synold ||
 | Intraway | Diego Ambuhl ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
@@ -401,6 +405,7 @@
 | PWC | Florian Groene ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
+| Radisys | Kiran Bharadwaj Vedula ||
 | Radisys | Tapas Raiguru ||
 | Rain | Henri Kivioja ||
 | Redhat | Hanen Garcia ||
@@ -610,3 +615,4 @@
 |  | Tom Collins ||
 |  | Tomer Ilan ||
 |  | Tousif Ahmed ||
+|  | Vishal Makhijani ||
