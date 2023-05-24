@@ -272,11 +272,6 @@
 | Itorix | Adeep Tahir ||
 | JT Global | Rupert Goldie ||
 | Juniper | Sukhdev Kapur ||
-| Kandy | Andy Lee |  |
-| Kandy | Fatih Demirel |  |
-| Kandy | Kim Jones |  |
-| Kandy | Michael Leeder |  |
-| Kandy | Philip Linttell | Yes |
 | KDDI | Brian Vaughn |  |
 | KDDI | Keichi Okonogi |  |
 | KDDI | Masaki Suzuki |  |
