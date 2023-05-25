@@ -85,6 +85,7 @@
 | China Mobile | Liu Yifu ||
 | China Mobile | Liu Yuyjy ||
 | China Telecom | Dan Xu ||
+| China Telecom | Zhang X. ||
 | China Unicom | F. Yang | |
 | China Unicom | Gao Chen | |
 | Chunghwa Telecom | MingHsun Lee ||
