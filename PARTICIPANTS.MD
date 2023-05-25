@@ -56,7 +56,8 @@
 | Bell Canada | Juan Esquivel | |
 | Bell Canada | Karen Meulenkamp | |
 | Bell Canada | Marc-Alexandre Choquette ||
-| Bell Canada | Sean Garagan | |,
+| Bell Canada | Sean Garagan | |
+| Bemobi | Felipe Goldin ||
 | Beyon | Noora AlFaraj ||
 | Bics | Kenneth Hardat | |
 | BridgeAlliance | Achuth Pai | |
