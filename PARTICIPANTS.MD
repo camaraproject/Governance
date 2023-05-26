@@ -279,6 +279,7 @@
 | KDDI | Masaki Suzuki |  |
 | KDDI | Shingo Watanabe | Yes |
 | KDDI | T. Ogawara |  |
+| KDDI | Tetsuya Chiba ||
 | KDDI | Toshiyasu Wakayama | Representative |
 | KDDI | Yusuke Nakano |  |
 | Kinetix | Paolo Galeotti ||
