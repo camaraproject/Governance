@@ -552,6 +552,7 @@
 | Vodafone | Alex Pertwee ||
 | Vodafone | Alexander Boraczynski ||
 | Vodafone | Benedikt Blome ||
+| Vodafone | Cetin Alpaycetin ||
 | Vodafone | David Frankland | |
 | Vodafone | Eric Murray | |
 | Vodafone | Fraser King | Eric Murray | |
