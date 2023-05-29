@@ -397,6 +397,7 @@
 | ORANGE | Sebastian Dewet ||
 | ORANGE | Sylvain Morel |Yes|
 | ORI | José Domingos ||
+| Oulu | Jean Cerrillo Fernandez ||
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Matthew Hornsey ||
 | Proximus | Ivan Parvais ||
