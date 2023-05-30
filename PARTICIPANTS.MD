@@ -397,7 +397,6 @@
 | ORANGE | Sebastian Dewet ||
 | ORANGE | Sylvain Morel |Yes|
 | ORI | José Domingos ||
-| Oulu | Jean Cerrillo Fernandez ||
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Matthew Hornsey ||
 | Proximus | Ivan Parvais ||
@@ -534,6 +533,7 @@
 | ultraTELCO | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
 | Umnia | Tareq Abu Issa ||
+| University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
 | Vay | Jesus Gonzales Tejeria ||
 | Verizon | Alicia Miller | |
