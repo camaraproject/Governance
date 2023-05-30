@@ -56,6 +56,7 @@
 | Bell Canada | Juan Esquivel | |
 | Bell Canada | Karen Meulenkamp | |
 | Bell Canada | Marc-Alexandre Choquette ||
+| Bell Canada | Miguel Masache ||
 | Bell Canada | Sean Garagan | |
 | Bemobi | Felipe Goldin ||
 | Beyon | Noora AlFaraj ||
