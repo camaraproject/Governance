@@ -51,7 +51,7 @@ The Steering Committee is the oversight body for the CAMARA Project. The Steerin
 | Partner                     | Name(s)                                                |
 | --------------------------- | ------------------------------------------------------ |
 | 5GFF	| Jeremy Giese (Parry Booker, Kevin Smith) |
-| AT&T	| Wiley Wilkins (Barry Elia) |
+| AT&T	| Catherine Lefevere (Barry Elia) |
 | Capgemini	| Deepak A. Gunjal |
 | Deutsche Telekom AG	| Nathan Rader (Markus Kümmerle) |
 | Ericsson	| Bart van Kaathoven (Jan Friman) |
