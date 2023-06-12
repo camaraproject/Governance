@@ -148,6 +148,7 @@
 | Dish | Jingyi Zhou ||
 | DriveU | Eli Shapira ||
 | Domos | Magnus Olden ||
+| DU | Amr Abdelsalam ||
 | E& | Amit Ahuja ||
 | E& | Hacene Sali ||
 | E& | Jamal Sahyoun ||
