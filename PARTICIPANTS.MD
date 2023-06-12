@@ -87,6 +87,7 @@
 | China Mobile | Lisa Gao ||
 | China Mobile | Liu Yifu ||
 | China Mobile | Liu Yuyjy ||
+| China Mobile | Qian Ze Bin ||
 | China Telecom | Dan Xu ||
 | China Telecom | Zhang X. ||
 | China Unicom | F. Yang | |
@@ -154,6 +155,7 @@
 | E& | Hacene Sali ||
 | E& | Jamal Sahyoun ||
 | E& | Mohammad Sahid Khan ||
+| E& | Prashant Sidana ||
 | E& | Syed Iqbal Hussain ||
 | E& | Vikram Rana ||
 | EANTC | Carsten Rossenhoevel ||
@@ -279,6 +281,7 @@
 | Juniper | Sukhdev Kapur ||
 | KDDI | Brian Vaughn |  |
 | KDDI | Keichi Okonogi |  |
+| KDDI | M. Hattori ||
 | KDDI | Masaki Suzuki |  |
 | KDDI | Shingo Watanabe | Yes |
 | KDDI | T. Ogawara |  |
