@@ -13,6 +13,7 @@
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
 | Alicon | Ike Alisson ||
+| AMANTYA TECHNOLOGIES | Mansi Trivedi ||
 | amdocs | Andrew DSouza ||
 | amdocs | Bernard Heuse ||
 | amdocs | Cameron Ross Dunne ||
