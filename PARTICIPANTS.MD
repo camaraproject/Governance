@@ -151,6 +151,7 @@
 | DriveU | Eli Shapira ||
 | Domos | Magnus Olden ||
 | DU | Amr Abdelsalam ||
+| DU | Fuad Melhi ||
 | E& | Amit Ahuja ||
 | E& | Hacene Sali ||
 | E& | Jamal Sahyoun ||
@@ -225,6 +226,7 @@
 | GSMA | Tom van Pelt ||
 | Gwirio | David Roux ||
 | Hawaiian Telecom | Kevin Folan ||
+| HCL | Kuldeep Singhn ||
 | HCL | Norbert Naveen ||
 | HCL | Ramyang Pandya ||
 | HGC | Ashwin Nabil Careem ||
@@ -369,6 +371,7 @@
 | Nokia | William Stanley ||
 | Nokia | Yatin Dharamshi ||
 | Nokia | Zoltan Olah ||
+| Noname Security | Ides Vanneuville ||
 | Nos | Nuno Erodrigues ||
 | Nos | Orlando Almeida ||
 | NTT Data | Josef Reisinger ||
@@ -442,6 +445,7 @@
 | Spry Fox Networks | Ramesh Shanmugasundaram   | |
 | Spry Fox Networks | Steven Ballantyne   | |
 | Spry Fox Networks | Stuart Waine   | |
+| SS8 | Keith Bhatia ||
 | Starhub | Rajesh Naresh Mhatre ||
 | Starhub | Vanitha Ramaswami ||
 | STC | Albaraa A. Bajnaid   | |
