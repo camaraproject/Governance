@@ -13,6 +13,7 @@
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
 | Alicon | Ike Alisson ||
+| AMANTYA TECHNOLOGIES | Ankur Bharadwaj ||
 | AMANTYA TECHNOLOGIES | Mansi Trivedi ||
 | amdocs | Andrew DSouza ||
 | amdocs | Bernard Heuse ||
@@ -239,6 +240,7 @@
 | Huawei | Alex Wuning ||
 | Huawei | Chuanyu Chen ||
 | Huawei | Jiafeng Zhu ||
+| Huawei | J.P. Pallois ||
 | Huawei | Junyi Zhou ||
 | Huawei | Liang Feng ||
 | Huawei | Maria Jose Mossi (Pepa) ||
@@ -411,6 +413,7 @@
 | Phronesis | Matthew Hornsey ||
 | Proximus | Ivan Parvais ||
 | PWC | Florian Groene ||
+| Quobis | Elías Pérez Carrera ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
 | Radisys | Kiran Bharadwaj Vedula ||
@@ -569,7 +572,8 @@
 | Vodafone | David Frankland | |
 | Vodafone | Eric Murray | |
 | Vodafone | Fraser King | Eric Murray | |
-| Vodafone | Iván Nieto| |
+| Vodafone | Iván Nieto | |
+| Vodafone | Jaime Diez ||
 | Vodafone / 5GFF | Kevin Smith | Representative |
 | Vodafone | Mahesh Joshi | |
 | Vodafone | Mariusz Dawidowicz ||
@@ -587,6 +591,7 @@
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
+| Whispir | Andrew Fry ||
 | Whispir | Graham Link ||
 | Wiocc | Evalyne Ndungu ||
 | Wiocc | Jason Tutty ||
