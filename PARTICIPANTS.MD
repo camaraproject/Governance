@@ -247,6 +247,7 @@
 | Huawei | Shuting Qing ||
 | Huawei | Roger Fengyulin ||
 | Huawei | Roger Wangrong ||
+| Huawei | Ruilin Cai ||
 | Huawei | Sword Lijian ||
 | Huawei | Zhengzhilong ||
 | Hutchison | Sandra Ondrusova ||
