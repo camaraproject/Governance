@@ -287,7 +287,7 @@
 | Juniper | Sukhdev Kapur ||
 | KDDI | Brian Vaughn |  |
 | KDDI | Keichi Okonogi |  |
-| KDDI | M. Hattori ||
+| KDDI | Masaharu Hattori ||
 | KDDI | Masaki Suzuki |  |
 | KDDI | Shingo Watanabe | Yes |
 | KDDI | T. Ogawara |  |
