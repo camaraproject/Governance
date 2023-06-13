@@ -127,6 +127,7 @@ both contained in deployment packages.
 In addition a
 -	Reference architecture for Service APIs and Service Management APIs
 -	Description of the standard API lifecycle, development and test process
+
 is created.
 
 ## Governance
