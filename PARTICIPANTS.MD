@@ -444,6 +444,8 @@
 | SK Telecom | Yoon Sun Jung | |
 | Skyvera | Philip Linttell ||
 | Skyvera | Ravi Shankar ||
+| Softbank | Kazumasa Yazawa ||
+| Softbank | Naoto Takasu ||
 | Spry Fox Networks | Jignesh Sorathia  | |
 | Spry Fox Networks | Mike Bowring   | |
 | Spry Fox Networks | Parichaya Shrivastava   | |
