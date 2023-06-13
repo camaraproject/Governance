@@ -37,20 +37,20 @@ The development of open, global, and interoperable API solutions could benefit c
     * Build sustainable ecosystems around collaborative projects across industries.
     * Drive industry alignment by facilitating industry discussions with telcos, ISVs, device manufacturers, hyperscalers, etc.
 * Harmonization of APIs
-    * Harmonize and convert APIs to a user understandable format called “Service APIs”.
+    * Harmonize and convert APIs to a user understandable format.
     * Achieve harmonization through working code vs. documents.
-    * Implementation experience should guide harmonization process.
+    * Implementation experience should guide the harmonization process.
     * Enable interoperability (e.g. effortless portability of applications between different operators), compatibility (applicability to different network technologies) and interconnectivity (to enable interoperator collaboration).
 * Education and promotion
-    * Actively promote Service APIs via various forums, events, conferences, training programs, ecosystems and social media.
+    * Actively promote the APIs via various forums, events, conferences, training programs, ecosystems and social media.
     * Promote best practices by aggregating and publishing lessons learned.
 * Accelerate commercial adoption
     * Create awareness around use cases and services.
-    * Minimize implementation effort though easy-to-consume Service APIs.
+    * Minimize implementation effort though easy-to-consume APIs.
     * Foster the API integration in relevant developer’s environments and ecosystems.
     * Enable the provision of customer service and support for the design phase and experimentation.
 
-APIs grouped by services and bundled up into “Service APIs” could reduce the complexity of accessing operator capabilities for developers and enterprises. CAMARA Project is an independent open source project and not controlled by any single company.  Monetization of APIs is outside the Project’s scope; designing and consumption of APIs is within scope. 
+APIs grouped by services and bundled up into API families could reduce the complexity of accessing operator capabilities for developers and enterprises. CAMARA Project is an independent open source project and not controlled by any single company.  Monetization of APIs is outside the Project’s scope; designing and consumption of APIs is within scope. 
 
 ## Scope of the Project
 
