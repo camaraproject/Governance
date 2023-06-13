@@ -56,39 +56,77 @@ APIs grouped by services and bundled up into API families could reduce the compl
 
 **Functional scope**
 
-From functional perspective the scope is limited to telco APIs, that means APIs in the domain of telco mobile networks, telco fixed line networks or supporting these (e.g. for authentication). The respective API families are clarified during the ramp up of the CAMARA Project, specifically the ones exposed to customers.
+From a functional perspective the scope is limited to telco APIs, that means APIs in the domain of telco mobile networks, telco fixed line networks, telco edge cloud, etc. or supporting these (e.g. for authentication). CAMARA only works on customer-facing northbound APIs. East-west federation / roaming APIs are out of scope for CAMARA.
 
-**Technical scope**
+**Northbound scope**
 
-Technically the scope is about northbound Service APIs, that means an abstraction / aggregation of e.g. 3GPP APIs or TM Forum APIs to hide telco complexity, keep control at the operator side and fulfill regulatory and data privacy constraints. Optionally in scope are east-/westbound APIs on the same abstraction / aggregation level.
-![ServiceAPI Architecture](/documentation/images/ServiceAPI_Architecture.jpg)
+We differentiate between 3 types of Northbound APIs:
+-	Service APIs: APIs intended for end consumers and integrated by developers to invoke a certain telco capability.
+-	Service Management APIs: APIs intended for end consumers to manage or get data about offered Service APIs in application runtime, e.g., check service availability or performance information.
+-	Operate APIs: Operational and maintenance APIs provided by a telco to channel partners for the purpose of service fulfillment and assurance to their [channel partner] customers. This may include service provisioning for a mobile user, technical API performance monitoring, fault ticketing, information exchange such as product catalog, pricing, settlement, etc.
 
-The Service APIs (incl. mapping tables for the attributes to the southbound APIs if useful) are in scope of the Project and in scope of the harmonization. The transformations functions (business logic that calls the southbound APIs, transforms the data and provides the function for the Service APIs) are in scope of the Project as example / reference implementations, but not in scope of the harmonization. So each telco operator can implement the transformation functions in the best manner considering network topology and vendors, and can use the reference implementation as an orientation and starting point.
+In the following picture you can find an illustration of these 3 types of APIs. Service APIs and Service Management APIs are in scope of CAMARA (and both will be referred to in the following as CAMARA APIs), Operate APIs are out of scope of CAMARA (these are already covered by other SDOs = Standards Development Organizations like TM Forum).
+
+![Interface types in NaaS](/documentation/images/InterfaceTypesInNaaS.jpg)
+*Figure 1 - Interface types in NaaS*
+
+**Transformation functions**
+
+Service APIs and Service Management APIs mean an abstraction / aggregation of e.g. 3GPP APIs, Broadband Forum APIs or ETSI MEC APIs to hide telco complexity, keep control at the operator side and fulfill regulatory and data privacy constraints.
+
+![Transformation function](/documentation/images/TransformationFunction.jpg)  
+*Figure 2 - The transformation function translates exposed service APIs into call flows that invoke internal telco capabilities*
+
+The definition and documentation of CAMARA APIs (including the mapping tables for the attributes to the southbound APIs if useful) is in scope of the Project and in scope of the harmonization. The transformations functions (business logic that calls the southbound APIs, transforms the data and provides the function for the CAMARA APIs) are in scope of the Project as example or reference implementations, but not in scope of the harmonization. So each telco operator can implement the transformation functions in the best manner considering network topology and vendors, and can use the reference implementation as an orientation and starting point.
+
+**API consumption**
+
+The way how the different API types shall be consumed is shown in the figure below.
+
+![Typical consumers / producers of each API type](/documentation/images/ConsumersProducersOfAPIType.jpg) 
+*Figure 3 - Typical consumers / producers of each API type*
+
+Hyperscalers and aggregators have the possibility to create own enriched products based on the CAMARA APIs and expose that in addition to the CAMARA APIs.
+
+**Alignment with other SDOs**
+
+The following picture shows how the different API standards complement each other.
+
+![Different entities participating in the NaaS service standardization](/documentation/images/NaaSServiceStandardization.jpg)
+*Figure 4 - Different entities participating in the NaaS service standardization*
+
+CAMARA project defines CAMARA APIs, with a contribution-driven approach and in collaboration with the developer community.
+
+TMForum develops the Operate APIs, as an evolution of its Open APIs, working jointly with aggregator and developer platform owners, to facilitate their integration with the operator’s NaaS Platforms.
+
+Several SDOs cover the different technology domains that provide the telco capabilities, through Technology-specific APIs, that are exposed by CAMARA, like Broadband Forum (Home and fixed access networks), O-RAN (Radio access network), IETF and ONF (Transport networks), 3GPP (Radio access and core networks), ETSI (network function virtualization), Cloud Native Computing Foundation (container management), etc. These SDOs provide exposure functions to be able to interact with the network systems from external platforms.
+
+More details can be found in the whitepaper “The Ecosystem for Open Gateway NaaS API Development” (jointly published by GSMA, CAMARA, Linux Foundation and TMForum) available [here](./documentation/The-Ecosystem-for-Open-Gateway-NaaS-API-development.pdf).
 
 **Service scope**
 
 The service scope of the CAMARA Project is limited to the following activities:
--	Collect API requirements from GSMA OPG subgroup and other sources. That can be a (prioritized) list of API families seen as useful for the customers, a functional descriptions of the APIs (attributes, function, result), and also non-functional requirements for the APIs (response time, scalability, performance, etc.). All APIs developed within GSMA/OPG and contributed to the CAMARA Project will be developed under Apache-2.0.
--	Define Service APIs (e.g. by Swagger) and create test plan / cases / tools from a business and API consumer perspective
--	Develop Service APIs (and reference implementation for transformation functions)
--	Create test cases and perform verification/tests from developer perspective (to show that the Service API / transformation function has been developed correctly)
--	Create developer friendly documentation for Service APIs
--	Test Service APIs from business/customer perspective (validation) in telco network(s)
--	Create deployment packages for Service APIs
--	Create a reference architecture for Service APIs (if possible preferred solution is to refer to an existing architecture)
--	Define a standard API lifecycle, development and test process incl. tools for the project
+-	Collect API requirements from GSMA OPG (Operator Platform Group, a GSMA group that defines the reference architecture and requirements of the platform the operators use to expose their capabilities to Customers via APIs) and other sources. That can be a (prioritized) list of API families seen as useful for the customers, a functional description of the APIs (attributes, function, result), and also non-functional requirements for the APIs (response time, scalability, performance, etc.). All APIs developed within GSMA/OPG and contributed to the CAMARA Project will be developed under Apache-2.0.
+-	Define Service APIs and Service Management APIs (e.g. by Swagger) and create test plan / cases and tools from a business and API consumer perspective
+-	Develop Service APIs and Service Management APIs (and reference implementation for transformation functions)
+-	Create test cases and perform verifications and tests from developer perspective (to show that the Service APIs, the and Service Management APIs and the transformation functions have been developed correctly)
+-	Create developer friendly documentation for Service APIs and Service Management APIs
+-	Test Service APIs and Service Management APIs from business and customer perspective (validation) in telco network(s)
+-	Create deployment packages for Service APIs and Service Management APIs
+-	Create a reference architecture for Service APIs and Service Management APIs (if possible preferred solution is to refer to an existing architecture)
+-	Define a standard API lifecycle, development and test process including tools for the project
 
 **Deliverables**
 
 The following deliverables are provided by the CAMARA Project:
--	Service API code (incl. API descriptions and reference implementation for transformation functions) and documentation and
--	Test plan, cases and tools
+-	Service API and Service Management API definitions and documentation
+-	Optionally Service API and Service Management API code (reference implementation for transformation functions) and
+-	Test plans, cases and tools
 
 both contained in deployment packages.
 In addition a
--	Reference architecture for Service APIs
+-	Reference architecture for Service APIs and Service Management APIs
 -	Description of the standard API lifecycle, development and test process
-
 is created.
 
 ## Governance
