@@ -596,6 +596,7 @@
 | VROMBR | Titouan Vatonne ||
 | Whispir | Andrew Fry ||
 | Whispir | Graham Link ||
+| Whispir | Sharina Rapales ||
 | Wiocc | Evalyne Ndungu ||
 | Wiocc | Jason Tutty ||
 | Wit Software | Armindo Antunes ||
