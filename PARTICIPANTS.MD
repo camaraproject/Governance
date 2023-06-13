@@ -27,7 +27,7 @@
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia |Representative|
 | AT&T | Bill Knotts ||
-| AT&T | Catherine Lefevre ||
+| AT&T | Catherine Lefevre | Yes |
 | AT&T | Dan Druta ||
 | AT&T | Gervais-Martial Ngueko ||
 | AT&T | Jorge Hernandez Herrero ||
@@ -35,7 +35,7 @@
 | AT&T | S. B. ||
 | AT&T | Sachin Kakkar ||
 | AT&T | Shahram Mohajeri ||
-| AT&T | Wiley Wilkins | Yes |
+| AT&T | Wiley Wilkins | |
 | Atrinet | Yoav Segman ||
 | AWS | Chivas Nambiar ||
 | AWS | Ishwar Parulkar ||
