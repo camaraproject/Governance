@@ -54,7 +54,7 @@ APIs grouped by services and bundled up into API families could reduce the compl
 
 ## Scope of the Project
 
-**Functional scope**
+**Functional and technical scope**
 
 From a functional perspective the scope is limited to telco APIs, that means APIs in the domain of telco mobile networks, telco fixed line networks, telco edge cloud, etc. or supporting these (e.g. for authentication). CAMARA only works on customer-facing northbound APIs. East-west federation / roaming APIs are out of scope for CAMARA.
 
