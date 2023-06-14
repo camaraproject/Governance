@@ -60,6 +60,7 @@
 | Bell Canada | Marc-Alexandre Choquette ||
 | Bell Canada | Miguel Masache ||
 | Bell Canada | Sean Garagan | |
+| Bell Canada | Vijay Kumaraguruthasan ||
 | Bemobi | Felipe Goldin ||
 | Beyon | Noora AlFaraj ||
 | Bics | Kenneth Hardat | |
@@ -111,6 +112,7 @@
 | Cognizant | Vigneshwaran S ||
 | Colony Networks | Michael Kuhlmann ||
 | Comtech | Jamie Hart ||
+| Comviva | Anindita Raychoudhuri ||
 | Comviva | Vidhi Mehta ||
 | Confluent | Oliver Plane ||
 | Convergenc3 | Loyiso Mlandu ||
@@ -308,6 +310,7 @@
 | LG U+ | Jerry ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Bobasola ||
+| LibertyGlobal | G. Haddad ||
 | LibertyGlobal | Max Gasparroni || 
 | LibertyGlobal | Oscar Tejedor Garcia ||
 | LibertyGlobal | W. Rees ||
