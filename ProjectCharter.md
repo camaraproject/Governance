@@ -5,27 +5,28 @@
 This technical charter (the “Charter”) describes the rules and governance of the CAMARA Project (the “Project”). It is meant to be followed by all the contributors, codeowners and maintainers of, and other participants in (collectively, “Project participants”), the Project. Common terminology used in this governance document is defined below:
 - **CAMARA Project**: The sum of all activities and Sub Projects performed under the governance protocol defined in this document.
 - **Project participant**: participants in the CAMARA Project who have been named in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) for the Project.
-- **Steering Committee**: the oversight body for the Project.
-- **Steering Committee participant**: a voting member of the Steering Committee.
-- **Working Group**: a group of Project participants working on a specific topic as directed by the Steering Committee.
+- **Technical Steering Committee (TSC)**: the technical oversight body for the Project.
+- **TSC participant**: a member of the TSC.
+- **Working Group**: a group of Project participants working on a specific topic as directed by the TSC.
 - **Working Group participant**: a Project participant contributing to a specific Working Group, which may span one or more Sub Projects.
-- **Sub Project**: A sub project of the CAMARA Project led by a voluntary group, open to anyone to participate.
+- **Sub Project**: A subproject of the CAMARA Project led by a voluntary group, open to anyone to participate.
 - **Maintainer**: is leader of an individual Sub Project who has been named in the MAINTAINERS.MD file of the respective Sub Project.
 - **Codeowner**: a committer of an individual Sub Project who has been named in the CODEOWNERS file of the Sub Project. Codeowners merge code and accept pull requests.
 - **Contributor**: a Project participant who contributes to the Project and creates pull requests.
 - **Partner**: is an organization who employs a Project participant, or on whose behalf a Project participant is authorized to make contributions.
 
-The Project is an independent open-source project, not controlled by any single company or organization and has been established as CAMARA Project a Series of LF Projects, LLC. LF Projects, LLC is a Delaware series limited liability company (“LF Projects”).
+The Project is an independent open-source project, not controlled by any single company or organization and has been established as CAMARA Project a Series of LF Projects, LLC. LF Projects, LLC is a Delaware series limited liability company (“LF Projects”). Governance for the CAMARA Fund is documented in the CAMARA Fund Charter.
 
 For specific guidance on the practical steps for contributing to the Project and any Sub Project please see our [Contribution Guidelines](./CONTRIBUTING.md).
 
 ## Principles
 
 The CAMARA Project adheres to the following principles:
-- Open: The Project is open source. That especially means that the Project has a clear pro-competitive goal to define/harmonize and develop open, global, and interoperable API solutions using an open and transparent process at every time. All Project participants are encouraged to be observant that there is no patent ambush and no market power abuse and report if any.
+- Open: The Project is open source. That especially means that the Project has a clear pro-competitive goal to define/harmonize and develop open, global, and interoperable API solutions using an open and transparent process at all times. All Project participants are encouraged to be observant that there is no patent ambush and no market power abuse and report if any.
 - Welcoming and respectful: We abide by the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
-- Transparent and accessible: Changes to the Project organization, Project code repositories, and activities related to LF Projects and the Linux Foundation are done in public. A primary reason that the CAMARA Project exists is as a forum for collaboration. The work in the Project should be done in the open. Except as authorized by the Steering Committee with respect to security and code of conduct issues, Project participants must communicate in the open, ensure other Project participants can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the Project.
+- Transparent and accessible: Changes to the Project organization, Project code repositories, and activities related to LF Projects and the Linux Foundation are done in public. A primary reason that the CAMARA Project exists is as a forum for collaboration. The work in the Project should be done in the open. Except as authorized by the TSC with respect to security and code of conduct issues, Project participants must communicate in the open, ensure other Project participants can find notes of meetings, discussions, designs, and decisions, and periodically communicate a high-level summary of their contribution work to the Project.
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with Project objectives, scope, and design principles.
+- Diversity: All boards in CAMARA should reflect a diverse mix of companies.
 
 ## CAMARA Project
 
@@ -132,28 +133,49 @@ is created.
 
 ## Governance
 
-**Steering Committee**
+**Technical Steering Committee (TSC)**
 
-At the inception of the Project, the Steering Committee is composed of one Project participant appointed by each organization named in the Project’s [PARTICIPANTS.MD](./PARTICIPANTS.MD) file.  Each organization appointing a Steering Committee participant agrees to allow the display of its logo, pursuant to applicable and reasonable trademark guidelines, in the Project’s repositories and in materials describing the function and mission of the Project.
+The Technical Steering Committee is composed of:
+-	10 representatives of Sub Projects as selected by the Maintainers (“Sub Project representatives”); 
+-	3 representatives of the End-User Council as selected by the End-User Council (“EUC representatives”); 
+-	1 non-voting representative of the GSMA and
+-	1 non-voting representative of the TMForum
 
-Following inception of the Project, the Steering Committee may (a) add additional organizations, or remove existing organizations, that can name representatives to the Steering Committee, or (b) choose an alternative approach for determining the voting members of the Steering Committee (any such alternative approach will be documented in the Project’s repository). Any meetings of the Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
+Any Maintainer may nominate themselves or another Maintainer of any Sub Project for consideration as a Sub Project representative. The Maintainers will vote using ranked choice voting (or another method approved by the TSC) and those 10 nominees receiving the highest number of votes will be elected as Sub Project representatives.
 
-A Steering Committee participant can - in case of absence or unavailability - send a representative as stand-in (a “Proxy”). The Steering Committee has to be informed before a representation including the duration of it. Each Steering Committee participant shall name a default stand-in (and mark it with “Representative” in the respective column of the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file).  Any Steering Committee participant who fails to attend, or to have a Proxy attend on their behalf, more than 30% of the meetings of the Steering Committee in any six-month period will lose the right to vote, and will not be counted for quorum purposes, on the Steering Committee until that Steering Committee participant has attended two consecutive meetings of the Steering Committee (with their vote restored as of the second meeting).
+Any participant of the EUC may recommend any participant of the EUC for consideration as a EUC representative. EUC participants will vote using ranked choice voting (or another method approved by the TSC) and those 3 nominees receiving the highest number of votes will be elected as EUC representatives.
 
-The technical roles of the Sub Projects and Working Groups are described in the [Project Structure And Roles](./ProjectStructureAndRoles.md) file. The Steering Committee may adopt or modify roles so long as the roles are documented in the [Project Structure And Roles](./ProjectStructureAndRoles.md) file. Participation in the Project through becoming a Project participant is open to anyone so long as they abide by the terms of this Charter. 
+TSC commitments will be 15 months. The first twelve months will be duties as described herein. The final three months will be non-voting, shepherding of incoming TSC members to maintain council continuity.
 
-The Steering Committee may (1) establish workflow procedures for the submission, approval, and closure/archiving of Sub Projects and Working Groups, (2) set requirements for the promotion of Project participants from one technical role to another, and (3) amend, adjust, refine and/or eliminate any technical roles, and create new roles, and publicly document any roles, as it sees fit.
+The TSC includes one non-voting participant from both GSMA and TM Forum.
 
-Responsibilities: The Steering Committee is responsible for all aspects of oversight relating to the Project, which may include:
-- incubating, changing (coordinating the technical direction) and removing of the Project (including the Project’s organization and the Project’s Steering Committee instance);
+All voting TSC participants will vote using ranked choice voting (or another method approved by the TSC) to determine the chair.
+
+The TSC may choose an alternative approach for determining the voting participants of the TSC (any such alternative approach will be documented in the Project’s repository). Any meetings of the TSC are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
+
+The TSC may approve an alternate attendance policy. Any TSC participant who fails to attend, or to have a alternate attend on their behalf, more than 30% of the meetings of the TSC in any six-month period will lose the right to vote, and will not be counted for quorum purposes, on the TSC until that TSC participant has attended two consecutive meetings of the TSC (with their vote restored as of the second meeting).
+
+The technical roles of the Sub Projects and Working Groups are described in the [Project Structure And Roles](./ProjectStructureAndRoles.md) file. The TSC may adopt or modify roles so long as the roles are documented in the [Project Structure And Roles](./ProjectStructureAndRoles.md) file. Participation in the Project through becoming a Project participant is open to anyone so long as they abide by the terms of this Charter.
+
+The TSC may (1) establish workflow procedures for the submission, approval, and closure/archiving of Sub Projects and Working Groups, (2) set requirements for the change of Project participants from one technical role to another, and (3) amend, adjust, refine and/or eliminate any technical roles, create new roles, and publicly document any roles, as it sees fit.
+
+Responsibilities: The TSC is responsible for all aspects of oversight relating to the Project, which may include:
 - approving Sub Project proposals (including, but not limited to, incubation, deprecation, and changes to a Sub Project’s scope);
 - organizing Sub Projects and removing Sub Projects;
 - creating and removing of Working Groups to focus on cross-project technical issues and requirements;
 - appointing representatives to work with other open source or open standards communities;
+- determining the release cadence of the Sub Projects and the scope of the releases;
+- approve election processes for the technical Project;
 - establishing community norms, workflows, issuing releases, and security issue reporting policies;
 - approving and implementing policies and processes for contributing (to be published in the [Contribution Guidelines](./CONTRIBUTING.md)) and coordinating with LF Projects to resolve matters or concerns that may arise as set forth in this Charter;
 - discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
-- coordinating any marketing, events, or communications regarding the Project.
+- receive and resolve escalations from Sub Projects on blocked topics or areas where Sub Projects are seeking input from the TSC, i.e. when the established decision process did not end up in a resolution for that topic at Sub Project level.
+
+**End-User Council**
+
+The EUC is composed of individuals employed by organizations that use CAMARA APIs and can provide feedback on how those APIs work. EUC participants are expected to consist primarily of developers but telecommunications companies and aggregators could also qualify if they utilize APIs to build projects or services for their own use. If there is a question as to whether a particular organization qualifies to appoint someone to the EUC, the TSC will decide.
+
+The EUC is expected to meet monthly, and EUC meetings will be open to the public.
 
 ## Decision Making
 
@@ -165,9 +187,9 @@ Depending on the subject matter, different methods of voting are used as laid ou
 
 For all votes, voting must be open for at least one week. The end date should be clearly stated in the call to vote. A vote may be called and closed early if enough votes have come in one way so that further votes cannot change the final decision.
 
-In all cases, all and only Project participants are eligible to vote, with the sole exception of the forced removal of a Project participant, in which said Project participant is not eligible to vote.
+In all cases, of votes within the TSC, End-User Council, Working Groups or Sub Projects, only Project participants are eligible to vote, with the sole exception of the forced removal of a Project participant, in which said Project participant is not eligible to vote.
 
-Discussion and votes on personnel matters (including but not limited to Project participantship) are held in private. All other discussion and votes are held in public on the CAMARA Project mailing list.
+Discussion and votes on personnel matters (including but not limited to Project participation) are held in private. All other discussion and votes are held in public.
 
 For public discussions, anyone interested is encouraged to participate. Formal power to object or vote is limited to Project participants.
 
@@ -175,7 +197,7 @@ For public discussions, anyone interested is encouraged to participate. Formal p
 
 The default decision making mechanism for the CAMARA Project is [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). This means that any decision on technical issues is considered supported by the team as long as nobody objects based on substantiated technical grounds.
 
-Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will. Decisions may, but do not need to be called out and put up for decision on the CAMARA Project mailing list at any time and by anyone.
+Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will. Decisions may, but do not need to be called out and put up for decision on the appropriate mailing list at any time and by anyone.
 
 Consensus decisions can never override or go against the spirit of an earlier explicit vote.
 
@@ -189,7 +211,7 @@ Majority votes must be called explicitly in a separate thread on the appropriate
 
 Votes may take the form of a single proposal, with the option to vote yes or no, or the form of multiple alternatives.
 
-A vote on a single proposal is considered successful if more eligible to vote in favor than against.
+A vote on a single proposal is considered successful if more eligible to vote are in favor than against.
 
 If there are multiple alternatives, participants may vote for one or more alternatives, or vote “no” to object to all alternatives. It is not possible to cast an “abstain” vote. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from more than half of those voting. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
 
@@ -201,35 +223,37 @@ Votes may take the form of a single proposal, with the option to vote yes or no,
 
 A vote on a single proposal is considered successful if at least two thirds of those eligible to vote in favor.
 
-If there are multiple alternatives, participants may vote for one or more alternative, or vote “no” to object to all alternatives. It is not possible to cast an “abstain” vote. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from at least two thirds of those voting. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
+If there are multiple alternatives, participants may vote for one or more alternatives, or vote “no” to object to all alternatives. It is not possible to cast an “abstain” vote. A vote on multiple alternatives is considered decided in favor of one alternative if it has received the most votes in favor, and a vote from at least two thirds of those voting. Should no alternative reach this quorum, another vote on a reduced number of options may be called separately.
 
-**Steering Committee decisions**
+**TSC decisions**
 
-Steering Committee votes can be initiated by each Steering Committee participant.
+TSC votes can be initiated by any TSC voting participant.
 
-For votes taken during a Steering Committee meeting (in person, by telephone or online conference or similar), quorum requires at least two-thirds of all voting members of the Steering Committee to be present. The Steering Committee may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.  Except as provided elsewhere in this Charter, decisions by vote at a steering board meeting require a majority vote of those in attendance, provided quorum is met.
+For votes taken during a TSC meeting (in person, by telephone or online conference or similar), quorum requires at least 50% of all voting participants of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.  Except as provided elsewhere in this Charter, decisions by vote at a TSC meeting require a majority vote of those in attendance, provided quorum is met. If an already taken decision has to be revised a super majority is necessary.
 
-For votes taken by email or similar asynchronous means, voting decisions require at least a two-thirds vote of all members of the Steering Committee. Decision is then taken by majority vote.
+For votes taken by email or similar asynchronous means, voting decisions require at least a 50% vote of all participants of the TSC. Decision is then taken by majority vote. If an already taken decision has to be revised a super majority is necessary.
 
 **Technical decisions**
 
 Technical decisions that only affect a single Sub Project are made informally by the maintainers of this Sub Project, and [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy) is assumed. If no consensus can be reached, the matter may be resolved by majority vote.
 
-Technical decisions that span multiple parts of the CAMARA Project should be discussed and made on the CAMARA Project mailing list.
-Decisions are usually made by [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). If no consensus can be reached, the matter may be resolved by majority vote.
+Technical decisions that span multiple parts of the CAMARA Project should be discussed and made in the Commonalities Working Group.
+Decisions are usually made by [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). If no consensus can be reached, the matter may be resolved by majority vote by the TSC, Sub Project or Working Group.
  
 ## Intellectual Property Policy
 
 Project participants acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project.
 
-Except with respect to alternative licenses approved by the Steering Committee as described below, all contributions to the Project are subject to the following:
+Except with respect to alternative licenses approved by the TSC as described below, all contributions to the Project are subject to the following:
 - All new inbound contributions (of any materials including APIs and definitions, machine-readable YAML files and similar contributions, code, testing scripts and tools, human-readable documentation and information that is designed to provide instructions or other information regarding Project materials or contributions) to the Project (collectively “Project Materials”) must be made using the Apache License, Version 2.0, available at https://www.apache.org/licenses/LICENSE-2.0 (the “Project License”).
-- Only exception is the documentation contributed to or created by the Marketing Working Group in the folder [https://github.com/camaraproject/WorkingGroups/tree/main/Marketing](https://github.com/camaraproject/WorkingGroups/tree/main/Marketing). For that the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode.txt) shall apply. It is strongly forbidden to save any API-related definition, documentation or code in this folder.
-- All new inbound contributions of Project Materials must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a Steering Committee approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
+- Only exception is the documentation contributed to or created by the Outreach Committee (former Marketing Working Group) in the folder [https://github.com/camaraproject/WorkingGroups/tree/main/Marketing](https://github.com/camaraproject/WorkingGroups/tree/main/Marketing). For that the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode.txt) shall apply. It is strongly forbidden to save any API-related definition, documentation or code in this folder.
+- All new inbound contributions of Project Materials must be:
+  - accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a TSC approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license; and
+  - made pursuant to a duly executed Contributor License Agreement (in the form as approved by the TSC).
 - All outbound Project Materials will be made available under the Project License.
 - The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project. Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
 
-The Steering Committee may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire Steering Committee.
+The TSC may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire TSC.
 
 Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
 
@@ -239,12 +263,12 @@ Project participants will comply with the policies of LF Projects as may be adop
 
 When amending or adopting any policy applicable to the Project, LF Projects will publish such policy, as to be amended or adopted, on its web site at least 30 days prior to such policy taking effect; provided, however, that in the case of any amendment of the Trademark Policy or Terms of Use of LF Projects, any such amendment is effective upon publication on LF Projects’ web site.
 
-All Project participants must allow open participation from any individual or organization meeting the requirements for contributing under this Charter and any policies adopted for all Project participants by the Steering Committee, regardless of competitive interests. Put another way, the Project team must not seek to exclude any Project participant based on any criteria, requirement, or reason other than those that are reasonable and applied on a non-discriminatory basis to all Project participants.
+All Project participants must allow open participation from any individual or organization meeting the requirements for contributing under this Charter and any policies adopted for all Project participants by the TSC, regardless of competitive interests. Put another way, the Project team must not seek to exclude any Project participant based on any criteria, requirement, or reason other than those that are reasonable and applied on a non-discriminatory basis to all Project participants.
 
-LF Projects will hold title to all trade or service marks used by the Project (“Project Trademarks”), whether based on common law or registered rights, and domain names and code repository accounts. Project Trademarks will be transferred and assigned to LF Projects to hold on behalf of the Project. Any use of any Project Trademarks by collaborators in the Project will be in accordance with the license from LF Projects and inure to the benefit of LF Projects.
+LF Projects will hold title to all trade or service marks used by the Project (“Project Trademarks”), whether based on common law or registered rights, and domain names and code repository accounts. Project Trademarks will be transferred and assigned to LF Projects to hold on behalf of the Project. Any use of any Project Trademarks by collaborators in the Project will be in accordance with the license from LF Projects and insure to the benefit of LF Projects.
 
 Under no circumstances will the Project undertake or will LF Projects be expected or required to undertake any action on behalf of the Project that is inconsistent with the tax status or purpose, as applicable, of LF Projects or its affiliates.
 
 ## Amendment
 
-This Charter may be amended by a two-thirds vote of the entire Steering Committee and is subject to approval by LF Projects.
+This Charter may be amended by a two-thirds vote of two-thirds of the TSC and is subject to approval by LF Projects.
