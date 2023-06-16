@@ -445,7 +445,6 @@
 | Singtel | Foo Ming Hui ||
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
-| Skyvera | Philip Linttell ||
 | Skyvera | Ravi Shankar ||
 | Softbank | Kazumasa Yazawa ||
 | Softbank | Naoto Takasu ||
