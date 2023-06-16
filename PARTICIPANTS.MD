@@ -169,6 +169,7 @@
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
 | EdgeXR | Thomas Vits ||
+| ENEA | Fergus Wills ||
 | ENEA | Osvaldo Aldao ||
 | Entel | Duran Nardecchia Eduardo ||
 | Entrust | Sergi Garreta ||
@@ -213,6 +214,7 @@
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | Google Cloud | Dutt Kalapatapu | |
+| Google Cloud | Giorgio C. ||
 | Google Cloud | Rittwik Jana | |
 | Google Cloud | Sridhar Gollapudi | Yes |
 | Google Cloud | Stella Loh | |
@@ -316,6 +318,7 @@
 | LibertyGlobal | W. Rees ||
 | Locationguru | Achmed Shaheer ||
 | Lotusflare | Eric Morhenn |  |
+| Madison | Alejandro Alfonso Fernandez ||
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
