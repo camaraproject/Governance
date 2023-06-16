@@ -172,7 +172,6 @@
 | ENEA | Fergus Wills ||
 | ENEA | Osvaldo Aldao ||
 | Entel | Duran Nardecchia Eduardo ||
-| Entrust | Sergi Garreta ||
 | Equityai | Matthew Webster ||
 | Ericsson | Ajit R. Raghavan ||
 | Ericsson | Arun Raghuramu ||
