@@ -115,6 +115,7 @@
 | Comviva | Anindita Raychoudhuri ||
 | Comviva | Vidhi Mehta ||
 | Confluent | Oliver Plane ||
+| Connectbase | Ben Edmond ||
 | Convergenc3 | Loyiso Mlandu ||
 | CPAAS ACCELERATION ALLIANCE | Rob Kurver ||
 | CTHINGS | Arnold Wierzejski | |
@@ -614,6 +615,7 @@
 | ZTE | Jie Hu ||
 | ZTE | Wang Changjin ||
 |  | Abrar Sadd ||
+|  | Adriano Carmezim ||
 |  | Ankita Kohli ||
 |  | Ayush Agarwal ||
 |  | Carlos Vazbagper ||
