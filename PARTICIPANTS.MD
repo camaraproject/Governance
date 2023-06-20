@@ -94,6 +94,7 @@
 | China Telecom | Zhang X. ||
 | China Unicom | F. Yang | |
 | China Unicom | Gao Chen | |
+| China Unicom | F. Yang | |
 | China Unicom | D. S. Wang ||
 | Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Ravi Guntupalli | |
