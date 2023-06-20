@@ -94,6 +94,7 @@
 | China Telecom | Zhang X. ||
 | China Unicom | F. Yang | |
 | China Unicom | Gao Chen | |
+| China Unicom | D. S. Wang ||
 | Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Ravi Guntupalli | |
 | Cisco | Ravi Shek ||
@@ -489,6 +490,7 @@
 | TCS | Priya Chopra ||
 | TCS | Rajeev Gokana ||
 | TCS | Sibasish Pradhan ||
+| TCS | Suvasree Basu ||
 | TechMahindra | Amitha Sachin Chawda ||
 | TechMahindra | Mohit Luthra ||
 | TechMahindra | Sahil Sood ||
@@ -515,6 +517,7 @@
 | Telefonica | Diego Gonzales Martinez ||
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Emilio Abraham Garrido Garcia ||
+| Telefonica | Fernando Pradocabrillo ||
 | Telefonica | Hanul Sieger ||
 | Telefonica | Jesus Martin ||
 | Telefonica | Jesús Peña García-Oliva ||
