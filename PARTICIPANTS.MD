@@ -115,6 +115,7 @@
 | Colony Networks | Michael Kuhlmann ||
 | Comtech | Jamie Hart ||
 | Comviva | Anindita Raychoudhuri ||
+| Comviva | Aishwarya Abhijit Javkhedkar1 ||
 | Comviva | Vidhi Mehta ||
 | Confluent | Oliver Plane ||
 | Connectbase | Ben Edmond ||
