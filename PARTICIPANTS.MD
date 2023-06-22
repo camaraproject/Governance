@@ -310,6 +310,7 @@
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
 | Lammda | Hans Thorsen Lamm ||
+| Latro | Shafiqa ||
 | LCN | Rathnakumar Kayyar ||
 | LG U+ | Jerry ||
 | LibertyGlobal | Awais Ahmad ||
