@@ -305,6 +305,7 @@
 | KPN | Ellen Aartsen ||
 | KPN | Guido Luijten ||
 | KPN | Leon Denelsen ||
+| KPN | Marco Geurden ||
 | KPN | Sjoerd Visser ||
 | KPN | Tony Spooner ||
 | KT | Jemin Chung ||
@@ -455,6 +456,7 @@
 | Skyvera | Ravi Shankar ||
 | Softbank | Kazumasa Yazawa ||
 | Softbank | Naoto Takasu ||
+| Softbank | Noda Ayaka ||
 | Spry Fox Networks | Jignesh Sorathia  | |
 | Spry Fox Networks | Mike Bowring   | |
 | Spry Fox Networks | Parichaya Shrivastava   | |
