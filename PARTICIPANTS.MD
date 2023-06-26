@@ -392,6 +392,7 @@
 | NTT Data | Josef Reisinger ||
 | NTT Data | Luis Rubio Martinez ||
 | Nuage | Gabriel Klein ||
+| Nuvemlabs | Jaswant Boyat ||
 | Ookla | Leandro de Marchi ||
 | OpenID Foundation / Verizon | Bjorn Hjelm ||
 | OpenID Foundation | Gail Hodges ||
