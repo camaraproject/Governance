@@ -436,7 +436,8 @@
 | Rogers | Nicholas Manolakos ||
 | Rohde & Schwarz | Tim Kittel ||
 | Saitro | Luis Carlos Toledo ||
-| Sakon | Chris Simandl ||.
+| Sakon | Chris Simandl ||
+| Salesforce | Teresa González García ||
 | Samsung | Shannon Park ||
 | Scenera | Andrew Wajs | |
 | Scenera | Chien Lim | |
