@@ -557,6 +557,7 @@
 | TELUS | Theohar Konomi | |
 | Titanium Platform | Dave Jackson ||
 | TM Forum | George Glass | |
+| TM Forum | Olta Vangjeli | |
 | Toyota | Lei Zhong ||
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
