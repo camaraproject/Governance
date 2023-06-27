@@ -380,6 +380,7 @@
 | Nokia | Marc Erhardt ||
 | Nokia | Mario Vasconcelli ||
 | Nokia | Mohan 1. Rao ||
+| Nokia | Peter Kovacs ||
 | Nokia | Rene Saathoff ||
 | Nokia | Shkumbin Hamiti ||
 | Nokia | Tanja de Groot | Yes |
