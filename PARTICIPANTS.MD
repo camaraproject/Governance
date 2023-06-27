@@ -174,6 +174,7 @@
 | EdgeXR | Sunay Tripathi ||
 | EdgeXR | Thomas Vits ||
 | ENEA | Fergus Wills ||
+| ENEA | Iftikhar Waheed ||
 | ENEA | Osvaldo Aldao ||
 | Entel | Duran Nardecchia Eduardo ||
 | Equityai | Matthew Webster ||
