@@ -54,6 +54,7 @@
 | BearingPoint | Carsten Aue ||
 | BearingPoint | Julius Hafer ||
 | BearingPoint | Tobias Bothur ||
+| Beijing Shuyuan Digital City Research Center | Qi Min ||
 | Beijing University of Posts and Telecommunications | Junli Xue ||
 | Bell Canada | Juan Esquivel | |
 | Bell Canada | Karen Meulenkamp | |
