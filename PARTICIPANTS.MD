@@ -101,7 +101,6 @@
 | Cisco | Ravi Shek ||
 | Citictel | Gabriel Shui ||
 | Claro | Joao Nero ||
-| Claro | Luis Olaechea ||
 | Cloud Communications | Joseph Marion ||
 | CM | Bas Gijzen ||
 | CNCF | Arpit Joshipura | |
