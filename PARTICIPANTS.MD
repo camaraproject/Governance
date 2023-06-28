@@ -597,6 +597,7 @@
 | Vodafone | Iván Nieto | |
 | Vodafone | Jaime Diez ||
 | Vodafone / 5GFF | Kevin Smith | Representative |
+| Vodafone | Klaus Reifenrath | |
 | Vodafone | Mahesh Joshi | |
 | Vodafone | Mariusz Dawidowicz ||
 | Vodafone | Marta Martin | |
