@@ -433,6 +433,7 @@
 | Radisys | Ashok Rawat ||
 | Radisys | Kiran Bharadwaj Vedula ||
 | Radisys | Tapas Raiguru ||
+| Radisys | Yong Xin ||
 | Rain | Henri Kivioja ||
 | Redhat | Hanen Garcia ||
 | Reply | Gianmarco Sciortino ||
