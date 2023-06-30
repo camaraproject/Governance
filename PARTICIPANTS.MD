@@ -446,6 +446,7 @@
 | Scenera | Chien Lim | |
 | Scenera | David Lee |Yes|
 | Sekura Mobile Intelligence | Gautam Hazari ||
+| Seamfix | Chimezie Emewulu ||
 | Seoul National University | Kiho Lee | |
 | Shabodi | Harpreet | |
 | Shabodi | Nitin | |
