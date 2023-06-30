@@ -261,6 +261,7 @@
 | Hutchison | Sandra Ondrusova ||
 | iBasis | Nicola Tamma ||
 | IBM | Jason Hunt | Yes |
+| IBM | Leandro Sosa | |
 | IBM | Pablo Kahale ||
 | IBM | Yusuf Mirza ||
 | IBM | Zyg Lozinski | Representative |
