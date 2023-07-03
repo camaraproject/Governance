@@ -106,6 +106,7 @@
 | CM | Bas Gijzen ||
 | CNCF | Arpit Joshipura | |
 | CNCF | Kurt Taylor | |
+| CNCF | Scott Nicolas | |
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
 | Cognizant | Manish Jain ||
@@ -343,6 +344,7 @@
 | Microsoft | Landon Cox |Yes|
 | Microsoft | Joe Biron ||
 | Microsoft | Michael Brown ||
+| Microsoft | M. Kinsey ||
 | Microsoft | Moushumi Ghosal ||
 | Microsoft | Ricardo Villarreal | Representative |
 | Microsoft | Shawn Hakl  ||
@@ -641,6 +643,7 @@
 |  | Deepankar ||
 |  | Dibyendu Singha Roy ||
 |  | D S Rao ||
+|  | D. Tran ||
 |  | Emmanuele Benedetto ||
 |  | Erkan Giray Arat ||
 |  | Jae Yeol Kim ||
