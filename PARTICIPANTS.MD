@@ -610,6 +610,7 @@
 | Vodafone | Nevin Aquinas ||
 | Vodafone | Ralph-Joachim Gramberg ||
 | Vodafone | Sachin Kumar | |
+| Vodafone | Sebastian Köller ||
 | Vodafone | Simon Gordon | |
 | Vodafone | Sönke Peters | |
 | Vodafone | Steven Pater | Yes |
