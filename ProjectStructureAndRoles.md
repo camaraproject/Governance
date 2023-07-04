@@ -12,7 +12,7 @@ Each Sub Project lead repository must have a README.MD file (with a description 
   
 A provider implementation repository only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code. Writing permission to a Sub Project provider implementation repository only Codeowners should have.
 
-For ease of use there are templates for both types of repositories containing all necessary files which can be cloned and adapted.
+For ease of use there are templates for both types of repositories containing all necessary files which can be cloned and adapted. When cloning it has to be checked that also the branch rules are copied and active in the new repositories.
 
 Some Sub Projects may have distinct (although sometimes overlapping) sets of Contributors, Codeowners and Maintainers.
 
