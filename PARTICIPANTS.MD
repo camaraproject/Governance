@@ -462,6 +462,7 @@
 | Singtel | Foo Ming Hui ||
 | SK Telecom | Clark Park | |
 | SK Telecom | Yoon Sun Jung | |
+| Skyvera | Kevin Howe-Patterson ||
 | Skyvera | Ravi Shankar ||
 | Softbank | Kazumasa Yazawa ||
 | Softbank | Naoto Takasu ||
