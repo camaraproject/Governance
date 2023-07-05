@@ -543,6 +543,7 @@
 | Telefonica | Maria Virtudes Briz Ruiz ||
 | Telefonica | Miguel Alejandro Hernández ||
 | Telefonica | Mona Mokhber ||
+| Telefonica | Pablo Iglesiassanuy ||
 | Telefonica | Patricia Ventura Gomez ||
 | Telefonica | Pedro Diez Garcia ||
 | Telefonica | Rocio Ortiz Pena ||
@@ -611,6 +612,7 @@
 | Vodafone | Ralph-Joachim Gramberg ||
 | Vodafone | Sachin Kumar | |
 | Vodafone | Sebastian Köller ||
+| Vodafone | Sergio Carretero ||
 | Vodafone | Simon Gordon | |
 | Vodafone | Sönke Peters | |
 | Vodafone | Steven Pater | Yes |
