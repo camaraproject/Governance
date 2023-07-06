@@ -230,6 +230,7 @@
 | GS Labs | Vikram Barate | |
 | GSMA | Andrew Parker ||
 | GSMA | Gareth Williams ||
+| GSMA | Helen Vigue ||
 | GSMA | Henry Calvert |Yes|
 | GSMA | Lucy Thatcher ||
 | GSMA | Mark Cornall ||
