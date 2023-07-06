@@ -290,6 +290,7 @@
 | Intel | Oliver Neal ||
 | Intel | Oliver Roos ||
 | Intel | Petar Torre | Yes |
+| Intersec | Ahmed Lyahou ||
 | Intersec | Sebastian Synold ||
 | Intraway | Diego Ambuhl ||
 | ITCenter | Paulo Monteiro ||
