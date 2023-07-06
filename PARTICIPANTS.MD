@@ -117,6 +117,7 @@
 | Comtech | Jamie Hart ||
 | Comviva | Anindita Raychoudhuri ||
 | Comviva | Aishwarya Abhijit Javkhedkar1 ||
+| Comviva | Ayush Agarwal ||
 | Comviva | Vidhi Mehta ||
 | Confluent | Oliver Plane ||
 | Connectbase | Ben Edmond ||
@@ -642,7 +643,6 @@
 |  | Abrar Sadd ||
 |  | Adriano Carmezim ||
 |  | Ankita Kohli ||
-|  | Ayush Agarwal ||
 |  | Carlos Vazbagper ||
 |  | Deepankar ||
 |  | Dibyendu Singha Roy ||
