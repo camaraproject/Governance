@@ -93,11 +93,10 @@
 | China Mobile | Qian Ze Bin ||
 | China Telecom | Dan Xu ||
 | China Telecom | Zhang X. ||
-| China Unicom | Sh. Dong | |
+| China Unicom | D. S. Wang ||
 | China Unicom | F. Yang | |
 | China Unicom | Gao Chen | |
-| China Unicom | F. Yang | |
-| China Unicom | D. S. Wang ||
+| China Unicom | Shuanghe Dong | |
 | Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Ravi Guntupalli | |
 | Cisco | Ravi Shek ||
