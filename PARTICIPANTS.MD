@@ -93,6 +93,7 @@
 | China Mobile | Qian Ze Bin ||
 | China Telecom | Dan Xu ||
 | China Telecom | Zhang X. ||
+| China Unicom | Sh. Dong | |
 | China Unicom | F. Yang | |
 | China Unicom | Gao Chen | |
 | China Unicom | F. Yang | |
@@ -627,6 +628,7 @@
 | VROMBR | Frederic Thuard | |
 | VROMBR | Michael Pastor | |
 | VROMBR | Titouan Vatonne ||
+| Webbing Solutions | Baruch Pinto ||
 | Whispir | Andrew Fry ||
 | Whispir | Graham Link ||
 | Whispir | Sharina Rapales ||
