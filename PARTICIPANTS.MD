@@ -20,6 +20,7 @@
 | amdocs | Cameron Ross Dunne ||
 | amdocs | Gautam Gupta ||
 | amdocs | Steve Plain ||
+| Apinity | Filippo Chiozzi ||
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
 | Asiainfo | Liz W. ||
