@@ -469,6 +469,7 @@
 | Skyvera | Kevin Howe-Patterson ||
 | Skyvera | Ravi Shankar ||
 | Softbank | Kazumasa Yazawa ||
+| Softbank | Mai Hashimoto ||
 | Softbank | Naoto Takasu ||
 | Softbank | Noda Ayaka ||
 | Spry Fox Networks | Jignesh Sorathia  | |
