@@ -220,6 +220,7 @@
 | Fujitsu | T. Hasegawa ||
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
+| GMS | Elliot Rose ||
 | Google Cloud | Dutt Kalapatapu | |
 | Google Cloud | Giorgio C. ||
 | Google Cloud | Rittwik Jana | |
@@ -647,6 +648,7 @@
 | ZTE | Wang Changjin ||
 |  | Abrar Sadd ||
 |  | Adriano Carmezim ||
+|  | Akash Tripathi ||
 |  | Ankita Kohli ||
 |  | Carlos Vazbagper ||
 |  | Deepankar ||
