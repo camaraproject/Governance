@@ -97,6 +97,7 @@
 | China Unicom | D. S. Wang ||
 | China Unicom | F. Yang | |
 | China Unicom | Gao Chen | |
+| China Unicom | Guo J. ||
 | China Unicom | Shuanghe Dong | |
 | Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Ravi Guntupalli | |
@@ -435,6 +436,7 @@
 | ORI | José Domingos ||
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Matthew Hornsey ||
+| Prodapt | Carlos Portela ||
 | Proximus | Ivan Parvais ||
 | PWC | Florian Groene ||
 | Quobis | Elías Pérez Carrera ||
