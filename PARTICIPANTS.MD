@@ -244,6 +244,7 @@
 | HCL | Kuldeep Singhn ||
 | HCL | Norbert Naveen ||
 | HCL | Ramyang Pandya ||
+| HCL | Razat Trehan ||
 | HGC | Ashwin Nabil Careem ||
 | HGC | Niklas Bergvall ||
 | HPE | Jaime Garcia ||
