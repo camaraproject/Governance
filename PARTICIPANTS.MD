@@ -315,6 +315,7 @@
 | Kinetix | Paolo Galeotti ||
 | KPN | Ellen Aartsen ||
 | KPN | Guido Luijten ||
+| KPN | Huub Appelboom ||
 | KPN | Leon Denelsen ||
 | KPN | Marco Geurden ||
 | KPN | Sjoerd Visser ||
