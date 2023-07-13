@@ -561,7 +561,6 @@
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Sergio Francisco Ortiz ||
 | Telefonica | Victor Barranco Fernandez ||
-| Telenor Linx | Aqeel Ahmed ||
 | Telstra | Abdul Majid Hussain | |
 | Telstra / 5GFF | Brett Hill | |
 | Telstra | Channa Seneviratne | |
@@ -573,6 +572,7 @@
 | TELUS | Jim Slevinksy | |
 | TELUS | Oswaldo Lauschner | |
 | TELUS | Theohar Konomi | |
+| Thrustvector | Doug Eng ||
 | Titanium Platform | Dave Jackson ||
 | TM Forum | George Glass | |
 | TM Forum | Olta Vangjeli | |
