@@ -288,6 +288,7 @@
 | Infolysis | Nikolaos GKATZIOS ||
 | Infolysis | Nikolaos VRIONIS ||
 | Infolysis | Vaios KOUMARAS ||
+| Infosys | Akash Tripathi ||
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
 | Intel | Francesc Guim ||
@@ -653,7 +654,6 @@
 | ZTE | Wang Changjin ||
 |  | Abrar Sadd ||
 |  | Adriano Carmezim ||
-|  | Akash Tripathi ||
 |  | Ankita Kohli ||
 |  | Carlos Vazbagper ||
 |  | Deepankar ||
