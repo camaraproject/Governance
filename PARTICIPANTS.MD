@@ -109,6 +109,7 @@
 | CNCF | Arpit Joshipura | |
 | CNCF | Kurt Taylor | |
 | CNCF | Scott Nicolas | |
+| CNCF | Todd Benzies | |
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
 | Cognizant | Manish Jain ||
