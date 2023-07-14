@@ -8,7 +8,7 @@ For all lists:
 **AND**
 
 (
-For all, tsc:
+For all, euc, tsc:
 * Message policies: only "Allow Parent Members to Post"
 
 **OR**
