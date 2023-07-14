@@ -46,31 +46,10 @@ We decided to apply _English_ as the primary project language.
 
 Consequently, all content will be made available primarily in English. We also ask all interested people to use English as language to create issues, in their code (comments, documentation etc.) and when you send requests to us. The APIs itself and all end-user facing content will be made available in other languages as needed.
 
-## Steering Committee
-The Steering Committee is the oversight body for the CAMARA Project. The Steering Committee currently consists of the following participants:
-| Partner                     | Name(s)                                                |
-| --------------------------- | ------------------------------------------------------ |
-| 5GFF	| Jeremy Giese (Parry Booker, Kevin Smith) |
-| AT&T	| Catherine Lefevere (Barry Elia) |
-| Capgemini	| Deepak A. Gunjal |
-| Deutsche Telekom AG	| Nathan Rader (Markus Kümmerle) |
-| Ericsson	| Bart van Kaathoven (Jan Friman) |
-| Google Cloud	| Sridhar Gollapudi |
-| GSMA	| Henry Calvert |
-| IBM	| Jason Hunt (Zyg Lozinski) |
-| Intel	| Petar Torre |
-| KDDI	| Shingo Watanabe (Toshiyasu Wakayama) |
-| Microsoft	| Landon Cox (Ricardo Villarreal) |
-| Nokia	|  Tanja de Groot (Chris Jones) |
-| ORANGE	| Sylvain Morel |
-| Scenera	| David Lee |
-| T-Mobile US	| Lyle Bertz |
-| Telecom Italia	| Roberto Procopio (Fabrizio Moggio) |
-| Telefonica	| Juan Carlos Garcia (Jose Ordonez Lucena) |
-| TELUS	| Ali Tizghadam |
-| Vodafone	| Steven Pater |
+## Technical Steering Committee
+The Technical Steering Committee is the oversight body for the technical CAMARA Project. Technical Steering Committee currently consists of the following participants: [Technical Steering Committee](https://camaraproject.org/steering-committee/).
 
-The Steering Committee meetings are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CET time. You’re welcome to join via: https://dtag.webex.com/dtag/j.php?MTID=m3132241789c25fcbeab76a9875b90cbb
+The Steering Committee meetings are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CET time. You’re welcome to join via: https://dtag.webex.com/dtag/j.php?MTID=m3132241789c25fcbeab76a9875b90cbb.
 
 A message to all Steering Committee participants can be sent using <tsc@lists.camaraproject.org>.
 
