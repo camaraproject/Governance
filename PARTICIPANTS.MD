@@ -1,4 +1,4 @@
-| Org                    | Name                                                | Steering Committee participant |
+| Org                    | Name                                                | GitHub ID |
 | -----------------------| ----------------------------------------------------|--------------------------------|
 | A1 | Arnold Pfeiffer ||
 | A1 | Manfred Moormann ||
@@ -459,7 +459,7 @@
 | Samsung | Shannon Park ||
 | Scenera | Andrew Wajs ||
 | Scenera | Chien Lim ||
-| Scenera | David Lee |Yes|
+| Scenera | David Lee ||
 | Sekura Mobile Intelligence | Gautam Hazari ||
 | Seamfix | Chimezie Emewulu ||
 | Seoul National University | Kiho Lee ||
@@ -613,7 +613,7 @@
 | Vodafone | Cetin Alpaycetin ||
 | Vodafone | David Frankland ||
 | Vodafone | Eric Murray ||
-| Vodafone | Fraser King | Eric Murray ||
+| Vodafone | Fraser King ||
 | Vodafone | Iván Nieto ||
 | Vodafone | Jaime Diez ||
 | Vodafone / 5GFF | Kevin Smith ||
