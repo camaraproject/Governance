@@ -47,11 +47,16 @@ We decided to apply _English_ as the primary project language.
 Consequently, all content will be made available primarily in English. We also ask all interested people to use English as language to create issues, in their code (comments, documentation etc.) and when you send requests to us. The APIs itself and all end-user facing content will be made available in other languages as needed.
 
 ## Technical Steering Committee
-The Technical Steering Committee is the oversight body for the technical CAMARA Project. Technical Steering Committee currently consists of the following participants: [Technical Steering Committee](https://camaraproject.org/steering-committee/).
+The Technical Steering Committee is the oversight body for the technical CAMARA Project. The Technical Steering Committee currently consists of the following participants: [Technical Steering Committee](https://camaraproject.org/steering-committee/).
 
 The Steering Committee meetings are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CET time. You’re welcome to join via: https://dtag.webex.com/dtag/j.php?MTID=m3132241789c25fcbeab76a9875b90cbb.
 
 A message to all Steering Committee participants can be sent using <tsc@lists.camaraproject.org>.
+
+## End User Council
+The End User Council is composed out of the end users of the CAMARA APIs in the technical CAMARA Project. The End User Council currently consists of the following participants: [End User Council](https://camaraproject.org/end-user-council/).
+
+A message to all End User Council participants can be sent using <euc@lists.camaraproject.org>.
 
 ## Documentation
 
