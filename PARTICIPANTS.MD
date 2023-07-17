@@ -116,6 +116,7 @@
 | Cognizant | R. Karthikraj ||
 | Cognizant | Siddharth Khatri ||
 | Cognizant | Vigneshwaran S ||
+| Colony Networks | Kevin Lu ||
 | Colony Networks | Michael Kuhlmann ||
 | Comtech | Jamie Hart ||
 | Comviva | Anindita Raychoudhuri ||
@@ -184,6 +185,7 @@
 | Entel | Duran Nardecchia Eduardo ||
 | Equityai | Matthew Webster ||
 | Ericsson | Ajit R. Raghavan ||
+| Ericsson | Amardeep A. Kumar ||
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Bart van Kaathoven ||
 | Ericsson | Carlos Bravo ||
