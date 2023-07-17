@@ -291,6 +291,7 @@
 | Infosys | Akash Tripathi ||
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
+| Infosys | Praveen Kalapatapu ||
 | Intel | Francesc Guim ||
 | Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
