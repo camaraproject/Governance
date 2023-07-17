@@ -403,6 +403,7 @@
 | Nokia | Yatin Dharamshi ||
 | Nokia | Zoltan Olah ||
 | Noname Security | Ides Vanneuville ||
+| Nos | Catarina Raquel Pereira ||
 | Nos | Nuno Erodrigues ||
 | Nos | Orlando Almeida ||
 | NTT Data | Josef Reisinger ||
