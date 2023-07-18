@@ -43,6 +43,7 @@
 | AWS | P. Shahane ||
 | AWS | Sankar Panneerselvam ||
 | AWS | Tetsuya Nakamura ||
+| axiata | Anushka Ekanayake ||
 | axiata | Anthony Rodrigo ||
 | axiata | Harin Honestyandi Parandika  ||
 | axiata | Methsiri Kumara ||
@@ -75,6 +76,7 @@
 | Broadpeak | Christoph Neumann ||
 | Broadpeak | Guillaume Bichot ||
 | Broadpeak | Tuan Tran ||
+| Bundesnetzagentur | Markus Klein ||
 | Byte | Apaz ||
 | Cablelabs | A. Yerra ||
 | Cablelabs | Mark Bridges ||
