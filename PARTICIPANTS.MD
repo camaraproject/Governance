@@ -283,11 +283,8 @@
 | Ikerlan | G. Nieto ||
 | Ikerlan | Idela Iglesia ||
 | Ilabs | Harm Arendshorst ||
-| Infobip | Joe Murphy ||
-| Infobip | John Murtagh ||
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
-| Infobip | ShivPrakash Ojha ||
 | Infobip | Zeljko Nejasmic ||
 | Infolysis | Nikolaos GKATZIOS ||
 | Infolysis | Nikolaos VRIONIS ||
@@ -296,6 +293,7 @@
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Praveen Kalapatapu ||
+| Infosys | ShivPrakash Ojha ||
 | Intel | Francesc Guim ||
 | Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
