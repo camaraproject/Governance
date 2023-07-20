@@ -186,6 +186,7 @@
 | ENEA | Osvaldo Aldao ||
 | Entel | Duran Nardecchia Eduardo ||
 | Equityai | Matthew Webster ||
+| Ericsson | Alok D. Gupta ||
 | Ericsson | Ajit R. Raghavan ||
 | Ericsson | Amardeep A. Kumar ||
 | Ericsson | Arun Raghuramu ||
