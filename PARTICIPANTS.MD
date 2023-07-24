@@ -368,6 +368,7 @@
 | Millicom | Alejandro Blacut ||
 | Mindsbeam | Bharathkumar Annamalai ||
 | Minsait | Francisco Rodriguez Garcia ||
+| Mitre Engenuity | Heather Blanchard ||
 | Mksa | Koffi Kodjo ||
 | Mobi2buy | Fabio Copello ||
 | Nabstract | Babu Narayan ||
@@ -679,7 +680,6 @@
 |  | P. Das ||
 |  | Prashant Shrivastava ||
 |  | R. Sanvatsarkar ||
-|  | Radu Spataru ||
 |  | Rahul Panwar ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
