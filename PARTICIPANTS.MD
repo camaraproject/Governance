@@ -320,6 +320,7 @@
 | KDDI | Yusuke Nakano ||
 | Kinetix | Paolo Galeotti ||
 | KPN | Ellen Aartsen ||
+| KPN | Frits Vanlieshout ||
 | KPN | Guido Luijten ||
 | KPN | Huub Appelboom ||
 | KPN | Leon Denelsen ||
