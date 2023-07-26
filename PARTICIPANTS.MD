@@ -95,6 +95,7 @@
 | China Mobile | Liu Yuyjy ||
 | China Mobile | Qian Ze Bin ||
 | China Telecom | Dan Xu ||
+| China Telecom | V. Lieh Gd ||
 | China Telecom | Zhang X. ||
 | China Unicom | D. S. Wang ||
 | China Unicom | F. Yang ||
@@ -500,6 +501,7 @@
 | STC | Fahad Tanwir ||
 | STC | Ezafar C. ||
 | STC | Mohammed A. Adlani ||
+| STC | Muhammad Imran Awan ||
 | STC | Naeem Ur Rehman ||
 | Summit Tech | Doug Makishima ||
 | Sunrise | Aaron Pearce ||
