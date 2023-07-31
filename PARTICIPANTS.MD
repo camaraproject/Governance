@@ -292,6 +292,7 @@
 | Infolysis | Nikolaos GKATZIOS ||
 | Infolysis | Nikolaos VRIONIS ||
 | Infolysis | Vaios KOUMARAS ||
+| Infosys | Abhisek Das ||
 | Infosys | Akash Tripathi ||
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
@@ -406,6 +407,7 @@
 | Nokia | Rene Saathoff ||
 | Nokia | Shkumbin Hamiti ||
 | Nokia | Tanja de Groot ||
+| Nokia | Teerasit Songtis ||
 | Nokia | Uwe Rauschenbach ||
 | Nokia | William Stanley ||
 | Nokia | Yatin Dharamshi ||
