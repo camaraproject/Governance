@@ -49,7 +49,7 @@ Consequently, all content will be made available primarily in English. We also a
 ## Technical Steering Committee
 The Technical Steering Committee is the oversight body for the technical CAMARA Project. The Technical Steering Committee currently consists of the following participants: [Technical Steering Committee](https://camaraproject.org/steering-committee/).
 
-The Steering Committee meetings are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CET time. You’re welcome to join via: https://dtag.webex.com/dtag/j.php?MTID=m3132241789c25fcbeab76a9875b90cbb.
+The Steering Committee meetings are held virtually, are open for the public and are scheduled each first and third Thursday in a month at 4pm CE(s)T time. You’re welcome to join via: [Meeting link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRkODA4YzEtZDRlNy00MDNjLWJkOTQtMDI5MjdmOTk5OTc1%40thread.v2/0?context=%7b%22Tid%22%3a%22bde4dffc-4b60-4cf6-8b04-a5eeb25f5c4f%22%2c%22Oid%22%3a%2237ff36be-0e4d-42c3-ac06-7b904f0f6b24%22%7d).
 
 A message to all Steering Committee participants can be sent using <tsc@lists.camaraproject.org>.
 
