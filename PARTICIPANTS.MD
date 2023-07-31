@@ -343,6 +343,7 @@
 | LibertyGlobal | W. Rees ||
 | Locationguru | Achmed Shaheer ||
 | Lotusflare | Eric Morhenn ||
+| Lotusflare | Michael Gracias ||
 | Madison | Alejandro Alfonso Fernandez ||
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
@@ -413,6 +414,7 @@
 | Nos | Catarina Raquel Pereira ||
 | Nos | Nuno Erodrigues ||
 | Nos | Orlando Almeida ||
+| Nos | Telmo Miguel Rodrigues ||
 | NTT Data | Josef Reisinger ||
 | NTT Data | Luis Rubio Martinez ||
 | Nuage | Gabriel Klein ||
@@ -521,6 +523,7 @@
 | T-Mobile US | Ron Marquardt ||
 | T-Mobile US | Srujana Punyapu ||
 | Tango Networks | Gavin Sweet ||
+|Tannera | Goran Licanin ||
 | TCS | Pramath Jha ||
 | TCS | Pranay Rsahay ||
 | TCS | Prateek Vashisht ||
