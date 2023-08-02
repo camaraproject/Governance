@@ -58,6 +58,7 @@
 | BearingPoint | Tobias Bothur ||
 | Beijing Shuyuan Digital City Research Center | Qi Min ||
 | Beijing University of Posts and Telecommunications | Junli Xue ||
+| Bell Canada | Gaurav Kumar Agarwal ||
 | Bell Canada | Juan Esquivel ||
 | Bell Canada | Karen Meulenkamp ||
 | Bell Canada | Marc-Alexandre Choquette ||
