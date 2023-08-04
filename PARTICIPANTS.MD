@@ -21,6 +21,7 @@
 | amdocs | Gautam Gupta ||
 | amdocs | Steve Plain ||
 | Apinity | Filippo Chiozzi ||
+| Apinity | Franziska Kienzle ||
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
 | Asiainfo | Liz W. ||
@@ -417,6 +418,7 @@
 | Nos | Catarina Raquel Pereira ||
 | Nos | Nuno Erodrigues ||
 | Nos | Orlando Almeida ||
+| Nos | Pedro Miguel Hilario ||
 | Nos | Telmo Miguel Rodrigues ||
 | NTT Data | Josef Reisinger ||
 | NTT Data | Luis Rubio Martinez ||
@@ -685,6 +687,7 @@
 |  | Juan Her ||
 |  | K. Reifenrath ||
 |  | Kuldeep Kumar ||
+|  | Manish Panchmatia ||
 |  | Mcihra ||
 |  | Mike Engan ||
 |  | P. Das ||
