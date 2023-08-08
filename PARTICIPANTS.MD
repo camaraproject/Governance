@@ -1,5 +1,6 @@
 | Org                    | Name                                                | GitHub ID |
 | -----------------------| ----------------------------------------------------|--------------------------------|
+| 3G Telecoms | David Morris ||
 | A1 | Arnold Pfeiffer ||
 | A1 | Manfred Moormann ||
 | A1 | Thomas Walzer ||
@@ -487,6 +488,7 @@
 | Sinch | Harsha Appuhami Ralalage ||
 | Sinch | Vesa Lindberg ||
 | Singtel | Foo Ming Hui ||
+| Singtel | Macus Chua ||
 | SK Telecom | Clark Park ||
 | SK Telecom | Yoon Sun Jung ||
 | Skyvera | Kevin Howe-Patterson ||
