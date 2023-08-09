@@ -235,6 +235,7 @@
 | GMS | Elliot Rose ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio C. ||
+| Google Cloud | N. Cardace ||
 | Google Cloud | Rittwik Jana ||
 | Google Cloud | Sridhar Gollapudi ||
 | Google Cloud | Stella Loh ||
@@ -585,6 +586,7 @@
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Sergio Francisco Ortiz ||
 | Telefonica | Victor Barranco Fernandez ||
+| Telenor Connexion | Chohan Soheil ||
 | Telstra | Abdul Majid Hussain ||
 | Telstra / 5GFF | Brett Hill ||
 | Telstra | Channa Seneviratne ||
