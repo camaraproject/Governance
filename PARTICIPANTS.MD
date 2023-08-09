@@ -586,7 +586,7 @@
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Sergio Francisco Ortiz ||
 | Telefonica | Victor Barranco Fernandez ||
-| Telenor Connexion | Chohan Soheil ||
+| Telenor Connexion | Soheil Chohan ||
 | Telstra | Abdul Majid Hussain ||
 | Telstra / 5GFF | Brett Hill ||
 | Telstra | Channa Seneviratne ||
