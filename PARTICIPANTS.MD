@@ -153,6 +153,7 @@
 | Deutsche Telekom AG | Herbert Damker ||
 | Deutsche Telekom AG | Jasmin Schulmeyer ||
 | Deutsche Telekom AG | Jörg Heurer ||
+| Deutsche Telekom AG | Krzysztof Sielski ||
 | Deutsche Telekom AG | Mario Bodemann ||
 | Deutsche Telekom AG | Markus Kümmerle ||
 | Deutsche Telekom AG | Nathan Rader||
