@@ -27,6 +27,7 @@
 | Apple | Samy Touati ||
 | Asiainfo | Liz W. ||
 | Asiainfo | Zhang L. H. ||
+| AT&T | Andy Fuller ||
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia ||
 | AT&T | Bill Knotts ||
@@ -688,6 +689,7 @@
 |  | D. Tran ||
 |  | Emmanuele Benedetto ||
 |  | Erkan Giray Arat ||
+|  | Inner ||
 |  | Jae Yeol Kim ||
 |  | Juan de Toro ||
 |  | Juan Her ||
