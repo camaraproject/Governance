@@ -18,9 +18,9 @@ This is only a draft for the overview list, the real overview list shall be impl
 
 The pipeline is triggered with the submission of an API proposal. This API proposal can represent a new API or a new API family.
 
-API proposals can be submitted by everybody, e.g. GSMA OPAG, external or CAMARA member companies, and existing CAMARA Sub Projects or Working Groups (if these realize that the scope has to be increased). 
+API proposals can be submitted by everybody, e.g. GSMA Open Gateway, CAMARA member companies, and existing CAMARA Sub Projects or Working Groups (if these realize that the scope has to be increased). 
 
-To proceed with the submission, the API proposal owner shall follow these steps:
+To proceed with the submission, the API owner shall follow these steps:
 
 - Fill in the template available [here](https://github.com/camaraproject/WorkingGroups/blob/main/Commonalities/documentation/API-proposal-template.md) and save it with the following name: "APIproposal\_\<APIname\>\_\<owner\>. md" locally.
 - Create a new issue in the API Backlog Working Group repository, labeled with "API Backlog".
@@ -28,33 +28,35 @@ To proceed with the submission, the API proposal owner shall follow these steps:
 
 ## Evaluation of the API proposal
 
-Upon submission, the "API Backlog" Working Group (WG) validates the API proposal. In particular:
+Upon submission, the following steps are executed in "API Backlog" Working Group (WG):
 
-- The API Backlog WG coordinator checks that the template is duly filled in. Otherwise, the API proposal owner will be requested to provide missing information.
-- After this sanity check, each WG participant declares his/her support (which is also documented in the template).
+1. The WG chair checks that the template is duly filled in. Otherwise, the API owner is requested to provide missing information.
+2. After this sanity check, each WG participant declares their support (which is also documented in the template). The more support an API proposal gets, the better (it may get more traction).
+3. When the API owner considers the API proposal is in good shape to go for approval, it informs the WG chair accordingly.
+4. Upon receiving this information, the WG chair merges the Pull Request into the main branch, and sends the API proposal to the Technical Steering Committee (TSC) of CAMARA. This action shall be completed at least one week prior to the TSC meeting where the API proposal will be voted upon. 
 
-Finally the pull request is merged into the main branch and the API proposal template is sent to the Steering Committee of CAMARA at least one week prior to the Steering Committee meeting where the API proposal shall be voted upon.
+The whole procedure (steps 1-4) should be done within 2 regular meetings of the API Backlog WG. Nonetheless, it is up to the API owner to decide if it wants to shorten or extend this time period. 
 
-This whole step shall be done within 2 regular meetings of the API Backlog WG. In parallel, the API proposal is formally registered in CAMARA by adding it to the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) (API Backlog WG creates a new line in the table and fills in API family name, API family owner, API family proposal registration date, the link to the application template and the supporters for it).
+In parallel, the API proposal is formally registered in CAMARA by adding it to the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) The WG chair creates a new line in the table and fills in API family name, API family owner, API family proposal registration date, the link to the application template and the supporters for it.
 
-## API proposal Steering Committee decision
+## TSC decision on API proposal
 
-Upon receiving the API proposal and notification from the API Backlog WG, the Steering Committee studies the proposal and votes it at the Steering Committee meeting.
+Upon receiving the API proposal and notification from the WG chair, the TSC studies the proposal and votes it at the TSC meeting.
 
 - No-Go! Objecting companies shall provide justifications why. The API proposal is rejected and will not be included in any API Sub Project.
-- Go! In this case, the Steering Committee shall specify whether the API proposal is to be hosted by a new or existing Sub Project.
+- Go! In this case, the TSC shall specify whether the API proposal is to be hosted by a new or existing Sub Project.
 
-Main tenets for Steering Committee voting:
+Main tenets for TSC voting:
 
 - Tenet #1: Open-source projects are contribution-driven. There should be no guidelines to prevent partners to contribute. If a company would like to work on a certain API proposal they should be welcome to do it.
-- Tenet #2: Steering Committee shall make sure that APIs belonging together (close topic/content, API families) are developed within the same Sub Project, while ensuring that Sub Projects are not too small (difficult to track them down) or too big (difficult to be managed). There should be only one API for each purpose.
+- Tenet #2: The TSC shall make sure that APIs belonging together (close topic/content, API families) are developed within the same Sub Project, while ensuring that Sub Projects are not too small (difficult to track them down) or too big (difficult to be managed). There should be only one API for each purpose.
 - Tenet #3: There could be situations where API proposal complies with acceptance criteria (template duly filled out) but has not supporters other than the proponent company. What to do in this situation? Recommendation is to accept the API proposal and see how successful it will be in terms of industry adoption.
 
-The Steering Committee may also propose changes to an API proposal and take the decision considering these changes. The Steering Committee documents the decision in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) (fills in columns Steering Committee date and Steering Committee decision / Sub Project; in case of a No-Go "Rejected" is documented there).
+The TSC may also propose changes to an API proposal and take the decision considering these changes. The TSC documents the decision in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) (fills in columns Steering Committee date and Steering Committee decision / Sub Project; in case of a No-Go "Rejected" is documented there).
 
 ## API management and maintenance
 
-In case of a GO decision of the Steering Committee the named Sub Project takes over responsibility for the new API or API family and starts making contributions for the API definition(s), API documentation, provider implementation and test artefacts.
+In case of a GO decision of the TSC the named Sub Project takes over responsibility for the new API or API family and starts making contributions for the API definition(s), API documentation, provider implementation and test artefacts.
 
 The Sub Project will follow the versioning guidelines as defined in the Commonalities Working Group to maintain the API versions. Based on an internal consensus within the Sub Project, releases will be cherry-picked and release branches will be appropriately created. If a deliverable (API definition, API documentation, API code, successful test) for a release of an API is available (accepted by the Sub Project and merged in the main branch) the Sub Projects adds the link to it in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md).
 
