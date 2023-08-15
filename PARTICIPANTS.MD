@@ -630,6 +630,7 @@
 | Verizon | Raghuram Parvataneni ||
 | Verizon | Shammi Naz Amin ||
 | Verizon | Syed A Rehman ||
+| Verizon | Urvika Vummadisetty ||
 | Vertis Solutions | Julio Araujo ||
 | Viavi Solutions | Madhur Mehta ||
 | Vodacom | Surajj Jaggernath ||
