@@ -8,6 +8,7 @@
 | Accenture | Adriano Poloni ||
 | Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
+| Accenture | Mohamed E. Ali ||
 | ACL Digital | Sagar Suresh Nangare ||
 | Acom Networks | Harold Chen ||
 | Airtel India | Ramit Chawla ||
@@ -483,6 +484,7 @@
 | Sekura Mobile Intelligence | Gautam Hazari ||
 | Seamfix | Chimezie Emewulu ||
 | Seoul National University | Kiho Lee ||
+| Shabodi | Camara ||
 | Shabodi | Harpreet ||
 | Shabodi | Nitin ||
 | Shabodi | Umair Ali Rashid ||
