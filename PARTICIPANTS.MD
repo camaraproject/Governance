@@ -708,7 +708,6 @@
 |  | Rahul Panwar ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
-|  | Sergio Alonso ||
 |  | Sridhar Paiyya ||
 |  | Tom Collins ||
 |  | Tomer Ilan ||
