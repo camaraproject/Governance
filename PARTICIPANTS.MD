@@ -485,8 +485,8 @@
 | Seamfix | Chimezie Emewulu ||
 | Seoul National University | Kiho Lee ||
 | Shabodi | Camara ||
-| Shabodi | Harpreet ||
-| Shabodi | Mehdi ||
+| Shabodi | Harpreet Geekee ||
+| Shabodi | Mehdi Jafarizadeh ||
 | Shabodi | Nitin Sood ||
 | Shabodi | Umair Ali Rashid ||
 | Shabodi | Vikram Chopra ||
