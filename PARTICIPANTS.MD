@@ -552,6 +552,7 @@
 | TCS | Suvasree Basu ||
 | TechMahindra | Amitha Sachin Chawda ||
 | TechMahindra | Mohit Luthra ||
+| TechMahindra | Prashant Shrivastava ||
 | TechMahindra | Sahil Sood ||
 | Technische Universität München | Mehmetmert Bese ||
 | TIM | Andrea Calvi ||
@@ -703,7 +704,6 @@
 |  | Kuldeep Kumar ||
 |  | Mcihra ||
 |  | P. Das ||
-|  | Prashant Shrivastava ||
 |  | R. Sanvatsarkar ||
 |  | Rahul Panwar ||
 |  | Sangramra Jekakade ||
