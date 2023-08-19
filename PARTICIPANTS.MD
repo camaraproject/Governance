@@ -359,6 +359,7 @@
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
+| Mavenir | Manish Panchmatia ||
 | Mavenir | Michal Sedivy ||
 | Mavenir | Viswanath Krishnamurthy ||
 | MEF | Daniel Bar-Lev ||
@@ -699,7 +700,6 @@
 |  | Juan de Toro ||
 |  | Juan Her ||
 |  | Kuldeep Kumar ||
-|  | Manish Panchmatia ||
 |  | Mcihra ||
 |  | Mike Engan ||
 |  | P. Das ||
