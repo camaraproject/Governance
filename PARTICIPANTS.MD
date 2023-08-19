@@ -140,6 +140,7 @@
 | CTHINGS | Arnold Wierzejski ||
 | CTHINGS | Shreyas Vinod ||
 | Defne | Erhan Ermisoglu ||
+| Defne | Erkan Giray Arat ||
 | Dell | Mihai Lazar ||
 | Dell | Saad Sheikh ||
 | Dell | Vaishali Gupta ||
@@ -694,7 +695,6 @@
 |  | D S Rao ||
 |  | D. Tran ||
 |  | Emmanuele Benedetto ||
-|  | Erkan Giray Arat ||
 |  | Inner ||
 |  | Jae Yeol Kim ||
 |  | Juan de Toro ||
