@@ -622,6 +622,7 @@
 | University of Patras | Christos Tranoris ||
 | Vay | Jesus Gonzales Tejeria ||
 | Verizon | Alicia Miller ||
+| Verizon | Ankita Kohli ||
 | Verizon / 5GFF | Jeremy Giese ||
 | Verizon | Kapil Maheshwari ||
 | Verizon / 5GFF | Kevin Xu ||
@@ -687,7 +688,6 @@
 |  | Abrar Sadd ||
 |  | Adriano Carmezim ||
 |  | Ahmad ||
-|  | Ankita Kohli ||
 |  | Carlos Vazbagper ||
 |  | Deepankar ||
 |  | Dibyendu Singha Roy ||
