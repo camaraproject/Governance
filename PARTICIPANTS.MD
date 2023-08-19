@@ -699,7 +699,6 @@
 |  | Jae Yeol Kim ||
 |  | Juan de Toro ||
 |  | Juan Her ||
-|  | K. Reifenrath ||
 |  | Kuldeep Kumar ||
 |  | Manish Panchmatia ||
 |  | Mcihra ||
