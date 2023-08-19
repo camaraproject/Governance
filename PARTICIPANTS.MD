@@ -6,6 +6,7 @@
 | A1 | Thomas Walzer ||
 | AabVin | Acheem ||
 | Accenture | Adriano Poloni ||
+| Accenture | Dibyendu Singha Roy ||
 | Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
 | Accenture | Mohamed E. Ali ||
@@ -690,7 +691,6 @@
 |  | Ahmad ||
 |  | Carlos Vazbagper ||
 |  | Deepankar ||
-|  | Dibyendu Singha Roy ||
 |  | D S Rao ||
 |  | D. Tran ||
 |  | Emmanuele Benedetto ||
