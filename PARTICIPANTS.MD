@@ -486,7 +486,8 @@
 | Seoul National University | Kiho Lee ||
 | Shabodi | Camara ||
 | Shabodi | Harpreet ||
-| Shabodi | Nitin ||
+| Shabodi | Mehdi ||
+| Shabodi | Nitin Sood ||
 | Shabodi | Umair Ali Rashid ||
 | Shabodi | Vikram Chopra ||
 | Sigscale | Vance Shipley ||
@@ -547,6 +548,7 @@
 | TechMahindra | Amitha Sachin Chawda ||
 | TechMahindra | Mohit Luthra ||
 | TechMahindra | Sahil Sood ||
+| Technische Universität München | Mehmetmert Bese ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio ||
@@ -624,6 +626,7 @@
 | Verizon | Kapil Maheshwari ||
 | Verizon / 5GFF | Kevin Xu ||
 | Verizon | Mahesh Chapalamadugu ||
+| Verizon | Mason Ng ||
 | Verizon | Massimiliano Troiani ||
 | Verizon | Michael Sullivan ||
 | Verizon / 5GFF | Parry Booker ||
