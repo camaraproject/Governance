@@ -124,6 +124,7 @@
 | Cognizant | R. Karthikraj ||
 | Cognizant | Siddharth Khatri ||
 | Cognizant | Vigneshwaran S ||
+| Colony Networks | Adriano Carmezim ||
 | Colony Networks | Kevin Lu ||
 | Colony Networks | Michael Kuhlmann ||
 | Comtech | Jamie Hart ||
@@ -686,7 +687,6 @@
 | ZTE | Jie Hu ||
 | ZTE | Wang Changjin ||
 |  | Abrar Sadd ||
-|  | Adriano Carmezim ||
 |  | Ahmad ||
 |  | Carlos Vazbagper ||
 |  | Deepankar ||
