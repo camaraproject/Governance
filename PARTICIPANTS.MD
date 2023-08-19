@@ -345,7 +345,7 @@
 | Lammda | Hans Thorsen Lamm ||
 | Latro | Shafiq Alassi ||
 | LCN | Rathnakumar Kayyar ||
-| LG U+ | Jerry ||
+| LG U+ | Jerry Jae Yeol Kim ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Bobasola ||
 | LibertyGlobal | G. Haddad ||
@@ -696,7 +696,6 @@
 |  | D. Tran ||
 |  | Emmanuele Benedetto ||
 |  | Inner ||
-|  | Jae Yeol Kim ||
 |  | Juan de Toro ||
 |  | Juan Her ||
 |  | Kuldeep Kumar ||
