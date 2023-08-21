@@ -467,6 +467,7 @@
 | Prodapt | Carlos Portela ||
 | Proximus | Ivan Parvais ||
 | PWC | Florian Groene ||
+| Quicksoft | Andrew Dana ||
 | Quobis | Elías Pérez Carrera ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
