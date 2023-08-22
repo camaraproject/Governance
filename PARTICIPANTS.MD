@@ -296,6 +296,7 @@
 | Ikerlan | G. Nieto ||
 | Ikerlan | Idela Iglesia ||
 | Ilabs | Harm Arendshorst ||
+| Infinite | Arun Konathala ||
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
 | Infobip | Zeljko Nejasmic ||
