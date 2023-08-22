@@ -141,6 +141,7 @@
 | CTHINGS | Shreyas Vinod ||
 | Defne | Erhan Ermisoglu ||
 | Defne | Erkan Giray Arat ||
+| Defne | Giray Arat ||
 | Dell | Mihai Lazar ||
 | Dell | Saad Sheikh ||
 | Dell | Vaishali Gupta ||
