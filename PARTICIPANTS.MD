@@ -682,6 +682,7 @@
 | Whispir | Andrew Fry ||
 | Whispir | Graham Link ||
 | Whispir | Sharina Rapales ||
+| Whispir | Wayne Lee ||
 | Wiocc | Evalyne Ndungu ||
 | Wiocc | Jason Tutty ||
 | Wit Software | Armindo Antunes ||
