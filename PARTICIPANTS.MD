@@ -94,6 +94,7 @@
 | Capgemini | Deepak A. Gunjal ||
 | Centillion | Nicholas Venezia ||
 | Charter | Patrick Schultz ||
+| China Mobile | Bao Yuhan ||
 | China Mobile | Hanbai Wang ||
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
@@ -698,7 +699,6 @@
 | ZTE | Wang Changjin ||
 |  | Abrar Sadd ||
 |  | Ahmad ||
-|  | Bao Yuhan ||
 |  | Carlos Vazbagper ||
 |  | Deepankar ||
 |  | D S Rao ||
