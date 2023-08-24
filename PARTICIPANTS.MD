@@ -333,6 +333,7 @@
 | KDDI | Tetsuya Chiba ||
 | KDDI | Toshiyasu Wakayama ||
 | KDDI | Yusuke Nakano ||
+| Keysight | Pelle Ravn || 
 | Kinetix | Paolo Galeotti ||
 | KPN | Ellen Aartsen ||
 | KPN | Frits Vanlieshout ||
