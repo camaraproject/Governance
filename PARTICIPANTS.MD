@@ -117,6 +117,7 @@
 | Cloud Communications | Joseph Marion ||
 | CM | Bas Gijzen ||
 | CNCF | Arpit Joshipura ||
+| CNCF | Casey Cain ||
 | CNCF | Kurt Taylor ||
 | CNCF | Scott Nicolas ||
 | CNCF | Todd Benzies ||
