@@ -18,7 +18,7 @@ This is only a draft for the overview list, the real overview list shall be impl
 
 The pipeline is triggered with the submission of an API proposal. This API proposal can represent a new API or a new API family.
 
-API proposals can be submitted by everybody, e.g. GSMA Open Gateway, CAMARA member companies, and existing CAMARA Sub Projects or Working Groups (if these realize that the scope has to be increased). 
+API proposals can be submitted by everybody, including OPAG (GSMA Open Gateway), CAMARA member companies, and existing CAMARA Sub Projects or Working Groups (if these realize that the scope has to be increased). 
 
 To proceed with the submission, the API owner shall follow these steps:
 
@@ -52,7 +52,7 @@ Main tenets for TSC voting:
 - Tenet #2: The TSC shall make sure that APIs belonging together (close topic/content, API families) are developed within the same Sub Project, while ensuring that Sub Projects are not too small (difficult to track them down) or too big (difficult to be managed). There should be only one API for each purpose.
 - Tenet #3: There could be situations where API proposal complies with acceptance criteria (template duly filled out) but has not supporters other than the proponent company. What to do in this situation? Recommendation is to accept the API proposal and see how successful it will be in terms of industry adoption.
 
-The TSC may also propose changes to an API proposal and take the decision considering these changes. The TSC documents the decision in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) (fills in columns Steering Committee date and Steering Committee decision / Sub Project; in case of a No-Go "Rejected" is documented there).
+The TSC may also propose changes to an API proposal and take the decision considering these changes. The TSC documents the decision in the [CAMARA API overview list](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md) (fills in columns TSC date and TSC decision / Sub Project; in case of a No-Go "Rejected" is documented there).
 
 ## API management and maintenance
 
