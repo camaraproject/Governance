@@ -227,6 +227,7 @@
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
 | Ericsson | Rajat Kandoi ||
+| Ericsson | Rammohan Gopalan ||
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
@@ -560,7 +561,8 @@
 | TechMahindra | Mohit Luthra ||
 | TechMahindra | Prashant Shrivastava ||
 | TechMahindra | Sahil Sood ||
-| Technische Universität München | Mehmetmert Bese ||
+| Technische Universität München | Mehmetmert Bese ||t
+| Tecnotree | Chuninda Mittal ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio ||
