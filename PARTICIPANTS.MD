@@ -118,6 +118,7 @@
 | CM | Bas Gijzen ||
 | CNCF | Arpit Joshipura ||
 | CNCF | Casey Cain ||
+| CNCF | Kenny Paul ||
 | CNCF | Kurt Taylor ||
 | CNCF | Scott Nicolas ||
 | CNCF | Todd Benzies ||
@@ -716,6 +717,7 @@
 |  | P. Das ||
 |  | R. Sanvatsarkar ||
 |  | Rahul Panwar ||
+|  | Ravindra Palaskar ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
 |  | Sridhar Paiyya ||
