@@ -31,8 +31,7 @@ To proceed with the submission, the API owner shall follow these steps:
 Upon submission, the following steps are executed in "API Backlog" Working Group (WG):
 
 1. The WG chair checks that the template is duly filled in. Otherwise, the API owner is requested to provide missing information.
-2. Each company analyses the API proposal, and decides whether it wants to support it. If a company wants to become supporter, the company name needs to be included in the "Supporters in API Backlog Working Group" column for that API. The WG participant representing that company will do this by submitting a Pull Request against the [API backlog](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md). 
-NOTE: The more support an API proposal gets, the better (it may get more traction).
+2. Each company analyses the API proposal, and decides whether it wants to support it. If a company wants to become supporter, the company name needs to be included in the "Supporters in API Backlog Working Group" column for that API. The WG participant representing that company will do this by submitting a Pull Request against the [API backlog](https://github.com/camaraproject/WorkingGroups/blob/main/APIBacklog/documentation/APIBacklog.md). </br>NOTE: The more support an API proposal gets, the better (it may get more traction).
 3. When the API owner considers the API proposal is in good shape to go for approval, it informs the WG chair accordingly.
 4. Upon receiving this information, the WG chair merges the original Pull Request into the main branch, and sends the API proposal to the Technical Steering Committee (TSC) of CAMARA. This action shall be completed at least one week prior to the TSC meeting where the API proposal will be voted upon. 
 
