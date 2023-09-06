@@ -93,7 +93,7 @@ Discussion/Decisions:
 
 ## Commonalities: Notification pattern - request for feedback
 
-Ludovic Roberrt will present the current status of discussions about Notification patterns (Issue #44, PRs #56 and #43) in Commonalities. The notification topic is open for a long time and several sub project are waiting for the outcomes.
+Ludovic Robert will present the current status of discussions about Notification patterns (Issue #44, PRs #56 and #43) in Commonalities. The notification topic is open for a long time and several sub project are waiting for the outcomes.
 
 Proposal:
 * Request for action to review and provide feedback on PR #56
