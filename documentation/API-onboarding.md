@@ -41,8 +41,7 @@ This whole step shall be done within 2 regular meetings of the API Backlog WG. I
 
 Upon receiving the API proposal and notification from the API Backlog WG, the Steering Committee studies the proposal and votes it at the Steering Committee meeting.
 
-- No-Go! Objecting companies shall provide justifications why. The API proposal is rejected and will not be included in any API Sub Project, and shall be removed from the API Backlog
-- Return for changes: The Steering Commitee requires clarification on the API proposal, or has identified gaps that need addressing. The Steering Committee shall ask the API supporters to complete these changes before re-submission for approval.
+- No-Go! The API proposal is rejected and will not be included in any API Sub Project, and shall either (1) be removed from the API Backlog, with objecting companies to provide justifications why, or (2) returned to the API Backlog, with the Steering Committee including in the 'justications' section the  clarifications required/gaps to be addressed/corrections required in order for the API to be re-submitted by the API supporters.
 - Go! In this case, the Steering Committee shall specify whether the API proposal is to be hosted by a new or existing Sub Project.
 
 Main tenets for Steering Committee voting:
