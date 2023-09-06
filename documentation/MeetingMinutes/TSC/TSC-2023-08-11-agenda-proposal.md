@@ -56,7 +56,7 @@ Proposal:
 
 * As long as we don't have a proper wiki available, the proposal for agenda drafts and MoM is the following (similar to the practice in the sub projects):
   * Agenda will be announced via a draft pull request within the CAMARA Governance repo. The link will be sent to the TSC mailing list and a list of the agenda points
-  * Minutes will be captured by the Co-Chairs or a volunteering TSC particpant. The draft minutes will be made available as a pull request within the CAMARA Governance repo. They will be reviewed in minimum by the Chair or one of the Co-Chairs. TSC participants can provide corrections as reviews. The minutes will be merged after one week as agreed.
+  * Minutes will be captured by the Co-Chairs or a volunteering TSC participant. The draft minutes will be made available as a pull request within the CAMARA Governance repo. They will be reviewed in minimum by the Chair or one of the Co-Chairs. TSC participants can provide corrections as reviews. The minutes will be merged after one week as agreed.
   * ...
 
 Proposal:
@@ -75,7 +75,7 @@ Should we aim to have a colocated (hybrid) TSC meeting on Thursday, 19th, 16:00 
 
 ## API Backlog: Decision about five (5) new API proprosals
 
-JJosé A. Ordóñez Lucena asks on behalf of the working group API Backlog the TSC to decide about the following five (5) new API proposals:
+José A. Ordóñez Lucena asks on behalf of the working group API Backlog the TSC to decide about the following five (5) new API proposals:
 * Click to Dial
 * KYC Match
 * KYC Fill-in
@@ -93,7 +93,7 @@ Discussion/Decisions:
 
 ## Commonalities: Notification pattern - request for feedback
 
-Ludovic Roger will present the current status of discussions about Notification patterns (Issue #44, PRs #56 and #43) in Commonalities. The notfication topic is open for a long time and several sub project are waiting for the outcomes.
+Ludovic Roberrt will present the current status of discussions about Notification patterns (Issue #44, PRs #56 and #43) in Commonalities. The notification topic is open for a long time and several sub project are waiting for the outcomes.
 
 Proposal:
 * Request for action to review and provide feedback on PR #56
@@ -102,9 +102,9 @@ Discussion/Decisions:
 *...
 
 
-## Release Managment for CAMARA & Alignment with Open Gateway
+## Release Management for CAMARA & Alignment with Open Gateway
 
-See discussion and input within [Define Release Management for CAMARA #82](https://github.com/camaraproject/Governance/issues/82), especially the presentation attachted within Helene Vigue's comment: [Open Gateway Product WS _ Ways of Working with CAMARA Proposal [1].pptx](https://github.com/camaraproject/Governance/files/12525953/Open.Gateway.Product.WS._.Ways.of.Working.with.CAMARA.Proposal.1.pptx)
+See discussion and input within [Define Release Management for CAMARA #82](https://github.com/camaraproject/Governance/issues/82), especially the presentation attached within Helene Vigue's comment: [Open Gateway Product WS _ Ways of Working with CAMARA Proposal [1].pptx](https://github.com/camaraproject/Governance/files/12525953/Open.Gateway.Product.WS._.Ways.of.Working.with.CAMARA.Proposal.1.pptx)
 
 Discussion/Decissions:
 * ...
@@ -123,7 +123,7 @@ Discussion/decision:
 
 ## Backlog of TSC Topics
 
-* Releation of TSC with its working groups and sub projects
+* Relation of TSC with its working groups and sub projects
   * The following working groups and sub projects are currentlly working on overarching topics and should be therefore according to the project charter supervised by the TSC:
     * API Backlog
     * Commonalities
