@@ -564,6 +564,7 @@
 | TechMahindra | Sahil Sood ||
 | Technische Universität München | Mehmetmert Bese ||t
 | Tecnotree | Chuninda Mittal ||
+| Tecnotree | Shanu Swetank ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio ||
