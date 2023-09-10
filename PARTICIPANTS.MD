@@ -50,6 +50,7 @@
 | AWS | Tetsuya Nakamura ||
 | axiata | Anushka Ekanayake ||
 | axiata | Anthony Rodrigo ||
+| axiata | Chathura Mohotti ||
 | axiata | Harin Honestyandi Parandika  ||
 | axiata | Methsiri Kumara ||
 | axiata | Nipun Hevavitharana ||
@@ -219,6 +220,7 @@
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Joakim Uddenfeldt ||
+| Ericsson | Kamel Idir ||
 | Ericsson | Kishor Kumar A. ||
 | Ericsson | Klaus Schneider ||
 | Ericsson | Lutfi Yelkenci ||
@@ -295,6 +297,7 @@
 | IBM | Pablo Kahale ||
 | IBM | Yusuf Mirza ||
 | IBM | Zyg Lozinski ||
+| iCloud | Warren Prasad ||
 | IDC | John Byrne ||
 | IEEE | Mak Saleh ||
 | IIT Demokritos | Harilaos Koumaras ||
@@ -687,6 +690,8 @@
 | VROMBR | Michael Pastor ||
 | VROMBR | Titouan Vatonne ||
 | Webbing Solutions | Baruch Pinto ||
+| Whalecloud | Mei Jiangang ||
+| Whalecloud | Zhang Yunjie ||
 | Whispir | Andrew Fry ||
 | Whispir | Graham Link ||
 | Whispir | Sharina Rapales ||
@@ -706,6 +711,7 @@
 |  | Abrar Sadd ||
 |  | Ahmad ||
 |  | Carlos Vazbagper ||
+|  | Cristina Martinez ||
 |  | Deepankar ||
 |  | D S Rao ||
 |  | D. Tran ||
