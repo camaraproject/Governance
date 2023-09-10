@@ -18,6 +18,11 @@
 * [ ] Shilpa Padgaonkar - (Deutsche Telekom AG) Active Maintainer
 * [x] Toshi (Toshiyasu) Wakayama - (KDDI) Active Maintainer
 
+Guest Presenter:
+
+* José A. Ordóñez Lucena (Telefonica)
+* Helene Vigue (GSMA)
+
 Minutes are available within: [https://github.com/camaraproject/Governance/tree/main/documentation/MeetingMinutes/TSC](https://github.com/camaraproject/Governance/tree/main/documentation/MeetingMinutes/TSC)
 
 ## Agenda
@@ -76,7 +81,7 @@ Should we aim to have a colocated (hybrid) TSC meeting on Thursday, 19th, 16:00 
 
 Discussion/Decisions:
   * Henry Calvert (GSMA) welcomes the idea 
-  * (**Action**) Henry will check if it is possible to book a room for this (with option for remote participation
+  * (**Action**) Henry will check if it is possible to book a room for this (with option for remote participation)
  * We need to have an idea of who we will come - probable attendees on-site: Shilpa, Herbert, Ludovic, Diego, Doug, Jan, José Luis
 
 ## API Backlog: Decision about five (5) new API proprosals
@@ -120,7 +125,7 @@ Discussion/Decisions:
       * (**Action**) CAMARA Admins to create the sub project repository
       * Next TSC meeting will nominate the (list of) initial maintainers officially    
     * KYC Fill: No objection - Go  
-      * TSC proposal is to have separate API but tackled in a same sub project WG within a same API family - Toshi as API proposal owner agreed.
+      * TSC proposal is to have separate API but tackled in same sub project within a same API family as KYC Match  - Toshi as API proposal owner agreed.
       * (**Action**) API family supporters or API backlog team have to provide a name for this WG (like "Customer Data Information" as suggested by Herbert)
       * (**Action**) API Backlog WG to request supporting companies to propose their maintainers for the sub project
       * (**Action**) TSC participants to propose optional additional initial maintainers
@@ -129,7 +134,7 @@ Discussion/Decisions:
     * Site-To-Cloud: No go for now, clarification requested
       * Possible collision with work done in TMF
       * George Glass mentions that AT&T will showcase on DTW in Copenhagen a catalyst on same topic.
-      * (**Action**) TSC asks to China Mobile to clarify this API scope with current work done by AT&T & Check if AT&T could be a supporter of the API
+      * (**Action**) TSC asks to China Mobile to clarify this API scope with current work done by AT&T & check if AT&T could be a supporter of the API
     * WebRTC: no objection - Go
       * TSC request the (future) sub project in charge of this API to check possible collision with WebRTC standards.
       * (**Action**) API Backlog WG to request supporting companies to propose their maintainers for the sub project
@@ -145,7 +150,7 @@ Proposal:
 * Request for action to review and provide feedback on PR #56
 
 Discussion/Decisions:
-* Ludovic quickly went through the proposal and in particular the alignement with [CloudEvents](https://cloudevents.io/) [specification](https://github.com/cloudevents/spec) (hosted by CNCF).
+* Ludovic quickly went through the proposal and in particular the alignment with [CloudEvents](https://cloudevents.io/) [specification](https://github.com/cloudevents/spec) (hosted by CNCF).
 * The proposal will be documented in the Design Guideline
 * (**Action**) We encouraged all TSC participants and project members to provide feedback on [PR #56](https://github.com/camaraproject/Commonalities/pull/56)
 * (**Action**) Ludovic has to provide update on this topic for next TSC meeting
@@ -155,7 +160,7 @@ Discussion/Decisions:
 See discussion and input within [Define Release Management for CAMARA #82](https://github.com/camaraproject/Governance/issues/82), especially the presentation attached within Helene Vigue's comment: [Open Gateway Product WS _ Ways of Working with CAMARA Proposal [1].pptx](https://github.com/camaraproject/Governance/files/12525953/Open.Gateway.Product.WS._.Ways.of.Working.with.CAMARA.Proposal.1.pptx)
 
 Discussion/Decissions:
-* We need a working group to work on Release management for CAMARA on all aspects mentioned  in the issue above
+* We need a working group to work on Release management for CAMARA on all aspects mentioned in the issue above
   * (**Action**) Herbert will craft a proposal for next meeting on this topic
 * Helene Vigue/ Henry Calvert provided GSMA feedback:
   * GSMA OGW is the 'front end' to identify & provide new service requirements which result in new API proposals
