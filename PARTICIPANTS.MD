@@ -247,6 +247,8 @@
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | Global Logic | Gurpreet Matharu ||
+| Global Logic | Pankaj Gupta ||
+| Global Logic | Umesh Kumar ||
 | GMS | Elliot Rose ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio C. ||
