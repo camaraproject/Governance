@@ -15,6 +15,7 @@
 | Airtel India | Ramit Chawla ||
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
+| AIS | Boonchoung Tansuthepverawongse ||
 | Alicon | Ike Alisson ||
 | AMANTYA TECHNOLOGIES | Ankur Bharadwaj ||
 | AMANTYA TECHNOLOGIES | Mansi Trivedi ||
@@ -245,6 +246,7 @@
 | Fujitsu | T. Hasegawa ||
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
+| Global Logic | Gurpreet Matharu ||
 | GMS | Elliot Rose ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio C. ||
@@ -716,6 +718,7 @@
 |  | D S Rao ||
 |  | D. Tran ||
 |  | Emmanuele Benedetto ||
+|  | Henry Brock ||
 |  | Inner ||
 |  | Juan de Toro ||
 |  | Juan Her ||
