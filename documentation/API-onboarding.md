@@ -43,7 +43,7 @@ In parallel, the API proposal is formally registered in CAMARA by adding it to t
 
 Upon receiving the API proposal and notification from the WG chair, the TSC studies the proposal and votes it at the TSC meeting.
 
-- **Not Accepted**: The API proposal is rejected, and thus will not be included in any API Sub-Project. The TSC will need to inform of this decision to the API backlog WG, and clarify next steps: either (1) remove API proposal from backlog, with objecting companies providing justifications why; or (2) ask for changes (e.g., clarifications, corrections, gaps to be addressed) required in order for the API to be re-submitted by the API supporters.
+- **Not Accepted**: The API proposal is rejected, and thus will not be included in any API Sub-Project. The TSC will need to inform the API backlog WG of this decision, and clarify next steps: either (1) remove this API proposal from backlog, with objecting companies providing justifications why; or (2) ask for changes (e.g., clarifications, corrections, gaps to be addressed) required in order for the API to be re-submitted by the API supporters.
 - **Accepted** In this case, the TSC shall specify whether the API proposal is to be hosted by a new or existing Sub Project.
 
 Main tenets for TSC voting:
