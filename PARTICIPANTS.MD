@@ -456,6 +456,7 @@
 | Oracle | Anil Rao ||
 | Oracle | Azhar Mirza ||
 | Oracle | Chandra Bommanaveni ||
+| Oracle | Fabio Felici ||
 | Oracle | Kinshuk Kulshreshtha ||
 | Oracle | Luis Silva ||
 | Oracle | Piyush Sarwal ||
@@ -721,6 +722,7 @@
 |  | D. Tran ||
 |  | Emmanuele Benedetto ||
 |  | Henry Brock ||
+|  | Ingemar Lindblad ||
 |  | Inner ||
 |  | Juan de Toro ||
 |  | Juan Her ||
