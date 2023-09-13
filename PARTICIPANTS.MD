@@ -52,6 +52,7 @@
 | axiata | Anushka Ekanayake ||
 | axiata | Anthony Rodrigo ||
 | axiata | Chathura Mohotti ||
+| axiata | Geethan Samarawickrema ||
 | axiata | Harin Honestyandi Parandika  ||
 | axiata | Methsiri Kumara ||
 | axiata | Nipun Hevavitharana ||
@@ -248,6 +249,7 @@
 | Gapask | Rajesh Murthy ||
 | Global Logic | Gurpreet Matharu ||
 | Global Logic | Pankaj Gupta ||
+| Global Logic | Rahul Aggarwal ||
 | Global Logic | Umesh Kumar ||
 | GMS | Elliot Rose ||
 | Google Cloud | Dutt Kalapatapu ||
