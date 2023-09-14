@@ -282,6 +282,7 @@
 | HPE | Jaime Garcia ||
 | HPE | Joao Martins ||
 | Hrvatski Telekom | Zlatka Milic ||
+| hSenid Mobile Solutions Singapore PTE LTD | Amith Lokugamage || 
 | Huawei | Albert Wang ||
 | Huawei | Alex Wuning ||
 | Huawei | Chuanyu Chen ||
@@ -464,6 +465,7 @@
 | Oracle | Piyush Sarwal ||
 | Oracle | Richard Williams ||
 | Oracle | Ruta Abhay Potnis ||
+| Oracle | Tom Spraggins ||
 | Oracle | Walter Prior ||
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Eric Tartanson ||
