@@ -10,6 +10,7 @@
 | Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
 | Accenture | Mohamed E. Ali ||
+| Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
 | Acom Networks | Harold Chen ||
 | Airtel India | Ramit Chawla ||
@@ -119,12 +120,6 @@
 | Claro | Joao Nero ||
 | Cloud Communications | Joseph Marion ||
 | CM | Bas Gijzen ||
-| CNCF | Arpit Joshipura ||
-| CNCF | Casey Cain ||
-| CNCF | Kenny Paul ||
-| CNCF | Kurt Taylor ||
-| CNCF | Scott Nicolas ||
-| CNCF | Todd Benzies ||
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
 | Cognizant | Manish Jain ||
@@ -370,6 +365,14 @@
 | LibertyGlobal | Max Gasparroni || 
 | LibertyGlobal | Oscar Tejedor Garcia ||
 | LibertyGlobal | W. Rees ||
+| LinuxFoundation | Arpit Joshipura ||
+| LinuxFoundation | Casey Cain ||
+| LinuxFoundation | Evan Harrision ||
+| LinuxFoundation | John Walicki ||
+| LinuxFoundation | Kenny Paul ||
+| LinuxFoundation | Kurt Taylor ||
+| LinuxFoundation | Scott Nicolas ||
+| LinuxFoundation | Todd Benzies ||
 | Locationguru | Achmed Shaheer ||
 | Lotusflare | Eric Morhenn ||
 | Lotusflare | Michael Gracias ||
@@ -431,6 +434,7 @@
 | Nokia | Jonathan Kline ||
 | Nokia | Marc Erhardt ||
 | Nokia | Mario Vasconcelli ||
+| Nokia | Mikko Jarva ||
 | Nokia | Mohan 1. Rao ||
 | Nokia | Peter Kovacs ||
 | Nokia | Rene Saathoff ||
@@ -679,6 +683,7 @@
 | Vodafone | Fraser King ||
 | Vodafone | Iván Nieto ||
 | Vodafone | Jaime Diez ||
+| Vodafone | Johanna Wood ||
 | Vodafone / 5GFF | Kevin Smith ||
 | Vodafone | Klaus Reifenrath ||
 | Vodafone | Mahesh Joshi ||
