@@ -333,6 +333,7 @@
 | Intersec | Ahmed Lyahou ||
 | Intersec | Sebastian Synold ||
 | Intraway | Diego Ambuhl ||
+| Intraway | Leandro Rzezak ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
 | JT Global | Rupert Goldie ||
