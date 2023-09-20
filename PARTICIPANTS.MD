@@ -309,6 +309,7 @@
 | Infinite | Arun Konathala ||
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
+| Infobip | Mario Kresic ||
 | Infobip | Zeljko Nejasmic ||
 | Infolysis | Nikolaos GKATZIOS ||
 | Infolysis | Nikolaos VRIONIS ||
@@ -329,6 +330,7 @@
 | Intersec | Sebastian Synold ||
 | Intraway | Diego Ambuhl ||
 | Intraway | Leandro Rzezak ||
+| Intraway | lucas Lodeiro ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
 | JT Global | Rupert Goldie ||
@@ -400,6 +402,7 @@
 | Microsoft | Ricardo Villarreal ||
 | Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
+| Microcks | Yacine Kheddache ||
 | Midokura | Alon Harel ||
 | Midokura | Kenji Shimizu ||
 | Millicom | Alejandro Blacut ||
@@ -455,6 +458,7 @@
 | NTT Data | Luis Rubio Martinez ||
 | Nuage | Gabriel Klein ||
 | Nuvemlabs | Jaswant Boyat ||
+| nxt:fwd | smo Antikainen ||
 | Ookla | Leandro de Marchi ||
 | OpenID Foundation / Verizon | Bjorn Hjelm ||
 | OpenID Foundation | Gail Hodges ||
@@ -726,6 +730,7 @@
 |  | Abrar Sadd ||
 |  | Ahmad ||
 |  | Carlos Vazbagper ||
+|  | cmti CA ||
 |  | Cristina Martinez ||
 |  | Deepankar ||
 |  | D S Rao ||
