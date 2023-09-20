@@ -394,6 +394,7 @@
 | Meta | Rehan Siddiqui ||
 | Meta | Ulas Kozat ||
 | Meta | Xinli Hou ||
+| Microcks | Yacine Kheddache ||
 | Microsoft | Landon Cox ||
 | Microsoft | Joe Biron ||
 | Microsoft | Michael Brown ||
@@ -402,7 +403,6 @@
 | Microsoft | Ricardo Villarreal ||
 | Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
-| Microcks | Yacine Kheddache ||
 | Midokura | Alon Harel ||
 | Midokura | Kenji Shimizu ||
 | Millicom | Alejandro Blacut ||
