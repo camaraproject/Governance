@@ -726,6 +726,7 @@
 | Wit Software | Raul Fonseca ||
 | Wit Software | Rita Pires ||
 | Wiwynn | Karl Chiang ||
+| Yupiik | François Papon ||
 | Zain | Devajeet Datta ||
 | ZTE | Lijuan Chen ||
 | ZTE | Jie Hu ||
