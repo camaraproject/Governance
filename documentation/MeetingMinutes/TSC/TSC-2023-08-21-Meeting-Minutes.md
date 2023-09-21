@@ -6,11 +6,10 @@
 * [x] Eric Murray - (Vodafone) Active Maintainer, TSC deputy chair
 * [x] Ludovic Robert - (Orange) Active Maintainer, TSC deputy chair
 * [ ] Adnan Saleem - (Radisys) End User Council representative
-* [] Chris Howell - (Vonage) Active Maintainer
+* [ ] Chris Howell - (Vonage) Active Maintainer
 * [x] Diego González Martínez - (Telefónica) Active Maintainer
 * [x] Doug Makishima - (Summit Tech) End User Council representative
 * [x] George Glass - TM Forum representative
-* [] Henry Calvert - GSMA representative
 * [x] Mark Cornall - GSMA representative
 * [x] Jan Friman - (Ericsson) Active Maintainer
 * [x] Jose Luis Urien - (Telefonica) Active Maintainer
