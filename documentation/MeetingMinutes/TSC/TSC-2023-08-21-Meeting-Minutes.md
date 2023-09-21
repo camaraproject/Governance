@@ -1,4 +1,4 @@
-#  Agenda and Minutes of CAMARA Technical Steering Committee (TSC) meeting - 2023-09-07
+#  Agenda and Minutes of CAMARA Technical Steering Committee (TSC) meeting - 2023-09-21
 
 ## Invited TSC Participants
 
@@ -43,11 +43,11 @@ Minutes are available within: [https://github.com/camaraproject/Governance/tree/
 Please find material for the agenda points below.
 
 ## Introduction
-Check attendance
-TSC meeting October 19th
-    Room booked in GSMA premise
-    Registration required for on-site participant
-    2 hours meeting
+- Check attendance
+- TSC meeting October 19th
+    - Room booked in GSMA premise
+    - Registration required for on-site participant
+    - 2 hours meeting
 
 
 ## Updates from Gouvernance Board/Director Fund
