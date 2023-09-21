@@ -529,6 +529,7 @@
 | Sinch | Vesa Lindberg ||
 | Singtel | Foo Ming Hui ||
 | Singtel | Macus Chua ||
+| Singularity Tech | Daisy Phan ||
 | SK Telecom | Clark Park ||
 | SK Telecom | Yoon Sun Jung ||
 | Skyvera | Kevin Howe-Patterson ||
