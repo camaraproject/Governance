@@ -104,7 +104,8 @@ See also https://github.com/camaraproject/Governance/issues/83
 **Anonymised Subscriber Identifier** discussion: 
 - Eric raised the point about the other private topic which is Anonymised Subscriber Identifier. Does this repo should stay in CAMARA? Shilpa thinks this is not a good idea to have private repo in CAMARA as API work will be mentionned in TSC meeting for example which are public available. George raised same arguments to ease TMF contribution
 - For the API Anonymised Subscriber Identifier the issues is about the name (Anonymised has a sensitive meaning) and the legal impact of this API (People has not to think that Telco are providing identifier without their consent). 
-- Action: Open an issue in API backlog.
+- Action: Open an issue in API backlog. [x]Done by Eric --> https://github.com/camaraproject/WorkingGroups/issues/312
+- **[Action for the team]** review this proposition and provide feedback for next TSC.
 
 
 ## Commonalities
@@ -141,9 +142,9 @@ Now it's time to review and approve if not **blocking** point.
 
 Kevin brings the topic of management of automatic testing of the API. Kevin will prepare a presentation for test TSC.
 
-## --> Action for all
+## Action for all
 
-**[Action for all]** Provided a list of subproject where TSC member are involved to be sure we have no subproject representation missing.
+**[Action for all]** Provided a list of subproject where each TSC member are involved to be sure we have no subproject representation missing. Please send email to Herbert.
 
 ## Backlog of TSC Topics (not discussed)
 
