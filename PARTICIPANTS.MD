@@ -1,5 +1,7 @@
 | Org                    | Name                                                | GitHub ID |
 | -----------------------| ----------------------------------------------------|--------------------------------|
+| 1rstwap | Aerlangga Bachtiar ||
+| 1rstwap | Alex Sandra ||
 | 3G Telecoms | David Morris ||
 | A1 | Arnold Pfeiffer ||
 | A1 | Manfred Moormann ||
@@ -25,6 +27,7 @@
 | amdocs | Cameron Ross Dunne ||
 | amdocs | Gautam Gupta ||
 | amdocs | Steve Plain ||
+| Apinity | David Vazquez Cortizo ||
 | Apinity | Filippo Chiozzi ||
 | Apinity | Franziska Kienzle ||
 | Apple | Darryl Chiles ||
@@ -479,6 +482,7 @@
 | Oracle | Tom Spraggins ||
 | Oracle | Walter Prior ||
 | ORANGE | Assange Niang Mbengue ||
+| ORANGE | Benjamin Busvel ||
 | ORANGE | Eric Tartanson ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Guillaume Nevicato||
