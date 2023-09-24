@@ -476,6 +476,7 @@
 | Oracle | Fabio Felici ||
 | Oracle | Kinshuk Kulshreshtha ||
 | Oracle | Luis Silva ||
+| Oracle | Paulo Farnezi ||
 | Oracle | Piyush Sarwal ||
 | Oracle | Richard Williams ||
 | Oracle | Ruta Abhay Potnis ||
@@ -763,3 +764,4 @@
 |  | Tousif Ahmed ||
 |  | Vishal Makhijani ||
 |  | Youcef Kardjadja ||
+|  | Zach Callahan ||
