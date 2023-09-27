@@ -100,6 +100,7 @@
 | Cablelabs | Randy Levensalor ||
 | Canopus Networks | Arun Vishwanath ||
 | Capgemini | Deepak A. Gunjal ||
+| Celo | Rene Reinsberg ||
 | Centillion | Nicholas Venezia ||
 | Charter | Patrick Schultz ||
 | China Mobile | Bao Yuhan ||
@@ -315,6 +316,7 @@
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
 | Infobip | Mario Kresic ||
+| Infobip | Vilim Duganic ||
 | Infobip | Zeljko Nejasmic ||
 | Infolysis | Nikolaos GKATZIOS ||
 | Infolysis | Nikolaos VRIONIS ||
@@ -763,6 +765,7 @@
 |  | Tom Collins ||
 |  | Tomer Ilan ||
 |  | Tousif Ahmed ||
+|  | Useris Jithin ||
 |  | Vishal Makhijani ||
 |  | Youcef Kardjadja ||
 |  | Zach Callahan ||
