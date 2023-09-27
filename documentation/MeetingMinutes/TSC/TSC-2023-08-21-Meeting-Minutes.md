@@ -96,12 +96,17 @@ See also https://github.com/camaraproject/Governance/issues/83
 
 - Diego asked if CAMARA design rules will be followed in a GSMA API crafted?
   - Mark answered **YES** ! 
-  
+
+**General decision about private respositories**
+
+Several TSC members raised the point if CAMARA should have private repositories at all. Shilpa thinks this is not a good idea to have private repo in CAMARA as API work will be mentioned in TSC meetings, for example, which are public. George raised same arguments to ease TMF contribution. 
+
+Decision taken without objection: there should be no private repositories within CAMARA for API development
 
 **Anonymised Subscriber Identifier**
 
 Discussion: 
-- Eric raised the point about the other private topic which is Anonymised Subscriber Identifier. Should this repo stay in CAMARA? Shilpa thinks this is not a good idea to have private repo in CAMARA as API work will be mentioned in TSC meetings, for example, which are public. George raised same arguments to ease TMF contribution.
+- Eric raised the point about the other private topic which is Anonymised Subscriber Identifier. Should this repo stay in CAMARA? 
 - For the API Anonymised Subscriber Identifier the issues is about the name (Anonymised has a sensitive meaning) and the legal impact of this API (people has not to think that Telco are providing identifier without their consent).
 - Decision to be taken at next TSC
 - Action: Open an issue in API backlog. [x]Done by Eric --> https://github.com/camaraproject/WorkingGroups/issues/312
@@ -115,7 +120,9 @@ Discussion:
 - Shilpa raised the point that we need to find a way to work quickly between Commonalities & TSC.
 - Shilpa proposal for a specific topic is to select people from the subproject to inform the TSC about a that topic. For next Commonalities meeting Shilpa will list the topics where we need participation and bring this list to TSC.
 - Diego asked is vote will still be at subproject level or at TSC level?
-  - Current governance precise that today the vote is first at subproject and then at TSC level.
+  - Update after the meeting: Current governance is not precise on it, but defines TSC as first option, see [project charter](https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md):
+    - "... The TSC is responsible for: [...] discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; [...]"
+    - "Technical decisions that span multiple parts of the CAMARA Project should be discussed and made in the Commonalities Working Group. Decisions are usually made by lazy consensus. If no consensus can be reached, the matter may be resolved by majority vote by the TSC, Sub Project or Working Group."
 
 ### Notification pattern
 
