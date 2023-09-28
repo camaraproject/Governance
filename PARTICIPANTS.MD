@@ -160,6 +160,7 @@
 | Deutsche Telekom AG | Axel Nennker ||
 | Deutsche Telekom AG | Carlos Fernandes ||
 | Deutsche Telekom AG | Dawid Wróblewski||
+| Deutsche Telekom AG | Efthymios Isaakidis ||
 | Deutsche Telekom AG | Elmar Mundt ||
 | Deutsche Telekom AG | Felix Dsouza ||
 | Deutsche Telekom AG | Georgios Papadopoulos ||
@@ -488,6 +489,7 @@
 | ORANGE | Benjamin Busvel ||
 | ORANGE | Eric Tartanson ||
 | ORANGE | Frederic Fieau ||
+| ORANGE | Gilles Renoux ||
 | ORANGE | Guillaume Nevicato||
 | ORANGE | Guy Vidal||
 | ORANGE | Jean Luc Sire ||
@@ -518,6 +520,7 @@
 | Rohde & Schwarz | Tim Kittel ||
 | Saitro | Luis Carlos Toledo ||
 | Sakon | Chris Simandl ||
+| Sakon | Dan Hughes ||
 | Salesforce | Teresa González García ||
 | Samsung | Shannon Park ||
 | Scenera | Andrew Wajs ||
