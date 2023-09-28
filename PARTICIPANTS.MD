@@ -571,7 +571,7 @@
 | T-Mobile US | Antoine Egho ||
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Dan Sershen ||
-| T-Mobile US  Deepak Jaiswal ||
+| T-Mobile US | Deepak Jaiswal ||
 | T-Mobile US| Lyle Bertz ||
 | T-Mobile US | Mark Bales ||
 | T-Mobile US | Mike Engan ||
@@ -582,7 +582,7 @@
 | T-Mobile US | Ron Marquardt ||
 | T-Mobile US | Srujana Punyapu ||
 | Tango Networks | Gavin Sweet ||
-|Tannera | Goran Licanin ||
+| Tannera | Goran Licanin ||
 | TCS | Pramath Jha ||
 | TCS | Pranay Rsahay ||
 | TCS | Prateek Vashisht ||
