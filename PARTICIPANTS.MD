@@ -712,6 +712,7 @@
 | Vodafone | Marta Martin ||
 | Vodafone | Nevin Aquinas ||
 | Vodafone | Ralph-Joachim Gramberg ||
+| Vodafone | Ratna Ganeshanandan ||
 | Vodafone | Sachin Kumar ||
 | Vodafone | Sebastian Köller ||
 | Vodafone | Sergio Carretero ||
