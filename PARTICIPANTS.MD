@@ -392,6 +392,8 @@
 | Mavenir | Jane Shen ||
 | Mavenir | Manish Panchmatia ||
 | Mavenir | Michal Sedivy ||
+| Mavenir | Pradeep Achar Pushpa ||
+| Mavenir | Sushanth Hegde ||
 | Mavenir | Viswanath Krishnamurthy ||
 | MEF | Daniel Bar-Lev ||
 | MEF | Karthik ||
@@ -639,6 +641,7 @@
 | Telefonica | Patricia Ventura Gomez ||
 | Telefonica | Pedro Diez Garcia ||
 | Telefonica | Philip Lengyel ||
+| Telefonica | Ricardo Serrano Gutierrez ||
 | Telefonica | Rocio Ortiz Pena ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Sergio Francisco Ortiz ||
