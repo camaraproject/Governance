@@ -575,7 +575,6 @@
 | T-Mobile NL | Muhammad Ahmad ||
 | T-Mobile US | Antoine Egho ||
 | T-Mobile US | Anup Koyadan Chathoth ||
-| T-Mobile US | Dan Sershen ||
 | T-Mobile US | Deepak Jaiswal ||
 | T-Mobile US| Lyle Bertz ||
 | T-Mobile US | Mark Bales ||
@@ -583,7 +582,6 @@
 | T-Mobile US | Murat Karabulut ||
 | T-Mobile US | Murthy Gorty ||
 | T-Mobile US | Poornima Magadevan ||
-| T-Mobile US | Riza Hassan ||
 | T-Mobile US | Ron Marquardt ||
 | T-Mobile US | Srujana Punyapu ||
 | Tango Networks | Gavin Sweet ||
