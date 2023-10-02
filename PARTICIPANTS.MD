@@ -547,6 +547,7 @@
 | SK Telecom | Yoon Sun Jung ||
 | Skyvera | Kevin Howe-Patterson ||
 | Skyvera | Ravi Shankar ||
+| Sofrecom | Walid Trabelsi ||
 | Softbank | Kazumasa Yazawa ||
 | Softbank | Mai Hashimoto ||
 | Softbank | Naoto Takasu ||
