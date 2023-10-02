@@ -101,6 +101,7 @@
 | Canopus Networks | Arun Vishwanath ||
 | Capgemini | Deepak A. Gunjal ||
 | Celo | Rene Reinsberg ||
+| Celo | Xochitl Cazador ||
 | Centillion | Nicholas Venezia ||
 | Charter | Patrick Schultz ||
 | China Mobile | Bao Yuhan ||
