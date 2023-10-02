@@ -703,6 +703,7 @@
 | Vodafone | Iván Nieto ||
 | Vodafone | Jaime Diez ||
 | Vodafone | Jesus Pedruelo ||
+| Vodafone | Joao Gaspar da Silva ||
 | Vodafone | Johanna Wood ||
 | Vodafone / 5GFF | Kevin Smith ||
 | Vodafone | Klaus Reifenrath ||
