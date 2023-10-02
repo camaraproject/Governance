@@ -702,6 +702,7 @@
 | Vodafone | Fraser King ||
 | Vodafone | Iván Nieto ||
 | Vodafone | Jaime Diez ||
+| Vodafone | Jesus Pedruelo ||
 | Vodafone | Johanna Wood ||
 | Vodafone / 5GFF | Kevin Smith ||
 | Vodafone | Klaus Reifenrath ||
