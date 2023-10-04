@@ -432,6 +432,7 @@
 | Nearby Computing | Monika Valdez ||
 | Nearby Computing | Oscar Trullols ||
 | Nearby Computing | Sergi Alonso ||
+| NEC | Neeraj Mehta ||
 | Netcracker | Dmytro Gassanov ||
 | Next Curve | Leonard Lee ||
 | NGMN Alliance | Anita Doehler ||
@@ -510,6 +511,7 @@
 | Prodapt | Carlos Portela ||
 | Proximus | Ivan Parvais ||
 | PWC | Florian Groene ||
+| Qwilt | Yoav ||
 | Quicksoft | Andrew Dana ||
 | Quobis | Elías Pérez Carrera ||
 | Radisys | Adnan Saleem ||
