@@ -649,7 +649,7 @@
 | Telefonica | Sergio Francisco Ortiz ||
 | Telefonica | Victor Barranco Fernandez ||
 | Telenor Connexion | Soheil Chohan ||
-| Telesmart | B T ||
+| Telesmart | Bulent Tuncel ||
 | Telstra | Abdul Majid Hussain ||
 | Telstra / 5GFF | Brett Hill ||
 | Telstra | Channa Seneviratne ||
