@@ -100,6 +100,7 @@
 | Cablelabs | Randy Levensalor ||
 | Canopus Networks | Arun Vishwanath ||
 | Capgemini | Deepak A. Gunjal ||
+| Celo | Bhavishya Kanjhan ||
 | Celo | Rene Reinsberg ||
 | Celo | Xochitl Cazador ||
 | Centillion | Nicholas Venezia ||
@@ -613,6 +614,7 @@
 | TIM Brazil | Bruno Leandro Campos De Miranda ||
 | TIM Brazil | Paulo Cesar Dias Lima ||
 | TIM Brazil | Robson De Andrade Esteves ||
+| TIM Brazil | Rodrigo Lupareli ||
 | Telecom Sudparis | Vincent Gauthier ||
 | Telecomsxchange | Ameed Jamous ||
 | Telefonica | Agustin Martin Gonzalez ||
@@ -647,6 +649,7 @@
 | Telefonica | Sergio Francisco Ortiz ||
 | Telefonica | Victor Barranco Fernandez ||
 | Telenor Connexion | Soheil Chohan ||
+| Telesmart | B T ||
 | Telstra | Abdul Majid Hussain ||
 | Telstra / 5GFF | Brett Hill ||
 | Telstra | Channa Seneviratne ||
