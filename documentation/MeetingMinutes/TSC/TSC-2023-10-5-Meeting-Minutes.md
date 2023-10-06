@@ -31,17 +31,6 @@ Further attendees (not complete):
 Minutes are available within: [https://github.com/camaraproject/Governance/tree/main/documentation/MeetingMinutes/TSC](https://github.com/camaraproject/Governance/tree/main/documentation/MeetingMinutes/TSC)
 
 ## Agenda
-
-* Introduction
-* Introduction by Linux Foundation about upcoming changes regarding project organization and tools
-* New/exisiting API Proposals
-  * Device Swap
-  * IMEI fraud
-  * Site-To-Cloud (not discussed)
-* Release Managment for CAMARA & Alignment with Open Gateway
-* Request for private repositories (not discussed)
-* Backlog of TSC Topics (not discussed)
-
 * Introduction
 * Upcoming community tools for CAMARA (LF, Casey Cain)
 * Involvement of TSC members in Sub Projects
@@ -53,7 +42,6 @@ Minutes are available within: [https://github.com/camaraproject/Governance/tree/
 * Identity & Consent Updates (not discussed)
 * Backlog
 
-Please find material for the agenda points below.
 
 ## Introduction
 * Check attendance (see above check marks)
