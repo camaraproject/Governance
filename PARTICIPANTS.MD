@@ -121,6 +121,7 @@
 | China Unicom | Guo J. ||
 | China Unicom | Shuanghe Dong ||
 | Chunghwa Telecom | MingHsun Lee ||
+| Cisco | Pravin Ajagekar ||
 | Cisco | Ravi Guntupalli ||
 | Cisco | Ravi Shek ||
 | Citictel | Gabriel Shui ||
@@ -751,6 +752,7 @@
 | Wiwynn | Karl Chiang ||
 | Yupiik | François Papon ||
 | Zain | Devajeet Datta ||
+| Zignos | Carlos ||
 | ZTE | Lijuan Chen ||
 | ZTE | Jie Hu ||
 | ZTE | Wang Changjin ||
