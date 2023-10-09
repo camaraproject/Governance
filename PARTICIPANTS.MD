@@ -391,6 +391,7 @@
 | Lotusflare | Eric Morhenn ||
 | Lotusflare | Michael Gracias ||
 | Madison | Alejandro Alfonso Fernandez ||
+| Masmovil | Maria Segundo Romero ||
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Jane Shen ||
