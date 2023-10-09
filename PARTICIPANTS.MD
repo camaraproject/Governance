@@ -425,6 +425,7 @@
 | Mitre Engenuity | Heather Blanchard ||
 | Mksa | Koffi Kodjo ||
 | Mobi2buy | Fabio Copello ||
+| Mobi2buy | Thiago Taranto ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
 | Nabstract | Vaibhav Mehta ||
@@ -456,6 +457,7 @@
 | Nokia | Mohan 1. Rao ||
 | Nokia | Peter Kovacs ||
 | Nokia | Rene Saathoff ||
+| Nokia | Saad Ahmad ||
 | Nokia | Shkumbin Hamiti ||
 | Nokia | Tanja de Groot ||
 | Nokia | Teerasit Songtis ||
@@ -529,6 +531,7 @@
 | Saitro | Luis Carlos Toledo ||
 | Sakon | Chris Simandl ||
 | Sakon | Dan Hughes ||
+| Salesforce | Douglas Vieira e Silva ||
 | Salesforce | Teresa González García ||
 | Samsung | Shannon Park ||
 | Scenera | Andrew Wajs ||
@@ -655,6 +658,7 @@
 | Telenor Connexion | Soheil Chohan ||
 | Telesmart | Bulent Tuncel ||
 | Telstra | Abdul Majid Hussain ||
+| Telstra | Anu Rajagopal ||
 | Telstra / 5GFF | Brett Hill ||
 | Telstra | Channa Seneviratne ||
 | Telstra | George Karroum ||
