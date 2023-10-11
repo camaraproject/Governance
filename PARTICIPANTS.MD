@@ -187,6 +187,7 @@
 | Dish | Jinsook Ryu ||
 | Dish | Media Johnsen ||
 | Dish | Jingyi Zhou ||
+| Dish | Sagar Patel ||
 | DriveU | Eli Shapira ||
 | Domos | Magnus Olden ||
 | DU | Amr Abdelsalam ||
@@ -717,6 +718,7 @@
 | Vodafone | Iván Nieto ||
 | Vodafone | Jaime Diez ||
 | Vodafone | Jesus Pedruelo ||
+| Vodafone | Jim Barron ||
 | Vodafone | Joao Gaspar da Silva ||
 | Vodafone | Johanna Wood ||
 | Vodafone / 5GFF | Kevin Smith ||
