@@ -391,6 +391,7 @@
 | Locationguru | Achmed Shaheer ||
 | Lotusflare | Eric Morhenn ||
 | Lotusflare | Michael Gracias ||
+| M1 | Choo Sim Hwee Johnny ||
 | Madison | Alejandro Alfonso Fernandez ||
 | Masmovil | Maria Segundo Romero ||
 | Matrixx | Elisabeth Andersson ||
