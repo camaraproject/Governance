@@ -776,7 +776,6 @@
 |  | FBI Chamber 12 ||
 |  | Henry Brock ||
 |  | Ingemar Lindblad ||
-|  | Inner ||
 |  | Juan de Toro ||
 |  | Juan Her ||
 |  | Kuldeep Kumar ||
