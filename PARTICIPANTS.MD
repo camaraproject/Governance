@@ -545,6 +545,7 @@
 | Seoul National University | Kiho Lee ||
 | Shabodi | Camara ||
 | Shabodi | Harpreet Geekee ||
+| Shabodi | Kevin Howe-Patterson ||
 | Shabodi | Mehdi Jafarizadeh ||
 | Shabodi | Nitin Sood ||
 | Shabodi | Surin ||
@@ -557,7 +558,6 @@
 | Singularity Tech | Daisy Phan ||
 | SK Telecom | Clark Park ||
 | SK Telecom | Yoon Sun Jung ||
-| Skyvera | Kevin Howe-Patterson ||
 | Skyvera | Ravi Shankar ||
 | Sofrecom | Walid Trabelsi ||
 | Softbank | Kazumasa Yazawa ||
