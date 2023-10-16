@@ -552,7 +552,6 @@
 | Shabodi | Vikram Chopra ||
 | Sigscale | Vance Shipley ||
 | Sinch | Harsha Appuhami Ralalage ||
-| Sinch | Vesa Lindberg ||
 | Singtel | Foo Ming Hui ||
 | Singtel | Macus Chua ||
 | Singularity Tech | Daisy Phan ||
