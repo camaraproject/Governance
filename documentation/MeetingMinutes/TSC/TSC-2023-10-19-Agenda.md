@@ -74,8 +74,8 @@ Minutes are available within: [https://github.com/camaraproject/Governance/tree/
 * [#82 Define Release Management for CAMARA](https://github.com/camaraproject/Governance/issues/82)
   * see above "Release Management"
 * [Handling of private repos #83](https://github.com/camaraproject/Governance/issues/83)
-  * Decision taken within TSC on Sept 21st
-  * Can be closed
+  * Decision taken within TSC on Sept 21st that there will be no private repositories in CAMARA hosted
+  * Way forward for ASI to be decided
 * [Change Working Groups into Sub Projects #84](https://github.com/camaraproject/Governance/issues/84)
 * [Process to publish v1.0 of an API #85](https://github.com/camaraproject/Governance/issues/85)
   * Part of Release Management
