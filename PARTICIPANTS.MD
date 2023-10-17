@@ -386,6 +386,7 @@
 | LinuxFoundation | John Walicki ||
 | LinuxFoundation | Kenny Paul ||
 | LinuxFoundation | Kurt Taylor ||
+| LinuxFoundation | Louis Illuzzi ||
 | LinuxFoundation | Scott Nicolas ||
 | LinuxFoundation | Todd Benzies ||
 | Locationguru | Achmed Shaheer ||
@@ -685,7 +686,8 @@
 | Twilio | Felipe Gutierrez ||
 | ultraTELCO | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
-| Umnia | Tareq Abu Issa ||
+| Umniah | uad Atallah ||
+| Umniah | Tareq Abu Issa ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
 | Vay | Jesus Gonzales Tejeria ||
