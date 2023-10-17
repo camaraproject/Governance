@@ -90,4 +90,12 @@ Minutes are available within: [https://github.com/camaraproject/Governance/tree/
 
 ## AOB
 
+* Discuss TCS meetings over year end - next meetings would be (should be skip/move any of them?):
+  * Nov 2nd (first Thursday)
+  * Nov 16th (third Thursday)
+  * Dec 7th (first Thursday)
+  * Dec 21st (third Thursday)
+  * Jan 4th (first Thursday)
+  * Jan 18th (third Thursday)
+
 
