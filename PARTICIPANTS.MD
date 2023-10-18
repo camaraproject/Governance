@@ -92,6 +92,7 @@
 | Broadpeak | Tuan Tran ||
 | Bundesnetzagentur | Markus Klein ||
 | Byte | Apaz ||
+| Bytedance | Fan Yao Hang ||
 | Cablelabs | A. Yerra ||
 | Cablelabs | Mark Bridges ||
 | Cablelabs | Paul Fonte ||
@@ -522,6 +523,7 @@
 | Qwilt | Yoav ||
 | Quicksoft | Andrew Dana ||
 | Quobis | Elías Pérez Carrera ||
+| Quobis | Santiago Troncoso ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
 | Radisys | Kiran Bharadwaj Vedula ||
