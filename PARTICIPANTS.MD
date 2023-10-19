@@ -19,6 +19,7 @@
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
 | AIS | Boonchoung Tansuthepverawongse ||
+| Alianza | Dag Peak ||
 | Alicon | Ike Alisson ||
 | AMANTYA TECHNOLOGIES | Ankur Bharadwaj ||
 | AMANTYA TECHNOLOGIES | Mansi Trivedi ||
@@ -383,6 +384,7 @@
 | LibertyGlobal | W. Rees ||
 | LinuxFoundation | Arpit Joshipura ||
 | LinuxFoundation | Casey Cain ||
+| LinuxFoundation | David McBride ||
 | LinuxFoundation | Evan Harrision ||
 | LinuxFoundation | John Walicki ||
 | LinuxFoundation | Kenny Paul ||
@@ -390,6 +392,7 @@
 | LinuxFoundation | Louis Illuzzi ||
 | LinuxFoundation | Scott Nicolas ||
 | LinuxFoundation | Todd Benzies ||
+| Locance | Mario Proietti ||
 | Locationguru | Achmed Shaheer ||
 | Lotusflare | Eric Morhenn ||
 | Lotusflare | Michael Gracias ||
@@ -486,6 +489,7 @@
 | OpenID Foundation | Gail Hodges ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
+| Optus | Reyaz Degia ||
 | Oracle | Amit Kumar Savita ||
 | Oracle | Anil Rao ||
 | Oracle | Azhar Mirza ||
@@ -548,12 +552,14 @@
 | Seoul National University | Kiho Lee ||
 | Shabodi | Camara ||
 | Shabodi | Harpreet Geekee ||
+| Shabodi | harmanjeet ||
 | Shabodi | Kevin Howe-Patterson ||
 | Shabodi | Mehdi Jafarizadeh ||
 | Shabodi | Nitin Sood ||
 | Shabodi | Surin ||
 | Shabodi | Umair Ali Rashid ||
 | Shabodi | Vikram Chopra ||
+| Shabodi | willus ||
 | Sigscale | Vance Shipley ||
 | Sinch | Harsha Appuhami Ralalage ||
 | Singtel | Foo Ming Hui ||
@@ -688,7 +694,8 @@
 | Twilio | Felipe Gutierrez ||
 | ultraTELCO | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
-| Umniah | uad Atallah ||
+| Umniah | Fuad Atallah ||
+| Umniah | Omar ALAshqar ||
 | Umniah | Tareq Abu Issa ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
