@@ -551,8 +551,8 @@
 | Seamfix | Chimezie Emewulu ||
 | Seoul National University | Kiho Lee ||
 | Shabodi | Camara ||
-| Shabodi | Harpreet Geekee ||
 | Shabodi | harmanjeet ||
+| Shabodi | Harpreet Geekee ||
 | Shabodi | Kevin Howe-Patterson ||
 | Shabodi | Mehdi Jafarizadeh ||
 | Shabodi | Nitin Sood ||
