@@ -444,6 +444,7 @@
 | Nearby Computing | Oscar Trullols ||
 | Nearby Computing | Sergi Alonso ||
 | NEC | Neeraj Mehta ||
+| Netcheck | Sanjeev Shankar ||
 | Netcracker | Dmytro Gassanov ||
 | Next Curve | Leonard Lee ||
 | NGMN Alliance | Anita Doehler ||
