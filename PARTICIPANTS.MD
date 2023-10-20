@@ -82,6 +82,7 @@
 | Bemobi | Felipe Goldin ||
 | Beyon | Noora AlFaraj ||
 | Bics | Kenneth Hardat ||
+| Blue Mobile Limited | Caleb Rukundo ||
 | BridgeAlliance | Achuth Pai ||
 | BridgeAlliance | Ken Wee ||
 | BridgeAlliance | Kumar Gaurav Singh ||
