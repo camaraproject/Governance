@@ -307,6 +307,7 @@
 | Huawei | Ruilin Cai ||
 | Huawei | Sword Lijian ||
 | Huawei | Zhengzhilong ||
+| Hushmail | Fraser King ||
 | Hutchison | Sandra Ondrusova ||
 | iBasis | Nicola Tamma ||
 | IBM | Jason Hunt ||
@@ -336,6 +337,7 @@
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Praveen Kalapatapu ||
 | Infosys | ShivPrakash Ojha ||
+| Intel / ETSI | Dario Sabella ||
 | Intel | Francesc Guim ||
 | Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
@@ -521,6 +523,7 @@
 | ORANGE | Sebastian Dewet ||
 | ORANGE | Sylvain Morel ||
 | ORI | José Domingos ||
+| Pathfinderwireless | Colby Harper ||
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Matthew Hornsey ||
 | Prodapt | Carlos Portela ||
@@ -650,6 +653,7 @@
 | Telefonica | Emilio Abraham Garrido Garcia ||
 | Telefonica | Fernando Pradocabrillo ||
 | Telefonica | Hanul Sieger ||
+| Telefonica | Javier Villa ||
 | Telefonica | Jesus Martin ||
 | Telefonica | Jesús Peña García-Oliva ||
 | Telefonica | Jorge Garcia Hospital ||
