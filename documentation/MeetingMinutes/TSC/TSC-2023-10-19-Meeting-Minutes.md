@@ -15,7 +15,7 @@
 * [x] Jan Friman - (Ericsson) Active Maintainer
 * [x] Jose Luis Urien - (Telefonica) Active Maintainer
 * [ ] Kevin Smith - (Vodafone) Active Maintainer
-* [ ] Mahesh Chapalamadugu - (Verizon) End User Council representative
+* [x] Mahesh Chapalamadugu - (Verizon) End User Council representative
 * [x] Shilpa Padgaonkar - (Deutsche Telekom AG) Active Maintainer
 * [x] Toshi (Toshiyasu) Wakayama - (KDDI) Active Maintainer
 
