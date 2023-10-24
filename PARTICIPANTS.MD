@@ -449,6 +449,7 @@
 | NEC | Neeraj Mehta ||
 | Netcheck | Sanjeev Shankar ||
 | Netcracker | Dmytro Gassanov ||
+| Netcracker | Manoj K Nair ||
 | Next Curve | Leonard Lee ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
