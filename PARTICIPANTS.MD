@@ -578,6 +578,7 @@
 | Softbank | Mai Hashimoto ||
 | Softbank | Naoto Takasu ||
 | Softbank | Noda Ayaka ||
+| Softbank | Toru Kikuchi ||
 | Spry Fox Networks | Jignesh Sorathia  ||
 | Spry Fox Networks | Mike Bowring   ||
 | Spry Fox Networks | Parichaya Shrivastava   ||
