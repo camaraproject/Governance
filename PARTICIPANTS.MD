@@ -308,6 +308,7 @@
 | Huawei | Sword Lijian ||
 | Huawei | Zhengzhilong ||
 | Hushmail | Fraser King ||
+| Hutchison | Alessio Cervone ||
 | Hutchison | Sandra Ondrusova ||
 | Hutchison | Stefano Falsetto ||
 | iBasis | Nicola Tamma ||
