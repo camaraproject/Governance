@@ -57,7 +57,7 @@ The participation of TSC Members covers well all CAMARA subproject.
 
 ## Release Management
 
-A deck was prepared by Ludovic/Herbert/Shilpa (Available within meeting notes folder)
+A deck was prepared by Ludovic/Herbert (Available within meeting notes folder)
 
 Following points were discussed:
 
