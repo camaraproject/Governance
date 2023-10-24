@@ -309,6 +309,7 @@
 | Huawei | Zhengzhilong ||
 | Hushmail | Fraser King ||
 | Hutchison | Sandra Ondrusova ||
+| Hutchison | Stefano Falsetto ||
 | iBasis | Nicola Tamma ||
 | IBM | Jason Hunt ||
 | IBM | Leandro Sosa ||
