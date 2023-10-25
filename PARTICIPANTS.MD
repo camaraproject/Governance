@@ -528,6 +528,7 @@
 | ORI | José Domingos ||
 | Pathfinderwireless | Colby Harper ||
 | PCCW Global Console Connect | Stefano De Zottis ||
+| Phronesis | Alex Ferreira ||
 | Phronesis | Matthew Hornsey ||
 | Prodapt | Carlos Portela ||
 | Proximus | Ivan Parvais ||
