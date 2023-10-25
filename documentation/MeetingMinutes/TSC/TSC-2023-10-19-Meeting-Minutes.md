@@ -64,7 +64,7 @@ Following points were discussed:
 **Discussion on API versioning** – DT proposal to use alpha<n> in API path until and API (major) version is stable
   * Distinction between repostiory release (semantic version as before) and the version shown within API base path
     * A sub project repository can contain one or multiple (closely related) APIs
-    * The version number of releases on sub project level will be used within all APIs within the repository (= the API release belongs to vX.Y.Z of the sub project)
+    * API has not to have the same version that the family release but release will match the most advanced API in sub-project. E.g.: Release 3.0 with API-X in version 3.0, API-Y in version v2alpha1 plus in version v1.0.2, etc)
     * In addition every API within a sub project will have in the basepath
       * the major version of the API only in case of a **stable** API (e.g. qod/v1)
       * the major version of the API + a postfix alpha or beta, potentially with a number (e.g. qod/v1alpha3 for the third alpha version of an API)
@@ -72,6 +72,7 @@ Following points were discussed:
     * A sub project (release) can contain
       *  multiple APIs with different maturity, e.g. location-verification/v1 and location-retrieval/v1alpha1
       *  multiple versions of the same API, e.g. edge-discovery/v1 (stable) and edge-discovery/v2alpha1
+    * sub project release will remain with 0.x until first API reaches stable v1. E.g.: A release v0.1 may include an API in v1alphaX
     * Released APIs with the same base-path will contain only non-breaking changes (are backward-compatible)
     * The version number of the sub project release allows to identify the changes between two releases of an API with the same base path   
   * **[Action]** Herbert will provide rules of management for this proposal
