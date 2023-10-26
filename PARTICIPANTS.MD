@@ -31,6 +31,7 @@
 | Apinity | David Vazquez Cortizo ||
 | Apinity | Filippo Chiozzi ||
 | Apinity | Franziska Kienzle ||
+| Aplisay | Rob ||
 | Apple | Darryl Chiles ||
 | Apple | Samy Touati ||
 | Asiainfo | Liz W. ||
