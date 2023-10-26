@@ -800,10 +800,10 @@
 |  | FBI Chamber 12 ||
 |  | Henry Brock ||
 |  | Ingemar Lindblad ||
+|  | José Emmanuel Arellano Bravo ||
 |  | Juan de Toro ||
 |  | Juan Her ||
 |  | Kuldeep Kumar ||
-|  | Marwel ||
 |  | Mcihra ||
 |  | P. Das ||
 |  | R. Sanvatsarkar ||
