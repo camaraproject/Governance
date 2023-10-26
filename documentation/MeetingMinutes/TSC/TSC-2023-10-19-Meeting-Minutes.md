@@ -64,7 +64,7 @@ Following points were discussed:
 **Discussion on API versioning** – DT proposal to use alpha<n> in API path until and API (major) version is stable
   * Distinction between repostiory release (semantic version as before) and the version shown within API base path
     * A sub project repository can contain one or multiple (closely related) APIs
-    * API has not to have the same version that the family release , and one of the proposal was that the release could match the most advanced API in sub-project. E.g.: Release 3.0 with API-X in version 3.0, API-Y in version v2alpha1 plus in version v1.0.2, etc)"
+    * Each API has its own version number which may be different to that of the family release. One of the proposal was that the release could match the most advanced API in sub-project. E.g.: Release 3.0 with API-X in version 3.0, API-Y in version v2alpha1 plus in version v1.0.2, etc)"
     * In addition every API within a sub project will have in the basepath
       * the major version of the API only in case of a **stable** API (e.g. qod/v1)
       * the major version of the API + a postfix alpha or beta, potentially with a number (e.g. qod/v1alpha3 for the third alpha version of an API)
