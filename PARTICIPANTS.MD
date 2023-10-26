@@ -765,6 +765,7 @@
 | VROMBR | Frederic Thuard ||
 | VROMBR | Michael Pastor ||
 | VROMBR | Titouan Vatonne ||
+| Wavecrest | Torrey Searle ||
 | Webbing Solutions | Baruch Pinto ||
 | Whalecloud | Mei Jiangang ||
 | Whalecloud | Zhang Yunjie ||
