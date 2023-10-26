@@ -21,7 +21,7 @@
 
 Guest Presenter:
 
-* Dawid McBride (Linux Fundation)
+* David McBride (Linux Fundation)
 
 Attendees:
 *  Sylvain Morel (Orange)
@@ -79,7 +79,7 @@ Following points were discussed:
   * The family version should also be considered – will be included in DT Proposal
     * Note: Concept of family of API – This is not relevant for all API project but only when an API project has more than one API. The Family concept is confusing for Open Gateway product Stream and should be reconsidered, potentially renamed.
 
-Dawid from Linux Fundation presented on **Linux Fundation release management support service**
+David from Linux Fundation presented on **Linux Fundation release management support service**
   * LF offers service to support release management. 
   * This service is part of the support we get in CAMARA from LF. 
   * Probably the best way to move forward is to have 2/3 people from CAMARA attending LF training on this topic and 
