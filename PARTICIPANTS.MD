@@ -166,6 +166,7 @@
 | Deutsche Telekom AG | Andre Danner ||
 | Deutsche Telekom AG | Axel Nennker ||
 | Deutsche Telekom AG | Carlos Fernandes ||
+| Deutsche Telekom AG | Daniel Dierich ||
 | Deutsche Telekom AG | Dawid Wróblewski||
 | Deutsche Telekom AG | Efthymios Isaakidis ||
 | Deutsche Telekom AG | Elmar Mundt ||
