@@ -565,7 +565,9 @@
 | Shabodi | Camara ||
 | Shabodi | harmanjeet ||
 | Shabodi | Harpreet Geekee ||
+| Shabodi | Jayanth ||
 | Shabodi | Kevin Howe-Patterson ||
+| Shabodi | Manish ||
 | Shabodi | Mehdi Jafarizadeh ||
 | Shabodi | Nitin Sood ||
 | Shabodi | Surin ||
