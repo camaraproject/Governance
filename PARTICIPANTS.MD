@@ -56,6 +56,7 @@
 | AWS | P. Shahane ||
 | AWS | Sankar Panneerselvam ||
 | AWS | Tetsuya Nakamura ||
+| axiata | Amila Nirmal ||
 | axiata | Anushka Ekanayake ||
 | axiata | Anthony Rodrigo ||
 | axiata | Chathura Mohotti ||
