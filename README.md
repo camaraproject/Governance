@@ -49,7 +49,7 @@ Consequently, all content will be made available primarily in English. We also a
 ## Technical Steering Committee
 The Technical Steering Committee is the oversight body for the technical CAMARA Project. The Technical Steering Committee currently consists of the following participants: [Technical Steering Committee](https://camaraproject.org/steering-committee/).
 
-The Technical Steering Committee meetings are held virtually, are open for the public and are scheduled each first Thursday in a month at 10am CE(s)T and every third Thursday in a month at 4pm CE(s)T time. You’re welcome to join via: [Meeting link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRkODA4YzEtZDRlNy00MDNjLWJkOTQtMDI5MjdmOTk5OTc1%40thread.v2/0?context=%7b%22Tid%22%3a%22bde4dffc-4b60-4cf6-8b04-a5eeb25f5c4f%22%2c%22Oid%22%3a%2237ff36be-0e4d-42c3-ac06-7b904f0f6b24%22%7d).
+The Technical Steering Committee meetings are held virtually, are open for the public and are scheduled each first Thursday in a month at 10am CE(s)T and every third Thursday in a month at 4pm CE(s)T time. You’re welcome to join via: [Meeting link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99444398287?password=6a122680-fba6-414f-b1f7-5e7ce5c59f21) (please sign in with your LF account).
 
 A message to all Technical Steering Committee participants can be sent using <tsc@lists.camaraproject.org>.
 
@@ -60,7 +60,7 @@ A message to all End User Council participants can be sent using <euc@lists.cama
 
 ## All Hands Calls
 
-Monthly All Hands Calls are scheduled with the whole CAMARA community to inform about latest changes, news and answer on questions. The calls are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CE(s)T time. You’re welcome to join via: [Meeting link](https://dtag.webex.com/dtag/j.php?MTID=m3132241789c25fcbeab76a9875b90cbb).
+Monthly All Hands Calls are scheduled with the whole CAMARA community to inform about latest changes, news and answer on questions. The calls are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CE(s)T time. You’re welcome to join via: [Meeting link](https://zoom-lfx.platform.linuxfoundation.org/meeting/93487157363?password=9a10a1e2-8279-43ee-a160-20da1b921180).
 
 ## Documentation
 
