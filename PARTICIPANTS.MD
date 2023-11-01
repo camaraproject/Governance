@@ -397,6 +397,7 @@
 | LinuxFoundation | Kenny Paul ||
 | LinuxFoundation | Kurt Taylor ||
 | LinuxFoundation | Louis Illuzzi ||
+| LinuxFoundation | Pano Xinos ||
 | LinuxFoundation | Scott Nicolas ||
 | LinuxFoundation | Todd Benzies ||
 | Locance | Mario Proietti ||
@@ -441,6 +442,7 @@
 | Mksa | Koffi Kodjo ||
 | Mobi2buy | Fabio Copello ||
 | Mobi2buy | Thiago Taranto ||
+| MTN | Waseem Amra ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
 | Nabstract | Vaibhav Mehta ||
