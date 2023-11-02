@@ -169,7 +169,7 @@ Responsibilities: The TSC is responsible for all aspects of oversight relating t
 - establishing community norms, workflows, issuing releases, and security issue reporting policies;
 - approving and implementing policies and processes for contributing (to be published in the [Contribution Guidelines](./CONTRIBUTING.md)) and coordinating with LF Projects to resolve matters or concerns that may arise as set forth in this Charter;
 - discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
-- receive and resolve escalations from Sub Projects on blocked topics or areas where Sub Projects are seeking input from the TSC, i.e. when the established decision process did not end up in a resolution for that topic at Sub Project level.
+- receive and resolve escalations from Sub Projects on blocked topics or areas where Sub Projects or Working Groups are seeking input from the TSC, i.e. when the established decision process did not end up in a resolution for that topic at Sub Project or Working Group level.
 
 **End-User Council**
 
@@ -237,8 +237,8 @@ For votes taken by email or similar asynchronous means, voting decisions require
 
 Technical decisions that only affect a single Sub Project are made informally by the maintainers of this Sub Project, and [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy) is assumed. If no consensus can be reached, the matter may be resolved by majority vote.
 
-Technical decisions that span multiple parts of the CAMARA Project should be discussed and made in the Commonalities Working Group.
-Decisions are usually made by [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). If no consensus can be reached, the matter may be resolved by majority vote by the TSC, Sub Project or Working Group.
+Technical decisions that span multiple parts of the CAMARA Project should be discussed and made in the Commonalities Working Group or other Working Groups established by TSC for cross-project technical issues.
+Decisions are usually made by [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). If no consensus can be reached, the matter may be resolved by majority vote by the TSC.
  
 ## Intellectual Property Policy
 
