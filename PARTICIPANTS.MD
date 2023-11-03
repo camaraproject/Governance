@@ -98,6 +98,7 @@
 | Byte | Apaz ||
 | Bytedance | Fan Yao Hang ||
 | Cablelabs | A. Yerra ||
+| Cabellabs | L. Chely ||
 | Cablelabs | Mark Bridges ||
 | Cablelabs | Paul Fonte ||
 | Cablelabs | Philip Rosenberg-Watt ||
@@ -190,6 +191,7 @@
 | Deutsche Telekom AG | Ursula Harrison ||
 | Dhiraagu | Ibrahim Yasir ||
 | Digicel Group | Miguel Vervaet ||
+| Digitalvirgo | Fran Sanchez ||
 | Dish | Jinsook Ryu ||
 | Dish | Media Johnsen ||
 | Dish | Jingyi Zhou ||
