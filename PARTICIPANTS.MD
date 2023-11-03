@@ -785,6 +785,7 @@
 | Whispir | Wayne Lee ||
 | Wiocc | Evalyne Ndungu ||
 | Wiocc | Jason Tutty ||
+| Wissup | Karamo Fanta Sacko ||
 | Wit Software | Armindo Antunes ||
 | Wit Software | Marcio Almeida ||
 | Wit Software | Paulo Sousa ||
