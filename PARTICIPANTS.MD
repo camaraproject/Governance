@@ -105,6 +105,7 @@
 | Cablelabs | R. Gandotra ||
 | Cablelabs | Randy Levensalor ||
 | Canopus Networks | Arun Vishwanath ||
+| Capgemini | Amit Rustagi ||
 | Capgemini | Deepak A. Gunjal ||
 | Celo | Bhavishya Kanjhan ||
 | Celo | Rene Reinsberg ||
