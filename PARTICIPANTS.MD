@@ -337,6 +337,7 @@
 | Infobip | Mario Kresic ||
 | Infobip | Vilim Duganic ||
 | Infobip | Zeljko Nejasmic ||
+| Infolysis | C. Fragkos ||
 | Infolysis | Nikolaos GKATZIOS ||
 | Infolysis | Nikolaos VRIONIS ||
 | Infolysis | Vaios KOUMARAS ||
