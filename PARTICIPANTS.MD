@@ -295,6 +295,7 @@
 | HCL | Razat Trehan ||
 | HGC | Ashwin Nabil Careem ||
 | HGC | Niklas Bergvall ||
+| HPE | Emanuele de Angelis ||
 | HPE | Jaime Garcia ||
 | HPE | Joao Martins ||
 | Hrvatski Telekom | Zlatka Milic ||
