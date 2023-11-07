@@ -90,6 +90,7 @@
 | BridgeAlliance | Kumar Gaurav Singh ||
 | Brillio | Kishore Vutukuri ||
 | British Telecom | Abhijit Dasgupta ||
+| British Telecom | Matt Reynolds ||
 | British Telecom | Milan Lalovic ||
 | Broadpeak | Christoph Neumann ||
 | Broadpeak | Guillaume Bichot ||
@@ -445,6 +446,7 @@
 | Mindsbeam | Bharathkumar Annamalai ||
 | Minsait | Francisco Rodriguez Garcia ||
 | Mitre Engenuity | Heather Blanchard ||
+| Mitsubishi Electric Europe | Mourad Khanfouci ||
 | Mksa | Koffi Kodjo ||
 | Mobi2buy | Fabio Copello ||
 | Mobi2buy | Thiago Taranto ||
