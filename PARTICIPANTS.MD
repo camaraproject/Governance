@@ -739,6 +739,7 @@
 | Verizon / 5GFF | Pranab Das ||
 | Verizon / 5GFF | Priyanka Shah ||
 | Verizon | Raghuram Parvataneni ||
+| Verizon | Santhi Dharmapalan ||
 | Verizon | Shammi Naz Amin ||
 | Verizon | Syed A Rehman ||
 | Verizon | Thomas Huang ||
@@ -815,6 +816,7 @@
 |  | FBI Chamber 12 ||
 |  | Henry Brock ||
 |  | Ingemar Lindblad ||
+|  | Ivanizag ||
 |  | José Emmanuel Arellano Bravo ||
 |  | Juan de Toro ||
 |  | Juan Her ||
