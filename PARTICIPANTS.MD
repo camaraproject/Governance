@@ -726,6 +726,7 @@
 | Umniah | Tareq Abu Issa ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
+| Upstream Systems | Nikos Fotiou ||
 | Vay | Jesus Gonzales Tejeria ||
 | Verizon | Alicia Miller ||
 | Verizon | Ankita Kohli ||
