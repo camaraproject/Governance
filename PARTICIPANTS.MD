@@ -107,6 +107,7 @@
 | Cablelabs | Randy Levensalor ||
 | Canopus Networks | Arun Vishwanath ||
 | Capgemini | Amit Rustagi ||
+| Capgemini | Andreas Torgersen ||
 | Capgemini | Deepak A. Gunjal ||
 | Celo | Bhavishya Kanjhan ||
 | Celo | Rene Reinsberg ||
@@ -677,6 +678,7 @@
 | Telefonica | Javier Villa ||
 | Telefonica | Jesus Martin ||
 | Telefonica | Jesús Peña García-Oliva ||
+| Telefonica | Jhon Javier Lozal Luco ||
 | Telefonica | Jorge Garcia Hospital ||
 | Telefonica | Jose A Ordonez Lucena ||
 | Telefonica | Jose Luis Urien Pinedo ||
