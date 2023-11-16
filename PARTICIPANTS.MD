@@ -459,6 +459,7 @@
 | Nearby Computing | David Carrera ||
 | Nearby Computing | Maria Serrano ||
 | Nearby Computing | Monika Valdez ||
+| Nearby Computing | N. Cadenelli ||
 | Nearby Computing | Oscar Trullols ||
 | Nearby Computing | Sergi Alonso ||
 | NEC | Neeraj Mehta ||
