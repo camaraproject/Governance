@@ -1,5 +1,6 @@
 | Org                    | Name                                                | GitHub ID |
 | -----------------------| ----------------------------------------------------|--------------------------------|
+| 1Global | Stanislav Slavkov ||
 | 1rstwap | Aerlangga Bachtiar ||
 | 1rstwap | Alex Sandra ||
 | 3G Telecoms | David Morris ||
