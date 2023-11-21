@@ -263,6 +263,7 @@
 | Fareastone | Meytsai ||
 | Fido | Francesco Panina ||
 | Foo | Ziad Hawwa ||
+| Freenet | Miguel Angelo Fernandez Iglesias ||
 | Fujitsu | Kazu Sakumoto ||
 | Fujitsu | T. Hasegawa ||
 | Gadgetspace | Todd Ashworth ||
@@ -822,6 +823,7 @@
 |  | D. Tran ||
 |  | Emmanuele Benedetto ||
 |  | FBI Chamber 12 ||
+|  | Gulwarqar Khan ||
 |  | Henry Brock ||
 |  | Ingemar Lindblad ||
 |  | Ivanizag ||
