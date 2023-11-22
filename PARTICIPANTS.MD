@@ -203,6 +203,7 @@
 | Dish | Sagar Patel ||
 | DriveU | Eli Shapira ||
 | Domos | Magnus Olden ||
+| DSB | Brian Kirkpatrick ||
 | DU | Amr Abdelsalam ||
 | DU | Fuad Melhi ||
 | E& | Amit Ahuja ||
@@ -321,6 +322,7 @@
 | Huawei | Zhengzhilong ||
 | Hushmail | Fraser King ||
 | Hutchison | Alessio Cervone ||
+| Hutchison | Mus Dumenci ||
 | Hutchison | Sandra Ondrusova ||
 | Hutchison | Stefano Falsetto ||
 | iBasis | Nicola Tamma ||
