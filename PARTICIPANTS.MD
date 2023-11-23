@@ -260,6 +260,7 @@
 | Etiya | Serafettin Acir ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
+| F5 | J. Yuan ||
 | F5 | Peter Nas ||
 | Fareastone | Meytsai ||
 | Fido | Francesco Panina ||
@@ -368,6 +369,7 @@
 | Intraway | lucas Lodeiro ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
+| JCdrawn Mobile co. ltd. | Joshua Peng ||
 | JT Global | Rupert Goldie ||
 | Juniper | Sukhdev Kapur ||
 | KDDI | Brian Vaughn ||
@@ -419,6 +421,7 @@
 | Lotusflare | Michael Gracias ||
 | M1 | Choo Sim Hwee Johnny ||
 | Madison | Alejandro Alfonso Fernandez ||
+| Madison | Victor Javier Quirog ||
 | Masmovil | Maria Segundo Romero ||
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
