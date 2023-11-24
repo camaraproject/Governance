@@ -130,6 +130,7 @@
 | China Unicom | F. Yang ||
 | China Unicom | Gao Chen ||
 | China Unicom | Guo J. ||
+| China Unicom | Jing Hao ||
 | China Unicom | Shuanghe Dong ||
 | Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Pravin Ajagekar ||
