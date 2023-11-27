@@ -721,6 +721,7 @@
 | TELUS | Oswaldo Lauschner ||
 | TELUS | Theohar Konomi ||
 | Thrustvector | Doug Eng ||
+| Timwetech | Paul Salgado ||
 | Titanium Platform | Dave Jackson ||
 | TM Forum | George Glass ||
 | TM Forum | Olta Vangjeli ||
