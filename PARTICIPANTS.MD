@@ -115,6 +115,7 @@
 | Celo | Xochitl Cazador ||
 | Centillion | Bart ||
 | Centillion | Nicholas Venezia ||
+| CGI | Frank Kleinitz ||
 | Charter | Patrick Schultz ||
 | China Mobile | Bao Yuhan ||
 | China Mobile | Hanbai Wang ||
