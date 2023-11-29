@@ -373,6 +373,7 @@
 | Itorix | Adeep Tahir ||
 | JCdrawn Mobile co. ltd. | Joshua Peng ||
 | JT Global | Rupert Goldie ||
+| Jukshio | Kishore Rajasekharuni ||
 | Juniper | Sukhdev Kapur ||
 | KDDI | Brian Vaughn ||
 | KDDI | Keichi Okonogi ||
@@ -410,6 +411,7 @@
 | LinuxFoundation | Casey Cain ||
 | LinuxFoundation | David McBride ||
 | LinuxFoundation | Evan Harrision ||
+| LinuxFoundation | Jill Lovato ||
 | LinuxFoundation | John Walicki ||
 | LinuxFoundation | Kenny Paul ||
 | LinuxFoundation | Kurt Taylor ||
