@@ -322,6 +322,7 @@
 | Huawei | Roger Wangrong ||
 | Huawei | Ruilin Cai ||
 | Huawei | Sword Lijian ||
+| Huawei | Walter Zielinski ||
 | Huawei | Zhengzhilong ||
 | Hushmail | Fraser King ||
 | Hutchison | Alessio Cervone ||
@@ -445,8 +446,9 @@
 | Meta | Ulas Kozat ||
 | Meta | Xinli Hou ||
 | Microcks | Yacine Kheddache ||
-| Microsoft | Landon Cox ||
+| Microsoft | An Shimel ||
 | Microsoft | Joe Biron ||
+| Microsoft | Landon Cox ||
 | Microsoft | Michael Brown ||
 | Microsoft | M. Kinsey ||
 | Microsoft | Moushumi Ghosal ||
@@ -648,6 +650,7 @@
 | T-Mobile US | Srujana Punyapu ||
 | Tango Networks | Gavin Sweet ||
 | Tannera | Goran Licanin ||
+| Tayana | Anand Patil ||
 | TCS | Pramath Jha ||
 | TCS | Pranay Rsahay ||
 | TCS | Prateek Vashisht ||
