@@ -446,7 +446,7 @@
 | Meta | Ulas Kozat ||
 | Meta | Xinli Hou ||
 | Microcks | Yacine Kheddache ||
-| Microsoft | An Shimel ||
+| Microsoft | Angel Shimelish ||
 | Microsoft | Joe Biron ||
 | Microsoft | Landon Cox ||
 | Microsoft | Michael Brown ||
