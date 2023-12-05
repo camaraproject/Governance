@@ -689,6 +689,7 @@
 | Telefonica | Diego Gonzales Martinez ||
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Emilio Abraham Garrido Garcia ||
+| Telefonica | Fernando Guillot ||
 | Telefonica | Fernando Pradocabrillo ||
 | Telefonica | Hanul Sieger ||
 | Telefonica | Javier Villa ||
@@ -699,6 +700,7 @@
 | Telefonica | Jose A Ordonez Lucena ||
 | Telefonica | Jose Luis Urien Pinedo ||
 | Telefonica | Juan Carlos Garcia ||
+| Telefonica | Laura Lacarraarcos ||
 | Telefonica | Luis Diaz Martin ||
 | Telefonica | Maria Virtudes Briz Ruiz ||
 | Telefonica | Miguel Alejandro Hernández ||
