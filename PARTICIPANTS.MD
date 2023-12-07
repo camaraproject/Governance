@@ -640,7 +640,7 @@
 | T-Mobile US | Antoine Egho ||
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Deepak Jaiswal ||
-| T-Mobile US| Lyle Bertz ||
+| T-Mobile US | Lyle Bertz ||
 | T-Mobile US | Mark Bales ||
 | T-Mobile US | Mike Engan ||
 | T-Mobile US | Murat Karabulut ||
@@ -648,6 +648,7 @@
 | T-Mobile US | Poornima Magadevan ||
 | T-Mobile US | Ron Marquardt ||
 | T-Mobile US | Srujana Punyapu ||
+| T-Mobile US | Stephen Compston ||
 | Tango Networks | Gavin Sweet ||
 | Tannera | Goran Licanin ||
 | Tayana | Anand Patil ||
@@ -775,6 +776,7 @@
 | Vodafone | Benedikt Blome ||
 | Vodafone | Cetin Alpaycetin ||
 | Vodafone | David Frankland ||
+| Vodafone | Edon Ophir ||
 | Vodafone | Eric Murray ||
 | Vodafone | Fraser King ||
 | Vodafone | Iván Nieto ||
@@ -848,6 +850,7 @@
 |  | Kuldeep Kumar ||
 |  | Mcihra ||
 |  | P. Das ||
+|  | Qi Tang ||
 |  | R. Sanvatsarkar ||
 |  | Rahul Panwar ||
 |  | Ravindra Palaskar ||
