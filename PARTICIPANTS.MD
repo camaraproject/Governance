@@ -99,6 +99,7 @@
 | Bundesnetzagentur | Markus Klein ||
 | Byte | Apaz ||
 | Bytedance | Fan Yao Hang ||
+| Bytedance | Zhangran Zr ||
 | Cablelabs | A. Yerra ||
 | Cabellabs | L. Chely ||
 | Cablelabs | Mark Bridges ||
@@ -589,6 +590,7 @@
 | Sekura Mobile Intelligence | Gautam Hazari ||
 | Seamfix | Chimezie Emewulu ||
 | Seoul National University | Kiho Lee ||
+| Shabodi | Brian ||
 | Shabodi | Camara ||
 | Shabodi | harmanjeet ||
 | Shabodi | Harpreet Geekee ||
@@ -609,6 +611,7 @@
 | SK Telecom | Clark Park ||
 | SK Telecom | Yoon Sun Jung ||
 | Skyvera | Ravi Shankar ||
+| SMS Highway | John Murtagh ||
 | Sofrecom | Walid Trabelsi ||
 | Softbank | Kazumasa Yazawa ||
 | Softbank | Mai Hashimoto ||
