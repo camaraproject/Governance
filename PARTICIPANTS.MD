@@ -439,6 +439,7 @@
 | Mavenir | Viswanath Krishnamurthy ||
 | MEF | Daniel Bar-Lev ||
 | MEF | Karthik ||
+| Messangi | Santiago Rojas ||
 | Meta | Bhartendu Chaurasia ||
 | Meta | Dennis Punjabi ||
 | Meta | Diego Marí Moretón ||
