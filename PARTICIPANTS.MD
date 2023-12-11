@@ -258,6 +258,7 @@
 | Ericsson | Rajat Kandoi ||
 | Ericsson | Rammohan Gopalan ||
 | Ericsson | Sarmad Nafees ||
+| Ericsson | Steven Deskovic ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
 | Etiya | Serafettin Acir ||
@@ -467,6 +468,7 @@
 | Mksa | Koffi Kodjo ||
 | Mobi2buy | Fabio Copello ||
 | Mobi2buy | Thiago Taranto ||
+| Mobily | Mohamed Hassan Taj ||
 | MTN | Waseem Amra ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
