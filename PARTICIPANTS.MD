@@ -200,6 +200,7 @@
 | Dhiraagu | Ibrahim Yasir ||
 | Digicel Group | Miguel Vervaet ||
 | Digitalvirgo | Fran Sanchez ||
+| Dimentor | Thomas Neubauer ||
 | Dish | Jinsook Ryu ||
 | Dish | Media Johnsen ||
 | Dish | Jingyi Zhou ||
