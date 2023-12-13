@@ -376,6 +376,7 @@
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
 | JCdrawn Mobile co. ltd. | Joshua Peng ||
+| JCdrawn Mobile co. ltd. | Wu Timothy ||
 | JT Global | Rupert Goldie ||
 | Jukshio | Kishore Rajasekharuni ||
 | Juniper | Sukhdev Kapur ||
@@ -547,6 +548,7 @@
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Benjamin Busvel ||
 | ORANGE | Eric Tartanson ||
+| ORANGE | Florence Arnal ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Gilles Renoux ||
 | ORANGE | Guillaume Nevicato||
@@ -854,6 +856,7 @@
 |  | José Emmanuel Arellano Bravo ||
 |  | Juan de Toro ||
 |  | Juan Her ||
+|  | Juanito Excutia ||
 |  | Kuldeep Kumar ||
 |  | Mcihra ||
 |  | P. Das ||
