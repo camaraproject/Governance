@@ -404,6 +404,7 @@
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
 | Lammda | Hans Thorsen Lamm ||
+| Latence Tech | Benoit Gendron ||
 | Latro | Shafiq Alassi ||
 | LCN | Rathnakumar Kayyar ||
 | LG U+ | Jerry Jae Yeol Kim ||
