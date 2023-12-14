@@ -117,6 +117,7 @@
 | Centillion | Bart ||
 | Centillion | Nicholas Venezia ||
 | CGI | Frank Kleinitz ||
+| Charter | Christopher Aubut ||
 | Charter | Patrick Schultz ||
 | China Mobile | Bao Yuhan ||
 | China Mobile | Hanbai Wang ||
@@ -675,6 +676,7 @@
 | Technische Universität München | Mehmetmert Bese ||t
 | Tecnotree | Chuninda Mittal ||
 | Tecnotree | Shanu Swetank ||
+| Tele 2 | Nurdaulet Zholdassov ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio ||
