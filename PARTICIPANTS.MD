@@ -748,6 +748,8 @@
 | Titanium Platform | Dave Jackson ||
 | TM Forum | George Glass ||
 | TM Forum | Olta Vangjeli ||
+| TMT Analysis UK | David Lumm ||
+| TMT Analysis UK | Matthew Hand ||
 | TMT Analysis UK | Neil Downing ||
 | Toyota | Lei Zhong ||
 | Trilio | Paulo Peres ||
