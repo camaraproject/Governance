@@ -118,6 +118,7 @@
 | Centillion | Nicholas Venezia ||
 | CGI | Frank Kleinitz ||
 | Charter | Christopher Aubut ||
+| Charter | Justin Pace ||
 | Charter | Patrick Schultz ||
 | China Mobile | Bao Yuhan ||
 | China Mobile | Hanbai Wang ||
@@ -534,6 +535,7 @@
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
 | Optus | Reyaz Degia ||
+| Optus | Scott Byiers ||
 | Oracle | Amit Kumar Savita ||
 | Oracle | Anil Rao ||
 | Oracle | Azhar Mirza ||
