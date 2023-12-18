@@ -329,6 +329,7 @@
 | Huawei | Sword Lijian ||
 | Huawei | Walter Zielinski ||
 | Huawei | Zhengzhilong ||
+| Huawei | Jin Xu ||
 | Hushmail | Fraser King ||
 | Hutchison | Alessio Cervone ||
 | Hutchison | Mus Dumenci ||
