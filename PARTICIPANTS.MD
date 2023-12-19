@@ -320,6 +320,7 @@
 | Huawei | Jiafeng Zhu ||
 | Huawei | J.P. Pallois ||
 | Huawei | Junyi Zhou ||
+| Huawei | Kai Zhang Kai ||
 | Huawei | Liang Feng ||
 | Huawei | Maria Jose Mossi (Pepa) ||
 | Huawei | Shuting Qing ||
