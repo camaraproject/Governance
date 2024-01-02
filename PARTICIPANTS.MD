@@ -623,6 +623,7 @@
 | SK Telecom | Clark Park ||
 | SK Telecom | Yoon Sun Jung ||
 | Skyvera | Ravi Shankar ||
+| Slagen | D. Garavito ||
 | SMS Highway | John Murtagh ||
 | Sofrecom | Walid Trabelsi ||
 | Softbank | Kazumasa Yazawa ||
@@ -744,6 +745,7 @@
 | TELUS | Ali Tizghadam ||
 | TELUS | Jim Slevinksy ||
 | TELUS | Oswaldo Lauschner ||
+| TELUS | Reda Zaza ||
 | TELUS | Theohar Konomi ||
 | Thrustvector | Doug Eng ||
 | Timwetech | Paul Salgado ||
@@ -764,6 +766,7 @@
 | Umniah | Fuad Atallah ||
 | Umniah | Omar ALAshqar ||
 | Umniah | Tareq Abu Issa ||
+| Universida de Vigo | R. Perez ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
 | Upstream Systems | Nikos Fotiou ||
