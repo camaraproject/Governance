@@ -277,6 +277,7 @@
 | Fujitsu | T. Hasegawa ||
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
+| GCI | Scott A. Griffith ||
 | Global Logic | Gurpreet Matharu ||
 | Global Logic | Pankaj Gupta ||
 | Global Logic | Rahul Aggarwal ||
