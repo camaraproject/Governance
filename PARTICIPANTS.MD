@@ -118,6 +118,7 @@
 | Centillion | Nicholas Venezia ||
 | CGI | Frank Kleinitz ||
 | Charter | Christopher Aubut ||
+| Charter | Jason Page ||
 | Charter | Justin Pace ||
 | Charter | Patrick Schultz ||
 | China Mobile | Bao Yuhan ||
@@ -767,6 +768,7 @@
 | Umniah | Fuad Atallah ||
 | Umniah | Omar ALAshqar ||
 | Umniah | Tareq Abu Issa ||
+| Universida de Vigo | 	Alberto Estévez Caldas ||
 | Universida de Vigo | R. Perez ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
