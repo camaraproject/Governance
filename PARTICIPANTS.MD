@@ -205,6 +205,7 @@
 | Digicel Group | Miguel Vervaet ||
 | Digitalvirgo | Fran Sanchez ||
 | Dimentor | Thomas Neubauer ||
+| Dipnet LLC USA | Nilesh Parikh ||
 | Dish | Jinsook Ryu ||
 | Dish | Media Johnsen ||
 | Dish | Jingyi Zhou ||
@@ -600,6 +601,7 @@
 | Sakon | Dan Hughes ||
 | Salesforce | Douglas Vieira e Silva ||
 | Salesforce | Teresa González García ||
+| Samsung | Malik Kasmi ||
 | Samsung | Shannon Park ||
 | Scenera | Andrew Wajs ||
 | Scenera | Chien Lim ||
@@ -652,6 +654,7 @@
 | STC | Mohammed A. Adlani ||
 | STC | Muhammad Imran Awan ||
 | STC | Naeem Ur Rehman ||
+| STL Partners | Yannick Mayaud ||
 | Summit Tech | Doug Makishima ||
 | Sunrise | Aaron Pearce ||
 | Swisscom | Felix Sutter ||
