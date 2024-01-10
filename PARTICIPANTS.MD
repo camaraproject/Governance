@@ -381,6 +381,7 @@
 | Intraway | Diego Ambuhl ||
 | Intraway | Leandro Rzezak ||
 | Intraway | lucas Lodeiro ||
+| Ipification | Aleksandar Brankovic ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
 | JCdrawn Mobile co. ltd. | Joshua Peng ||
