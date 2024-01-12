@@ -29,6 +29,7 @@
 | amdocs | Cameron Ross Dunne ||
 | amdocs | Gautam Gupta ||
 | amdocs | Steve Plain ||
+| Anlix | Gaspare Giuliano Elias Bruno ||
 | Apinity | David Vazquez Cortizo ||
 | Apinity | Filippo Chiozzi ||
 | Apinity | Franziska Kienzle ||
@@ -197,6 +198,7 @@
 | Deutsche Telekom AG | Pablo Brito ||
 | Deutsche Telekom AG | Piotr Wesolowski ||
 | Deutsche Telekom AG | Rafal Artych ||
+| Deutsche Telekom AG | Robert Jeschonnek ||
 | Deutsche Telekom AG | Shilpa Padgaonkar ||
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
