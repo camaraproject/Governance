@@ -258,6 +258,7 @@
 | Ericsson | Kishor Kumar A. ||
 | Ericsson | Klaus Schneider ||
 | Ericsson | Lutfi Yelkenci ||
+| Ericsson | Michael Axelsson ||
 | Ericsson | Miguel A. Garcia-Martin ||
 | Ericsson | Mohamed ElGamal ||
 | Ericsson | Oscar Divorra Escoda ||
@@ -316,6 +317,7 @@
 | HGC | Ashwin Nabil Careem ||
 | HGC | Niklas Bergvall ||
 | HPE | Emanuele de Angelis ||
+| HPE | Frederic Huve ||
 | HPE | Jaime Garcia ||
 | HPE | Joao Martins ||
 | Hrvatski Telekom | Zlatka Milic ||
@@ -413,10 +415,12 @@
 | KT | Jemin Chung ||
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
+| Laas | Theo Fontana ||
 | Lammda | Hans Thorsen Lamm ||
 | Latence Tech | Benoit Gendron ||
 | Latro | Shafiq Alassi ||
 | LCN | Rathnakumar Kayyar ||
+| Lenovo | Apostolis Salkintzis ||
 | LG U+ | Jerry Jae Yeol Kim ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Bobasola ||
@@ -522,6 +526,7 @@
 | Nokia | Peter Kovacs ||
 | Nokia | Rene Saathoff ||
 | Nokia | Saad Ahmad ||
+| Nokia | Samuel Adeyemo ||
 | Nokia | Shkumbin Hamiti ||
 | Nokia | Tanja de Groot ||
 | Nokia | Teerasit Songtis ||
