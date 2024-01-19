@@ -551,6 +551,7 @@
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
 | Optus | Reyaz Degia ||
+| Optus | Samid Tennakoon ||
 | Optus | Scott Byiers ||
 | Oracle | Amit Kumar Savita ||
 | Oracle | Anil Rao ||
