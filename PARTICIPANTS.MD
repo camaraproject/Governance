@@ -634,6 +634,7 @@
 | Shabodi | Vikram Chopra ||
 | Shabodi | willus ||
 | Sigscale | Vance Shipley ||
+| Simptel | Izahir Clemencia ||
 | Sinch | Harsha Appuhami Ralalage ||
 | Singtel | Foo Ming Hui ||
 | Singtel | Macus Chua ||
