@@ -723,6 +723,7 @@
 | Telefonica | Alexandre Harmand ||
 | Telefonica | Aurelia Martinez Guerra ||
 | Telefonica | Cristina Santana Casillas ||
+| Telefonica | David del Val ||
 | Telefonica | David Guillen ||
 | Telefonica | Diego Enrique Yonadi ||
 | Telefonica | Diego Gonzales Martinez ||
