@@ -620,6 +620,7 @@
 | Sekura Mobile Intelligence | Gautam Hazari ||
 | Seamfix | Chimezie Emewulu ||
 | Seoul National University | Kiho Lee ||
+| SFR | Aziz Abouchi ||
 | Shabodi | Brian ||
 | Shabodi | Camara ||
 | Shabodi | harmanjeet ||
