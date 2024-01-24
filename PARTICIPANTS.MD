@@ -207,7 +207,8 @@
 | Dhiraagu | Ibrahim Yasir ||
 | Digicel Group | Miguel Vervaet ||
 | Digitalvirgo | Fran Sanchez ||
-| Dimentor | Thomas Neubauer ||
+| Dimetor | Thomas Neubauer ||
+| Dimetor | Thomas Wana ||
 | Dipnet LLC USA | Nilesh Parikh ||
 | Dish | Jinsook Ryu ||
 | Dish | Media Johnsen ||
