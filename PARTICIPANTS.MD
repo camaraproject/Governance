@@ -389,6 +389,7 @@
 | Intraway | Leandro Rzezak ||
 | Intraway | lucas Lodeiro ||
 | Ipification | Aleksandar Brankovic ||
+| Iquall Networks | German Perez Trozzi ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
 | JCdrawn Mobile co. ltd. | Joshua Peng ||
