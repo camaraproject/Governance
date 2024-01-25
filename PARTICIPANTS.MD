@@ -873,6 +873,7 @@
 | Yupiik | François Papon ||
 | Zain | Devajeet Datta ||
 | Zignos | Carlos ||
+| ZTE | Hans Neff ||
 | ZTE | Lijuan Chen ||
 | ZTE | Jie Hu ||
 | ZTE | Wang Changjin ||
