@@ -194,6 +194,7 @@
 | Deutsche Telekom AG | Krzysztof Sielski ||
 | Deutsche Telekom AG | Mario Bodemann ||
 | Deutsche Telekom AG | Markus Kümmerle ||
+| Deutsche Telekom AG | Maximilian Laue ||
 | Deutsche Telekom AG | Nathan Rader||
 | Deutsche Telekom AG | Noel Wirzius ||
 | Deutsche Telekom AG | Pablo Brito ||
@@ -389,7 +390,9 @@
 | Intraway | Leandro Rzezak ||
 | Intraway | lucas Lodeiro ||
 | Ipification | Aleksandar Brankovic ||
+| Ipification | L. B. ||
 | Iquall Networks | German Perez Trozzi ||
+| Iquall Networks | Hernan Gonzalez ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
 | JCdrawn Mobile co. ltd. | Joshua Peng ||
