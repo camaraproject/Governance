@@ -292,6 +292,7 @@
 | Global Logic | Pankaj Gupta ||
 | Global Logic | Rahul Aggarwal ||
 | Global Logic | Umesh Kumar ||
+| Global Message Service | Elisa Cuko ||
 | GMS | Elliot Rose ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio C. ||
