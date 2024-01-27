@@ -70,7 +70,6 @@
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Udaka Kappagoda  ||
 | axiata | Viranga Seneviratne ||
-| BearingPoint | Adam Kowalczyk ||
 | BearingPoint | Carsten Aue ||
 | BearingPoint | Julius Hafer ||
 | BearingPoint | Tobias Bothur ||
@@ -381,7 +380,6 @@
 | Intel | Francesc Guim ||
 | Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
-| Intel | Oliver Neal ||
 | Intel | Oliver Roos ||
 | Intel | Petar Torre ||
 | Intersec | Ahmed Lyahou ||
