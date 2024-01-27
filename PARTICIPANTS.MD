@@ -31,7 +31,6 @@
 | amdocs | Steve Plain ||
 | Anlix | Gaspare Giuliano Elias Bruno ||
 | Apinity | David Vazquez Cortizo ||
-| Apinity | Filippo Chiozzi ||
 | Apinity | Franziska Kienzle ||
 | Aplisay | Rob ||
 | Apple | Darryl Chiles ||
