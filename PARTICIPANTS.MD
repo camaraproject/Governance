@@ -67,7 +67,6 @@
 | axiata | Harin Honestyandi Parandika  ||
 | axiata | Methsiri Kumara ||
 | axiata | Nipun Hevavitharana ||
-| axiata | Ravi Kamalendiran ||
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Udaka Kappagoda  ||
 | axiata | Viranga Seneviratne ||
