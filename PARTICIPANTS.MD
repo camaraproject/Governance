@@ -507,7 +507,6 @@
 | Nearby Computing | Sergi Alonso ||
 | NEC | Neeraj Mehta ||
 | Netcheck | Sanjeev Shankar ||
-| Netcracker | Dmytro Gassanov ||
 | Netcracker | Manoj K Nair ||
 | Netcracker | Pavel Zvezdin ||
 | Next Curve | Leonard Lee ||
