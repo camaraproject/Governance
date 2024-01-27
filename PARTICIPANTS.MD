@@ -672,7 +672,6 @@
 | Swisscom | Felix Sutter ||
 | Swisscom | Lukas Leuthold ||
 | Syniverse | Jyrki Penttinen ||
-| T-Mobile NL | Muhammad Ahmad ||
 | T-Mobile US | Antoine Egho ||
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Deepak Jaiswal ||
