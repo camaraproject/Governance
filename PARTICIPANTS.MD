@@ -807,7 +807,6 @@
 | Verizon | Massimiliano Troiani ||
 | Verizon | Michael Sullivan ||
 | Verizon / 5GFF | Parry Booker ||
-| Verizon / 5GFF | Pranab Das ||
 | Verizon / 5GFF | Priyanka Shah ||
 | Verizon | Raghuram Parvataneni ||
 | Verizon | Santhi Dharmapalan ||
