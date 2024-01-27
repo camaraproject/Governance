@@ -438,7 +438,6 @@
 | LinuxFoundation | Jill Lovato ||
 | LinuxFoundation | John Walicki ||
 | LinuxFoundation | Kenny Paul ||
-| LinuxFoundation | Kurt Taylor ||
 | LinuxFoundation | Louis Illuzzi ||
 | LinuxFoundation | Pano Xinos ||
 | LinuxFoundation | Scott Nicolas ||
