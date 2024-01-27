@@ -665,7 +665,6 @@
 | Starhub | Vanitha Ramaswami ||
 | STC | Albaraa A. Bajnaid ||
 | STC | Fahad Tanwir ||
-| STC | Ezafar C. ||
 | STC | Mohammed A. Adlani ||
 | STC | Muhammad Imran Awan ||
 | STC | Naeem Ur Rehman ||
