@@ -1,3 +1,5 @@
+### Repository
+
 * Create new repository:
   * Open Template_Lead_Repository in GitHub
   * Select button "Use this template" with "Create a new repository"
@@ -20,35 +22,41 @@
   * Add maintainers with reading permission
   * Add code owners with writing permission
 * Change CODEOWNERS file:
-  * Add a line `* @<code owner> @<code owner> ... at the end of the file
-Change MAINTAINERS.MD file:
-	Insert all maintainers
-Update README.MD
-	Replace all occurances of §...§ adequately
-	Define the value for §api_family_abbreviation§
+  * Add a line `* @<code owner> @<code owner> ...` at the end of the file
+* Change MAINTAINERS.MD file:
+	* Insert all maintainers
+* Update README.MD
+	* Replace all occurances of §...§ adequately
+	* Define the value for §api_family_abbreviation§
 
-Create Mailing Subgroup:
-	Choose "Create Subgroup" in https://lists.camaraproject.org/g/main/createsubgroup
-	Insert value for §api_family_abbreviation§ and a description (following the pattern of the existing Subgroups)
-	Select button "Create Subgroup"
-	Select "Admin" --> "Settings"
-	Select "Group Type and Moderation"
-	Select option "Restricted Membership"
-	Select button "Update Group"
-	Add all maintainers and code owners to the mailing list
+### Mailing List
 
-Add sub website to CAMARA website
-	Select "Pages" and then one of the existing sub websites
-	Switch to classic mode
-	Copy code in first big text box
-	Select again "Pages"
-	Select button "Add New Page"
-	Paste code in first big text box
-	Select button "Backend Editor"
-	Insert title
-	Update content of the sub website from GitHub Readme.md
-	Select button "Publish"
-	Update Menu including the new sub website
+* Create Mailing Subgroup:
+	* Choose "Create Subgroup" in https://lists.camaraproject.org/g/main/createsubgroup
+	* Insert value for §api_family_abbreviation§ and a description (following the pattern of the existing Subgroups)
+	* Select button "Create Subgroup"
+	* Select "Admin" --> "Settings"
+	* Select "Group Type and Moderation"
+	* Select option "Restricted Membership"
+	* Select button "Update Group"
+	* Add all maintainers and code owners to the mailing list
 
-Update CAMARA presentation
-	Insert new Sub Project in Overview slide
+### CAMARA Website
+
+* Add sub website to CAMARA website
+	* Select "Pages" and then one of the existing sub websites
+	* Switch to classic mode
+	* Copy code in first big text box
+	* Select again "Pages"
+	* Select button "Add New Page"
+	* Paste code in first big text box
+	* Select button "Backend Editor"
+	* Insert title
+	* Update content of the sub website from GitHub Readme.md
+	* Select button "Publish"
+	* Update Menu including the new sub website
+
+### CAMARA presentation
+
+* Update CAMARA presentation
+	* Insert new Sub Project in Overview slide
