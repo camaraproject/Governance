@@ -257,6 +257,7 @@
 | Ericsson | Kishor Kumar A. ||
 | Ericsson | Klaus Schneider ||
 | Ericsson | Lutfi Yelkenci ||
+| Ericsson | Mate Walthier |
 | Ericsson | Michael Axelsson ||
 | Ericsson | Miguel A. Garcia-Martin ||
 | Ericsson | Mohamed ElGamal ||
