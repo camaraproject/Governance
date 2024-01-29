@@ -33,7 +33,7 @@
 
 * Create Mailing Subgroup:
 	* Choose "Create Subgroup" in https://lists.camaraproject.org/g/main/createsubgroup
-	* Insert value for §api_family_abbreviation§ and a description (following the pattern of the existing Subgroups)
+	* Insert value for "sp-§api_family_abbreviation§" and a description (following the pattern of the existing Subgroups)
 	* Select button "Create Subgroup"
 	* Select "Admin" --> "Settings"
 	* Select "Group Type and Moderation"
