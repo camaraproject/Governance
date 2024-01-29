@@ -16,7 +16,7 @@
   * Select option "Dismiss stale pull request reviews"
   * Select option "Require review from Code Owners"
   * Select button "Create"
-  * Select button "Add rule" and repeat it with pattern "*release*"
+  * Select button "Add rule" and repeat it with pattern "\*release\*"
 * Add individuals:
   * Select "Settings" --> "Collaborators and teams"
   * Add maintainers with reading permission
