@@ -1,26 +1,26 @@
-Create new repository:
-	Open Template_Lead_Repository in GitHub
-	Select button "Use this template" with "Create a new repository"
-	Select owner "camaraproject"
-	Insert repository name and a description (following the pattern of the exisiting Sub Projects)
-	Select option "Public
-	Select button "Create repository"
-Add branch rules:
-	Select "Settings" --> "Branches"
-	Select button "Add branch protection rule"
-	Insert "main" as pattern name
-	Select option "Require a pull request before merging"
-	Select option "Require approvals"
-	Select option "Dismiss stale pull request reviews"
-	Select option "Require review from Code Owners"
-	Select button "Create"
-	Select button "Add rule" and repeat it with pattern "*release*"
-Add individuals:
-	Select "Settings" --> "Collaborators and teams"
-	Add maintainers with reading permission
-	Add code owners with writing permission
-Change CODEOWNERS file:
-	Add a line "* @<code owner> @<code owner> ..." at the end of the file
+* Create new repository:
+  * Open Template_Lead_Repository in GitHub
+  * Select button "Use this template" with "Create a new repository"
+  * Select owner "camaraproject"
+  * Insert repository name and a description (following the pattern of the exisiting Sub Projects)
+  * Select option "Public
+  * Select button "Create repository"
+* Add branch rules:
+  * Select "Settings" --> "Branches"
+  * Select button "Add branch protection rule"
+  * Insert "main" as pattern name
+  * Select option "Require a pull request before merging"
+  * Select option "Require approvals"
+  * Select option "Dismiss stale pull request reviews"
+  * Select option "Require review from Code Owners"
+  * Select button "Create"
+  * Select button "Add rule" and repeat it with pattern "*release*"
+* Add individuals:
+  * Select "Settings" --> "Collaborators and teams"
+  * Add maintainers with reading permission
+  * Add code owners with writing permission
+* Change CODEOWNERS file:
+  * Add a line `* @<code owner> @<code owner> ... at the end of the file
 Change MAINTAINERS.MD file:
 	Insert all maintainers
 Update README.MD
