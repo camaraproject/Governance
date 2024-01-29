@@ -616,6 +616,7 @@
 | Scenera | Andrew Wajs ||
 | Scenera | Chien Lim ||
 | Scenera | David Lee ||
+| Segron | Florian Leeder ||
 | Sekura Mobile Intelligence | Gautam Hazari ||
 | Seamfix | Chimezie Emewulu ||
 | Seoul National University | Kiho Lee ||
