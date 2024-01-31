@@ -318,6 +318,7 @@
 | HCL | Razat Trehan ||
 | HGC | Ashwin Nabil Careem ||
 | HGC | Niklas Bergvall ||
+| Hiya | A. Mendonca ||
 | HPE | Emanuele de Angelis ||
 | HPE | Frederic Huve ||
 | HPE | Jaime Garcia ||
