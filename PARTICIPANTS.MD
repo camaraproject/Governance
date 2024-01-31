@@ -159,6 +159,7 @@
 | Comviva | Anindita Raychoudhuri ||
 | Comviva | Aishwarya Abhijit Javkhedkar1 ||
 | Comviva | Ayush Agarwal ||
+| Comviva | Veerat Kulkarni ||
 | Comviva | Vidhi Mehta ||
 | Confluent | Oliver Plane ||
 | Connectbase | Ben Edmond ||
@@ -873,12 +874,14 @@
 | ZTE | Hans Neff ||
 | ZTE | Lijuan Chen ||
 | ZTE | Jie Hu ||
+| ZTE | Tu Jia Sun ||
 | ZTE | Wang Changjin ||
 |  | Abrar Sadd ||
 |  | Ahmad ||
 |  | Arsema Solomon ||
 |  | Carlos Vazbagper ||
 |  | cmti CA ||
+|  | Cormachegarty ||
 |  | Cristina Martinez ||
 |  | Deepankar ||
 |  | D S Rao ||
