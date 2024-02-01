@@ -171,6 +171,8 @@ Responsibilities: The TSC is responsible for all aspects of oversight relating t
 - discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
 - receive and resolve escalations from Sub Projects on blocked topics or areas where Sub Projects or Working Groups are seeking input from the TSC, i.e. when the established decision process did not end up in a resolution for that topic at Sub Project or Working Group level.
 
+It is open for members of any Sub Project or Working Group to raise issues in the TSC group for relevant topics on a need basis.
+
 **End-User Council**
 
 The EUC is composed of individuals employed by organizations that use CAMARA APIs and can provide feedback on how those APIs work. EUC participants are expected to consist primarily of developers but telecommunications companies and aggregators could also qualify if they utilize APIs to build projects or services for their own use. If there is a question as to whether a particular organization qualifies to appoint someone to the EUC, the TSC will decide.
