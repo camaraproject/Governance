@@ -64,7 +64,7 @@ Goal is that all Sub Projects updated are released at the same release milestone
 
 **Commonalities**
 
-CAMARA commonalities shall be processed in a Working Group “Commonalities” and one or more Sub Projects. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all API families. The commonalities Sub Projects shall work e.g. on the development of a common meta model that shall be used as a reference across the rest of the Sub Projects.
+CAMARA commonalities shall be processed in a Working Group “Commonalities” and one or more Sub Projects. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all API families. The commonalities Sub Projects shall work e.g. on the development of a common meta model that shall be used as a reference across the rest of the Sub Projects. It is open for members of any Sub Project or Working Group to raise issues in the TSC group for relevant topics on a need basis.
 
 All Sub Projects must comply with the work in the commonalities Working Group and the commonalities Sub Projects.
 
