@@ -320,6 +320,7 @@
 | HGC | Ashwin Nabil Careem ||
 | HGC | Niklas Bergvall ||
 | Hiya | A. Mendonca ||
+| Hiya | D. Sitte ||
 | HPE | Emanuele de Angelis ||
 | HPE | Frederic Huve ||
 | HPE | Jaime Garcia ||
@@ -519,6 +520,7 @@
 | Nokia | Daniel Bedekovich ||
 | Nokia | Dhiraj Malhotra ||
 | Nokia | Gabor Somogyi ||
+| Nokia | Gaurav Agarwal ||
 | Nokia | Gergely Csatari ||
 | Nokia | Javier Ger ||
 | Nokia | Jonathan Kline ||
@@ -742,7 +744,8 @@
 | Telefonica | Jose A Ordonez Lucena ||
 | Telefonica | Jose Luis Urien Pinedo ||
 | Telefonica | Juan Carlos Garcia ||
-| Telefonica | Laura Lacarraarcos ||
+| Telefonica | Julio Alberto Corchado Lopez ||
+| Telefonica | Laura Lacarra Arcos ||
 | Telefonica | Luis Diaz Martin ||
 | Telefonica | Maria Virtudes Briz Ruiz ||
 | Telefonica | Miguel Alejandro Hernández ||
@@ -822,6 +825,7 @@
 | Vodafone | Cetin Alpaycetin ||
 | Vodafone | David Frankland ||
 | Vodafone | Edon Ophir ||
+| Vodafone | Emmanuel Sarris ||
 | Vodafone | Eric Murray ||
 | Vodafone | Fraser King ||
 | Vodafone | Iván Nieto ||
