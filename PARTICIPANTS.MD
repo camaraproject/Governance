@@ -872,6 +872,7 @@
 | Wit Software | Raul Fonseca ||
 | Wit Software | Rita Pires ||
 | Wiwynn | Karl Chiang ||
+| YBVR | Goetz Kursawe ||
 | Yupiik | François Papon ||
 | Zain | Devajeet Datta ||
 | Zignos | Carlos ||
