@@ -441,7 +441,6 @@
 | LinuxFoundation | Evan Harrision ||
 | LinuxFoundation | Jill Lovato ||
 | LinuxFoundation | John Walicki ||
-| LinuxFoundation | Kenny Paul ||
 | LinuxFoundation | Louis Illuzzi ||
 | LinuxFoundation | Pano Xinos ||
 | LinuxFoundation | Scott Nicolas ||
