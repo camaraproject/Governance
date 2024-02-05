@@ -863,6 +863,7 @@
 | Whispir | Graham Link ||
 | Whispir | Sharina Rapales ||
 | Whispir | Wayne Lee ||
+| WINGS ICT Solutions SA | Sokratis Barmpounakis ||
 | Wiocc | Evalyne Ndungu ||
 | Wiocc | Jason Tutty ||
 | Wissup | Karamo Fanta Sacko ||
