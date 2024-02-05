@@ -787,6 +787,7 @@
 | Trustrelay | Lukas Hohl ||
 | Tykelab | M. Massaroni ||
 | Twilio | Felipe Gutierrez ||
+| U2opia | Sarang Jain ||
 | ultraTELCO | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
 | Umniah | Fuad Atallah ||
