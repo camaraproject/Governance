@@ -83,6 +83,7 @@
 | Bell Canada | Vijay Kumaraguruthasan ||
 | Bemobi | Felipe Goldin ||
 | Beyon | Noora AlFaraj ||
+| Bics | Daniel Behar ||
 | Bics | Kenneth Hardat ||
 | Blue Mobile Limited | Caleb Rukundo ||
 | BridgeAlliance | Achuth Pai ||
@@ -478,6 +479,7 @@
 | Microsoft | M. Kinsey ||
 | Microsoft | Moushumi Ghosal ||
 | Microsoft | Ricardo Villarreal ||
+| Microsoft | Sally-Anne Bennett ||
 | Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
 | Midokura | Alon Harel ||
@@ -641,6 +643,7 @@
 | Sigscale | Vance Shipley ||
 | Simptel | Izahir Clemencia ||
 | Sinch | Harsha Appuhami Ralalage ||
+| Sinch | Mats Magnusson ||
 | Singtel | Foo Ming Hui ||
 | Singtel | Macus Chua ||
 | Singularity Tech | Daisy Phan ||
