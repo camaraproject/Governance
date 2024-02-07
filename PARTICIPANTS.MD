@@ -287,6 +287,7 @@
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | GCI | Scott A. Griffith ||
+| GIP | G. Vidas ||
 | Global Logic | Gurpreet Matharu ||
 | Global Logic | Pankaj Gupta ||
 | Global Logic | Rahul Aggarwal ||
@@ -591,6 +592,7 @@
 | ORANGE | Sylvain Morel ||
 | ORI | José Domingos ||
 | Pathfinderwireless | Colby Harper ||
+| PCCW Global Console Connect | Ray CY Wong ||
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Alex Ferreira ||
 | Phronesis | Matthew Hornsey ||
@@ -719,6 +721,7 @@
 | TIM | Roberto Procopio ||
 | TIM Brazil | Anderson De Souza Marinho ||
 | TIM Brazil | Bruno Leandro Campos De Miranda ||
+| TIM Brazil | J. W. Junior ||
 | TIM Brazil | Paulo Cesar Dias Lima ||
 | TIM Brazil | Robson De Andrade Esteves ||
 | TIM Brazil | Rodrigo Lupareli ||
