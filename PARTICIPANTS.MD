@@ -391,8 +391,8 @@
 | Intraway | Diego Ambuhl ||
 | Intraway | Leandro Rzezak ||
 | Intraway | lucas Lodeiro ||
-| Ipification | Aleksandar Brankovic ||
-| Ipification | L. B. ||
+| IPification | Aleksandar Brankovic ||
+| IPification | Lazar Bulic ||
 | Iquall Networks | German Perez Trozzi ||
 | Iquall Networks | Hernan Gonzalez ||
 | ITCenter | Paulo Monteiro ||
