@@ -472,7 +472,6 @@
 | Meta | Bhabani Panda ||
 | Meta | Rehan Siddiqui ||
 | Meta | Ulas Kozat ||
-| Meta | Xinli Hou ||
 | Microcks | Yacine Kheddache ||
 | Microsoft | Angel Shimelish ||
 | Microsoft | Landon Cox ||
