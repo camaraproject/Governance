@@ -69,6 +69,7 @@
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Udaka Kappagoda  ||
 | axiata | Viranga Seneviratne ||
+| BBC | David Butler ||
 | BearingPoint | Carsten Aue ||
 | BearingPoint | Julius Hafer ||
 | BearingPoint | Tobias Bothur ||
@@ -93,6 +94,7 @@
 | British Telecom | Abhijit Dasgupta ||
 | British Telecom | Matt Reynolds ||
 | British Telecom | Milan Lalovic ||
+| British Telecom | Tim Rawling ||
 | Broadcom | Padma Sudarsan ||
 | Broadpeak | Christoph Neumann ||
 | Broadpeak | Guillaume Bichot ||
@@ -264,6 +266,7 @@
 | Ericsson | Miguel A. Garcia-Martin ||
 | Ericsson | Mohamed ElGamal ||
 | Ericsson | Oscar Divorra Escoda ||
+| Ericsson | Patrick Jestin ||
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
 | Ericsson | Rajat Kandoi ||
