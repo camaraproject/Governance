@@ -593,6 +593,7 @@
 | ORANGE | Sebastian Dewet ||
 | ORANGE | Sylvain Morel ||
 | ORI | José Domingos ||
+| Palantir | Matt Foreman ||
 | Pathfinderwireless | Colby Harper ||
 | PCCW Global Console Connect | Ray CY Wong ||
 | PCCW Global Console Connect | Stefano De Zottis ||
@@ -902,6 +903,7 @@
 |  | D S Rao ||
 |  | D. Tran ||
 |  | Emmanuele Benedetto ||
+|  | Enlai Chu ||
 |  | FBI Chamber 12 ||
 |  | Feed C ||
 |  | Gulwarqar Khan ||
