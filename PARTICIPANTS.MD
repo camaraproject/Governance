@@ -86,6 +86,7 @@
 | Bemobi | Felipe Goldin ||
 | Beyon | Noora AlFaraj ||
 | Bics | Daniel Behar ||
+| Bics | Karan Verma ||
 | Bics | Kenneth Hardat ||
 | Blue Mobile Limited | Caleb Rukundo ||
 | BridgeAlliance | Achuth Pai ||
