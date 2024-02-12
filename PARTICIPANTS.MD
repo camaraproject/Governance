@@ -29,6 +29,7 @@
 | amdocs | Cameron Ross Dunne ||
 | amdocs | Gautam Gupta ||
 | amdocs | Steve Plain ||
+| Andorra Telecom | Felip Correas Bons ||
 | Anlix | Gaspare Giuliano Elias Bruno ||
 | Apinity | David Vazquez Cortizo ||
 | Apinity | Franziska Kienzle ||
