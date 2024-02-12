@@ -915,7 +915,6 @@
 |  | Juan Her ||
 |  | Juanito Excutia ||
 |  | Kuldeep Kumar ||
-|  | Mcihra ||
 |  | P. Das ||
 |  | Qi Tang ||
 |  | R. Sanvatsarkar ||
