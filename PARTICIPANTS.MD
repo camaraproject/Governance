@@ -355,6 +355,7 @@
 | Hutchison | Mus Dumenci ||
 | Hutchison | Sandra Ondrusova ||
 | Hutchison | Stefano Falsetto ||
+| I2Cat | Reza Mosahebfard ||
 | iBasis | Nicola Tamma ||
 | IBM | Jason Hunt ||
 | IBM | Leandro Sosa ||
