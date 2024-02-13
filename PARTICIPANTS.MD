@@ -743,7 +743,6 @@
 | Telefonica | Diego Enrique Yonadi ||
 | Telefonica | Diego Gonzales Martinez ||
 | Telefonica | Diego R. Lopez ||
-| Telefonica | e.4p.obint.2.tid ||
 | Telefonica | Emilio Abraham Garrido Garcia ||
 | Telefonica | Fernando Guillot ||
 | Telefonica | Fernando Pradocabrillo ||
@@ -760,6 +759,7 @@
 | Telefonica | Laura Lacarra Arcos ||
 | Telefonica | Luis Diaz Martin ||
 | Telefonica | Maria Virtudes Briz Ruiz ||
+| Telefonica | Maxim Chizhov ||
 | Telefonica | Miguel Alejandro Hernández ||
 | Telefonica | Mona Mokhber ||
 | Telefonica | Pablo Iglesiassanuy ||
