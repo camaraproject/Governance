@@ -246,6 +246,7 @@
 | Ericsson | Amardeep A. Kumar ||
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Bart van Kaathoven ||
+| Ericsson | Benedek Kovács ||
 | Ericsson | Carlos Bravo ||
 | Ericsson | Cormac A. Hegarty ||
 | Ericsson | Denis Borscia ||
