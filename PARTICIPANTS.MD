@@ -655,6 +655,7 @@
 | Sinch | Mats Magnusson ||
 | Singtel | Foo Ming Hui ||
 | Singtel | Macus Chua ||
+| Singtel | Zhang Xin ||
 | Singularity Tech | Daisy Phan ||
 | SK Telecom | Clark Park ||
 | SK Telecom | Yoon Sun Jung ||
