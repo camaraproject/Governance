@@ -678,7 +678,6 @@
 | Spry Fox Networks | Steven Ballantyne   ||
 | Spry Fox Networks | Stuart Waine   ||
 | Sri Lanka Telecom PLC | Anil Kumara ||
-| SS8 | Keith Bhatia ||
 | Starhub | Rajesh Naresh Mhatre ||
 | Starhub | Vanitha Ramaswami ||
 | STC | Albaraa A. Bajnaid ||
