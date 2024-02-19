@@ -493,7 +493,6 @@
 | Microsoft | Sally-Anne Bennett ||
 | Microsoft | Shawn Hakl  ||
 | Microsoft | Thilo Ewald ||
-| Midokura | Alon Harel ||
 | Midokura | Kenji Shimizu ||
 | Millicom | Alejandro Blacut ||
 | Mindsbeam | Bharathkumar Annamalai ||
