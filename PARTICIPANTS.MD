@@ -148,6 +148,7 @@
 | Cisco | Ravi Shek ||
 | Citictel | Gabriel Shui ||
 | Claro | Joao Nero ||
+| ClearX | Bar Hodis ||
 | ClearX | Ortal Tubul ||
 | ClearX | Yiftah Rottem ||
 | Cloud Communications | Joseph Marion ||
