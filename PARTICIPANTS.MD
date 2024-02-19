@@ -148,6 +148,7 @@
 | Cisco | Ravi Shek ||
 | Citictel | Gabriel Shui ||
 | Claro | Joao Nero ||
+| Claro | LETICIA CAMILO BRITO ||
 | ClearX | Bar Hodis ||
 | ClearX | Ortal Tubul ||
 | ClearX | Yiftah Rottem ||
