@@ -148,6 +148,8 @@
 | Cisco | Ravi Shek ||
 | Citictel | Gabriel Shui ||
 | Claro | Joao Nero ||
+| ClearX | Ortal Tubul ||
+| ClearX | Yiftah Rottem ||
 | Cloud Communications | Joseph Marion ||
 | CM | Bas Gijzen ||
 | CodeB | Jussi Makela ||
@@ -454,6 +456,7 @@
 | LinuxFoundation | Pano Xinos ||
 | LinuxFoundation | Scott Nicolas ||
 | LinuxFoundation | Todd Benzies ||
+| Liveu | Baruch Altman ||
 | Locance | Mario Proietti ||
 | Locationguru | Achmed Shaheer ||
 | Lotusflare | Eric Morhenn ||
@@ -866,6 +869,7 @@
 | Vodafone | Steven Pater ||
 | Vonage | Andrew Pratt ||
 | Vonage | Chris Howell ||
+| Vonage | Chris Mina ||
 | Vonage | Chris Skowronek ||
 | Vonage | Jose Recio ||
 | VROMBR | Frederic Thuard ||
