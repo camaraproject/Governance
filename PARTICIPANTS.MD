@@ -337,6 +337,7 @@
 | HPE | Frederic Huve ||
 | HPE | Jaime Garcia ||
 | HPE | Joao Martins ||
+| HPE | Paolo Ceccherini ||
 | Hrvatski Telekom | Zlatka Milic ||
 | hSenid Mobile Solutions Singapore PTE LTD | Amith Lokugamage || 
 | Huawei | Albert Wang ||
@@ -441,6 +442,7 @@
 | Latro | Shafiq Alassi ||
 | LCN | Rathnakumar Kayyar ||
 | Lenovo | Apostolis Salkintzis ||
+| Lenovo | N. Petropoulea ||
 | LG U+ | Jerry Jae Yeol Kim ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Bobasola ||
@@ -583,6 +585,7 @@
 | Oracle | Ruta Abhay Potnis ||
 | Oracle | Tom Spraggins ||
 | Oracle | Walter Prior ||
+| ORANGE | Ana Romero Fife ||
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Benjamin Busvel ||
 | ORANGE | Eric Tartanson ||
@@ -687,6 +690,7 @@
 | STC | Muhammad Imran Awan ||
 | STC | Naeem Ur Rehman ||
 | STL Partners | Yannick Mayaud ||
+| SUE | Serge van Namen ||
 | Summit Tech | Doug Makishima ||
 | Sunrise | Aaron Pearce ||
 | Swisscom | Felix Sutter ||
@@ -792,6 +796,7 @@
 | TELUS | Reda Zaza ||
 | TELUS | Theohar Konomi ||
 | Thrustvector | Doug Eng ||
+| Timwetech | Jose Ribeiro ||
 | Timwetech | Paul Salgado ||
 | Titanium Platform | Dave Jackson ||
 | TM Forum | George Glass ||
@@ -926,6 +931,7 @@
 |  | Juanito Excutia ||
 |  | Kuldeep Kumar ||
 |  | P. Das ||
+|  | Pat Jensen ||
 |  | Qi Tang ||
 |  | R. Sanvatsarkar ||
 |  | Rahul Panwar ||
