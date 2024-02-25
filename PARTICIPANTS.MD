@@ -400,6 +400,7 @@
 | Intel | Petar Torre ||
 | Intersec | Ahmed Lyahou ||
 | Intersec | Sebastian Synold ||
+| Intracom Telecom | Vasileios Theodorou ||
 | Intraway | Diego Ambuhl ||
 | Intraway | Leandro Rzezak ||
 | Intraway | lucas Lodeiro ||
