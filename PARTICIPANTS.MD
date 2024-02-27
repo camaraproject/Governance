@@ -434,6 +434,7 @@
 | KPN | Marco Geurden ||
 | KPN | Sjoerd Visser ||
 | KPN | Tony Spooner ||
+| KPN | Zoran Milisav ||
 | KT | Jemin Chung ||
 | KT | Yeon Loo Lim ||
 | Kyndryl | Pablo Montes ||
@@ -713,6 +714,7 @@
 | T-Mobile US | Stephen Compston ||
 | Tango Networks | Gavin Sweet ||
 | Tannera | Goran Licanin ||
+| Tata Communications | Vikas Rao ||
 | Tayana | Anand Patil ||
 | TCS | Pramath Jha ||
 | TCS | Pranay Rsahay ||
