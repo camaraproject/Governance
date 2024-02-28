@@ -786,6 +786,7 @@
 | Telefonica | Victor Barranco Fernandez ||
 | Telenor Connexion | Soheil Chohan ||
 | Telesmart | Bulent Tuncel ||
+| Telestratum | Balakrishnan Chittor Rajagopal ||
 | Telstra | Abdul Majid Hussain ||
 | Telstra | Anu Rajagopal ||
 | Telstra / 5GFF | Brett Hill ||
