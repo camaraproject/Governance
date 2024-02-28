@@ -568,7 +568,7 @@
 | Nuvemlabs | Jaswant Boyat ||
 | nxt:fwd | smo Antikainen ||
 | Ookla | Leandro de Marchi ||
-| OpenID Foundation / Verizon | Bjorn Hjelm ||
+| OpenID Foundation | Bjorn Hjelm ||
 | OpenID Foundation | Gail Hodges ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
@@ -913,6 +913,7 @@
 | ZTE | Wang Changjin ||
 |  | Abrar Sadd ||
 |  | Ahmad ||
+|  | Andrew Sungwoon Song |
 |  | Arsema Solomon ||
 |  | Carlos Vazbagper ||
 |  | cmti CA ||
