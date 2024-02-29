@@ -285,6 +285,7 @@
 | Etiya | Serafettin Acir ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
+| Exomi | Jukka Vaisanen ||
 | F5 | J. Yuan ||
 | F5 | Peter Nas ||
 | F5 | R. Dalbenzio ||
@@ -320,6 +321,7 @@
 | GSMA | Henry Calvert ||
 | GSMA | Lucy Thatcher ||
 | GSMA | Mark Cornall ||
+| GSMA | Olu Omobitan ||
 | GSMA | Steve Russ ||
 | GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
