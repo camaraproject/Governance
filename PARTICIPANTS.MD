@@ -153,6 +153,8 @@
 | ClearX | Ortal Tubul ||
 | ClearX | Yiftah Rottem ||
 | Cloud Communications | Joseph Marion ||
+| Cloudonix | Eric Klein ||
+| Cloudlern | Yves Basquet ||
 | CM | Bas Gijzen ||
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
@@ -878,6 +880,7 @@
 | Vodafone | Sergio Carretero ||
 | Vodafone | Simon Gordon ||
 | Vodafone | Sönke Peters ||
+| Vodafone | Steve Vickers ||
 | Vodafone | Steven Pater ||
 | Vonage | Andrew Pratt ||
 | Vonage | Chris Howell ||
