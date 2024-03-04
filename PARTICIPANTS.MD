@@ -634,6 +634,7 @@
 | Reply | Gianmarco Sciortino ||
 | Rogers | Nicholas Manolakos ||
 | Rohde & Schwarz | Tim Kittel ||
+| Route Mobile / TruSense | Priya Verma ||
 | Saitro | Luis Carlos Toledo ||
 | Sakon | Chris Simandl ||
 | Sakon | Dan Hughes ||
