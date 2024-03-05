@@ -835,6 +835,7 @@
 | Vay | Jesus Gonzales Tejeria ||
 | Verizon | Alicia Miller ||
 | Verizon | Ankita Kohli ||
+| Verizon | Doug Walker ||
 | Verizon / 5GFF | Jeremy Giese ||
 | Verizon | Kapil Maheshwari ||
 | Verizon / 5GFF | Kevin Xu ||
