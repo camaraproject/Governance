@@ -624,6 +624,7 @@
 | Proximus | Ivan Parvais ||
 | PWC | Florian Groene ||
 | Qwilt | Yoav ||
+| Quantexa | Jay Gupta ||
 | Quicksoft | Andrew Dana ||
 | Quobis | Elías Pérez Carrera ||
 | Quobis | Santiago Troncoso ||
