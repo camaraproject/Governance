@@ -12,6 +12,7 @@
 | Accenture | Dibyendu Singha Roy ||
 | Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
+| Accenture | Govinda Ramaswamy ||
 | Accenture | Mohamed E. Ali ||
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
@@ -352,6 +353,7 @@
 | Huawei | Junyi Zhou ||
 | Huawei | Kai Zhang Kai ||
 | Huawei | Liang Feng ||
+| Huawei | Luo Rong Hui ||
 | Huawei | Maria Jose Mossi (Pepa) ||
 | Huawei | Shuting Qing ||
 | Huawei | Roger Fengyulin ||
@@ -613,6 +615,7 @@
 | ORI | José Domingos ||
 | Palantir | Matt Foreman ||
 | Pathfinderwireless | Colby Harper ||
+| Pavonis | DMD ||
 | PCCW Global Console Connect | Ray CY Wong ||
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Alex Ferreira ||
