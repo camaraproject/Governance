@@ -17,6 +17,7 @@
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
 | Acom Networks | Harold Chen ||
+| Aegis Mobile | Don Holloway ||
 | Airtel India | Ramit Chawla ||
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
@@ -776,6 +777,7 @@
 | Telefonica | Jorge Garcia Hospital ||
 | Telefonica | Jose A Ordonez Lucena ||
 | Telefonica | Jose Luis Urien Pinedo ||
+| Telefonica | JOSE MANUEL CONDE GOMEZ ||
 | Telefonica | Juan Carlos Garcia ||
 | Telefonica | Julio Alberto Corchado Lopez ||
 | Telefonica | Laura Lacarra Arcos ||
