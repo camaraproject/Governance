@@ -433,6 +433,7 @@
 | KDDI | Yusuke Nakano ||
 | Keysight | Pelle Ravn || 
 | Kinetix | Paolo Galeotti ||
+| KORE Wireless | Jorrit Kronjee ||
 | KPN | Ellen Aartsen ||
 | KPN | Frits Vanlieshout ||
 | KPN | Guido Luijten ||
