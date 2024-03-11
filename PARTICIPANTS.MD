@@ -611,6 +611,7 @@
 | ORANGE | Manoj Mourya ||
 | ORANGE | Maxime Delon ||
 | ORANGE | Olivier Mathieu ||
+| ORANGE | Renaud Jarnier ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sebastian Dewet ||
 | ORANGE | Sylvain Morel ||
@@ -860,6 +861,7 @@
 | Verizon | Urvika Vummadisetty ||
 | Vertis Solutions | Julio Araujo ||
 | Viavi Solutions | Madhur Mehta ||
+| Viettel | Ductm ||
 | Vodacom | Surajj Jaggernath ||
 | Vodafone | Alex Pertwee ||
 | Vodafone | Alexander Boraczynski ||
@@ -931,6 +933,7 @@
 |  | Ahmad ||
 |  | Andrew Sungwoon Song |
 |  | Arsema Solomon ||
+|  | Basit Tanveer ||
 |  | Carlos Vazbagper ||
 |  | cmti CA ||
 |  | Cormachegarty ||
@@ -943,7 +946,6 @@
 |  | FBI Chamber 12 ||
 |  | Feed C ||
 |  | Gulwarqar Khan ||
-|  | Henry Brock ||
 |  | Ingemar Lindblad ||
 |  | Ivanizag ||
 |  | José Emmanuel Arellano Bravo ||
