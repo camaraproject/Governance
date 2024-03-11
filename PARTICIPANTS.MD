@@ -534,6 +534,7 @@
 | Netcheck | Sanjeev Shankar ||
 | Netcracker | Manoj K Nair ||
 | Netcracker | Pavel Zvezdin ||
+| Netfocusin Technologies | J. Banerjee ||
 | Next Curve | Leonard Lee ||
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
