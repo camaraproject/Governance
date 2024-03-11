@@ -643,6 +643,7 @@
 | Rogers | Nicholas Manolakos ||
 | Rohde & Schwarz | Tim Kittel ||
 | Route Mobile / TruSense | Priya Verma ||
+| Route Mobile | Snehil Pandey ||
 | Saitro | Luis Carlos Toledo ||
 | Sakon | Chris Simandl ||
 | Sakon | Dan Hughes ||
