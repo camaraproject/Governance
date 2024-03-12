@@ -21,6 +21,7 @@
 | Airtel India | Ramit Chawla ||
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
+| Airtime Rewards | Annika Fuchs ||
 | AIS | Boonchoung Tansuthepverawongse ||
 | Alianza | Dag Peak ||
 | Alicon | Ike Alisson ||
@@ -638,6 +639,7 @@
 | Radisys | Tapas Raiguru ||
 | Radisys | Yong Xin ||
 | Rain | Henri Kivioja ||
+| Rakuten | Ravi Chamarty ||
 | Redhat | Hanen Garcia ||
 | Reply | Gianmarco Sciortino ||
 | Rogers | Nicholas Manolakos ||
