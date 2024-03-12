@@ -774,6 +774,7 @@
 | Telefonica | Fernando Guillot ||
 | Telefonica | Fernando Pradocabrillo ||
 | Telefonica | Hanul Sieger ||
+| Telefonica | Ignacio Dominguez Martinez ||
 | Telefonica | Javier Villa ||
 | Telefonica | Jesus Martin ||
 | Telefonica | Jesús Peña García-Oliva ||
