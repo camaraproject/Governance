@@ -541,6 +541,7 @@
 | NGMN Alliance | Anita Doehler ||
 | NGMN Alliance | Chris Hogg ||
 | Nife | Nida ||
+| NLT | William Araujo ||
 | Nokia | Akin Akintola ||
 | Nokia | Atul Purohit ||
 | Nokia Bell Labs | Bessem Sayadi ||
