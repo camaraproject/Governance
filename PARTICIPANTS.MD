@@ -290,6 +290,7 @@
 | Etiya | Serafettin Acir ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
+| EVOX | Tom Wu ||
 | Exomi | Jukka Vaisanen ||
 | F5 | J. Yuan ||
 | F5 | Peter Nas ||
