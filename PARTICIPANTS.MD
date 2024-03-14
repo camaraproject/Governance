@@ -16,7 +16,6 @@
 | Accenture | Mohamed E. Ali ||
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
-| Acom Networks | Harold Chen ||
 | Aegis Mobile | Don Holloway ||
 | Airtel India | Ramit Chawla ||
 | Airtel India | Sudhir Mittal ||
