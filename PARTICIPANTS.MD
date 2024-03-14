@@ -37,7 +37,7 @@
 | Apinity | David Vazquez Cortizo ||
 | Apinity | Franziska Kienzle ||
 | Aplisay | Rob ||
-| Apple | Darryl Chiles ||
+| Apple | Darryl Alexander Chiles ||
 | Apple | Samy Touati ||
 | Asiainfo | Liz W. ||
 | Asiainfo | Zhang L. H. ||
@@ -54,7 +54,7 @@
 | AT&T | S. B. ||
 | AT&T | Sachin Kakkar ||
 | AT&T | Shahram Mohajeri ||
-| AT&T | Wiley Wilkins ||
+| AT&T | Wiley C. Wilkins ||
 | AT&T Mexico | JUAN ZITLALPOPOCA BADILLO ||
 | Atrinet | Yoav Segman ||
 | AWS | Chivas Nambiar ||
