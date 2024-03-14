@@ -350,6 +350,7 @@
 | hSenid Mobile Solutions Singapore PTE LTD | Amith Lokugamage || 
 | Huawei | Albert Wang ||
 | Huawei | Alex Wuning ||
+| Huawei | Andrew Zheng ||
 | Huawei | Chuanyu Chen ||
 | Huawei | Jiafeng Zhu ||
 | Huawei | J.P. Pallois ||
@@ -962,6 +963,7 @@
 |  | Juanito Excutia ||
 |  | Kuldeep Kumar ||
 |  | P. Das ||
+|  | Paramet Prame ||
 |  | Pat Jensen ||
 |  | Qi Tang ||
 |  | R. Sanvatsarkar ||
