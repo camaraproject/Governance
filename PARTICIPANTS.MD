@@ -190,7 +190,6 @@
 | Deloitte | Mohammad Shammout ||
 | Detecon | Pawel Krysiak ||
 | Deutsche Telekom AG | Akos Hunyadi ||
-| Deutsche Telekom AG | Alexander Khine ||
 | Deutsche Telekom AG | Andre Danner ||
 | Deutsche Telekom AG | Axel Nennker ||
 | Deutsche Telekom AG | Carlos Fernandes ||
