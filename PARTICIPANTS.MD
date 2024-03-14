@@ -22,6 +22,7 @@
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
 | Airtime Rewards | Annika Fuchs ||
+| Airtime Rewards | Adam Ward ||
 | AIS | Boonchoung Tansuthepverawongse ||
 | Alianza | Dag Peak ||
 | Alicon | Ike Alisson ||
@@ -628,6 +629,7 @@
 | Phronesis | Alex Ferreira ||
 | Phronesis | Matthew Hornsey ||
 | Prodapt | Carlos Portela ||
+| Proximus | Geoffrey Cristallo ||
 | Proximus | Ivan Parvais ||
 | PWC | Florian Groene ||
 | Qwilt | Yoav ||
