@@ -652,13 +652,13 @@
 | Salesforce | Douglas Vieira e Silva ||
 | Salesforce | Teresa González García ||
 | Samsung | Malik Kasmi ||
-| Samsung | Shannon Park ||
+| Samsung | Seonyoung Park (Shannon) ||
 | Scenera | Andrew Wajs ||
 | Scenera | Chien Lim ||
-| Scenera | David Lee ||
+| Scenera | David D. Lee ||
+| Seamfix | Chimezie Emewulu ||
 | Segron | Florian Leeder ||
 | Sekura Mobile Intelligence | Gautam Hazari ||
-| Seamfix | Chimezie Emewulu ||
 | Seoul National University | Kiho Lee ||
 | SFR | Aziz Abouchi ||
 | Shabodi | Brian ||
@@ -679,14 +679,14 @@
 | Simptel | Izahir Clemencia ||
 | Sinch | Harsha Appuhami Ralalage ||
 | Sinch | Mats Magnusson ||
-| Singtel | Foo Ming Hui ||
 | Singtel | Macus Chua ||
+| Singtel | Ming Hui Foo ||
 | Singtel | Zhang Xin ||
 | Singularity Tech | Daisy Phan ||
 | SK Telecom | Clark Park ||
-| SK Telecom | Yoon Sun Jung ||
+| SK Telecom | Yoon Sun Jung (Serena) ||
 | Skyvera | Ravi Shankar ||
-| Slagen | D. Garavito ||
+| Slagen | Dagoberto Garavito ||
 | SMS Highway | John Murtagh ||
 | Sofrecom | Walid Trabelsi ||
 | Softbank | Kazumasa Yazawa ||
@@ -694,12 +694,12 @@
 | Softbank | Naoto Takasu ||
 | Softbank | Noda Ayaka ||
 | Softbank | Toru Kikuchi ||
-| Spry Fox Networks | Jignesh Sorathia  ||
-| Spry Fox Networks | Mike Bowring   ||
-| Spry Fox Networks | Parichaya Shrivastava   ||
-| Spry Fox Networks | Ramesh Shanmugasundaram   ||
-| Spry Fox Networks | Steven Ballantyne   ||
-| Spry Fox Networks | Stuart Waine   ||
+| Spry Fox Networks | Jignesh Sorathia ||
+| Spry Fox Networks | Mike Bowring ||
+| Spry Fox Networks | Parichaya Shrivastava ||
+| Spry Fox Networks | Ramesh Shanmugasundaram ||
+| Spry Fox Networks | Steven Ballantyne ||
+| Spry Fox Networks | Stuart Waine ||
 | Sri Lanka Telecom PLC | Anil Kumara ||
 | Starhub | Rajesh Naresh Mhatre ||
 | Starhub | Vanitha Ramaswami ||
@@ -723,7 +723,7 @@
 | T-Mobile US | Marouane Balmakhtar ||
 | T-Mobile US | Mayank Bhutani ||
 | T-Mobile US | Mike Engan ||
-| T-Mobile US | Murat Karabulut ||
+| T-Mobile US | Murat/Galip Karabulut ||
 | T-Mobile US | Murthy Gorty ||
 | T-Mobile US | Poornima Magadevan ||
 | T-Mobile US | Ron Marquardt ||
@@ -768,33 +768,33 @@
 | Telefonica | Alexandre Harmand ||
 | Telefonica | Aurelia Martinez Guerra ||
 | Telefonica | Cristina Santana Casillas ||
-| Telefonica | David del Val ||
-| Telefonica | David Guillen ||
+| Telefonica | DAVID ARTUÑEDO GUILLEN ||
+| Telefonica | David Del Val ||
 | Telefonica | Diego Enrique Yonadi ||
-| Telefonica | Diego Gonzales Martinez ||
+| Telefonica | Diego Gonzalez Martinez ||
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Emilio Abraham Garrido Garcia ||
 | Telefonica | Fernando Guillot ||
-| Telefonica | Fernando Pradocabrillo ||
+| Telefonica | Fernando Prado Cabrillo ||
 | Telefonica | Hanul Sieger ||
 | Telefonica | Ignacio Dominguez Martinez ||
-| Telefonica | Javier Villa ||
-| Telefonica | Jesus Martin ||
+| Telefonica | Javier Villa Labarra Practicas ||
+| Telefonica | JESUS MARIA MARTIN GARCIA ||
 | Telefonica | Jesús Peña García-Oliva ||
 | Telefonica | Jhon Javier Lozal Luco ||
 | Telefonica | Jorge Garcia Hospital ||
-| Telefonica | Jose A Ordonez Lucena ||
+| Telefonica | JOSE ANTONIO ORDOÑEZ LUCENA ||
 | Telefonica | Jose Luis Urien Pinedo ||
 | Telefonica | JOSE MANUEL CONDE GOMEZ ||
-| Telefonica | Juan Carlos Garcia ||
+| Telefonica | JUAN CARLOS GARCIA LOPEZ ||
 | Telefonica | Julio Alberto Corchado Lopez ||
 | Telefonica | Laura Lacarra Arcos ||
 | Telefonica | Luis Diaz Martin ||
 | Telefonica | Maria Virtudes Briz Ruiz ||
 | Telefonica | Maxim Chizhov ||
-| Telefonica | Miguel Alejandro Hernández ||
+| Telefonica | MIGUEL ALEJANDRO HERNANDEZ ARMENGOL ||
 | Telefonica | Mona Mokhber ||
-| Telefonica | Pablo Iglesiassanuy ||
+| Telefonica | Pablo Iglesias Sanuy ||
 | Telefonica | Patricia Ventura Gomez ||
 | Telefonica | Pedro Diez Garcia ||
 | Telefonica | Philip Lengyel ||
@@ -821,7 +821,7 @@
 | TELUS | Theohar Konomi ||
 | Thrustvector | Doug Eng ||
 | Timwetech | Jose Ribeiro ||
-| Timwetech | Paul Salgado ||
+| Timwetech | Paulo Salgado ||
 | Titanium Platform | Dave Jackson ||
 | TM Forum | George Glass ||
 | TM Forum | Olta Vangjeli ||
@@ -833,20 +833,20 @@
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
 | Trustrelay | Lukas Hohl ||
-| Tykelab | M. Massaroni ||
 | Twilio | Felipe Gutierrez ||
+| Tykelab | M. Massaroni ||
 | U2opia | Sarang Jain ||
 | ultraTELCO | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
 | Umniah | Fuad Atallah ||
 | Umniah | Omar ALAshqar ||
 | Umniah | Tareq Abu Issa ||
-| Universida de Vigo | 	Alberto Estévez Caldas ||
+| Universida de Vigo | Alberto Estévez Caldas ||
 | Universida de Vigo | R. Perez ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
 | Upstream Systems | Nikos Fotiou ||
-| Vay | Jesus Gonzales Tejeria ||
+| Vay | Jesus Gonzalez Tejeria ||
 | Verizon | Alicia Miller ||
 | Verizon | Ankita Kohli ||
 | Verizon | Doug Walker ||
@@ -857,7 +857,7 @@
 | Verizon | Mason Ng ||
 | Verizon | Massimiliano Troiani ||
 | Verizon | Michael Sullivan ||
-| Verizon / 5GFF | Parry Booker ||
+| Verizon / 5GFF | Parry Cornell Booker ||
 | Verizon / 5GFF | Priyanka Shah ||
 | Verizon | Raghuram Parvataneni ||
 | Verizon | Santhi Dharmapalan ||
@@ -884,22 +884,20 @@
 | Vodafone | Jim Barron ||
 | Vodafone | Joao Gaspar da Silva ||
 | Vodafone | Johanna Wood ||
-| Vodafone / 5GFF | Kevin Smith ||
 | Vodafone | Klaus Reifenrath ||
+| Vodafone / 5GFF | Kevin Smith ||
 | Vodafone | Mahesh Joshi ||
 | Vodafone | Mariusz Dawidowicz ||
-| Vodafone | Marta Martin ||
+| Vodafone | Marta Martin Bravo ||
 | Vodafone | Nevin Aquinas ||
 | Vodafone | Ralph-Joachim Gramberg ||
 | Vodafone | Ratna Ganeshanandan ||
 | Vodafone | Sachin Kumar ||
-| Vodafone | Sebastian Köller ||
-| Vodafone | Sergio Carretero ||
+| Vodafone | Sergio Carretero Millan ||
 | Vodafone | Simon Gordon ||
 | Vodafone | Sönke Peters ||
 | Vodafone | Steve Vickers ||
 | Vodafone | Steven Pater ||
-| Vonage | Andrew Pratt ||
 | Vonage | Chris Howell ||
 | Vonage | Chris Mina ||
 | Vonage | Chris Skowronek ||
@@ -933,8 +931,8 @@
 | Zain | Devajeet Datta ||
 | Zignos | Carlos ||
 | ZTE | Hans Neff ||
-| ZTE | Lijuan Chen ||
 | ZTE | Jie Hu ||
+| ZTE | Lijuan Chen ||
 | ZTE | Tu Jia Sun ||
 | ZTE | Wang Changjin ||
 |  | Abrar Sadd ||
@@ -946,14 +944,14 @@
 |  | cmti CA ||
 |  | Cormachegarty ||
 |  | Cristina Martinez ||
-|  | Deepankar ||
 |  | D S Rao ||
 |  | D. Tran ||
+|  | Deepankar ||
 |  | Emmanuele Benedetto ||
 |  | Enlai Chu ||
 |  | FBI Chamber 12 ||
 |  | Feed C ||
-|  | Gulwarqar Khan ||
+|  | Gulwaqar Khan ||
 |  | Ingemar Lindblad ||
 |  | Ivanizag ||
 |  | José Emmanuel Arellano Bravo ||
@@ -967,7 +965,6 @@
 |  | Qi Tang ||
 |  | R. Sanvatsarkar ||
 |  | Rahul Panwar ||
-|  | Ravindra Palaskar ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
 |  | Shao Long Chou ||
