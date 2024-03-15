@@ -524,23 +524,22 @@
 | Nantisystem | Esteban Quijano Bonfil ||
 | Nearby Computing | David Carrera ||
 | Nearby Computing | Maria Serrano ||
-| Nearby Computing | Monika Valdez ||
-| Nearby Computing | N. Cadenelli ||
-| Nearby Computing | Oscar Trullols ||
-| Nearby Computing | Sergi Alonso ||
+| Nearby Computing | Monika Louize Valdez ||
+| Nearby Computing | Nicola Cadenelli ||
+| Nearby Computing | Oscar Trullols-Cruces ||
+| Nearby Computing | Sergio Alonso ||
 | NEC | Neeraj Mehta ||
 | Netcheck | Sanjeev Shankar ||
-| Netcracker | Manoj K Nair ||
+| Netcracker | Manoj K. Nair ||
 | Netcracker | Pavel Zvezdin ||
-| Netfocusin Technologies | J. Banerjee ||
+| Netfocusin Technologies | Joydeep Banerjee ||
 | Next Curve | Leonard Lee ||
-| NGMN Alliance | Anita Doehler ||
+| NGMN Alliance | Anita Döhler ||
 | NGMN Alliance | Chris Hogg ||
 | Nife | Nida ||
 | NLT | William Araujo ||
 | Nokia | Akin Akintola ||
 | Nokia | Atul Purohit ||
-| Nokia Bell Labs | Bessem Sayadi ||
 | Nokia | Chris Jones ||
 | Nokia | Daniel Bedekovich ||
 | Nokia | Dhiraj Malhotra ||
@@ -552,18 +551,18 @@
 | Nokia | Marc Erhardt ||
 | Nokia | Mario Vasconcelli ||
 | Nokia | Mikko Jarva ||
-| Nokia | Mohan 1. Rao ||
+| Nokia | Mohan Rao ||
 | Nokia | Peter Kovacs ||
 | Nokia | Rene Saathoff ||
 | Nokia | Saad Ahmad ||
 | Nokia | Samuel Adeyemo ||
 | Nokia | Shkumbin Hamiti ||
 | Nokia | Tanja de Groot ||
-| Nokia | Teerasit Songtis ||
 | Nokia | Uwe Rauschenbach ||
 | Nokia | William Stanley ||
 | Nokia | Yatin Dharamshi ||
 | Nokia | Zoltan Olah ||
+| Nokia Bell Labs | Bessem Sayadi ||
 | Noname Security | Ides Vanneuville ||
 | Nos | Catarina Raquel Pereira ||
 | Nos | Nuno Erodrigues ||
@@ -571,15 +570,14 @@
 | Nos | Pedro Miguel Hilario ||
 | Nos | Telmo Miguel Rodrigues ||
 | NTT Data | Josef Reisinger ||
-| NTT Data | Luis Rubio Martinez ||
+| NTT Data | Luis Fernando Rubio Martinez ||
 | Nuage | Gabriel Klein ||
 | Nuvemlabs | Jaswant Boyat ||
-| nxt:fwd | smo Antikainen ||
-| Ookla | Leandro de Marchi ||
-| OpenID Foundation | Bjorn Hjelm ||
-| OpenID Foundation | Gail Hodges ||
+| nxt:fwd | Ismo Antikainen ||
+| Ookla | Leandro A. Demarchi ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
+| OpenID Foundation | Gail Hodges ||
 | Optus | Reyaz Degia ||
 | Optus | Samid Tennakoon ||
 | Optus | Scott Byiers ||
@@ -589,32 +587,34 @@
 | Oracle | Chandra Bommanaveni ||
 | Oracle | Fabio Felici ||
 | Oracle | Kinshuk Kulshreshtha ||
-| Oracle | Luis Silva ||
+| Oracle | Luis Filipe Carvalho da Silva ||
 | Oracle | Paulo Farnezi ||
 | Oracle | Piyush Sarwal ||
 | Oracle | Richard Williams ||
 | Oracle | Ruta Abhay Potnis ||
-| Oracle | Tom Spraggins ||
+| Oracle | Salvador Marchal ||
+| Oracle | Todd Spraggins ||
 | Oracle | Walter Prior ||
 | ORANGE | Ana Romero Fife ||
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Benjamin Busvel ||
+| ORANGE | Denis Borscia ||
 | ORANGE | Eric Tartanson ||
 | ORANGE | Florence Arnal ||
 | ORANGE | Frederic Fieau ||
 | ORANGE | Gilles Renoux ||
-| ORANGE | Guillaume Nevicato||
-| ORANGE | Guy Vidal||
+| ORANGE | Guillaume Nevicato ||
+| ORANGE | Guy Vidal ||
 | ORANGE | Jean Luc Sire ||
 | ORANGE | John Eisenman ||
 | ORANGE | Ludovic Robert ||
 | ORANGE | Manoj Mourya ||
 | ORANGE | Maxime Delon ||
 | ORANGE | Olivier Mathieu ||
-| ORANGE | Renaud Jarnier ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sebastian Dewet ||
 | ORANGE | Sylvain Morel ||
+| ORANGE Caraibe | Renaud Jarnier ||
 | ORI | José Domingos ||
 | Palantir | Matt Foreman ||
 | Pathfinderwireless | Colby Harper ||
@@ -626,12 +626,12 @@
 | Prodapt | Carlos Portela ||
 | Proximus | Geoffrey Cristallo ||
 | Proximus | Ivan Parvais ||
-| PWC | Florian Groene ||
-| Qwilt | Yoav ||
+| PWC | Florian Gröne ||
 | Quantexa | Jay Gupta ||
-| Quicksoft | Andrew Dana ||
+| Quicksoft | Andrew Dena ||
 | Quobis | Elías Pérez Carrera ||
 | Quobis | Santiago Troncoso ||
+| Qwilt | Yoav ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
 | Radisys | Kiran Bharadwaj Vedula ||
@@ -641,6 +641,7 @@
 | Rakuten | Ravi Chamarty ||
 | Redhat | Hanen Garcia ||
 | Reply | Gianmarco Sciortino ||
+| Ril | Kumar Gaurav Singh ||
 | Rogers | Nicholas Manolakos ||
 | Rohde & Schwarz | Tim Kittel ||
 | Route Mobile / TruSense | Priya Verma ||
