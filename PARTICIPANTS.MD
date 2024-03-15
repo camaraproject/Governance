@@ -376,14 +376,14 @@
 | IBM | Leandro Sosa ||
 | IBM | Pablo Kahale ||
 | IBM | Yusuf Mirza ||
-| IBM | Zyg Lozinski ||
+| IBM | Zygmunt Lozinski ||
 | iCloud | Warren Prasad ||
 | IDC | John Byrne ||
 | IEEE | Mak Saleh ||
 | IIT Demokritos | Harilaos Koumaras ||
 | Ikerlan | G. Nieto ||
 | Ikerlan | Idela Iglesia ||
-| Ilabs | Harm Arendshorst ||
+| Ilabs | Harm Jan Arendshorst ||
 | Infinite | Arun Konathala ||
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
@@ -398,10 +398,10 @@
 | Infosys | Akash Tripathi ||
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
-| Infosys | Praveen Kalapatapu ||
-| Infosys | ShivPrakash Ojha ||
+| Infosys | Praveen Kumar Kalapatapu ||
+| Infosys | Shiv Prakash Ojha ||
+| Intel | (Fran)Cesc Guim ||
 | Intel / ETSI | Dario Sabella ||
-| Intel | Francesc Guim ||
 | Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
 | Intel | Oliver Roos ||
@@ -439,7 +439,7 @@
 | KPN | Frits Vanlieshout ||
 | KPN | Guido Luijten ||
 | KPN | Huub Appelboom ||
-| KPN | Leon Denelsen ||
+| KPN | Leon Den Elsen ||
 | KPN | Marco Geurden ||
 | KPN | Sjoerd Visser ||
 | KPN | Tony Spooner ||
@@ -454,27 +454,25 @@
 | LCN | Rathnakumar Kayyar ||
 | Lenovo | Apostolis Salkintzis ||
 | Lenovo | N. Petropoulea ||
-| LG U+ | Jerry Jae Yeol Kim ||
+| LG U+ | Jae Yeol Kim (Jerry) ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Bobasola ||
-| LibertyGlobal | G. Haddad ||
+| LibertyGlobal | George Haddad ||
 | LibertyGlobal | Laszlo Suto ||
-| LibertyGlobal | Max Gasparroni || 
+| LibertyGlobal | Massimiliano Gasparroni || 
 | LibertyGlobal | Oscar Tejedor Garcia ||
 | LibertyGlobal | W. Rees ||
 | LinuxFoundation | Arpit Joshipura ||
 | LinuxFoundation | Casey Cain ||
-| LinuxFoundation | David McBride ||
-| LinuxFoundation | Evan Harrision ||
+| LinuxFoundation | Evan Harrison ||
 | LinuxFoundation | Jill Lovato ||
 | LinuxFoundation | John Walicki ||
 | LinuxFoundation | Louis Illuzzi ||
 | LinuxFoundation | Pano Xinos ||
-| LinuxFoundation | Scott Nicolas ||
-| LinuxFoundation | Todd Benzies ||
+| LinuxFoundation | Scott Nicholas ||
 | Liveu | Baruch Altman ||
 | Locance | Mario Proietti ||
-| Locationguru | Achmed Shaheer ||
+| Locationguru | Ahmed Shaheer ||
 | Lotusflare | Eric Morhenn ||
 | Lotusflare | Michael Gracias ||
 | M1 | Choo Sim Hwee Johnny ||
@@ -490,19 +488,18 @@
 | Mavenir | Sushanth Hegde ||
 | Mavenir | Viswanath Krishnamurthy ||
 | MEF | Daniel Bar-Lev ||
-| MEF | Karthik ||
 | Messangi | Santiago Rojas ||
+| Meta | Bhabani Panda ||
 | Meta | Bhartendu Chaurasia ||
 | Meta | Dennis Punjabi ||
 | Meta | Diego Marí Moretón ||
-| Meta | Bhabani Panda ||
 | Meta | Rehan Siddiqui ||
 | Meta | Ulas Kozat ||
 | Microcks | Yacine Kheddache ||
 | Microsoft | Angel Shimelish ||
 | Microsoft | Landon Cox ||
-| Microsoft | Michael Brown ||
 | Microsoft | M. Kinsey ||
+| Microsoft | Michael Brown ||
 | Microsoft | Moushumi Ghosal ||
 | Microsoft | Ricardo Villarreal ||
 | Microsoft | Sally-Anne Bennett ||
