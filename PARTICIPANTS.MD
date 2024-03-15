@@ -243,6 +243,7 @@
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
 | EdgeXR | Thomas Vits ||
+| Emircom | Alvita Pinto ||
 | EN5 | Paul ||
 | ENEA | Fergus Wills ||
 | ENEA | Iftikhar Waheed ||
