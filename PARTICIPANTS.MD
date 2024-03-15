@@ -59,12 +59,12 @@
 | Atrinet | Yoav Segman ||
 | AWS | Chivas Nambiar ||
 | AWS | Ishwar Parulkar ||
-| AWS | P. Shahane ||
+| AWS | Prateek Shahane ||
 | AWS | Sankar Panneerselvam ||
 | AWS | Tetsuya Nakamura ||
 | axiata | Amila Nirmal ||
-| axiata | Anushka Ekanayake ||
 | axiata | Anthony Rodrigo ||
+| axiata | Anushka Ekanayake ||
 | axiata | Chathura Mohotti ||
 | axiata | Geethan Samarawickrema ||
 | axiata | Harin Honestyandi Parandika  ||
@@ -94,7 +94,6 @@
 | Blue Mobile Limited | Caleb Rukundo ||
 | BridgeAlliance | Achuth Pai ||
 | BridgeAlliance | Ken Wee ||
-| BridgeAlliance | Kumar Gaurav Singh ||
 | Brillio | Kishore Vutukuri ||
 | British Telecom | Abhijit Dasgupta ||
 | British Telecom | Matt Reynolds ||
@@ -105,11 +104,11 @@
 | Broadpeak | Guillaume Bichot ||
 | Broadpeak | Tuan Tran ||
 | Bundesnetzagentur | Markus Klein ||
-| Byte | Apaz ||
-| Bytedance | Fan Yao Hang ||
+| Byte | Aaron Paz ||
+| Bytedance | Fan Yao Hang (Owen) ||
 | Bytedance | Zhangran Zr ||
-| Cablelabs | A. Yerra ||
-| Cabellabs | L. Chely ||
+| Cablelabs | Arun Yerra ||
+| Cabellabs | Leo Chely ||
 | Cablelabs | Mark Bridges ||
 | Cablelabs | Paul Fonte ||
 | Cablelabs | Philip Rosenberg-Watt ||
@@ -138,40 +137,40 @@
 | China Mobile | Qian Ze Bin ||
 | China Telecom | Dan Xu ||
 | China Telecom | V. Lieh Gd ||
-| China Telecom | Zhang X. ||
+| China Telecom | Xianyang Zhang ||
 | China Unicom | D. S. Wang ||
-| China Unicom | F. Yang ||
 | China Unicom | Gao Chen ||
 | China Unicom | Guo J. ||
 | China Unicom | Jing Hao ||
 | China Unicom | Shuanghe Dong ||
+| China Unicom | Yang Fan ||
 | Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Pravin Ajagekar ||
 | Cisco | Ravi Guntupalli ||
 | Cisco | Ravi Shek ||
 | Citictel | Gabriel Shui ||
-| Claro | Joao Nero ||
-| Claro | LETICIA CAMILO BRITO ||
+| Claro | João Del Nero ||
+| Claro | Leticia Brito Terceiros ||
 | ClearX | Bar Hodis ||
 | ClearX | Ortal Tubul ||
 | ClearX | Yiftah Rottem ||
 | Cloud Communications | Joseph Marion ||
-| Cloudonix | Eric Klein ||
 | Cloudlern | Yves Basquet ||
+| Cloudonix | Eric Klein ||
 | CM | Bas Gijzen ||
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
 | Cognizant | Manish Jain ||
 | Cognizant | R. Karthikraj ||
-| Cognizant | Siddharth Khatri ||
+| Cognizant | Siddharth Prakash Khatri ||
 | Cognizant | Vigneshwaran S ||
 | Colony Networks | Adriano Carmezim ||
 | Colony Networks | Kevin Lu ||
 | Colony Networks | Michael Kuhlmann ||
 | Comcast | Prasad Siddalinga ||
 | Comtech | Jamie Hart ||
-| Comviva | Anindita Raychoudhuri ||
 | Comviva | Aishwarya Abhijit Javkhedkar1 ||
+| Comviva | Anindita Raychoudhuri ||
 | Comviva | Ayush Agarwal ||
 | Comviva | Veerat Kulkarni ||
 | Comviva | Vidhi Mehta ||
