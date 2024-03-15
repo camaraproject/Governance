@@ -190,10 +190,10 @@
 | Detecon | Pawel Krysiak ||
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
+| Deutsche Telekom AG | Antonio Carlos Correia Fernandes ||
 | Deutsche Telekom AG | Axel Nennker ||
-| Deutsche Telekom AG | Carlos Fernandes ||
 | Deutsche Telekom AG | Daniel Dierich ||
-| Deutsche Telekom AG | Dawid Wróblewski||
+| Deutsche Telekom AG | Dawid Wróblewski ||
 | Deutsche Telekom AG | Efthymios Isaakidis ||
 | Deutsche Telekom AG | Elmar Mundt ||
 | Deutsche Telekom AG | Felix Dsouza ||
@@ -204,11 +204,12 @@
 | Deutsche Telekom AG | Mario Bodemann ||
 | Deutsche Telekom AG | Markus Kümmerle ||
 | Deutsche Telekom AG | Maximilian Laue ||
-| Deutsche Telekom AG | Nathan Rader||
+| Deutsche Telekom AG | Nathan Rader ||
 | Deutsche Telekom AG | Noel Wirzius ||
 | Deutsche Telekom AG | Pablo Brito ||
 | Deutsche Telekom AG | Piotr Wesolowski ||
 | Deutsche Telekom AG | Rafal Artych ||
+| Deutsche Telekom AG | Ravindra Palaskar ||
 | Deutsche Telekom AG | Robert Jeschonnek ||
 | Deutsche Telekom AG | Shilpa Padgaonkar ||
 | Deutsche Telekom AG | Steffen Drüsedow ||
@@ -220,12 +221,12 @@
 | Dimetor | Thomas Neubauer ||
 | Dimetor | Thomas Wana ||
 | Dipnet LLC USA | Nilesh Parikh ||
+| Dish | Jingyi Zhou ||
 | Dish | Jinsook Ryu ||
 | Dish | Media Johnsen ||
-| Dish | Jingyi Zhou ||
 | Dish | Sagar Patel ||
-| DriveU | Eli Shapira ||
 | Domos | Magnus Olden ||
+| DriveU | Eli Shapira ||
 | DSB | Brian Kirkpatrick ||
 | DU | Amr Abdelsalam ||
 | DU | Fuad Melhi ||
@@ -248,15 +249,15 @@
 | ENEA | Osvaldo Aldao ||
 | Entel | Duran Nardecchia Eduardo ||
 | Equityai | Matthew Webster ||
-| Ericsson | Alok D. Gupta ||
 | Ericsson | Ajit R. Raghavan ||
+| Ericsson | Alok D. Gupta ||
 | Ericsson | Amardeep A. Kumar ||
+| Ericsson | Andrew Pratt ||
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Bart van Kaathoven ||
 | Ericsson | Benedek Kovács ||
 | Ericsson | Carlos Bravo ||
 | Ericsson | Cormac A. Hegarty ||
-| Ericsson | Denis Borscia ||
 | Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
 | Ericsson | Fatih Bastan ||
@@ -273,7 +274,7 @@
 | Ericsson | Lutfi Yelkenci ||
 | Ericsson | Mate Walthier |
 | Ericsson | Michael Axelsson ||
-| Ericsson | Miguel A. Garcia-Martin ||
+| Ericsson | Miguel A. García-Martin ||
 | Ericsson | Mohamed ElGamal ||
 | Ericsson | Oscar Divorra Escoda ||
 | Ericsson | Patrick Jestin ||
@@ -298,12 +299,12 @@
 | Foo | Ziad Hawwa ||
 | Freenet | Miguel Angelo Fernandez Iglesias ||
 | Fujitsu | Kazu Sakumoto ||
-| Fujitsu | T. Hasegawa ||
+| Fujitsu | Terry Hasegawa ||
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | GCI | Scott A. Griffith ||
 | GIP | G. Vidas ||
-| Global Logic | Gurpreet Matharu ||
+| Global Logic | Gurpreet Singh Matharu ||
 | Global Logic | Pankaj Gupta ||
 | Global Logic | Rahul Aggarwal ||
 | Global Logic | Umesh Kumar ||
@@ -324,11 +325,11 @@
 | GSMA | Helen Vigue ||
 | GSMA | Henry Calvert ||
 | GSMA | Lucy Thatcher ||
-| GSMA | Mark Cornall ||
+| GSMA | Marc Cornall ||
 | GSMA | Olu Omobitan ||
 | GSMA | Steve Russ ||
-| GSMA | Toyeeb Rehman ||
 | GSMA | Tom van Pelt ||
+| GSMA | Toyeeb Rehman ||
 | Gwirio | David Roux ||
 | Hawaiian Telecom | Kevin Folan ||
 | HCL | Kuldeep Singhn ||
@@ -341,30 +342,29 @@
 | Hiya | D. Sitte ||
 | HPE | Emanuele de Angelis ||
 | HPE | Frederic Huve ||
-| HPE | Jaime Garcia ||
 | HPE | Joao Martins ||
 | HPE | Paolo Ceccherini ||
 | Hrvatski Telekom | Zlatka Milic ||
 | hSenid Mobile Solutions Singapore PTE LTD | Amith Lokugamage || 
-| Huawei | Albert Wang ||
 | Huawei | Alex Wuning ||
 | Huawei | Andrew Zheng ||
 | Huawei | Chuanyu Chen ||
-| Huawei | Jiafeng Zhu ||
 | Huawei | J.P. Pallois ||
+| Huawei | Jiafeng Zhu ||
+| Huawei | Jin Xu (Philip) ||
 | Huawei | Junyi Zhou ||
 | Huawei | Kai Zhang Kai ||
-| Huawei | Liang Feng ||
+| Huawei | Liang Feng (Michael) ||
 | Huawei | Luo Rong Hui ||
 | Huawei | Maria Jose Mossi (Pepa) ||
-| Huawei | Shuting Qing ||
-| Huawei | Roger Fengyulin ||
 | Huawei | Roger Wangrong ||
 | Huawei | Ruilin Cai ||
+| Huawei | Shuting Qing (Miranda) ||
 | Huawei | Sword Lijian ||
 | Huawei | Walter Zielinski ||
-| Huawei | Zhengzhilong ||
-| Huawei | Jin Xu ||
+| Huawei | Wang Jia (Albert) ||
+| Huawei | Yulin Fengyulin (Roger) ||
+| Huawei | Zhengzhilong (Bryant) ||
 | Hushmail | Fraser King ||
 | Hutchison | Alessio Cervone ||
 | Hutchison | Mus Dumenci ||
