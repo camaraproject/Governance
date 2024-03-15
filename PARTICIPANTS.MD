@@ -848,6 +848,7 @@
 | University of Patras | Christos Tranoris ||
 | Upstream Systems | Nikos Fotiou ||
 | Vay | Jesus Gonzalez Tejeria ||
+| Vdotok AB | Zohaib Khan ||
 | Verizon | Alicia Miller ||
 | Verizon | Ankita Kohli ||
 | Verizon | Doug Walker ||
