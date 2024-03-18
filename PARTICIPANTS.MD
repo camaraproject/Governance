@@ -890,10 +890,11 @@
 | Vodafone | Joao Gaspar da Silva ||
 | Vodafone | Johanna Wood ||
 | Vodafone | Klaus Reifenrath ||
-| Vodafone / 5GFF | Kevin Smith ||
+| Vodafone | Kevin Smith ||
 | Vodafone | Mahesh Joshi ||
 | Vodafone | Mariusz Dawidowicz ||
 | Vodafone | Marta Martin Bravo ||
+| Vodafone | Michael Thomas Charles ||
 | Vodafone | Nevin Aquinas ||
 | Vodafone | Ralph-Joachim Gramberg ||
 | Vodafone | Ratna Ganeshanandan ||
