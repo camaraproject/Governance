@@ -332,6 +332,7 @@
 | GSMA | Tom van Pelt ||
 | GSMA | Toyeeb Rehman ||
 | Gwirio | David Roux ||
+| Hansen CX | Brian Cappellani ||
 | Hawaiian Telecom | Kevin Folan ||
 | HCL | Kuldeep Singhn ||
 | HCL | Norbert Naveen ||
@@ -350,6 +351,7 @@
 | Huawei | Alex Wuning ||
 | Huawei | Andrew Zheng ||
 | Huawei | Chuanyu Chen ||
+| Huawei | Guo Jian Hua ||
 | Huawei | J.P. Pallois ||
 | Huawei | Jiafeng Zhu ||
 | Huawei | Jin Xu (Philip) ||
@@ -685,6 +687,7 @@
 | Singtel | Zhang Xin ||
 | Singularity Tech | Daisy Phan ||
 | SK Telecom | Clark Park ||
+| SK Telecom | Dong Hwan ||
 | SK Telecom | Yoon Sun Jung (Serena) ||
 | Skyvera | Ravi Shankar ||
 | Slagen | Dagoberto Garavito ||
