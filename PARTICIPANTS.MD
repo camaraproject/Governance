@@ -180,6 +180,7 @@
 | CPAAS ACCELERATION ALLIANCE | Rob Kurver ||
 | CTHINGS | Arnold Wierzejski ||
 | CTHINGS | Shreyas Vinod ||
+| Cubic Telekom | Andre Schlufter ||
 | Defne | Erhan Ermisoglu ||
 | Defne | Erkan Giray Arat ||
 | Defne | Giray Arat ||
