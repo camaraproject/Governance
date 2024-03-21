@@ -77,6 +77,7 @@
 | BearingPoint | Carsten Aue ||
 | BearingPoint | Julius Hafer ||
 | BearingPoint | Tobias Bothur ||
+| Beesion | Juliana Das Graças de Oliveira ||
 | Beijing Shuyuan Digital City Research Center | Qi Min ||
 | Beijing University of Posts and Telecommunications | Junli Xue ||
 | Bell Canada | Gaurav Kumar Agarwal ||
