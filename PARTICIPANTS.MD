@@ -872,6 +872,7 @@
 | Verizon | Raghuram Parvataneni ||
 | Verizon | Santhi Dharmapalan ||
 | Verizon | Shammi Naz Amin ||
+| Verizon | Sudhakar Patil ||
 | Verizon | Syed A Rehman ||
 | Verizon | Thomas Huang ||
 | Verizon | Urvika Vummadisetty ||
