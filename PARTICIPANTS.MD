@@ -180,6 +180,7 @@
 | Connectbase | Ben Edmond ||
 | Convergenc3 | Loyiso Mlandu ||
 | CPAAS ACCELERATION ALLIANCE | Rob Kurver ||
+| CPAAS ACCELERATION ALLIANCE | Robert Galop ||
 | CTHINGS | Arnold Wierzejski ||
 | CTHINGS | Shreyas Vinod ||
 | Cubic Telekom | Andre Schlufter ||
