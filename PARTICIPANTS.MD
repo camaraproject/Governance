@@ -392,6 +392,7 @@
 | Ikerlan | G. Nieto ||
 | Ikerlan | Idela Iglesia ||
 | Ilabs | Harm Jan Arendshorst ||
+| Incognito | Jhuli Takahara ||
 | Infinite | Arun Konathala ||
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
