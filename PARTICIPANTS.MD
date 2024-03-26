@@ -911,6 +911,7 @@
 | Vodafone | Sönke Peters ||
 | Vodafone | Steve Vickers ||
 | Vodafone | Steven Pater ||
+| Vonage | Alvaro Navarro ||
 | Vonage | Chris Howell ||
 | Vonage | Chris Mina ||
 | Vonage | Chris Skowronek ||
