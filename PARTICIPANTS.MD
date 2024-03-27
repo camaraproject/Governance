@@ -632,6 +632,7 @@
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Alex Ferreira ||
 | Phronesis | Matthew Hornsey ||
+| PLDT | Renelle John Magahis ||
 | Prodapt | Carlos Portela ||
 | Proximus | Geoffrey Cristallo ||
 | Proximus | Ivan Parvais ||
