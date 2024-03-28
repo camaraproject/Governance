@@ -686,6 +686,7 @@
 | Shabodi | Vikram Chopra ||
 | Shabodi | willus ||
 | Sigscale | Vance Shipley ||
+| Simple Solutions | Daniel Macadar ||
 | Simptel | Izahir Clemencia ||
 | Sinch | Harsha Appuhami Ralalage ||
 | Sinch | Mats Magnusson ||
