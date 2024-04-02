@@ -31,6 +31,7 @@
 | amdocs | Bernard Heuse ||
 | amdocs | Cameron Ross Dunne ||
 | amdocs | Gautam Gupta ||
+| amdocs | Nir Fattal ||
 | amdocs | Steve Plain ||
 | Andorra Telecom | Felip Correas Bons ||
 | Anlix | Gaspare Giuliano Elias Bruno ||
@@ -883,6 +884,7 @@
 | Vertis Solutions | Julio Araujo ||
 | Viavi Solutions | Madhur Mehta ||
 | Viettel | Ductm ||
+| Viettel | Ngo Duc Viet ||
 | Vodacom | Surajj Jaggernath ||
 | Vodafone | Alex Pertwee ||
 | Vodafone | Alexander Boraczynski ||
