@@ -308,7 +308,7 @@
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | GCI | Scott A. Griffith ||
-| GIP | G. Vidas ||
+| GIP | Gvidas Glebas ||
 | Global Logic | Gurpreet Singh Matharu ||
 | Global Logic | Pankaj Gupta ||
 | Global Logic | Rahul Aggarwal ||
@@ -434,6 +434,7 @@
 | Juniper | Sukhdev Kapur ||
 | KDDI | Brian Vaughn ||
 | KDDI | Keichi Okonogi ||
+| KDDI | K. Oogaki ||
 | KDDI | Masaharu Hattori ||
 | KDDI | Masaki Suzuki ||
 | KDDI | Shingo Watanabe ||
