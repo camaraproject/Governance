@@ -701,6 +701,7 @@
 | SK Telecom | Yoon Sun Jung (Serena) ||
 | Skyvera | Ravi Shankar ||
 | Slagen | Dagoberto Garavito ||
+| Sloan Staffing Solutions | Chris Newman ||
 | SMS Highway | John Murtagh ||
 | Sofrecom | Walid Trabelsi ||
 | Softbank | Kazumasa Yazawa ||
