@@ -225,6 +225,7 @@
 | Digitalvirgo | Fran Sanchez ||
 | Dimetor | Thomas Neubauer ||
 | Dimetor | Thomas Wana ||
+| Ding | Matias ||
 | Dipnet LLC USA | Nilesh Parikh ||
 | Dish | Jingyi Zhou ||
 | Dish | Jinsook Ryu ||
