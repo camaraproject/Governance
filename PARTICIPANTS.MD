@@ -185,6 +185,7 @@
 | CTHINGS | Arnold Wierzejski ||
 | CTHINGS | Shreyas Vinod ||
 | Cubic Telekom | Andre Schlufter ||
+| D2Tech | Richard Chen ||
 | Defne | Erhan Ermisoglu ||
 | Defne | Erkan Giray Arat ||
 | Defne | Giray Arat ||
