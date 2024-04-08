@@ -904,6 +904,7 @@
 | Vodafone | Jim Barron ||
 | Vodafone | Joao Gaspar da Silva ||
 | Vodafone | Johanna Wood ||
+| Vodafone | Kevin Scarr ||
 | Vodafone | Klaus Reifenrath ||
 | Vodafone | Kevin Smith ||
 | Vodafone | Mahesh Joshi ||
