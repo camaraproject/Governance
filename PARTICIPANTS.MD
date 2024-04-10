@@ -350,6 +350,7 @@
 | HGC | Niklas Bergvall ||
 | Hiya | A. Mendonca ||
 | Hiya | D. Sitte ||
+| Honda R&D Europe | Simon Davies ||
 | HPE | Emanuele de Angelis ||
 | HPE | Frederic Huve ||
 | HPE | Joao Martins ||
@@ -795,6 +796,7 @@
 | Telefonica | Fernando Prado Cabrillo ||
 | Telefonica | Hanul Sieger ||
 | Telefonica | Ignacio Dominguez Martinez ||
+| Telefonica | Javier Carro Calabor ||
 | Telefonica | Javier Villa Labarra Practicas ||
 | Telefonica | JESUS MARIA MARTIN GARCIA ||
 | Telefonica | Jesús Peña García-Oliva ||
@@ -806,6 +808,7 @@
 | Telefonica | JUAN CARLOS GARCIA LOPEZ ||
 | Telefonica | Julio Alberto Corchado Lopez ||
 | Telefonica | Laura Lacarra Arcos ||
+| Telefonica | Laura Martin Maldonado Practicas ||
 | Telefonica | Luis Diaz Martin ||
 | Telefonica | Maria Virtudes Briz Ruiz ||
 | Telefonica | Maxim Chizhov ||
