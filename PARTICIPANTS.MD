@@ -25,6 +25,7 @@
 | AIS | Boonchoung Tansuthepverawongse ||
 | Alianza | Dag Peak ||
 | Alicon | Ike Alisson ||
+| Altice Labs | Filipe J. Delgado ||
 | AMANTYA TECHNOLOGIES | Ankur Bharadwaj ||
 | AMANTYA TECHNOLOGIES | Mansi Trivedi ||
 | amdocs | Andrew DSouza ||
@@ -438,6 +439,7 @@
 | Juniper | Sukhdev Kapur ||
 | KDDI | Brian Vaughn ||
 | KDDI | Keichi Okonogi ||
+| KDDI | K. Koiwai ||
 | KDDI | K. Oogaki ||
 | KDDI | Masaharu Hattori ||
 | KDDI | Masaki Suzuki ||
@@ -849,7 +851,6 @@
 | TMT Analysis UK | Matthew Hand ||
 | TMT Analysis UK | Neil Downing ||
 | Totogi | Ailton Santana ||
-| Toyota | Lei Zhong ||
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
 | Trustrelay | Lukas Hohl ||
@@ -872,6 +873,7 @@
 | Verizon | Ankita Kohli ||
 | Verizon | Doug Walker ||
 | Verizon / 5GFF | Jeremy Giese ||
+| Verizon | Josh Arensberg ||
 | Verizon | Kapil Maheshwari ||
 | Verizon / 5GFF | Kevin Xu ||
 | Verizon | Mahesh Chapalamadugu ||
@@ -977,6 +979,7 @@
 |  | Enlai Chu ||
 |  | FBI Chamber 12 ||
 |  | Feed C ||
+|  | Galante ||
 |  | Gulwaqar Khan ||
 |  | Ingemar Lindblad ||
 |  | Ivanizag ||
