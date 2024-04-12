@@ -594,6 +594,7 @@
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
 | OpenID Foundation | Gail Hodges ||
+| Optus | Margaret Morosi ||
 | Optus | Reyaz Degia ||
 | Optus | Samid Tennakoon ||
 | Optus | Scott Byiers ||
@@ -1001,6 +1002,7 @@
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
 |  | Shao Long Chou ||
+|  | SKD
 |  | Sridhar Paiyya ||
 |  | Tom ||
 |  | Tom Collins ||
