@@ -769,6 +769,7 @@
 | Technische Universität München | Mehmetmert Bese ||t
 | Tecnotree | Chuninda Mittal ||
 | Tecnotree | Shanu Swetank ||
+| Teco | Ricardo Lavaggi ||
 | Tele 2 | Nurdaulet Zholdassov ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
