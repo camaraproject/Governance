@@ -334,6 +334,7 @@
 | GSMA | Gareth Williams ||
 | GSMA | Helen Vigue ||
 | GSMA | Henry Calvert ||
+| GSMA | Jason Smith ||
 | GSMA | Lucy Thatcher ||
 | GSMA | Marc Cornall ||
 | GSMA | Olu Omobitan ||
