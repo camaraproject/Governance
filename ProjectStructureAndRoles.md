@@ -22,13 +22,13 @@ Where a Sub Project has a release process, access and documentation should be su
 
 **Working Groups**
 
-Working Groups are primarily used to facilitate topics of discussion that are in scope for the CAMARA Project but that are short-lived or that span multiple Sub Projects. If a subset of Project participants wants to get together and discuss a topic, they can do so by forming a Working Group. The Technical Steering Committee (TSC) decides upon implementing or removing working groups.
+Working Groups are primarily used to facilitate topics of discussion that are in scope for the CAMARA Project but that are short-lived or that span multiple Sub Projects. If a subset of Project participants wants to get together and discuss a topic, they can do so by forming a Working Group. The Technical Steering Committee (TSC) decides upon implementing or removing Working Groups.
 
-All Working Groups are documented in one GitHub repository “WorkingGroups” with a subfolder for each Working Group. Each Working Group must have a README.MD file (with a description of the working group) and a WG_PARTICIPANTS.MD file with the Working Group participants.
+Working Groups are documented in separate GitHub repositories following the lead repository template (the rules for Sub Project lead repositories apply). In the Readme.md file the repositories of Working Groups are marked with a "Working Group" badge.
 
 **Repositories**
 
-As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, and the contributions to Working Groups were documented in the GitHub repository “WorkingGroups”. All contributions beyond that, esp. contributions to the Project itself or the the TSC are documented in the GitHub repository “Governance”.
+As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, and the contributions to Working Groups were documented in the GitHub repositories of the Working Groups. All contributions beyond that, esp. contributions to the Project itself or the TSC are documented in the GitHub repository “Governance”.
 
 **Changes and contributions to CAMARA**
 
@@ -52,25 +52,27 @@ Deliverables of the Sub Project are all artifacts in the main branch.
 
 More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md).
 
-**API onboarding and management in CAMARA**
+**API Backlog**
+
+The API Backlog Working Group is supervised by the TSC. The responsibility of the Working Group is to coordinate and prepare all the material needed to evaluate a new API family. The prepared material will be evaluated by TSC to decide if a new Sub Project should be onboarded in CAMARA.
 
 The API onboarding and management in CAMARA is described in [API-onboarding.md](./documentation/API-onboarding.md).
+
+**Commonalities**
+
+CAMARA commonalities shall be processed in a Working Group “Commonalities”. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all API families. The commonalities Working Group shall work e.g. on the development of a common meta model that shall be used as a reference across the rest of the Sub Projects. It is open for members of any Sub Project or Working Group to raise issues in the TSC group for relevant topics on a need basis.
+
+All Sub Projects must comply with the work in the commonalities Working Group.
+
+**Marketing**
+
+The Marketing Working Group is responsible to plan and perform marketing activities for CAMARA and to maintain marketing material (onepager, presentation, website, GitHub, ...).
 
 **Release management**
 
 Each Sub Project shall have a release management. The release cadence shall be determined by the TSC and on a regularly published schedule. Milestones shall be set up within each Sub Project to ensure the ability of each Sub Project to meet the release schedule as defined by the TSC.
 
 Goal is that all Sub Projects updated are released at the same release milestone so that the implementors of the APIs become accustomed to the regular release cadence.
-
-**Commonalities**
-
-CAMARA commonalities shall be processed in a Working Group “Commonalities” and one or more Sub Projects. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all API families. The commonalities Sub Projects shall work e.g. on the development of a common meta model that shall be used as a reference across the rest of the Sub Projects. It is open for members of any Sub Project or Working Group to raise issues in the TSC group for relevant topics on a need basis.
-
-All Sub Projects must comply with the work in the commonalities Working Group and the commonalities Sub Projects.
-
-**API Backlog**
-
-The API Backlog Working Group is supervised by the TSC. The responsibility of the Working Group is to coordinate and prepare all the material needed to evaluate a new API family. The prepared material will be evaluated by TSC to decide if a new Sub Project should be on-boarded in CAMARA.
 
 **Mailing list**
 
@@ -96,9 +98,9 @@ A Project participant may resign by notifying the team mailing list and by sendi
 
 **Working Group participants**
 
-Each Project participant can be part of one or more of the Working Groups of the Project by subscribing to the mailing list(s). By that the Project participant gets the role Working Group participant, the WG_PARTICIPANTS.MD file(s) is/are then also adjusted by the administrators of the Project.
+Each Project participant can be part of one or more of the Working Groups of the Project by subscribing to the mailing list(s). By that the Project participant gets the role Working Group participant.
 
-A Working Group participant may resign by unsubscribing from the mailing list(s), the WG_PARTICIPANTS.MD file(s) is/are adjusted by the administrators of the Project.
+A Working Group participant may resign by unsubscribing from the mailing list(s).
 
 **Contributors**
 
