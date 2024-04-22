@@ -28,8 +28,6 @@ If you have questions about one of the issues, please comment on them, and one o
 
 Please provide as much context as possible when you open an issue. The information you provide must be comprehensive enough to reproduce that issue for the assignee. Therefore, contributors may use but aren't restricted to the issue template provided by the project maintainers.
 
-Please apply one or more applicable labels to your issue so that all community members are able to cluster the issues better. This applies especially for the Working Groups repository, please add the label of the Working Group to the issue.
-
 ## Contributing Code
 
 You are welcome to contribute code in order to fix a bug or to implement a new feature.
@@ -47,7 +45,7 @@ You are welcome to contribute documentation to the project.
 The following rule governs documentation contributions:
 
 * Contributions must be licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
-* Only exception are contributions to the Marketing Working Group in the folder [https://github.com/camaraproject/WorkingGroups/tree/main/Marketing](https://github.com/camaraproject/WorkingGroups/tree/main/Marketing). For that the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode.txt) shall apply.
+* Only exception are contributions to the Marketing Working Group in the folder [https://github.com/camaraproject/Marketing](https://github.com/camaraproject/Marketing). For that the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode.txt) shall apply.
 
 * At least if you add a new documentation to the repository and you're not a Project participant, add your name into the [PARTICIPANTS](./PARTICIPANTS.MD) file or send an onboarding email to <all+subscribe@lists.camaraproject.org>.
 
