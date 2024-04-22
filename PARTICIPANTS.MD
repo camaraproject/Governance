@@ -830,6 +830,7 @@
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Sergio Francisco Ortiz ||
 | Telefonica | Victor Barranco Fernandez ||
+| Telefonica | Violeta Gonzalez Fernandez ||
 | Telenor Connexion | Soheil Chohan ||
 | Telesmart | Bulent Tuncel ||
 | Telestratum | Balakrishnan Chittor Rajagopal ||
