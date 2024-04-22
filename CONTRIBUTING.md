@@ -28,8 +28,6 @@ If you have questions about one of the issues, please comment on them, and one o
 
 Please provide as much context as possible when you open an issue. The information you provide must be comprehensive enough to reproduce that issue for the assignee. Therefore, contributors may use but aren't restricted to the issue template provided by the project maintainers.
 
-Please apply one or more applicable labels to your issue so that all community members are able to cluster the issues better.
-
 ## Contributing Code
 
 You are welcome to contribute code in order to fix a bug or to implement a new feature.
