@@ -341,6 +341,7 @@
 | GSMA | Lucy Thatcher ||
 | GSMA | Marc Cornall ||
 | GSMA | Olu Omobitan ||
+| GSMA | R. Cox ||
 | GSMA | Steve Russ ||
 | GSMA | Tom van Pelt ||
 | GSMA | Toyeeb Rehman ||
