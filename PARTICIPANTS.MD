@@ -403,6 +403,8 @@
 | Ikerlan | Idela Iglesia ||
 | Ilabs | Harm Jan Arendshorst ||
 | Incognito | Jhuli Takahara ||
+| Indykite | Marek Detko ||
+| Indykite | Sebastian Drees ||
 | Infinite | Arun Konathala ||
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
