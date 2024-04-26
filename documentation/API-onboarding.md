@@ -22,7 +22,7 @@ API proposals can be submitted by everybody, including OPAG (GSMA Open Gateway),
 
 To proceed with the submission, the API owner shall follow these steps:
 
-- Fill in the template [API-proposal-template.md](https://github.com/camaraproject/WorkingGroups/tree/main/APIBacklog/documentation/API-proposal-template.md) available in the [API Backlog documentation](https://github.com/camaraproject/APIBacklog/tree/main/documentation) and save it with the following name: "APIproposal\_\<APIname\>\_\<owner\>. md" locally.
+- Fill in the template [API-proposal-template.md](https://github.com/camaraproject/APIBacklog/tree/main/documentation/API-proposal-template.md) available in the [API Backlog documentation](https://github.com/camaraproject/APIBacklog/tree/main/documentation) and save it with the following name: "APIproposal\_\<APIname\>\_\<owner\>. md" locally.
 - Create a new issue in the API Backlog Working Group repository, labeled with "API Backlog".
 - Upload the filled-in template to [GitHub repository folder for API proposals](https://github.com/camaraproject/APIBacklog/tree/main/documentation/API%20proposals) via Pull Request. This Pull Request shall be associated to the issue created in the previous step.
 
