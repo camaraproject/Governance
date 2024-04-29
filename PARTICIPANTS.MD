@@ -310,6 +310,7 @@
 | Foo | Ziad Hawwa ||
 | Freenet | Miguel Angelo Fernandez Iglesias ||
 | Fujitsu | Kazu Sakumoto ||
+| Fujitsu | Nishant Tiwari ||
 | Fujitsu | Terry Hasegawa ||
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
