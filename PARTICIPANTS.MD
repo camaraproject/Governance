@@ -124,6 +124,7 @@
 | Capgemini | Amit Rustagi ||
 | Capgemini | Andreas Torgersen ||
 | Capgemini | Deepak A. Gunjal ||
+| Cell C | S. Bukani ||
 | Celo | Bhavishya Kanjhan ||
 | Celo | Rene Reinsberg ||
 | Celo | Xochitl Cazador ||
