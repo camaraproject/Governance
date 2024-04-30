@@ -406,6 +406,7 @@
 | Ilabs | Harm Jan Arendshorst ||
 | Incognito | Jhuli Takahara ||
 | Indykite | Marek Detko ||
+| Indykite | Marius Bakkeli ||
 | Indykite | Sebastian Drees ||
 | Infinite | Arun Konathala ||
 | Infobip | Kosta Pribic ||
