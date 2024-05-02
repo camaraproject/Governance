@@ -1,7 +1,7 @@
 
 #### What type of PR is this?
 
-Add one of the following kinds:
+<!-- Use one of the following kinds (delete the others) -->
 * correction
 * enhancement
 * cleanup
