@@ -1,4 +1,4 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: 🗣 Governance discussions
     url: https://github.com/camaraproject/Governance/discussions
