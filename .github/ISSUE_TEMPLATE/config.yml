@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🗣 Governance discussions
+    url: https://github.com/camaraproject/Governance/discussions
+    about: Please ask and answer questions here.
+  - name: 📖 CAMARA Project Charter
+    url: https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md
+    about: Describes the rules and governance of the CAMARA Project
+  - name: 📖 CAMARA Project Structure and Roles
+    url: https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md
+    about: Describes how CAMARA is organized
+  - name: 📖 CAMARA Contribution process
+    url: https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md
+    about: Read this before your first contribution to CAMARA Sub Projects
