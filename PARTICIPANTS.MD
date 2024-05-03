@@ -97,6 +97,7 @@
 | Bics | Karan Verma ||
 | Bics | Kenneth Hardat ||
 | Blue Mobile Limited | Caleb Rukundo ||
+| Brahmayasa | Rony Apung ||
 | BridgeAlliance | Achuth Pai ||
 | BridgeAlliance | Ken Wee ||
 | Brillio | Kishore Vutukuri ||
