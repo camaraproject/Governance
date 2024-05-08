@@ -773,6 +773,7 @@
 | TCS | Rajeev Gokana ||
 | TCS | Sibasish Pradhan ||
 | TCS | Suvasree Basu ||
+| TechMahindra | Amandeep Singh ||
 | TechMahindra | Amitha Sachin Chawda ||
 | TechMahindra | Mohit Luthra ||
 | TechMahindra | Prashant Shrivastava ||
