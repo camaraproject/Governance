@@ -814,7 +814,6 @@
 | Telefonica | Jesús Peña García-Oliva ||
 | Telefonica | Jhon Javier Lozal Luco ||
 | Telefonica | Jorge Garcia Hospital ||
-| Telefonica | Jose Carlos Cervilla Ulloa ||
 | Telefonica | Jose Luis Urien Pinedo ||
 | Telefonica | Jose Manuel Conde Gomez ||
 | Telefonica | Laura Lacarra Arcos ||
