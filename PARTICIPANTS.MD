@@ -227,6 +227,7 @@
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
 | Dhiraagu | Ibrahim Yasir ||
+| Digibee | Vitor Sousa ||
 | Digicel Group | Miguel Vervaet ||
 | Digitalvirgo | Fran Sanchez ||
 | Dimetor | Thomas Neubauer ||
