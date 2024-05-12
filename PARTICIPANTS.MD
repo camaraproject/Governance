@@ -157,6 +157,7 @@
 | Cisco | Ravi Guntupalli ||
 | Cisco | Ravi Shek ||
 | Citictel | Gabriel Shui ||
+| Citictel | K. P. Yau ||
 | Claro | João Del Nero ||
 | Claro | Leticia Brito Terceiros ||
 | ClearX | Bar Hodis ||
@@ -426,6 +427,7 @@
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Praveen Kumar Kalapatapu ||
 | Infosys | Shiv Prakash Ojha ||
+| Inovacobrain | LUCAS SLEYDER MACHADO DICENCIO ||
 | Intel | (Fran)Cesc Guim ||
 | Intel / ETSI | Dario Sabella ||
 | Intel | Larry Horner ||
