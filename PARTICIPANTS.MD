@@ -298,6 +298,7 @@
 | Ericsson | Rajat Kandoi ||
 | Ericsson | Rammohan Gopalan ||
 | Ericsson | Sarmad Nafees ||
+| Ericsson | Stefanos Boukouvalas ||
 | Ericsson | Steven Deskovic ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
