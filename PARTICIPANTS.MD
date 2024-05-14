@@ -43,6 +43,7 @@
 | Aplisay | Rob ||
 | Apple | Darryl Alexander Chiles ||
 | Apple | Samy Touati ||
+| Argela | Ismail Bayraktar ||
 | Asiainfo | Liz W. ||
 | Asiainfo | Zhang L. H. ||
 | AT&T | Andy Fuller ||
