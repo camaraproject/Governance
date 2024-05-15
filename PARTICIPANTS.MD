@@ -144,6 +144,7 @@
 | China Mobile | Liu Yifu ||
 | China Mobile | Liu Yuyjy ||
 | China Mobile | Qian Ze Bin ||
+| China Mobile | Xiu Dushen ||
 | China Telecom | Dan Xu ||
 | China Telecom | V. Lieh Gd ||
 | China Telecom | Xianyang Zhang ||
@@ -154,6 +155,7 @@
 | China Unicom | Shuanghe Dong ||
 | China Unicom | Yang Fan ||
 | Chunghwa Telecom | MingHsun Lee ||
+| Chunghwa Telecom | x8658732 ||
 | Cisco | Pravin Ajagekar ||
 | Cisco | Ravi Guntupalli ||
 | Cisco | Ravi Shek ||
