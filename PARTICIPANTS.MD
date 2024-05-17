@@ -821,6 +821,7 @@
 | Telefonica | Hanul Sieger ||
 | Telefonica | Ignacio Dominguez Martinez ||
 | Telefonica | Javier Carro Calabor ||
+| Telefonica | Javier Ferreiro Garcia ||
 | Telefonica | Javier Villa Labarra Practicas ||
 | Telefonica | JESUS MARIA MARTIN GARCIA ||
 | Telefonica | Jesús Peña García-Oliva ||
