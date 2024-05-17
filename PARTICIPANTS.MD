@@ -155,8 +155,8 @@
 | China Unicom | Jing Hao ||
 | China Unicom | Shuanghe Dong ||
 | China Unicom | Yang Fan ||
+| Chunghwa Telecom | Guang-Han Ma ||
 | Chunghwa Telecom | MingHsun Lee ||
-| Chunghwa Telecom | x8658732 ||
 | Cisco | Pravin Ajagekar ||
 | Cisco | Ravi Guntupalli ||
 | Cisco | Ravi Shek ||
