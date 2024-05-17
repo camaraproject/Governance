@@ -878,6 +878,7 @@
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
 | Trustrelay | Lukas Hohl ||
+| Turk Telekomünikasyon A.Ş. | Furkan Acik ||
 | Twilio | Felipe Gutierrez ||
 | Tykelab | M. Massaroni ||
 | U Mobile | Neil Tomkinson ||
