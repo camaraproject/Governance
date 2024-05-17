@@ -5,6 +5,7 @@
 | 1rstwap | Aerlangga Bachtiar ||
 | 1rstwap | Alex Sandra ||
 | 3G Telecoms | David Morris ||
+| 6D Tech | Rahul Kumar ||
 | 8x8 | Anton Shchekalov ||
 | A1 | Arnold Pfeiffer ||
 | A1 | Manfred Moormann ||
