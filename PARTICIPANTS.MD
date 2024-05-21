@@ -910,6 +910,7 @@
 | Verizon | Mahesh Chapalamadugu ||
 | Verizon | Mason Ng ||
 | Verizon | Massimiliano Troiani ||
+| Verizon | Medha Joshi ||
 | Verizon | Michael Sullivan ||
 | Verizon / 5GFF | Parry Cornell Booker ||
 | Verizon / 5GFF | Priyanka Shah ||
