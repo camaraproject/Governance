@@ -450,6 +450,7 @@
 | IPification | Lazar Bulic ||
 | Iquall Networks | German Perez Trozzi ||
 | Iquall Networks | Hernan Gonzalez ||
+| Italtel SAU | Alberto Bayo ||
 | Italtel SAU | Natalia Fernandez de Losada ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
