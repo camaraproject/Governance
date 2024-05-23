@@ -43,7 +43,9 @@
 | Apinity | Franziska Kienzle ||
 | Aplisay | Rob ||
 | Apple | Darryl Alexander Chiles ||
+| Apple | R. Das ||
 | Apple | Samy Touati ||
+| Argela | Hakki Toran ||
 | Argela | Ismail Bayraktar ||
 | Asiainfo | Liz W. ||
 | Asiainfo | Zhang L. H. ||
