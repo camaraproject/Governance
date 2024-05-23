@@ -408,7 +408,9 @@
 | iCloud | Warren Prasad ||
 | IDC | John Byrne ||
 | IEEE | Mak Saleh ||
+| IIT Demokritos | Dimitrios Fragkos ||
 | IIT Demokritos | Harilaos Koumaras ||
+| IIT Demokritos | Ilia Salex ||
 | Ikerlan | G. Nieto ||
 | Ikerlan | Idela Iglesia ||
 | Ilabs | Harm Jan Arendshorst ||
@@ -687,6 +689,7 @@
 | Rohde & Schwarz | Tim Kittel ||
 | Route Mobile / TruSense | Priya Verma ||
 | Route Mobile | Snehil Pandey ||
+| Safaricom | Z. Mokua ||
 | Saitro | Luis Carlos Toledo ||
 | Sakon | Chris Simandl ||
 | Sakon | Dan Hughes ||
@@ -794,6 +797,7 @@
 | Tecnotree | Shanu Swetank ||
 | Teco | E. Panciera ||
 | Teco | Ricardo Lavaggi ||
+| Telchemy | Anthony Caiozzo ||
 | Tele 2 | Nurdaulet Zholdassov ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
@@ -1013,6 +1017,7 @@
 |  | FBI Chamber 12 ||
 |  | Feed C ||
 |  | Galante ||
+|  | Gerasimo Spapd ||
 |  | Gulwaqar Khan ||
 |  | Ingemar Lindblad ||
 |  | Ivanizag ||
