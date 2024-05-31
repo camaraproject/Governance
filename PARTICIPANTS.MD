@@ -100,6 +100,7 @@
 | Bics | Daniel Behar ||
 | Bics | Karan Verma ||
 | Bics | Kenneth Hardat ||
+| Birmingham City University | Muhammad Ajmal Azad ||
 | Blue Mobile Limited | Caleb Rukundo ||
 | Brahmayasa | Rony Apung ||
 | BridgeAlliance | Achuth Pai ||
@@ -158,6 +159,7 @@
 | China Unicom | Shuanghe Dong ||
 | China Unicom | Yang Fan ||
 | Chunghwa Telecom | Guang-Han Ma ||
+| Chunghwa Telecom | J. H. C. ||
 | Chunghwa Telecom | MingHsun Lee ||
 | Cisco | Pravin Ajagekar ||
 | Cisco | Ravi Guntupalli ||
@@ -226,6 +228,7 @@
 | Deutsche Telekom AG | Noel Wirzius ||
 | Deutsche Telekom AG | Pablo Brito ||
 | Deutsche Telekom AG | Piotr Wesolowski ||
+| Deutsche Telekom AG | Prashant Goswami ||
 | Deutsche Telekom AG | Rafal Artych ||
 | Deutsche Telekom AG | Ravindra Palaskar ||
 | Deutsche Telekom AG | Robert Jeschonnek ||
@@ -277,6 +280,7 @@
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Bart van Kaathoven ||
 | Ericsson | Benedek Kovács ||
+| Ericsson | Bo Fjelkner ||
 | Ericsson | Carlos Bravo ||
 | Ericsson | Cormac A. Hegarty ||
 | Ericsson | Elisabeth Müller ||
@@ -521,6 +525,7 @@
 | M1 | Choo Sim Hwee Johnny ||
 | Madison | Alejandro Alfonso Fernandez ||
 | Madison | Victor Javier Quirog ||
+| Manual da Web | Alex ||
 | Masmovil | Maria Segundo Romero ||
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
@@ -529,6 +534,7 @@
 | Mavenir | Michal Sedivy ||
 | Mavenir | Pradeep Achar Pushpa ||
 | Mavenir | Sushanth Hegde ||
+| Mavenir | Tomas Holubec ||
 | Mavenir | Viswanath Krishnamurthy ||
 | MEF | Daniel Bar-Lev ||
 | Messangi | Santiago Rojas ||
@@ -653,6 +659,7 @@
 | ORANGE | John Eisenman ||
 | ORANGE | Ludovic Robert ||
 | ORANGE | Manoj Mourya ||
+| ORANGE | Martyn Davies ||
 | ORANGE | Maxime Delon ||
 | ORANGE | Olivier Mathieu ||
 | ORANGE | Patrice Conil ||
