@@ -83,6 +83,7 @@
 | axiata | Udaka Kappagoda  ||
 | axiata | Viranga Seneviratne ||
 | BBC | David Butler ||
+| BearingPoint | Amr Osman ||
 | BearingPoint | Carsten Aue ||
 | BearingPoint | Julius Hafer ||
 | BearingPoint | Tobias Bothur ||
