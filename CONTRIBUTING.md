@@ -30,7 +30,7 @@ Please provide as much context as possible when you open an issue. The informati
 
 ### Guidance for closing issues
 * As per the [ProjectCharter](https://github.com/camaraproject/Governance/blob/5fc802713d71a51da64136f692b16ed620eeffa5/ProjectCharter.md), The default decision making mechanism for the CAMARA Project is [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). This means that any decision on technical issues is considered supported by the team as long as nobody objects based on substantiated technical grounds.
-* Once consensus is achieved, an issue may be closed by the original author or by a maintainer in the sub-project.
+* Once consensus is achieved, an issue may be closed by the original author or by a maintainer in the sub-project (if not closed by a Pull Request merge, where the issue is linked as getting fixed, see below)
 * Closing an issue should include a comment on how it was resolved or why it won't be resolved
 * Issues that are considered stale/inactive may be closed, but must include a reference to minutes where it has been agreed to be a stale issue. 
 * Maintainers may not close their own issues without reference to consensus achieved.
