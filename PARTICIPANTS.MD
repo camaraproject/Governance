@@ -1010,7 +1010,7 @@
 | ZTE | Hans Neff ||
 | ZTE | Jie Hu ||
 | ZTE | Lijuan Chen ||
-| ZTE | Tu Jia Sun ||
+| ZTE | Tu Jia Sun (Jason) ||
 | ZTE | Wang Changjin ||
 |  | A. H. Djillali ||
 |  | Abrar Sadd ||
