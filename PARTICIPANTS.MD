@@ -700,7 +700,7 @@
 | Rohde & Schwarz | Tim Kittel ||
 | Route Mobile / TruSense | Priya Verma ||
 | Route Mobile | Snehil Pandey ||
-| Safaricom | A. Adhiambo ||
+| Safaricom | Anne Ogutu ||
 | Safaricom | Z. Mokua ||
 | Saitro | Luis Carlos Toledo ||
 | Sakon | Chris Simandl ||
