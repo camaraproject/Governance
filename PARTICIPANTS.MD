@@ -650,7 +650,6 @@
 | ORANGE | Ana Romero Fife ||
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Benjamin Busvel ||
-| ORANGE | Denis Borscia ||
 | ORANGE | Eric Tartanson ||
 | ORANGE | Florence Arnal ||
 | ORANGE | Frederic Fieau ||
