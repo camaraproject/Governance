@@ -831,6 +831,7 @@
 | Telefonica | Agustin Martin Gonzalez ||
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alexandre Harmand ||
+| Telefonica | ANDRES EDERRA FERNANDEZ ||
 | Telefonica | Aurelia Martinez Guerra ||
 | Telefonica | Cristina Santana Casillas ||
 | Telefonica | DAVID ARTUÑEDO GUILLEN ||
