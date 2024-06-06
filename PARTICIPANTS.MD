@@ -607,6 +607,7 @@
 | Nokia | Rene Saathoff ||
 | Nokia | Saad Ahmad ||
 | Nokia | Samuel Adeyemo ||
+| Nokia | Sharanabasappa S. Hatti ||
 | Nokia | Shkumbin Hamiti ||
 | Nokia | Tanja de Groot ||
 | Nokia | Uwe Rauschenbach ||
@@ -775,7 +776,9 @@
 | Syniverse | Jyrki Penttinen ||
 | T-Mobile US | Antoine Egho ||
 | T-Mobile US | Anup Koyadan Chathoth ||
+| T-Mobile US | Chris Jonathan Parker ||
 | T-Mobile US | Deepak Jaiswal ||
+| T-Mobile US | John Edward Lawler ||
 | T-Mobile US | Lyle Bertz ||
 | T-Mobile US | Mark Bales ||
 | T-Mobile US | Marouane Balmakhtar ||
@@ -1039,6 +1042,7 @@
 |  | Juan de Toro ||
 |  | Juan Her ||
 |  | Juanito Excutia ||
+|  | Kshahabrnd ||
 |  | Kuldeep Kumar ||
 |  | Kunal Shokeen ||
 |  | Mark Adonaghey ||
