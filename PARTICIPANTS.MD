@@ -793,6 +793,7 @@
 | Tango Networks | Gavin Sweet ||
 | Tannera | Goran Licanin ||
 | Tata Communications | Vikas Rao ||
+| Tata Elxsi | Ankush Gupta ||
 | Tayana | Anand Patil ||
 | TCS | Pramath Jha ||
 | TCS | Pranay Rsahay ||
