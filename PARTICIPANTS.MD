@@ -358,6 +358,7 @@
 | GSMA | Jason Smith ||
 | GSMA | Lucy Thatcher ||
 | GSMA | Marc Cornall ||
+| GSMA | O. Ajibola ||
 | GSMA | Olu Omobitan ||
 | GSMA | R. Cox ||
 | GSMA | Steve Russ ||
