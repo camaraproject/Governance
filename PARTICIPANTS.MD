@@ -693,6 +693,7 @@
 | Radisys | Tapas Raiguru ||
 | Radisys | Yong Xin ||
 | Rain | Henri Kivioja ||
+| Rakuten | Rajesh Goyal ||
 | Rakuten | Ravi Chamarty ||
 | Redhat | Hanen Garcia ||
 | Reply | Gianmarco Sciortino ||
