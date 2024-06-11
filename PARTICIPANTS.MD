@@ -475,6 +475,7 @@
 | KDDI | Keichi Okonogi ||
 | KDDI | K. Koiwai ||
 | KDDI | K. Oogaki ||
+| KDDI | K. Shinomura ||
 | KDDI | Masaharu Hattori ||
 | KDDI | Masaki Suzuki ||
 | KDDI | Shingo Watanabe ||
