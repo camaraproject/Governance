@@ -39,6 +39,8 @@ The whole procedure (steps 1-4) should be done within 2 regular meetings of the 
 
 In parallel, the API proposal is formally registered in CAMARA by adding it to the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) The WG chair creates a new line in the table and fills in API family name, API family owner, API family proposal registration date, the link to the application template and the supporters for it.
 
+NOTE: Supporting an API proposal means that the supporting company must provide at least 1 (one) Maintainer at the time of the Sub Project creation. This applies not only to new API proposals but also for those Scope Enhancements of a Sub Project in which the creation of a new repository is required.
+
 ## TSC decision on API proposal
 
 Upon receiving the API proposal and notification from the WG chair, the TSC studies the proposal and votes it at the TSC meeting.
