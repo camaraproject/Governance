@@ -521,6 +521,7 @@
 | LinuxFoundation | Louis Illuzzi ||
 | LinuxFoundation | Pano Xinos ||
 | LinuxFoundation | Scott Nicholas ||
+| Lionscraft | Aleph Zero ||
 | Liveu | Baruch Altman ||
 | Locance | Mario Proietti ||
 | Locationguru | Ahmed Shaheer ||
