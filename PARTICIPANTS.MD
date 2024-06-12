@@ -223,6 +223,7 @@
 | Deutsche Telekom AG | Herbert Damker ||
 | Deutsche Telekom AG | Jasmin Schulmeyer ||
 | Deutsche Telekom AG | Krzysztof Sielski ||
+| Deutsche Telekom AG | Marian Sciranka ||
 | Deutsche Telekom AG | Mario Bodemann ||
 | Deutsche Telekom AG | Markus Kümmerle ||
 | Deutsche Telekom AG | Maximilian Laue ||
