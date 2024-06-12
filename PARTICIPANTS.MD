@@ -42,7 +42,7 @@
 | Anlix | Gaspare Giuliano Elias Bruno ||
 | Apinity | David Vazquez Cortizo ||
 | Apinity | Franziska Kienzle ||
-| Aplisay | Rob ||
+| Aplisay | Rob Pickering ||
 | Apple | Darryl Alexander Chiles ||
 | Apple | R. Das ||
 | Apple | Samy Touati ||
