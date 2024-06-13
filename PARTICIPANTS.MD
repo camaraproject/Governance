@@ -954,7 +954,7 @@
 | Vertis Solutions | Julio Araujo ||
 | Viavi Solutions | Madhur Mehta ||
 | Viettel | Ductm ||
-| Viettel | Ngo Duc Viet ||
+| Viettel | Viet Ngo Duc ||
 | Vodacom | Surajj Jaggernath ||
 | Vodafone | Alex Pertwee ||
 | Vodafone | Alexander Boraczynski ||
