@@ -506,7 +506,7 @@
 | Latro | Shafiq Alassi ||
 | LCN | Rathnakumar Kayyar ||
 | Lenovo | Apostolis Salkintzis ||
-| Lenovo | N. Petropoulea ||
+| Lenovo | Nick Petropouleas ||
 | LG U+ | Jae Yeol Kim (Jerry) ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Bobasola ||
