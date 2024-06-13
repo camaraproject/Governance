@@ -499,7 +499,7 @@
 | KPN | Zoran Milisav ||
 | KT | Jemin Chung ||
 | KT | Yeon Loo Lim ||
-| Kyndryl | Pablo Montes ||
+| Kyndryl | Pablo Montes Moreno ||
 | Laas | Theo Fontana ||
 | Lammda | Hans Thorsen Lamm ||
 | Latence Tech | Benoit Gendron ||
