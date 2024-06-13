@@ -359,7 +359,7 @@
 | GSMA | Henry Calvert ||
 | GSMA | Jason Smith ||
 | GSMA | Lucy Thatcher ||
-| GSMA | Marc Cornall ||
+| GSMA | Mark Cornall ||
 | GSMA | O. Ajibola ||
 | GSMA | Olu Omobitan ||
 | GSMA | R. Cox ||
