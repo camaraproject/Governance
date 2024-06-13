@@ -143,6 +143,7 @@
 | Charter | Jason Page ||
 | Charter | Justin Pace ||
 | Charter | Patrick Schultz ||
+| Charter | Sully Uruthiramoorthy ||
 | China Mobile | Bao Yuhan ||
 | China Mobile | Hanbai Wang ||
 | China Mobile | Jundian Shi ||
@@ -645,6 +646,7 @@
 | Oracle | Fabio Felici ||
 | Oracle | Kinshuk Kulshreshtha ||
 | Oracle | Luis Filipe Carvalho da Silva ||
+| Oracle | Mahesh Laxman Pendam ||
 | Oracle | Paulo Farnezi ||
 | Oracle | Piyush Sarwal ||
 | Oracle | Richard Williams ||
@@ -990,6 +992,7 @@
 | Vonage | Chris Skowronek ||
 | Vonage | Colin Brown ||
 | Vonage | James Emerson ||
+| Vonage | John Kim ||
 | Vonage | Jose Recio ||
 | Vonage | Lou Blatt ||
 | Vonage | Qaunain Meghjee ||
@@ -1028,6 +1031,7 @@
 |  | Andrew Sungwoon Song ||
 |  | Arsema Solomon ||
 |  | Basit Tanveer ||
+|  | Brian Oyigo ||
 |  | Carlos Vazbagper ||
 |  | cmti CA ||
 |  | Cormachegarty ||
@@ -1073,6 +1077,8 @@
 |  | Tousif Ahmed ||
 |  | Useris Jithin ||
 |  | Vishal Makhijani ||
+|  | Walid Saddi ||
+|  | Wang Ruo Bei ||
 |  | Wen Nemenzo ||
 |  | Youcef Kardjadja ||
 |  | Zach Callahan ||
