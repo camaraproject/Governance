@@ -1026,7 +1026,7 @@
 | ZTE | Lijuan Chen ||
 | ZTE | Tu Jia Sun (Jason) ||
 | ZTE | Wang Changjin ||
-|  | A. H. Djillali ||
+|  | Abdelhakim H. Djillali ||
 |  | Abrar Sadd ||
 |  | Ahmad ||
 |  | Andrew Sungwoon Song ||
