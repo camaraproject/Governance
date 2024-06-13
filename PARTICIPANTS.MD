@@ -44,7 +44,7 @@
 | Apinity | Franziska Kienzle ||
 | Aplisay | Rob Pickering ||
 | Apple | Darryl Alexander Chiles ||
-| Apple | R. Das ||
+| Apple | Ria Das ||
 | Apple | Samy Touati ||
 | Argela | Hakki Toran ||
 | Argela | Ismail Bayraktar ||
