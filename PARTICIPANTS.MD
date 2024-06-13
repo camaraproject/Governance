@@ -189,7 +189,7 @@
 | Colony Networks | Michael Kuhlmann ||
 | Comcast | Prasad Siddalinga ||
 | Comtech | Jamie Hart ||
-| Comviva | Aishwarya Abhijit Javkhedkar1 ||
+| Comviva | Aishwarya Abhijit Javkhedkar ||
 | Comviva | Anindita Raychoudhuri ||
 | Comviva | Ayush Agarwal ||
 | Comviva | Veerat Kulkarni ||
