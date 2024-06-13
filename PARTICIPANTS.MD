@@ -802,6 +802,7 @@
 | Tannera | Goran Licanin ||
 | Tata Communications | Vikas Rao ||
 | Tata Elxsi | Ankush Gupta ||
+| Tata Elxsi | Jayaprakash G. ||
 | Tayana | Anand Patil ||
 | TCS | Pramath Jha ||
 | TCS | Pranay Rsahay ||
