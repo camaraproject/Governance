@@ -708,7 +708,7 @@
 | Route Mobile / TruSense | Priya Verma ||
 | Route Mobile | Snehil Pandey ||
 | Safaricom | Anne Ogutu ||
-| Safaricom | Z. Mokua ||
+| Safaricom | Zachary Mokua ||
 | Saitro | Luis Carlos Toledo ||
 | Sakon | Chris Simandl ||
 | Sakon | Dan Hughes ||
