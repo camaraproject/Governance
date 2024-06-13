@@ -376,7 +376,7 @@
 | HGC | Ashwin Nabil Careem ||
 | HGC | Niklas Bergvall ||
 | Hiya | A. Mendonca ||
-| Hiya | D. Sitte ||
+| Hiya | David Sitte ||
 | Honda R&D Europe | Simon Davies ||
 | HPE | Emanuele de Angelis ||
 | HPE | Frederic Huve ||
