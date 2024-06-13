@@ -32,7 +32,7 @@
 | Altice Labs | Filipe J. Delgado ||
 | AMANTYA TECHNOLOGIES | Ankur Bharadwaj ||
 | AMANTYA TECHNOLOGIES | Mansi Trivedi ||
-| amdocs | Andrew DSouza ||
+| amdocs | Andrew D'Souza ||
 | amdocs | Bernard Heuse ||
 | amdocs | Cameron Ross Dunne ||
 | amdocs | Gautam Gupta ||
