@@ -992,6 +992,7 @@
 | Vonage | Chris Mina ||
 | Vonage | Chris Skowronek ||
 | Vonage | Colin Brown ||
+| Vonage | Florian Huber ||
 | Vonage | James Emerson ||
 | Vonage | John Kim ||
 | Vonage | Jose Recio ||
