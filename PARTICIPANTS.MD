@@ -410,6 +410,7 @@
 | Hutchison | Sandra Ondrusova ||
 | Hutchison | Stefano Falsetto ||
 | I2Cat | Reza Mosahebfard ||
+| I2Cat | Sergio Giménez Antón ||
 | iBasis | Nicola Tamma ||
 | IBM | Jason Hunt ||
 | IBM | Leandro Sosa ||
@@ -481,6 +482,7 @@
 | KDDI | Masaharu Hattori ||
 | KDDI | Masaki Suzuki ||
 | KDDI | Shingo Watanabe ||
+| KDDI | T. Arita ||
 | KDDI | T. Ogawara ||
 | KDDI | Tetsuya Chiba ||
 | KDDI | Toshiyasu Wakayama ||
@@ -589,6 +591,7 @@
 | Netcracker | Manoj K. Nair ||
 | Netcracker | Pavel Zvezdin ||
 | Netfocusin Technologies | Joydeep Banerjee ||
+| Neutroon | Wilmer Rojas ||
 | Next Curve | Leonard Lee ||
 | NGMN Alliance | Anita Döhler ||
 | NGMN Alliance | Chris Hogg ||
@@ -900,6 +903,7 @@
 | TELUS | Reda Zaza ||
 | TELUS | Theohar Konomi ||
 | TesTime Limited  | Eleph Kwong ||
+| The Leading Path | Daniel Kibler ||
 | Thrustvector | Doug Eng ||
 | Timwetech | Jose Ribeiro ||
 | Timwetech | Paulo Salgado ||
@@ -970,6 +974,7 @@
 | Vodafone | Jesus Pedruelo ||
 | Vodafone | Jim Barron ||
 | Vodafone | Joao Gaspar da Silva ||
+| Vodafone | Joao Ribas Fernandes ||
 | Vodafone | Johanna Wood ||
 | Vodafone | Kevin Scarr ||
 | Vodafone | Klaus Reifenrath ||
@@ -1043,6 +1048,7 @@
 |  | Deepankar ||
 |  | Emmanuele Benedetto ||
 |  | Enlai Chu ||
+|  | Ersa Sandberg ||
 |  | FBI Chamber 12 ||
 |  | Feed C ||
 |  | Galante ||
