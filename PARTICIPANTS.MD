@@ -210,6 +210,7 @@
 | Dell | Saad Sheikh ||
 | Dell | Vaishali Gupta ||
 | Deloitte | Mohammad Shammout ||
+| Delonia | Bobby Mohanty ||
 | Detecon | Pawel Krysiak ||
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
@@ -363,6 +364,7 @@
 | GSMA | O. Ajibola ||
 | GSMA | Olu Omobitan ||
 | GSMA | R. Cox ||
+| GSMA | S. Khan ||
 | GSMA | Steve Russ ||
 | GSMA | Tom van Pelt ||
 | GSMA | Toyeeb Rehman ||
