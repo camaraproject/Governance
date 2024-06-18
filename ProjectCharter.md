@@ -10,14 +10,15 @@ This technical charter (the “Charter”) describes the rules and governance of
 - **Working Group**: a group of Project participants working on a specific topic as directed by the TSC.
 - **Working Group participant**: a Project participant contributing to a specific Working Group, which may span one or more Sub Projects.
 - **Sub Project**: A subproject of the CAMARA Project led by a voluntary group, open to anyone to participate.
-- **Maintainer**: is leader of an individual Sub Project who has been named in the MAINTAINERS.MD file of the respective Sub Project.
-- **Codeowner**: a committer of an individual Sub Project who has been named in the CODEOWNERS file of the Sub Project. Codeowners merge code and accept pull requests.
+- **Repository**: Sub Projects and Working Groups have one or multiple GitHub repositories to document their artifacts and documentation.
+- **Maintainer**: is leader of an individual Sub Project or Working Group who has been named in the MAINTAINERS.MD files of the respective Sub Project.
+- **Codeowner**: a committer of an individual Sub Project who has been named in the CODEOWNERS files of the Sub Project. Codeowners merge code and accept pull requests.
 - **Contributor**: a Project participant who contributes to the Project and creates pull requests.
 - **Partner**: is an organization who employs a Project participant, or on whose behalf a Project participant is authorized to make contributions.
 
 The Project is an independent open-source project, not controlled by any single company or organization and has been established as CAMARA Project a Series of LF Projects, LLC. LF Projects, LLC is a Delaware series limited liability company (“LF Projects”). Governance for the CAMARA Fund is documented in the CAMARA Fund Charter.
 
-For specific guidance on the practical steps for contributing to the Project and any Sub Project please see our [Contribution Guidelines](./CONTRIBUTING.md).
+For specific guidance on the practical steps for contributing to the Project and any Sub Project or Working Group please see our [Contribution Guidelines](./CONTRIBUTING.md).
 
 ## Principles
 
