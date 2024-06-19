@@ -327,6 +327,7 @@
 | F5 | R. Dalbenzio ||
 | Fareastone | Meytsai ||
 | Fido | Francesco Panina ||
+| Flying River | Gareth Hewlett ||
 | Foo | Ziad Hawwa ||
 | Freenet | Miguel Angelo Fernandez Iglesias ||
 | Fujitsu | Kazu Sakumoto ||
@@ -384,6 +385,7 @@
 | HPE | Frederic Huve ||
 | HPE | Joao Martins ||
 | HPE | Paolo Ceccherini ||
+| HPE | Soumit Mukherjee ||
 | Hrvatski Telekom | Zlatka Milic ||
 | hSenid Mobile Solutions Singapore PTE LTD | Amith Lokugamage || 
 | Huawei | Alex Wuning ||
@@ -691,6 +693,7 @@
 | Prodapt | Carlos Portela ||
 | Proximus | Geoffrey Cristallo ||
 | Proximus | Ivan Parvais ||
+| Pryvx | Jayesh Kenaudekar ||
 | PWC | Florian Gröne ||
 | Quantexa | Jay Gupta ||
 | Quicksoft | Andrew Dena ||
