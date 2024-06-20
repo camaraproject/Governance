@@ -17,8 +17,6 @@ A Sub Project should have at least one Maintainer. Ideally a Sub Project is mana
   
 A Provider Implementation repository only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code with API code of the transformation function Northbound --> Southbound. Only Codeowners should have write permissions to a Provider Implementation (PI) repository. Provider Implementation repositories have the same name as the API repository but with suffix _-PI§x§_.
 
-Some Sub Projects may have distinct (although sometimes overlapping) sets of Contributors, Codeowners, and Maintainers.
-
 Where a Sub Project has a release process, access and documentation should be such that more than one person can perform a release.
 
 **Working Groups**
