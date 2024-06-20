@@ -35,7 +35,7 @@ For ease of use there are templates for the two types of Sub Project repositorie
 
 A repository must have at least one Codeowner. Repositories with branch protection rules must have at least two Codeowners. 
 
-As document standard for documents in the main branch of Sub Project and Working Group repositories only Markdown format shall be used. Only exceptions are supporting documents, for these other formats like PDF or PPT are allowed. Note: Documents which are meant as base for discussion or to explain change requests are best attached to an issue. Informal supporting documents are best located within the Sub Project or Working Group wiki.
+Only Markdown format shall be used as the document standard for documents in the main branch of Sub Project and Working Group repositories. The only exceptions are supporting documents, for which other formats like PDF or PPT are allowed. Note: Documents which are meant as base for discussion or to explain change requests are best attached to an issue. Informal supporting documents are best located within the Sub Project or Working Group wiki.
 
 **Changes and contributions to CAMARA**
 
