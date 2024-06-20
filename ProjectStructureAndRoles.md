@@ -61,7 +61,7 @@ More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproj
 
 **API Backlog**
 
-The API Backlog Working Group is supervised by the TSC. The responsibility of the Working Group is to coordinate and prepare all the material needed to evaluate a proposal for a new API, API family (Sub Project) or scope change of a Sub Project. The prepared material will be evaluated by TSC to decide if a new Sub Project should be onboarded in CAMARA.
+The API Backlog Working Group is supervised by the TSC. The responsibility of the Working Group is to coordinate and prepare all the material needed to evaluate a proposal for a new Sub Project (consisting of one or more related APIs), or scope change of an existing Sub Project (including adding additional APIs to that Sub Project). The prepared material will be evaluated by TSC to decide if a new Sub Project should be onboarded in CAMARA.
 
 The API onboarding and management in CAMARA is described in [API-onboarding.md](./documentation/API-onboarding.md).
 
