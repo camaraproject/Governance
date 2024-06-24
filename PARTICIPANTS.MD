@@ -595,6 +595,7 @@
 | Netcracker | Manoj K. Nair ||
 | Netcracker | Pavel Zvezdin ||
 | Netfocusin Technologies | Joydeep Banerjee ||
+| Netscout | Claudio Guerrini ||
 | Neutroon | Wilmer Rojas ||
 | Next Curve | Leonard Lee ||
 | NGMN Alliance | Anita Döhler ||
