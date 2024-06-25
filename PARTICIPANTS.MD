@@ -422,6 +422,7 @@
 | IBM | Yusuf Mirza ||
 | IBM | Zygmunt Lozinski ||
 | iCloud | Warren Prasad ||
+| ICT Consult | Kim Jones ||
 | IDC | John Byrne ||
 | IEEE | Mak Saleh ||
 | IIT Demokritos | Dimitrios Fragkos ||
