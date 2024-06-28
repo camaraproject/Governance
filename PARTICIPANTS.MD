@@ -707,6 +707,7 @@
 | Radisys | Kiran Bharadwaj Vedula ||
 | Radisys | Tapas Raiguru ||
 | Radisys | Yong Xin ||
+| Raidiam | Lukasz Jaromin ||
 | Rain | Henri Kivioja ||
 | Rakuten | Rajesh Goyal ||
 | Rakuten | Ravi Chamarty ||
@@ -797,6 +798,7 @@
 | T-Mobile US | Chris Jonathan Parker ||
 | T-Mobile US | Deepak Jaiswal ||
 | T-Mobile US | John Edward Lawler ||
+| T-Mobile US | Luis Eduardo Colon ||
 | T-Mobile US | Lyle Bertz ||
 | T-Mobile US | Mark Bales ||
 | T-Mobile US | Marouane Balmakhtar ||
