@@ -27,6 +27,7 @@
 | Airtime Rewards | Annika Fuchs ||
 | Airtime Rewards | Adam Ward ||
 | AIS | Boonchoung Tansuthepverawongse ||
+| Akross | Saulo Zimbaro ||
 | Alianza | Dag Peak ||
 | Alicon | Ike Alisson ||
 | Altice Labs | Filipe J. Delgado ||
