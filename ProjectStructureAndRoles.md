@@ -6,17 +6,16 @@
 
 The CAMARA Project is organized primarily into Sub Projects. Each Sub Project is composed of Project participants from multiple companies and organizations, with a common purpose of advancing the Sub Project with respect to a specific Service API topic, for example ‘quality on demand’ or ‘localization’. Our goal is to enable distributed decision making and code ownership. This will be done by providing focused forums for getting work done, making decisions, and onboarding new Contributors.
 
-Each Sub Project is documented in one lead repository for the API definition and the API documentation, and optionally in additional repositories for each provider implementation (API code of the transformation function Northbound --> Southbound) for that API. Provider implementation repositories have the same name as the lead repository but with suffix _-PI§x§_.
+Each Sub Project is documented with a home page on [wiki.camaraproject.org](https://wiki.camaraproject.org), one or multiple repositories for the API definition and the API documentation (API Repositories), and optionally in additional repositories for provider implementations with API code of the transformation function Northbound --> Southbound (Provider Implementation Repositories).
 
-Each Sub Project lead repository must have a README.MD file (with a description of the Sub Project), a CODEOWNERS and a MAINTAINERS.MD file. A Sub Project (lead repository) should have at least one Maintainer. Ideally a Sub Project is managed by two or more Maintainers, depending on the size and scope of the Sub Project. Here, the responsibilities must be clearly agreed upon between all of the Maintainers. This includes coordinating who is responsible for which issues and pull requests. The Contributors to a Sub Project are recorded by the mechanisms of GitHub in the Sub Project’s repositories. Each Contributor, Codeowner and Maintainer should also be listed in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file in the Governance repository root directory. Each Sub Project lead repository should have a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and subdirectories /documentation/API_documentation, /documentation/SupportingDocuments and /code/API_definitions. Only Codeowners should have write permissions to a Sub Project lead repository.
+The wiki home page of a Sub Project should contain at least a description of the scope of the Sub Project, links to the API Repositories which are belonging to the Sub Project, the address of the mailing list on [lists.camaraproject.org](https://lists.camaraproject.org/groups), and the schedule and registation/join link of the regular meeting of the Sub Project. Sub pages should contain the meeting minutes, (informal) supporting documents and (if applicable) release information for the API members as defined by the Release Management working group.
+
+The purpose of an API Repository is the definition and documentation of one or multiple (very closely related) APIs which will be always released together. Each API Repository must have a README.MD file (with a description of the API scope and a link to the Sub Project home page), a CODEOWNERS and a MAINTAINERS.MD file. An API Repository should have at least one Maintainer. Ideally a Sub Project is managed by two or more Maintainers, depending on the size and scope of the API. Here, the responsibilities must be clearly agreed upon between all of the Maintainers. This includes coordinating who is responsible for which issues and pull requests. 
+The Contributors to an API Repository are recorded by the mechanisms of GitHub in the Sub Project’s repositories. Each Contributor, Codeowner and Maintainer should also be listed in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file in the Governance repository root directory. Each API Repository should have a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and subdirectories /documentation/API_documentation, /documentation/SupportingDocuments and /code/API_definitions. Only Codeowners should have write permissions to an API Repository.
+
+A Sub Project should have at least one Maintainer. Ideally a Sub Project is managed by two or more Maintainers, depending on the size and scope of the Sub Project. The Maintainers of a Sub Project are defined by the union of the Maintainers listed within the MAINTAINERS.md files of the API Repositories which are belonging to the Sub Project. It is recommended that there is an overlap between the Maintainers of the API Repositories of the Sub Project, but it is not mandated that all Maintainers of the Sub Project take responsibility for all APIs in the Sub Project.
   
-A provider implementation repository only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code. Writing permission to a Sub Project provider implementation repository only Codeowners should have.
-
-For ease of use there are templates for both types of repositories containing all necessary files which can be cloned and adapted. When cloning it has to be checked that also the branch rules are copied and active in the new repositories.
-
-Some Sub Projects may have distinct (although sometimes overlapping) sets of Contributors, Codeowners and Maintainers.
-
-As document standard for documents in the main branch of Sub Projects only Markdown format shall be used. Only exceptions are supporting documents, for these other formats like PDF or PPT are allowed (Note: Documents which are meant as base for discussion or to explain change requests are best attached to an issue).
+A Provider Implementation Repository only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code with API code of the transformation function Northbound --> Southbound. Only Codeowners should have write permissions to a Provider Implementation (PI) Repository. Provider Implementation Repositories have the same name as the API Repository but with suffix _-PI§x§_.
 
 Where a Sub Project has a release process, access and documentation should be such that more than one person can perform a release.
 
@@ -24,11 +23,17 @@ Where a Sub Project has a release process, access and documentation should be su
 
 Working Groups are primarily used to facilitate topics of discussion that are in scope for the CAMARA Project but that are short-lived or that span multiple Sub Projects. If a subset of Project participants wants to get together and discuss a topic, they can do so by forming a Working Group. The Technical Steering Committee (TSC) decides upon implementing or removing Working Groups.
 
-Working Groups are documented in separate GitHub repositories following the lead repository template (the rules for Sub Project lead repositories apply). In the Readme.md file the repositories of Working Groups are marked with a "Working Group" badge.
+Working Groups are documented in a separate section of [wiki.camaraproject.org](https://wiki.camaraproject.org) and can have one or multiple GitHub repositories following the API Repository template (the rules for API Repositories apply). In the Readme.md file the repositories of Working Groups are marked with a "Working Group" badge.
 
 **Repositories**
 
-As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, and the contributions to Working Groups were documented in the GitHub repositories of the Working Groups. All contributions beyond that, esp. contributions to the Project itself or the TSC are documented in the GitHub repository “Governance”.
+As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, and the contributions to Working Groups were documented in the GitHub repositories of the Working Groups. All contributions beyond that, esp. contributions to the Project itself or the TSC are documented in the GitHub repository “Governance”. Additional repositories can be created for project administration purposes. 
+
+For ease of use there are templates for the two types of Sub Project repositories (API and Provider Implementation Repositories), containing all necessary files which can be cloned and adapted. When cloning it has to be ensured that also the branch protection rules are active in the new repositories. For Working Group repositories the API Repository template should be used and adapted.
+
+A repository must have at least one Codeowner. Repositories with branch protection rules must have at least two Codeowners. 
+
+Only Markdown format shall be used as the document standard for documents in the main branch of Sub Project and Working Group repositories. The only exceptions are supporting documents, for which other formats like PDF or PPT are allowed. Note: Documents which are meant as base for discussion or to explain change requests are best attached to an issue. Informal supporting documents are best located within the Sub Project or Working Group wiki.
 
 **Changes and contributions to CAMARA**
 
@@ -43,36 +48,39 @@ In the Project the “Fork and pull model” is used. Changes and contributions 
 
 Now they can work on the solution and add commits to the branch. If they are done with the work the Contributor shall create a pull request, refer to the addressed issue(s) in the pull request description (and vice versa) and add the commits to the pull request. For the naming of the pull request a clear and concrete description shall be used.
 
-4 The Contributor now shall invite other Sub Project Contributors to review the pull request. The Contributor shall invite at least 2 Maintainers, ideally from different companies and all Codeowners of the Sub Project (lead repository or provider implementation repository). As default all Maintainers and all Codeowners (of the lead repository or of the provider implementation repository) shall be invited as reviewers. Only the initial Contributor should edit a pull request in review (the Contributor is responsible to react on comments) or allow other Contributors explicitly to commit into the pull request.
+4 The Contributor now shall invite other Sub Project Contributors to review the pull request. The Contributor shall invite at least 2 Maintainers, ideally from different companies and all Codeowners of the repository. As default all Maintainers and all Codeowners of the repository shall be invited as reviewers. Only the initial Contributor should edit a pull request in review (the Contributor is responsible to react on comments) or allow other Contributors explicitly to commit into the pull request.
 
 5 The pull request shall be approved by all Contributors included in the review within a 2 weeks period. If a Contributor doesn't perform a review within that time frame the Contributor automatically accepts the pull request. For conflicting cases rules will be defined later. A two days cool off period after the approval shall be kept. A pull request review in certain cases might lead to a pull request not being approved. In this case, the Codeowner shall close the pull request (and the branch, and the issue) with the appropriate comments and the contribution shall not get merged into the main branch.
 
-6 Finally one of the Codeowners of the Sub Project (lead repository or provider implementation repository) shall merge the pull request into the main branch. By that the Codeowner closes the pull request. The Codeowner also shall close the branch and the issue (if not already automatically done).
-Deliverables of the Sub Project are all artifacts in the main branch.
+6 Finally one of the Codeowners of the repository shall merge the pull request into the main branch. By that the Codeowner closes the pull request. The Codeowner also shall close the branch and the issue (if not already automatically done).
+Deliverables of the Sub Project are all artifacts in the main branch of its repositories.
 
 More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md).
 
 **API Backlog**
 
-The API Backlog Working Group is supervised by the TSC. The responsibility of the Working Group is to coordinate and prepare all the material needed to evaluate a new API family. The prepared material will be evaluated by TSC to decide if a new Sub Project should be onboarded in CAMARA.
+The API Backlog Working Group is supervised by the TSC. The responsibility of the Working Group is to coordinate and prepare all the material needed to evaluate a proposal for a new Sub Project (consisting of one or more related APIs), or scope change of an existing Sub Project (including adding additional APIs to that Sub Project). The prepared material will be evaluated by TSC to decide if a new Sub Project should be onboarded in CAMARA.
 
 The API onboarding and management in CAMARA is described in [API-onboarding.md](./documentation/API-onboarding.md).
 
 **Commonalities**
 
-CAMARA commonalities shall be processed in a Working Group “Commonalities”. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all API families. The commonalities Working Group shall work e.g. on the development of a common meta model that shall be used as a reference across the rest of the Sub Projects. It is open for members of any Sub Project or Working Group to raise issues in the TSC group for relevant topics on a need basis.
+CAMARA commonalities shall be processed in a Working Group “Commonalities”. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all APIs in CAMARA. The commonalities Working Group shall work e.g. on the development of a common meta model that shall be used as a reference across the Sub Projects. It is open for members of any Sub Project or Working Group to raise issues in the Technical Steering Committee (TSC) for relevant topics on a need basis.
 
 All Sub Projects must comply with the work in the commonalities Working Group.
 
 **Marketing**
 
-The Marketing Working Group is responsible to plan and perform marketing activities for CAMARA and to maintain marketing material (onepager, presentation, website, GitHub, ...).
+The Marketing Working Group is responsible to plan and perform marketing activities for CAMARA and to maintain marketing material (onepager, presentation, website, GitHub, ...). It is supervised by the Board of the CAMARA Fund.
 
 **Release management**
 
 Each Sub Project shall have a release management. The release cadence shall be determined by the TSC and on a regularly published schedule. Milestones shall be set up within each Sub Project to ensure the ability of each Sub Project to meet the release schedule as defined by the TSC.
 
 Goal is that all Sub Projects updated are released at the same release milestone so that the implementors of the APIs become accustomed to the regular release cadence.
+
+The Release Management working group is supervised by the TSC. The scope of the Working Group is the definition of guidelines and best practices for the API Versioning and release management within the Sub Projects and the support of the TSC in its responsibilities for Release Management.
+
 
 **Mailing list**
 
@@ -104,7 +112,7 @@ A Working Group participant may resign by unsubscribing from the mailing list(s)
 
 **Contributors**
 
-Each Project participant can contribute to the Sub Projects of the Project. Contributors to a Sub Project can contribute by creating pull requests. To become or resign as Contributor please subscribe / unsubscribe to the mailing list of the Sub Project. The list of Contributors of a specific Sub Project is maintained by the administrators of the Project using GitHub functionality.
+Each Project participant can contribute to the Sub Projects and Working Groups of the Project. Contributors to a Sub Project can contribute by creating pull requests within the API Repositories. To become or resign as Contributor please subscribe / unsubscribe to the mailing list of the Sub Project. The list of Contributors of a specific Sub Project is maintained by the administrators of the Project using GitHub functionality.
 
 **Codeowners**
 
@@ -112,15 +120,17 @@ Codeowners can merge code and accept pull requests. A Codeowner is responsible f
 
 **Maintainers**
 
-Maintainers are the leaders of a Sub Project. Maintainers are first and foremost contributors that have shown they are committed to the long-term success of a Sub Project. Contributors wanting to become Maintainers are expected to be deeply involved in contributing code, pull request review, and triaging issues in the Sub Project for a minimum of three months and perform an ongoing contribution.
+Maintainers are the leaders of a Sub Project. Maintainers are first and foremost contributors that have shown they are committed to the long-term success of a Sub Project. Contributors wanting to become Maintainers are expected to be deeply involved in contributing code, pull request review, and triaging issues in a repository of a Sub Project or Working Group for a minimum of three months and perform an ongoing contribution.
 
 **Changes in maintainership**
 
-When creating a new Sub Project the TSC also nominates the Maintainers for it. After that the Maintainers of a Sub Project decide upon the maintainership.
+When creating a new Sub Project the TSC also nominates the initial Maintainers for the repository/ies of the new Sub Project. After that the Maintainers of a Sub Project decide upon the maintainership.
+
+The merge of two Sub Projects or the move of an API Repository from one Sub Project to another Sub Project need the consensus of the the Maintainers of both involved Sub Projects. The resulting Maintainer team(s) of the Sub Project(s) are again defined as the union of the Maintainers of the API Repositories of the Sub Project(s) (see above). 
 
 Changes in maintainership have to be announced on the mailing list of the Sub Project. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all Maintainers of a Sub Project and formalized by changing the MAINTAINERS.MD file of the respective Sub Project.
 
-A Maintainer may resign by notifying the Sub Project mailing list. A Maintainer with no Project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another Project participant to take over their Project work.
+A Maintainer may resign from the maintainership of one or multiple API Repositories by notifying the Sub Project mailing list. A Maintainer with no Project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another Project participant to take over their Project work.
 
 **Maintainer requirements**
 
