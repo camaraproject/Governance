@@ -46,6 +46,11 @@ We decided to apply _English_ as the primary project language.
 
 Consequently, all content will be made available primarily in English. We also ask all interested people to use English as language to create issues, in their code (comments, documentation etc.) and when you send requests to us. The APIs itself and all end-user facing content will be made available in other languages as needed.
 
+## Governing Board
+Besides the technical Project CAMARA has a Directed Fund, this is managed by the Governing Board. The Governing Board is responsible for budget approvals, nomination and elections of Officers of the Directed Fund, and outreach activities. The Governing Board currently consists of the following participants: [Governing Board](https://camaraproject.org/governing-board/).
+
+A message to all Governing Board participants can be sent using <board@lists.camaraproject.org>.
+
 ## Technical Steering Committee
 The Technical Steering Committee is the oversight body for the technical CAMARA Project. The Technical Steering Committee currently consists of the following participants: [Technical Steering Committee](https://camaraproject.org/steering-committee/).
 
