@@ -121,6 +121,7 @@
 | Bundesnetzagentur | Markus Klein ||
 | Byte | Aaron Paz ||
 | Bytedance | Fan Yao Hang (Owen) ||
+| Bytedance | Valme Pozo ||
 | Bytedance | Zhangran Zr ||
 | Cablelabs | Arun Yerra ||
 | Cabellabs | Leo Chely ||
