@@ -1071,7 +1071,6 @@
 |  | Jaapie Krekel ||
 |  | Jonathan Gilat ||
 |  | José Emmanuel Arellano Bravo ||
-|  | Juan de Toro ||
 |  | Juan Her ||
 |  | Juanito Excutia ||
 |  | Kshahabrnd ||
