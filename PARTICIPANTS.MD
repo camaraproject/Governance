@@ -783,6 +783,7 @@
 | Sri Lanka Telecom PLC | Anil Kumara ||
 | Starhub | Rajesh Naresh Mhatre ||
 | Starhub | Vanitha Ramaswami ||
+| Startelelogic | Umesh Pande ||
 | STC | Albaraa A. Bajnaid ||
 | STC | Fahad Tanwir ||
 | STC | Mohammed A. Adlani ||
