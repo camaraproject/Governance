@@ -858,17 +858,12 @@
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alexandre Harmand ||
 | Telefonica | ANDRES EDERRA FERNANDEZ ||
-| Telefonica | Aurelia Martinez Guerra ||
 | Telefonica | Cristina Santana Casillas ||
-| Telefonica | DAVID ARTUÑEDO GUILLEN ||
 | Telefonica | David Del Val ||
-| Telefonica | Diego Enrique Yonadi ||
 | Telefonica | Diego Gonzalez Martinez ||
 | Telefonica | Diego R. Lopez ||
-| Telefonica | Emilio Abraham Garrido Garcia ||
 | Telefonica | Fernando Guillot ||
 | Telefonica | Fernando Prado Cabrillo ||
-| Telefonica | Hanul Sieger ||
 | Telefonica | Ignacio Dominguez Martinez ||
 | Telefonica | Javier Carro Calabor ||
 | Telefonica | Javier Ferreiro Garcia ||
@@ -877,27 +872,14 @@
 | Telefonica | Jesús Peña García-Oliva ||
 | Telefonica | Jhon Javier Lozal Luco ||
 | Telefonica | Jorge Garcia Hospital ||
-| Telefonica | JOSE ANTONIO ORDOÑEZ LUCENA ||
 | Telefonica | Jose Luis Urien Pinedo ||
 | Telefonica | Jose Manuel Conde Gomez ||
-| Telefonica | JUAN CARLOS GARCIA LOPEZ ||
-| Telefonica | Julio Alberto Corchado Lopez ||
 | Telefonica | Laura Lacarra Arcos ||
-| Telefonica | Laura Martin Maldonado Practicas ||
-| Telefonica | Luis Diaz Martin ||
-| Telefonica | Maria Virtudes Briz Ruiz ||
 | Telefonica | Maxim Chizhov ||
-| Telefonica | MIGUEL ALEJANDRO HERNANDEZ ARMENGOL ||
-| Telefonica | Mona Mokhber ||
 | Telefonica | Pablo Iglesias Sanuy ||
-| Telefonica | Patricia Ventura Gomez ||
 | Telefonica | Pedro Diez Garcia ||
-| Telefonica | Philip Lengyel ||
 | Telefonica | Ricardo Serrano Gutierrez ||
-| Telefonica | Rocio Ortiz Pena ||
 | Telefonica | Ruben Barrado Gonzalez ||
-| Telefonica | Sergio Francisco Ortiz ||
-| Telefonica | Victor Barranco Fernandez ||
 | Telefonica | Violeta Gonzalez Fernandez ||
 | Telenor Connexion | Soheil Chohan ||
 | Telesmart | Bulent Tuncel ||
