@@ -924,6 +924,7 @@
 | Umniah | Tareq Abu Issa ||
 | Universida de Vigo | Alberto Estévez Caldas ||
 | Universida de Vigo | R. Perez ||
+| Universitade de Aveiro | Sousa Bento ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
 | Upstream Systems | Nikos Fotiou ||
