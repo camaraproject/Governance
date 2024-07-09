@@ -872,14 +872,14 @@
 | Telefonica | Ignacio Dominguez Martinez ||
 | Telefonica | Javier Carro Calabor ||
 | Telefonica | Javier Ferreiro Garcia ||
-| Telefonica | Javier Villa Labarra Practicas ||
-| Telefonica | JESUS MARIA MARTIN GARCIA ||
+| Telefonica | Javier Villa Labarra ||
+| Telefonica | Jesus Maria Martin Garcia ||
 | Telefonica | Jesús Peña García-Oliva ||
 | Telefonica | Jhon Javier Lozal Luco ||
 | Telefonica | Jorge Garcia Hospital ||
 | Telefonica | JOSE ANTONIO ORDOÑEZ LUCENA ||
 | Telefonica | Jose Luis Urien Pinedo ||
-| Telefonica | JOSE MANUEL CONDE GOMEZ ||
+| Telefonica | Jose Manuel Conde Gomez ||
 | Telefonica | JUAN CARLOS GARCIA LOPEZ ||
 | Telefonica | Julio Alberto Corchado Lopez ||
 | Telefonica | Laura Lacarra Arcos ||
