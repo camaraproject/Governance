@@ -83,6 +83,7 @@
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Udaka Kappagoda  ||
 | axiata | Viranga Seneviratne ||
+| Axyomcore | Abul Rehan Siddiqui ||
 | BBC | David Butler ||
 | BearingPoint | Amr Osman ||
 | BearingPoint | Carsten Aue ||
@@ -704,6 +705,7 @@
 | Quicksoft | Andrew Dena ||
 | Quobis | Elías Pérez Carrera ||
 | Quobis | Santiago Troncoso ||
+| Quorus | Bert van Ael ||
 | Qwilt | Yoav ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
@@ -1031,6 +1033,7 @@
 |  | Abdelhakim H. Djillali ||
 |  | Abrar Sadd ||
 |  | Ahmed Mohammed ||
+|  | Ameer Shohail ||
 |  | Andrew Sungwoon Song ||
 |  | Arsema Solomon ||
 |  | Basit Tanveer ||
