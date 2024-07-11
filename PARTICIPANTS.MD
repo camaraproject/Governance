@@ -1018,6 +1018,7 @@
 | Wissup | Karamo Fanta Sacko ||
 | Wit Software | Armindo Antunes ||
 | Wit Software | Marcio Almeida ||
+| Wit Software | Norbert Watermann ||
 | Wit Software | Paulo Sousa ||
 | Wit Software | Raul Fonseca ||
 | Wit Software | Rita Pires ||
