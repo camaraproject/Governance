@@ -428,6 +428,7 @@
 | ICT Consult | Kim Jones ||
 | IDC | John Byrne ||
 | IEEE | Mak Saleh ||
+| iHuddl | Stephen Corliss ||
 | IIT Demokritos | Dimitrios Fragkos ||
 | IIT Demokritos | Harilaos Koumaras ||
 | IIT Demokritos | Ilia Salex ||
@@ -1032,6 +1033,7 @@
 | ZTE | Wang Changjin ||
 |  | Abdelhakim H. Djillali ||
 |  | Abrar Sadd ||
+|  | A. E. Naderi ||
 |  | Ahmed Mohammed ||
 |  | Ameer Shohail ||
 |  | Andrew Sungwoon Song ||
