@@ -835,7 +835,7 @@
 | TechMahindra | Mohit Luthra ||
 | TechMahindra | Prashant Shrivastava ||
 | TechMahindra | Sahil Sood ||
-| Technische Universität München | Mehmetmert Bese ||t
+| Technische Universität München | Mehmet Mert Bese ||
 | Tecnotree | Chuninda Mittal ||
 | Tecnotree | Shanu Swetank ||
 | Teco | Eduardo Panciera ||
