@@ -77,11 +77,11 @@
 | axiata | Anushka Ekanayake ||
 | axiata | Chathura Mohotti ||
 | axiata | Geethan Samarawickrema ||
-| axiata | Harin Honestyandi Parandika  ||
+| axiata | Harin Honestyandi Parandika ||
 | axiata | Methsiri Kumara ||
 | axiata | Nipun Hevavitharana ||
 | axiata | Roslind Kaur Kirpal Singh ||
-| axiata | Udaka Kappagoda  ||
+| axiata | Udaka Kappagoda ||
 | axiata | Viranga Seneviratne ||
 | Axyomcore | Abul Rehan Siddiqui ||
 | BBC | David Butler ||
@@ -570,7 +570,7 @@
 | Microsoft | Moushumi Ghosal ||
 | Microsoft | Ricardo Villarreal ||
 | Microsoft | Sally-Anne Bennett ||
-| Microsoft | Shawn Hakl  ||
+| Microsoft | Shawn Hakl ||
 | Microsoft | Thilo Ewald ||
 | Midokura | Kenji Shimizu ||
 | Millicom | Alejandro Blacut ||
@@ -695,7 +695,7 @@
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Alex Ferreira ||
 | Phronesis | Matthew Hornsey ||
-| PLDT | Renelle John Magahis ||
+| PLDT | Renelle John C. Magahis (Nel) ||
 | Prodapt | Carlos Portela ||
 | Proximus | Geoffrey Cristallo ||
 | Proximus | Ivan Parvais ||
@@ -935,6 +935,7 @@
 | Vdotok AB | Zohaib Khan ||
 | Verizon | Alicia Miller ||
 | Verizon | Ankita Kohli ||
+| Verizon / OIDF| Bjorn Hjelm ||
 | Verizon | Doug Walker ||
 | Verizon / 5GFF | Jeremy Giese ||
 | Verizon | Josh Arensberg ||
@@ -976,8 +977,8 @@
 | Vodafone | Joao Ribas Fernandes ||
 | Vodafone | Johanna Wood ||
 | Vodafone | Kevin Scarr ||
-| Vodafone | Klaus Reifenrath ||
 | Vodafone | Kevin Smith ||
+| Vodafone | Klaus Reifenrath ||
 | Vodafone | Mahesh Joshi ||
 | Vodafone | Mariusz Dawidowicz ||
 | Vodafone | Marta Martin Bravo ||
@@ -1008,7 +1009,7 @@
 | Wavecrest | Torrey Searle ||
 | Webbing Solutions | Baruch Pinto ||
 | Whalecloud | Mei Jiangang ||
-| Whalecloud | Zhang Yunjie ||
+| Whalecloud | Yunjie Zhang (Elisa) ||
 | Whispir | Andrew Fry ||
 | Whispir | Graham Link ||
 | Whispir | Sharina Rapales ||
