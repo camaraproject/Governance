@@ -24,8 +24,8 @@
 | Airtel India | Ramit Chawla ||
 | Airtel India | Sudhir Mittal ||
 | Airtel India | Varun Talus ||
-| Airtime Rewards | Annika Fuchs ||
 | Airtime Rewards | Adam Ward ||
+| Airtime Rewards | Annika Fuchs ||
 | AIS | Boonchoung Tansuthepverawongse ||
 | Akross | Saulo Zimbaro ||
 | Alianza | Dag Peak ||
