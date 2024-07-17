@@ -740,6 +740,7 @@
 | Sekura Mobile Intelligence | Gautam Hazari ||
 | Seoul National University | Kiho Lee ||
 | SFR | Aziz Abouchi ||
+| Shabodi | Ankit Kumar ||
 | Shabodi | Brian ||
 | Shabodi | Camara ||
 | Shabodi | harmanjeet ||
