@@ -603,6 +603,7 @@
 | Netscout | Claudio Guerrini ||
 | Neutroon | Wilmer Rojas ||
 | Next Curve | Leonard Lee ||
+| Nextgen Clearing | Philip Hodgson ||
 | NGMN Alliance | Anita Döhler ||
 | NGMN Alliance | Chris Hogg ||
 | Nife | Nida ||
