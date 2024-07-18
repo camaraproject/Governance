@@ -765,7 +765,6 @@
 | Singtel | Zhang Xin ||
 | Singularity Tech | Daisy Phan ||
 | SK Telecom | Clark Park ||
-| SK Telecom | Dong Hwan ||
 | SK Telecom | Yoon Sun Jung (Serena) ||
 | Skyvera | Ravi Shankar ||
 | Slagen | Dagoberto Garavito ||
