@@ -968,6 +968,7 @@
 | Vodafone | Emmanuel Sarris ||
 | Vodafone | Eric Murray ||
 | Vodafone | Fraser King ||
+| Vodafone | Gianluca Ossoli ||
 | Vodafone | Iván Nieto ||
 | Vodafone | Jaime Diez ||
 | Vodafone | Jesus Pedruelo ||
