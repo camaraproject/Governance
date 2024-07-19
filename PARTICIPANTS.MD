@@ -295,6 +295,7 @@
 | Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
 | Ericsson | Fatih Bastan ||
+| Ericsson | Gregory Lindner ||
 | Ericsson | Gregory Liokumovich ||
 | Ericsson | Henrik Voigt ||
 | Ericsson | Istvan Andras Horvath ||
