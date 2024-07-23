@@ -459,6 +459,7 @@
 | Infosys | Praveen Kumar Kalapatapu ||
 | Infosys | Shiv Prakash Ojha ||
 | Inovacobrain | LUCAS SLEYDER MACHADO DICENCIO ||
+| Institute for Infocomm Research | Gary Lee ||
 | Intel | (Fran)Cesc Guim ||
 | Intel / ETSI | Dario Sabella ||
 | Intel | Larry Horner ||
