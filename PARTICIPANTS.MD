@@ -588,6 +588,8 @@
 | Mobily | Mohamed Hassan Taj ||
 | Movilgate | Javier De Luca ||
 | Movilgate | Mario Fernando Toro ||
+| MTN | Krishna Venkatachalam ||
+| MTN | Sanjay Chaurasia ||
 | MTN | Waseem Amra ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
