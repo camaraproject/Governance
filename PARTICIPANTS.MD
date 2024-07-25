@@ -953,6 +953,7 @@
 | Verizon | Massimiliano Troiani ||
 | Verizon | Medha Joshi ||
 | Verizon | Michael Sullivan ||
+| Verizon | Mu He ||
 | Verizon / 5GFF | Parry Cornell Booker ||
 | Verizon / 5GFF | Priyanka Shah ||
 | Verizon | Raghuram Parvataneni ||
