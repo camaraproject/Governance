@@ -942,6 +942,7 @@
 | Verizon | Alicia Miller ||
 | Verizon | Ankita Kohli ||
 | Verizon / OIDF| Bjorn Hjelm ||
+| Verizon | Christian Guirnalda ||
 | Verizon | Doug Walker ||
 | Verizon / 5GFF | Jeremy Giese ||
 | Verizon | Josh Arensberg ||
