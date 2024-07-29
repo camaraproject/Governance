@@ -35,7 +35,11 @@ A repository must have at least one Codeowner. Repositories with branch protecti
 
 Only Markdown format shall be used as the document standard for documents in the main branch of Sub Project and Working Group repositories. The only exceptions are supporting documents, for which other formats like PDF or PPT are allowed. Note: Documents which are meant as base for discussion or to explain change requests are best attached to an issue. Informal supporting documents are best located within the Sub Project or Working Group wiki.
 
-**Changes and contributions to CAMARA**
+**Mailing list**
+
+A Project mailing list is established, each Project participant documented in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is added. A message to all Project participants can be sent using <all@lists.camaraproject.org>.
+
+## Changes and contributions to CAMARA ##
 
 In the Project the “Fork and pull model” is used. Changes and contributions to CAMARA shall follow this process:
 ![PR_Approval_Process](/documentation/images/PR_Approval_Process.png)
@@ -56,6 +60,8 @@ Now they can work on the solution and add commits to the branch. If they are don
 Deliverables of the Sub Project are all artifacts in the main branch of its repositories.
 
 More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md).
+
+## Working Groups ##
 
 **API Backlog**
 
@@ -81,10 +87,6 @@ Goal is that all Sub Projects updated are released at the same release milestone
 
 The Release Management working group is supervised by the TSC. The scope of the Working Group is the definition of guidelines and best practices for the API Versioning and release management within the Sub Projects and the support of the TSC in its responsibilities for Release Management.
 
-
-**Mailing list**
-
-A Project mailing list is established, each Project participant documented in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is added. A message to all Project participants can be sent using <all@lists.camaraproject.org>.
 
 ## Roles, Responsibilities and Requirements
 
