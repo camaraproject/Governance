@@ -1082,7 +1082,6 @@
 |  | Ngugi Kariukid ||
 |  | P. Das ||
 |  | Paramet Prame ||
-|  | Pat Jensen ||
 |  | Pedro Juan Lopez Chavez ||
 |  | Qi Tang ||
 |  | R. Sanvatsarkar ||
