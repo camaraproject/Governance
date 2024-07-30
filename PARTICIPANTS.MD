@@ -696,6 +696,7 @@
 | ORANGE | Sylvain Morel ||
 | ORANGE Caraibe | Renaud Jarnier ||
 | ORI | José Domingos ||
+| Outris | Saurabh Sethi ||
 | Palantir | Matt Foreman ||
 | Pathfinderwireless | Colby Harper ||
 | Pavonis | DMD ||
