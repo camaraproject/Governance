@@ -552,6 +552,7 @@
 | Masmovil | Maria Segundo Romero ||
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
+| Mavenir | Hardik Gondalia ||
 | Mavenir | Jane Shen ||
 | Mavenir | Manish Panchmatia ||
 | Mavenir | Michal Sedivy ||
