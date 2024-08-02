@@ -991,7 +991,7 @@
 | Vodafone | Kevin Scarr ||
 | Vodafone | Kevin Smith ||
 | Vodafone | Klaus Reifenrath ||
-| Vodafone | Luis Lopez ||
+| Vodafone | Luis Lopez Corpas ||
 | Vodafone | Mahesh Joshi ||
 | Vodafone | Mariusz Dawidowicz ||
 | Vodafone | Marta Martin Bravo ||
