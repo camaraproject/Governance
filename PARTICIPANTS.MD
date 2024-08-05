@@ -706,6 +706,7 @@
 | Phronesis | Alex Ferreira ||
 | Phronesis | Matthew Hornsey ||
 | PLDT | Renelle John C. Magahis (Nel) ||
+| Plekton Labs | Wahid Mohammad ||
 | Prodapt | Carlos Portela ||
 | Proximus | Geoffrey Cristallo ||
 | Proximus | Ivan Parvais ||
