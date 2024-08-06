@@ -90,6 +90,10 @@ The way how the different API types shall be consumed is shown in the figure bel
 
 Hyperscalers and aggregators have the possibility to create own enriched products based on the CAMARA APIs and expose that in addition to the CAMARA APIs.
 
+Remark: In Figure 1, 3 and 4 we mention "Consumers", "End Consumers" and "API Consumers" in the following sense:
+* Developers of customer companies or independent developers can include API calls into their applications/code
+* End users of these applications then trigger API calls while using the applications
+
 **Alignment with other SDOs**
 
 The following picture shows how the different API standards complement each other.
