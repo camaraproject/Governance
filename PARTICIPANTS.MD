@@ -156,6 +156,7 @@
 | China Mobile | Liu Yifu ||
 | China Mobile | Liu Yuyjy ||
 | China Mobile | Qian Ze Bin ||
+| China Mobile | Wang Ruo Bei ||
 | China Mobile | Xiu Dushen ||
 | China Telecom | Dan Xu ||
 | China Telecom | V. Lieh Gd ||
