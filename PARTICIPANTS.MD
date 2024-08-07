@@ -135,7 +135,7 @@
 | Canopus Networks | Arun Vishwanath ||
 | Capital One | David E. Weekly ||
 | Capgemini | Amit Rustagi ||
-| Capgemini | Andreas Torgersen ||
+| Capgemini | Andreas Nordstrand Torgersen ||
 | Capgemini | Deepak A. Gunjal ||
 | Cell C | S. Bukani ||
 | Celo | Bhavishya Kanjhan ||
