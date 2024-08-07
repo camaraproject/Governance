@@ -75,6 +75,10 @@ CAMARA commonalities shall be processed in a Working Group “Commonalities”. 
 
 All Sub Projects must comply with the work in the commonalities Working Group.
 
+**Identity and Consent Management**
+
+In the Identity and Consent Management Working Group solutions are defined and developed to identify users/subscribers, to capture, store and manage user consent, and to make sure that end user experience of using the API is not compromised.
+
 **Marketing**
 
 The Marketing Working Group is responsible to plan and perform marketing activities for CAMARA and to maintain marketing material (onepager, presentation, website, GitHub, ...). It is supervised by the Board of the CAMARA Fund.
