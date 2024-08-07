@@ -130,7 +130,7 @@
 | Cablelabs | Mark Bridges ||
 | Cablelabs | Paul Fonte ||
 | Cablelabs | Philip Rosenberg-Watt ||
-| Cablelabs | R. Gandotra ||
+| Cablelabs | Rahil Gandotra ||
 | Cablelabs | Randy Levensalor ||
 | Canopus Networks | Arun Vishwanath ||
 | Capital One | David Weekly ||
