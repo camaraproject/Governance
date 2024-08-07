@@ -133,7 +133,7 @@
 | Cablelabs | Rahil Gandotra ||
 | Cablelabs | Randy Levensalor ||
 | Canopus Networks | Arun Vishwanath ||
-| Capital One | David Weekly ||
+| Capital One | David E. Weekly ||
 | Capgemini | Amit Rustagi ||
 | Capgemini | Andreas Torgersen ||
 | Capgemini | Deepak A. Gunjal ||
