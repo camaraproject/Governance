@@ -71,7 +71,7 @@ The API onboarding and management in CAMARA is described in [API-onboarding.md](
 
 **Commonalities**
 
-CAMARA commonalities shall be processed in a Working Group "Commonalities”. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all APIs in CAMARA. The commonalities Working Group shall work e.g. on the development of a common meta model that shall be used as a reference across the Sub Projects. It is open for members of any Sub Project or Working Group to raise issues in the Technical Steering Committee (TSC) for relevant topics on a need basis.
+CAMARA commonalities shall be processed in a Working Group "Commonalities”. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all APIs in CAMARA. The Commonalities Working Group shall work e.g. on the development of a common meta model that shall be used as a reference across the Sub Projects. It is open for members of any Sub Project or Working Group to raise issues in the Technical Steering Committee (TSC) for relevant topics on a need basis.
 
 All Sub Projects must comply with the work in the Commonalities Working Group.
 
