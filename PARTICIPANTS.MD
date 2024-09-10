@@ -133,6 +133,7 @@
 | Cablelabs | Philip Rosenberg-Watt ||
 | Cablelabs | Rahil Gandotra ||
 | Cablelabs | Randy Levensalor ||
+| Callsign | Jyotheeswara Malapati ||
 | Canopus Networks | Arun Vishwanath ||
 | Capital One | David E. Weekly ||
 | Capgemini | Amit Rustagi ||
@@ -284,6 +285,7 @@
 | ENEA | Fergus Wills ||
 | ENEA | Iftikhar Waheed ||
 | ENEA | Osvaldo Aldao ||
+| Entel | Cesar Llontop ||
 | Entel | Duran Nardecchia Eduardo ||
 | Equityai | Matthew Webster ||
 | Ericsson | Ajit R. Raghavan ||
@@ -528,6 +530,7 @@
 | LCN | Rathnakumar Kayyar ||
 | Lenovo | Apostolis Salkintzis ||
 | Lenovo | Nick Petropouleas ||
+| LFOD | Christopher Garlick ||
 | LG U+ | Jae Yeol Kim (Jerry) ||
 | LibertyGlobal | Awais Ahmad ||
 | LibertyGlobal | Bobasola ||
@@ -898,6 +901,7 @@
 | Telefonica | Laura Lacarra Arcos ||
 | Telefonica | Maxim Chizhov ||
 | Telefonica | Pablo Iglesias Sanuy ||
+| Telefonica | Patricia Serrano Gonzalez ||
 | Telefonica | Pedro Diez Garcia ||
 | Telefonica | Ricardo Serrano Gutierrez ||
 | Telefonica | Ruben Barrado Gonzalez ||
@@ -1049,6 +1053,7 @@
 | Wit Software | Raul Fonseca ||
 | Wit Software | Rita Pires ||
 | Wiwynn | Karl Chiang ||
+| Xalyocom | Carlo ||
 | YBVR | Goetz Kursawe ||
 | Zain | Devajeet Datta ||
 | Zignos | Carlos ||
@@ -1091,6 +1096,7 @@
 |  | Kshahabrnd ||
 |  | Kuldeep Kumar ||
 |  | Kunal Shokeen ||
+|  | Laiminh Ha ||
 |  | Lokesh Negi ||
 |  | Mark Adonaghey ||
 |  | Mea Hus ||
