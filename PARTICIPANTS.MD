@@ -149,12 +149,14 @@
 | Charter | Patrick Schultz ||
 | Charter | Sully Uruthiramoorthy ||
 | China Mobile | Bao Yuhan ||
+| China Mobile | Guang Heke ||
 | China Mobile | Hanbai Wang ||
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
 | China Mobile | Liu Yifu ||
 | China Mobile | Liu Yuyjy ||
 | China Mobile | Qian Ze Bin ||
+| China Mobile | Ruqian Zhang ||
 | China Mobile | Wang Ruo Bei ||
 | China Mobile | Xiu Dushen ||
 | China Telecom | Dan Xu ||
@@ -296,6 +298,7 @@
 | Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
 | Ericsson | Fatih Bastan ||
+| Ericsson | Frederic Carrier ||
 | Ericsson | Gregory Lindner ||
 | Ericsson | Gregory Liokumovich ||
 | Ericsson | Henrik Voigt ||
@@ -443,6 +446,7 @@
 | Indykite | Marius Bakkeli ||
 | Indykite | Sebastian Drees ||
 | Infinite | Arun Konathala ||
+| Infobip | Emina Sikira ||
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
 | Infobip | Mario Kresic ||
@@ -488,6 +492,7 @@
 | Jukshio | Kishore Rajasekharuni ||
 | Juniper | Sukhdev Kapur ||
 | KDDI | Brian Vaughn ||
+| KDDI | K. C. Yamamoto ||
 | KDDI | Keichi Okonogi ||
 | KDDI | K. Koiwai ||
 | KDDI | K. Oogaki ||
@@ -727,6 +732,7 @@
 | Rakuten | Rajesh Goyal ||
 | Rakuten | Ravi Chamarty ||
 | Redhat | Hanen Garcia ||
+| Redhat | S. Mufti ||
 | Reply | Gianmarco Sciortino ||
 | Ril | Kumar Gaurav Singh ||
 | Rogers | Nicholas Manolakos ||
@@ -770,6 +776,7 @@
 | Simptel | Izahir Clemencia ||
 | Sinch | Harsha Appuhami Ralalage ||
 | Sinch | Mats Magnusson ||
+| Singtel | Gilbert Tan ||
 | Singtel | Macus Chua ||
 | Singtel | Ming Hui Foo ||
 | Singtel | Zhang Xin ||
@@ -939,6 +946,7 @@
 | Universitade de Aveiro | Sousa Bento ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
+| University of Wuhan | Wrb Math Cs ||
 | Upstream Systems | Nikos Fotiou ||
 | Vay | Jesus Gonzalez Tejeria ||
 | Vdotok AB | Zohaib Khan ||
