@@ -12,6 +12,7 @@
 | A1 | Thomas Walzer ||
 | AabVin | Acheem ||
 | Accenture | Adriano Poloni ||
+| Accenture | Arnau Mata-Llenas ||
 | Accenture | Dibyendu Singha Roy ||
 | Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
@@ -544,6 +545,7 @@
 | LinuxFoundation | Pano Xinos ||
 | LinuxFoundation | Scott Nicholas ||
 | Lionscraft | Aleph Zero ||
+| Lionscraft | Julian Ueding ||
 | Liveu | Baruch Altman ||
 | Locance | Mario Proietti ||
 | Locationguru | Ahmed Shaheer ||
@@ -915,6 +917,7 @@
 | TELUS | Jim Slevinksy ||
 | TELUS | Oswaldo Lauschner ||
 | TELUS | Reda Zaza ||
+| TELUS | Sana Tariq ||
 | TELUS | Theohar Konomi ||
 | TesTime Limited  | Eleph Kwong ||
 | The Leading Path | Daniel Kibler ||
@@ -1097,6 +1100,7 @@
 |  | Pedro Juan Lopez Chavez ||
 |  | Qi Tang ||
 |  | R. Sanvatsarkar ||
+|  | Ram Ramanathan ||
 |  | Rahul Panwar ||
 |  | Sabir Bouloumi ||
 |  | Sangramra Jekakade ||
