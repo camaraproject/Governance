@@ -1003,6 +1003,7 @@
 | Vodafone | Joao Gaspar da Silva ||
 | Vodafone | Joao Ribas Fernandes ||
 | Vodafone | Johanna Wood ||
+| Vodafone | Kevan Taylor ||
 | Vodafone | Kevin Scarr ||
 | Vodafone | Kevin Smith ||
 | Vodafone | Klaus Reifenrath ||
