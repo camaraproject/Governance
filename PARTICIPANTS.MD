@@ -903,6 +903,7 @@
 | Telefonica | Pablo Iglesias Sanuy ||
 | Telefonica | Patricia Serrano Gonzalez ||
 | Telefonica | Pedro Diez Garcia ||
+| Telefonica | Pedro Jose Gutierrez Rodriguez ||
 | Telefonica | Ricardo Serrano Gutierrez ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Violeta Gonzalez Fernandez ||
