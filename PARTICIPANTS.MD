@@ -862,6 +862,7 @@
 | Teco | Eduardo Panciera ||
 | Teco | Ricardo Lavaggi ||
 | Telchemy | Anthony Caiozzo ||
+| Tele 2 | Angel Toribio ||
 | Tele 2 | Nurdaulet Zholdassov ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
