@@ -433,6 +433,7 @@
 | IBM | Pablo Kahale ||
 | IBM | Yusuf Mirza ||
 | IBM | Zygmunt Lozinski ||
+| iCloud | Har Shamore ||
 | iCloud | Warren Prasad ||
 | ICT Consult | Kim Jones ||
 | IDC | John Byrne ||
