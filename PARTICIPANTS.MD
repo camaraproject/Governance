@@ -812,7 +812,6 @@
 | STC | Albaraa A. Bajnaid ||
 | STC | Fahad Tanwir ||
 | STC | Mohammed A. Adlani ||
-| STC | Muhammad Imran Awan ||
 | STC | Naeem Ur Rehman ||
 | STL Partners | Yannick Mayaud ||
 | SUE | Serge van Namen ||
