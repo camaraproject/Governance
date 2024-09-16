@@ -224,7 +224,6 @@
 | Detecon | Pawel Krysiak ||
 | Deutsche Telekom AG | Akos Hunyadi ||
 | Deutsche Telekom AG | Andre Danner ||
-| Deutsche Telekom AG | Antonio Carlos Correia Fernandes ||
 | Deutsche Telekom AG | Axel Nennker ||
 | Deutsche Telekom AG | Daniel Dierich ||
 | Deutsche Telekom AG | Dawid Wróblewski ||
@@ -939,7 +938,6 @@
 | Totogi | Ailton Santana ||
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
-| Trustrelay | Lukas Hohl ||
 | Turk Telekomünikasyon A.Ş. | Furkan Acik ||
 | Twilio | Felipe Gutierrez ||
 | Tykelab | M. Massaroni ||
