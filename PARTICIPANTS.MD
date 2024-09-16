@@ -344,6 +344,7 @@
 | Fujitsu | Kazu Sakumoto ||
 | Fujitsu | Nishant Tiwari ||
 | Fujitsu | Terry Hasegawa ||
+| FutureConnections | Sergio Carrillo ||
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | GCI | Scott A. Griffith ||
@@ -1115,6 +1116,7 @@
 |  | Shao Long Chou ||
 |  | SKD
 |  | Sridhar Paiyya ||
+|  | Sunil Jain ||
 |  | Tom Hsu ||
 |  | Tom Collins ||
 |  | Tomer Ilan ||
