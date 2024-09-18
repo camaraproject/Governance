@@ -40,6 +40,7 @@
 | amdocs | Gautam Gupta ||
 | amdocs | Nir Fattal ||
 | amdocs | Steve Plain ||
+| Amivox | Birkir Marteinsson ||
 | Andorra Telecom | Felip Correas Bons ||
 | Anlix | Gaspare Giuliano Elias Bruno ||
 | Apinity | David Vazquez Cortizo ||
