@@ -174,6 +174,7 @@
 | Chunghwa Telecom | Guang-Han Ma ||
 | Chunghwa Telecom | J. H. C. ||
 | Chunghwa Telecom | MingHsun Lee ||
+| Ciptex | Matt Winckless ||
 | Cisco | Pravin Ajagekar ||
 | Cisco | Ravi Guntupalli ||
 | Cisco | Ravi Shek ||
