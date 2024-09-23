@@ -573,7 +573,6 @@
 | Mavenir | Tomas Holubec ||
 | Mavenir | Viswanath Krishnamurthy ||
 | MEF | Daniel Bar-Lev ||
-| Messangi | Santiago Rojas ||
 | Meta | Bhabani Panda ||
 | Meta | Bhartendu Chaurasia ||
 | Meta | Dennis Punjabi ||
