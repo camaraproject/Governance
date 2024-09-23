@@ -962,6 +962,7 @@
 | Vdotok AB | Zohaib Khan ||
 | Verizon | Alicia Miller ||
 | Verizon | Ankita Kohli ||
+| Verizon | Anna Keramaty ||
 | Verizon / OIDF| Bjorn Hjelm ||
 | Verizon | Christian Guirnalda ||
 | Verizon | Doug Walker ||
@@ -1082,6 +1083,7 @@
 |  | Cristina Martinez ||
 |  | D S Rao ||
 |  | D. Tran ||
+|  | Dapsdn ||
 |  | Deepankar ||
 |  | Elena Chernysh ||
 |  | Emmanuele Benedetto ||
