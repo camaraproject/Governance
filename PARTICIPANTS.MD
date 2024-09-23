@@ -325,6 +325,7 @@
 | Ericsson | Peter Chen ||
 | Ericsson | Rajat Kandoi ||
 | Ericsson | Rammohan Gopalan ||
+| Ericsson | Ramy Maher ||
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Stefanos Boukouvalas ||
 | Ericsson | Steven Deskovic ||
@@ -340,6 +341,7 @@
 | F5 | R. Dalbenzio ||
 | Fareastone | Meytsai ||
 | Fido | Francesco Panina ||
+| FIT Tecnologia | Raphael Parreira ||
 | Flying River | Gareth Hewlett ||
 | Foo | Ziad Hawwa ||
 | Freenet | Miguel Angelo Fernandez Iglesias ||
@@ -664,6 +666,7 @@
 | Nuage | Gabriel Klein ||
 | Nuvemlabs | Jaswant Boyat ||
 | nxt:fwd | Ismo Antikainen ||
+| Ofcom | George Jibin ||
 | Ookla | Leandro A. Demarchi ||
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
