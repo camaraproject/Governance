@@ -155,6 +155,7 @@
 | China Mobile | Bao Yuhan ||
 | China Mobile | Guang Heke ||
 | China Mobile | Hanbai Wang ||
+| China Mobile | Haojie Li ||
 | China Mobile | Jundian Shi ||
 | China Mobile | Lisa Gao ||
 | China Mobile | Liu Yifu ||
