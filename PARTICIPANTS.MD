@@ -608,6 +608,7 @@
 | MTN | Krishna Venkatachalam ||
 | MTN | Sanjay Chaurasia ||
 | MTN | Waseem Amra ||
+| MycomOSI | Paul Ghanime ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
 | Nabstract | Vaibhav Mehta ||
@@ -1122,6 +1123,7 @@
 |  | Sabir Bouloumi ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
+|  | Sferran Learn ||
 |  | Shao Long Chou ||
 |  | SKD
 |  | Sridhar Paiyya ||
