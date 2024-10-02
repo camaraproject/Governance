@@ -279,6 +279,7 @@
 | E& | Vikram Rana ||
 | EANTC | Carsten Rossenhoevel ||
 | EANTC | Dirk Hetzer ||
+| EdgeContinuum | Miguel Faro ||
 | EdgeXR | Jesse Bijl ||
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
