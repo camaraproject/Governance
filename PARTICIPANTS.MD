@@ -515,6 +515,7 @@
 | KDDI | Tetsuya Chiba ||
 | KDDI | Toshiyasu Wakayama ||
 | KDDI | Yusuke Nakano ||
+| Keio University - Jun Murai Lab | Tai Hei ||
 | Keysight | Pelle Ravn || 
 | Kinetix | Paolo Galeotti ||
 | KORE Wireless | Jorrit Kronjee ||
