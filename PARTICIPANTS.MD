@@ -134,6 +134,7 @@
 | Cablelabs | Philip Rosenberg-Watt ||
 | Cablelabs | Rahil Gandotra ||
 | Cablelabs | Randy Levensalor ||
+| Cablelabs | Shafayet Khan ||
 | Callsign | Jyotheeswara Malapati ||
 | Canopus Networks | Arun Vishwanath ||
 | Capital One | David E. Weekly ||
