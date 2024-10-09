@@ -910,6 +910,7 @@
 | Telefonica | Jorge Garcia Hospital ||
 | Telefonica | Jose Luis Urien Pinedo ||
 | Telefonica | Jose Manuel Conde Gomez ||
+| Telefonica | Laura Grönewald ||
 | Telefonica | Laura Lacarra Arcos ||
 | Telefonica | Maxim Chizhov ||
 | Telefonica | Pablo Iglesias Sanuy ||
@@ -967,6 +968,7 @@
 | University of Patras | Christos Tranoris ||
 | University of Wuhan | Wrb Math Cs ||
 | Upstream Systems | Nikos Fotiou ||
+| Utimaco | Oliver Simon ||
 | Vay | Jesus Gonzalez Tejeria ||
 | Vdotok AB | Zohaib Khan ||
 | Verizon | Alicia Miller ||
