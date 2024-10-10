@@ -4,15 +4,16 @@
 
 This technical charter (the “Charter”) describes the rules and governance of the CAMARA Project (the “Project”). It is meant to be followed by all the contributors, codeowners and maintainers of, and other participants in (collectively, “Project participants”), the Project. Common terminology used in this governance document is defined below:
 - **CAMARA Project**: The sum of all activities and Sub Projects performed under the governance protocol defined in this document.
-- **Project participant**: participants in the CAMARA Project who have been named in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) for the Project.
+- **Project participant**: participants in the CAMARA Project.
 - **Technical Steering Committee (TSC)**: the technical oversight body for the Project.
 - **TSC participant**: a member of the TSC.
 - **Working Group**: a group of Project participants working on a specific topic as directed by the TSC.
 - **Working Group participant**: a Project participant contributing to a specific Working Group, which may span one or more Sub Projects.
 - **Sub Project**: A subproject of the CAMARA Project led by a voluntary group, open to anyone to participate.
 - **Repository**: Sub Projects and Working Groups have one or multiple GitHub repositories to document their artifacts and documentation.
-- **Maintainer**: is leader of an individual Sub Project or Working Group who has been named in the MAINTAINERS.MD files of the respective Sub Project.
-- **Codeowner**: a committer of an individual Sub Project who has been named in the CODEOWNERS files of the Sub Project. Codeowners merge code and accept pull requests.
+- **Sandbox Repositories** can exist independent of a Sub Project or Working Group, e.g. during the initial development phase of an API. 
+- **Maintainer**: is leader of an individual Sub Project or Working Group who has been named in the MAINTAINERS.MD files of one of the repositories of the Sub Project or Working Group. 
+- **Codeowner**: a committer of an individual Repository who has been named in the CODEOWNERS files of the Repository. Codeowners merge code and accept pull requests.
 - **Contributor**: a Project participant who contributes to the Project and creates pull requests.
 - **Partner**: is an organization who employs a Project participant, or on whose behalf a Project participant is authorized to make contributions.
 
@@ -141,12 +142,12 @@ is created.
 **Technical Steering Committee (TSC)**
 
 The Technical Steering Committee is composed of:
--	10 representatives of Sub Projects as selected by the Maintainers (“Sub Project representatives”); 
+-	10 representatives of Sub Projects as selected by the Maintainers of Sub Projects and Working Groups (“Sub Project representatives”); 
 -	3 representatives of the End-User Council as selected by the End-User Council (“EUC representatives”); 
 -	1 non-voting representative of the GSMA and
 -	1 non-voting representative of the TMForum
 
-Any Maintainer may nominate themselves or another Maintainer of any Sub Project for consideration as a Sub Project representative. The Maintainers will vote using ranked choice voting (or another method approved by the TSC) and those 10 nominees receiving the highest number of votes will be elected as Sub Project representatives.
+Any Maintainer may nominate themselves or another Maintainer of any Sub Project or Working Group for consideration as a Sub Project representative. The Maintainers will vote using ranked choice voting (or another method approved by the TSC) and those 10 nominees receiving the highest number of votes will be elected as Sub Project representatives.
 
 Any participant of the EUC may recommend any participant of the EUC for consideration as a EUC representative. EUC participants will vote using ranked choice voting (or another method approved by the TSC) and those 3 nominees receiving the highest number of votes will be elected as EUC representatives.
 
@@ -160,12 +161,12 @@ The TSC may choose an alternative approach for determining the voting participan
 
 The TSC may approve an alternate attendance policy. Any TSC participant who fails to attend, or to have a alternate attend on their behalf, more than 30% of the meetings of the TSC in any six-month period will lose the right to vote, and will not be counted for quorum purposes, on the TSC until that TSC participant has attended two consecutive meetings of the TSC (with their vote restored as of the second meeting).
 
-The technical roles of the Sub Projects and Working Groups are described in the [Project Structure And Roles](./ProjectStructureAndRoles.md) file. The TSC may adopt or modify roles so long as the roles are documented in the [Project Structure And Roles](./ProjectStructureAndRoles.md) file. Participation in the Project through becoming a Project participant is open to anyone so long as they abide by the terms of this Charter.
+The technical roles of the Sub Projects, Working Groups and Sandbox Repositories are described in the [Project Structure And Roles](./ProjectStructureAndRoles.md) file. The TSC may adopt or modify roles so long as the roles are documented in the [Project Structure And Roles](./ProjectStructureAndRoles.md) file. Participation in the Project through becoming a Project participant is open to anyone so long as they abide by the terms of this Charter.
 
 The TSC may (1) establish workflow procedures for the submission, approval, and closure/archiving of Sub Projects and Working Groups, (2) set requirements for the change of Project participants from one technical role to another, and (3) amend, adjust, refine and/or eliminate any technical roles, create new roles, and publicly document any roles, as it sees fit.
 
 Responsibilities: The TSC is responsible for all aspects of oversight relating to the Project, which may include:
-- approving Sub Project proposals (including, but not limited to, incubation, deprecation, and changes to a Sub Project’s scope);
+- approving Sandbox Repository and Sub Project proposals (including, but not limited to, incubation, deprecation, and changes to a Sub Project’s scope);
 - organizing Sub Projects and removing Sub Projects;
 - creating and removing of Working Groups to focus on cross-project technical issues and requirements;
 - appointing representatives to work with other open source or open standards communities;

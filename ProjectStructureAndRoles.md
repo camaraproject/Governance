@@ -2,42 +2,95 @@
 
 ## Project Structure
 
+**Overview**
+
+The work of CAMARA is organized in 
+* Sub Projects and their API Repositories
+* Working Groups and their Repositories
+
+API Repositories in CAMARA are classified with one of three stages of maturity:
+
+* Sandboxed
+* Incubated
+* Graduated
+
+Sandbox API Repositories can initially exist independent of a Sub Project. The process for the creation, incubation, graduation and (potential) archiving of API Repositories is described within [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+
 **Sub Projects**
 
-The CAMARA Project is organized primarily into Sub Projects. Each Sub Project is composed of Project participants from multiple companies and organizations, with a common purpose of advancing the Sub Project with respect to a specific Service API topic, for example ‘quality on demand’ or ‘localization’. Our goal is to enable distributed decision making and code ownership. This will be done by providing focused forums for getting work done, making decisions, and onboarding new Contributors.
+Sub Projects are the primary structure of the CAMARA Project. Each Sub Project is composed of Project participants from multiple companies and organizations, with a common purpose of advancing the Sub Project with respect to a specific Service API topic, for example ‘quality on demand’ or ‘localization’. Our goal is to enable distributed decision making and code ownership. This will be done by providing focused forums for getting work done, making decisions, and onboarding new Contributors.
 
-Each Sub Project is documented with a home page on [wiki.camaraproject.org](https://wiki.camaraproject.org), one or multiple repositories for the API definition and the API documentation (API Repositories), and optionally in additional repositories for provider implementations with API code of the transformation function Northbound --> Southbound (Provider Implementation Repositories).
+Each Sub Project has a home page on the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), one or multiple repositories for the API definition and the API documentation (API Repositories), and optionally additional repositories for provider implementations with API code of the transformation function Northbound --> Southbound (Provider Implementation Repositories).
 
 The wiki home page of a Sub Project should contain at least a description of the scope of the Sub Project, links to the API Repositories which are belonging to the Sub Project, the address of the mailing list on [lists.camaraproject.org](https://lists.camaraproject.org/groups), and the schedule and registation/join link of the regular meeting of the Sub Project. Sub pages should contain the meeting minutes, (informal) supporting documents and (if applicable) release information for the API members as defined by the Release Management working group.
 
-The purpose of an API Repository is the definition and documentation of one or multiple (very closely related) APIs which will be always released together. Each API Repository must have a README.MD file (with a description of the API scope and a link to the Sub Project home page), a CODEOWNERS and a MAINTAINERS.MD file. An API Repository should have at least one Maintainer. Ideally a Sub Project is managed by two or more Maintainers, depending on the size and scope of the API. Here, the responsibilities must be clearly agreed upon between all of the Maintainers. This includes coordinating who is responsible for which issues and pull requests. 
-The Contributors to an API Repository are recorded by the mechanisms of GitHub in the Sub Project’s repositories. Each Contributor, Codeowner and Maintainer should also be listed in the [PARTICIPANTS.MD](./PARTICIPANTS.MD) file in the Governance repository root directory. Each API Repository should have a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and subdirectories /documentation/API_documentation, /documentation/SupportingDocuments and /code/API_definitions. Only Codeowners should have write permissions to an API Repository.
+A Sub Project should have at least three Maintainers. The Maintainers of a Sub Project are defined by the union of the Maintainers listed within the MAINTAINERS.md files of the API Repositories which are belonging to the Sub Project. It is recommended that there is an overlap between the Maintainers of the API Repositories of the Sub Project, but it is not mandated that all Maintainers of the Sub Project take responsibility for all APIs in the Sub Project.
 
-A Sub Project should have at least one Maintainer. Ideally a Sub Project is managed by two or more Maintainers, depending on the size and scope of the Sub Project. The Maintainers of a Sub Project are defined by the union of the Maintainers listed within the MAINTAINERS.md files of the API Repositories which are belonging to the Sub Project. It is recommended that there is an overlap between the Maintainers of the API Repositories of the Sub Project, but it is not mandated that all Maintainers of the Sub Project take responsibility for all APIs in the Sub Project.
+Each Sub Project is following for the API Repositories the Release Process as defined by the Release Management Working Group.
+
+**API Repositories**
+
+The purpose of an API Repository is the definition and documentation of one or multiple (very closely related) APIs which will be always released together.
+
+An API Repository should have at least one Maintainer. Ideally an API Repository is managed by two or more Maintainers, depending on the size and scope of the API. Here, the responsibilities must be clearly agreed upon between all of the Maintainers. This includes coordinating who is responsible for which issues and pull requests. The Contributors to an API Repository are recorded by the mechanisms of GitHub in the Sub Project’s repositories.
+
+A repository must have at least one Codeowner. Repositories with branch protection rules must have at least two Codeowners. Only Codeowners should have write permissions to an API Repository.
+
+Each API Repository must have a README.MD file (with a description of the API scope), a license file, a GOVERNANCE.MD file (pointing to the Governance repository), a CODEOWNERS, and a MAINTAINERS.MD file.
+
+Each API Repository should have subdirectories /documentation/API_documentation, /documentation/SupportingDocuments, /code/API_definitions, and /code/Test_definitions. 
   
-A Provider Implementation Repository only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code with API code of the transformation function Northbound --> Southbound. Only Codeowners should have write permissions to a Provider Implementation (PI) Repository. Provider Implementation Repositories have the same name as the API Repository but with suffix _-PI§x§_.
+API Repositories can have in addition Provider Implementation (PI) Repositories on their side. Provider Implementation Repositories only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code with API code of the transformation function Northbound --> Southbound. Only Codeowners should have write permissions to a Provider Implementation (PI) Repository. Provider Implementation Repositories have the same name as the API Repository but with suffix _-PI§x§_.
 
-Where a Sub Project has a release process, access and documentation should be such that more than one person can perform a release.
+**Sandbox API Repositories**
 
-**Working Groups**
+A Sandbox API Repository is meant for the rapid development of a new API proposal through one or multiple initial API versions (0.x.y) until the first public release of an initial or stable API Version within the context of a CAMARA Meta-release.
+
+A Sandbox API Repository can be created independent of a CAMARA Sub Project or in context of an existing CAMARA Sub Project. It is the first stage for every new API proposal developed in CAMARA, for details see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+
+A Sandbox API Repository can belong to a CAMARA Sub Project or exist initially independent. If the Sandbox API Repository belongs to a Sub Project it links within the README.md to the Sub Project wiki page. Mailing list, meetings will be for these Sandbox API Repositories organized in context of the Sub Project. A Sandbox API Repository which is not part of an existing Sub Project will get a Wiki page (in the Sandbox section), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting to be able to communicate with the community and attract contributors.
+
+A Sandbox API Repository must have at least one Codeowner and one Maintainer (could be the same person). If branch protection rules are activated (on request of the Maintainers) within the repository it must have at least two Codeowners. Branch protection rules must be get activated at latest when the first public release is created.
+
+Sandbox API Repositories are marked with a "Sandbox" badge in the README.md file and get a topic "Sandbox" assigned within the CAMARA GitHub Organization.
+
+**Incubated API Repositories**
+
+An Incubated API Repository is meant for the further evolution of an API which has been implemented already by at least one operator, fits into the CAMARA API portfolio and gained sufficient support within the CAMARA community. For details of the Incubation process see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+
+An Incubated API Repository has the same structure as a Sandbox API Repository, with the following additional requirements: 
+* An Incubated API Repository must belong to a CAMARA Sub Project (either an existing one or a new Sub Project created as part of the Incubation process). 
+* The repository should have at least three Maintainers (out of the group of Maintainers of the Sub Project). 
+* Branch protection rules must be activated, therefore a minimum of two Codeowners is required. 
+* All changes and contributions in the repository are following the description below.
+
+Incubated API Repositories are marked with a "Incubated" badge in the README.md file and get a topic "Incubated" assigned within the CAMARA GitHub Organization.
+
+**Graduated API Repositories**
+
+A Graduated API Repository maintains a stable CAMARA API which has been widely adopted within the market. Details of the Graduation process will be defined within API-Onboarding-and-Lifecycle.md. 
+
+Graduated API Repositories have no additional technical requirements compared to Incubated API Repositories. It is important that the Sub Project ensures that there is a succession management for leaving Maintainers and Codeowners in place.
+
+Graduated API Repositories are marked with a "Graduated" badge in the README.md file and get a topic "Graduated" assigned within the CAMARA GitHub Organization.
+
+**Working Group Repositories**
 
 Working Groups are primarily used to facilitate topics of discussion that are in scope for the CAMARA Project but that are short-lived or that span multiple Sub Projects. If a subset of Project participants wants to get together and discuss a topic, they can do so by forming a Working Group. The Technical Steering Committee (TSC) decides upon implementing or removing Working Groups.
 
-Working Groups are documented in a separate section of [wiki.camaraproject.org](https://wiki.camaraproject.org) and can have one or multiple GitHub repositories following the API Repository template (the rules for API Repositories apply). In the Readme.md file the repositories of Working Groups are marked with a "Working Group" badge.
+Working Groups are documented in a separate section of [CAMARA wiki](https://lf-camaraproject.atlassian.net/) and can have one or multiple GitHub repositories following the API Repository template (the rules for API Repositories apply). In the Readme.md file the repositories of Working Groups are marked with a "Working Group" badge.
 
-**Repositories**
+**Repositories Rules**
 
 As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, and the contributions to Working Groups were documented in the GitHub repositories of the Working Groups. All contributions beyond that, esp. contributions to the Project itself or the TSC are documented in the GitHub repository “Governance”. Additional repositories can be created for project administration purposes. 
 
-For ease of use there are templates for the two types of Sub Project repositories (API and Provider Implementation Repositories), containing all necessary files which can be cloned and adapted. When cloning it has to be ensured that also the branch protection rules are active in the new repositories. For Working Group repositories the API Repository template should be used and adapted.
+For ease of use there are templates for API and Provider Implementation Repositories, containing all necessary files which can be cloned and adapted. When cloning it has to be ensured that also the branch protection rules are active in the new repositories if needed. For Working Group repositories the API Repository template should be used and adapted.
 
-A repository must have at least one Codeowner. Repositories with branch protection rules must have at least two Codeowners. 
-
-Only Markdown format shall be used as the document standard for documents in the main branch of Sub Project and Working Group repositories. The only exceptions are supporting documents, for which other formats like PDF or PPT are allowed. Note: Documents which are meant as base for discussion or to explain change requests are best attached to an issue. Informal supporting documents are best located within the Sub Project or Working Group wiki.
+Only Markdown format shall be used as the document standard for documents in the main branch of API and Working Group repositories. The only exceptions are supporting documents, for which other formats like PDF or PPT are allowed. Note: Documents which are meant as base for discussion or to explain change requests are best attached to an issue. Informal supporting documents are best located within the Sub Project or Working Group wiki.
 
 **Mailing list**
 
-A Project mailing list is established, each Project participant documented in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is added. A message to all Project participants can be sent using <all@lists.camaraproject.org>.
+A Project wide mailing list is established, each Project participant documented in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is added. A message to all Project participants can be sent using <all@lists.camaraproject.org>.
 
 ## Changes and contributions to CAMARA ##
 
@@ -48,7 +101,7 @@ In the Project the “Fork and pull model” is used. Changes and contributions 
 
 2 Either the issue creator or one of the Sub Project Maintainers then shall assign the issue to one of the Contributors of the Sub Project.
 
-3 This Contributor shall create a fork (if necessary), shall create a new branch, and shall copy the branch link into the issue. For the naming of the branch a clear and concrete description shall be used.
+3 This Contributor shall create a fork (if not yet done before), shall create a new branch within the fork, and shall copy the branch link into the issue. For the naming of the branch a clear and concrete description shall be used.
 
 Now they can work on the solution and add commits to the branch. If they are done with the work the Contributor shall create a pull request, refer to the addressed issue(s) in the pull request description (and vice versa) and add the commits to the pull request. For the naming of the pull request a clear and concrete description shall be used.
 
@@ -65,9 +118,11 @@ More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproj
 
 **API Backlog**
 
-The API Backlog Working Group is supervised by the TSC. The responsibility of the Working Group is to coordinate and prepare all the material needed to evaluate a proposal for a new Sub Project (consisting of one or more related APIs), or scope change of an existing Sub Project (including adding additional APIs to that Sub Project). The prepared material will be evaluated by TSC to decide if a new Sub Project should be onboarded in CAMARA.
+The API Backlog Working Group is supervised by the TSC. The responsibilities of the Working Group are to take the decisions about API Proposals, including the creation of (Sandbox) API Repositories, to support the Incubation and Graduation process of API Repositories, to prepare the material for the creation of new Sub Projects or scope changes of existing Sub Project (e.g. adding new API Repositories to a Sub Project).
 
-The API onboarding and management in CAMARA is described in [API-onboarding.md](./documentation/API-onboarding.md).
+The decision about new Sandbox API Repositories will be taken by the Working Group. Decision about Incubation, Graduation, and onboarding of new Sub Projects will be taken by the TSC. Changes of existing Sub Projects have to be approved by the involved Sub Projects.
+
+The API onboarding and API lifecycle process in CAMARA will described in [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
 
 **Commonalities**
 
@@ -85,7 +140,7 @@ Each Sub Project shall have a release management. The release cadence shall be d
 
 Goal is that all Sub Projects updated are released at the same release milestone so that the implementors of the APIs become accustomed to the regular release cadence.
 
-The Release Management working group is supervised by the TSC. The scope of the Working Group is the definition of guidelines and best practices for the API Versioning and release management within the Sub Projects and the support of the TSC in its responsibilities for Release Management.
+The Release Management working group is supervised by the TSC. The scope of the Working Group is the definition of guidelines and best practices for the API Versioning and release management within the Sub Projects and Working Groups, and the support of the TSC in its responsibilities for Release Management.
 
 
 ## Roles, Responsibilities and Requirements
@@ -118,7 +173,7 @@ Each Project participant can contribute to the Sub Projects and Working Groups o
 
 **Codeowners**
 
-Codeowners can merge code and accept pull requests. A Codeowner is responsible for the overall quality and stewardship of the Sub Project. Contributors can get a Codeowner role if they are Contributors and deeply involved in contributing code, pull request review, and triaging issues in the Sub Project for a minimum of three months and perform an ongoing contribution. Codeowners are decided by the Maintainers and formalized by changing the CODEOWNERS file. Changes in code ownership have to be announced on the mailing list of the Sub Project.
+Codeowners can merge code and accept pull requests. A Codeowner is responsible for the overall quality and stewardship of the Repository. Contributors can get a Codeowner role if they are Contributors and deeply involved in contributing code, pull request review, and triaging issues in the Sub Project for a minimum of three months and perform an ongoing contribution. Codeowners are decided by the Maintainers and formalized by changing the CODEOWNERS file. Changes in code ownership have to be announced on the mailing list of the Sub Project.
 
 **Maintainers**
 
