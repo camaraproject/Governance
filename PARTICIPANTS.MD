@@ -220,7 +220,6 @@
 | D2Tech | Richard Chen ||
 | Defne | Erhan Ermisoglu ||
 | Defne | Erkan Giray Arat ||
-| Defne | Giray Arat ||
 | Dell | Mihai Lazar ||
 | Dell | Saad Sheikh ||
 | Dell | Vaishali Gupta ||
@@ -356,6 +355,7 @@
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | GCI | Scott A. Griffith ||
+| Getflyp | Kyle Warnsley ||
 | GIP | Gvidas Glebas ||
 | Global Logic | Gurpreet Singh Matharu ||
 | Global Logic | Pankaj Gupta ||
@@ -380,6 +380,7 @@
 | GSMA | Helen Vigue ||
 | GSMA | Henry Calvert ||
 | GSMA | Jason Smith ||
+| GSMA | Justin Paul ||
 | GSMA | Lucy Thatcher ||
 | GSMA | Mark Cornall ||
 | GSMA | O. Ajibola ||
@@ -999,6 +1000,7 @@
 | Vertis Solutions | Julio Araujo ||
 | Viavi Solutions | Madhur Mehta ||
 | Viettel | Ductm ||
+| Viettel | Haint ||
 | Viettel | Viet Ngo Duc ||
 | Vodacom | Surajj Jaggernath ||
 | Vodafone | Alex Pertwee ||
