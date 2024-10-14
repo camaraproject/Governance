@@ -930,6 +930,7 @@
 | Telstra | Channa Seneviratne ||
 | Telstra | George Karroum ||
 | Telstra | Ian Mounsey ||
+| Telstra | Kiran Babu Konathala ||
 | Telstra | Senthoor Punniamoorthy ||
 | Telstra | Varun Nair ||
 | TELUS | Ali Tizghadam ||
