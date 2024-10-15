@@ -50,7 +50,7 @@ A Sandbox API Repository can be created independent of a CAMARA Sub Project or i
 
 A Sandbox API Repository can belong to a CAMARA Sub Project or exist initially independent. If the Sandbox API Repository belongs to a Sub Project it links within the README.md to the Sub Project wiki page. Mailing list, meetings will be for these Sandbox API Repositories organized in context of the Sub Project. A Sandbox API Repository which is not part of an existing Sub Project will get a Wiki page (in the Sandbox section), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting to be able to communicate with the community and attract contributors.
 
-A Sandbox API Repository must have at least one Codeowner and one Maintainer (could be the same person). If branch protection rules are activated (on request of the Maintainers) within the repository it must have at least two Codeowners. Branch protection rules must be get activated at latest when the first public release is created.
+A Sandbox API Repository must have at least one Codeowner and one Maintainer (could be the same person). If branch protection rules are activated (on request of the Maintainers) within the repository it must have at least two Codeowners. Branch protection rules must get activated at latest when the first public release is created.
 
 Sandbox API Repositories are marked with a "Sandbox" badge in the README.md file and get a topic "Sandbox" assigned within the CAMARA GitHub Organization.
 
