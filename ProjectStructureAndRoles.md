@@ -56,7 +56,7 @@ Sandbox API Repositories are marked with a "Sandbox" badge in the README.md file
 
 **Incubated API Repositories**
 
-An Incubated API Repository is meant for the further evolution of an API which has been implemented already by at least one operator, fits into the CAMARA API portfolio and gained sufficient support within the CAMARA community. For details of the Incubation process see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+An Incubated API Repository is meant for the further evolution of an API which has been implemented already by at least one operator, fits into the CAMARA API portfolio and has gained sufficient support within the CAMARA community. For details of the Incubation process see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
 
 An Incubated API Repository has the same structure as a Sandbox API Repository, with the following additional requirements: 
 * An Incubated API Repository must belong to a CAMARA Sub Project (either an existing one or a new Sub Project created as part of the Incubation process). 
