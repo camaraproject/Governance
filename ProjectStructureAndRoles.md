@@ -26,7 +26,7 @@ The wiki home page of a Sub Project should contain at least a description of the
 
 A Sub Project should have at least three Maintainers. The Maintainers of a Sub Project are defined by the union of the Maintainers listed within the MAINTAINERS.md files of the API Repositories which are belonging to the Sub Project. It is recommended that there is an overlap between the Maintainers of the API Repositories of the Sub Project, but it is not mandated that all Maintainers of the Sub Project take responsibility for all APIs in the Sub Project.
 
-Each Sub Project is following for the API Repositories the Release Process as defined by the Release Management Working Group.
+Each Sub Project follows the Release Process for the API Repositories as defined by the Release Management Working Group.
 
 **API Repositories**
 
