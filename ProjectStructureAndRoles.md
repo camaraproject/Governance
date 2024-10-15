@@ -122,7 +122,7 @@ The API Backlog Working Group is supervised by the TSC. The responsibilities of 
 
 The decision about new Sandbox API Repositories will be taken by the Working Group. Decision about Incubation, Graduation, and onboarding of new Sub Projects will be taken by the TSC. Changes of existing Sub Projects have to be approved by the involved Sub Projects.
 
-The API onboarding and API lifecycle process in CAMARA will described in [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+The API onboarding and API lifecycle process in CAMARA are described in [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
 
 **Commonalities**
 
