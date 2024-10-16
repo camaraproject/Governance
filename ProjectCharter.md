@@ -12,7 +12,7 @@ This technical charter (the “Charter”) describes the rules and governance of
 - **Sub Project**: A subproject of the CAMARA Project led by a voluntary group, open to anyone to participate.
 - **Repository**: Sub Projects and Working Groups have one or multiple GitHub repositories to document their artifacts and documentation.
 - **Sandbox Repositories** can exist independent of a Sub Project or Working Group, e.g. during the initial development phase of an API. 
-- **Maintainer**: is leader of an individual Sub Project or Working Group who has been named in the MAINTAINERS.MD files of one of the repositories of the Sub Project or Working Group. 
+- **Maintainer**: is a leader of an individual Sub Project or Working Group who has been named in the MAINTAINERS.MD files of one of the repositories of the Sub Project or Working Group. 
 - **Codeowner**: a committer of an individual Repository who has been named in the CODEOWNERS files of the Repository. Codeowners merge code and accept pull requests.
 - **Contributor**: a Project participant who contributes to the Project and creates pull requests.
 - **Partner**: is an organization who employs a Project participant, or on whose behalf a Project participant is authorized to make contributions.
