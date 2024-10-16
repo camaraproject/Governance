@@ -184,11 +184,13 @@ Note: Project participants listed within the MAINTAINERS.md file of an independe
 
 **Changes in maintainership**
 
-When creating a new Sub Project or Working Group the TSC also nominates the initial Maintainers for the repository/ies of the new Sub Project or Working Group. After that the Maintainers of a Sub Project or Working Group decide upon the maintainership of the API Repositories belonging to the Sub Project or Working Group.
+When creating a new Sub Project or Working Group the TSC also nominates the initial Maintainers for the repository/ies of the new Sub Project or Working Group. After that the Maintainers of a Sub Project or Working Group decide upon the maintainership of the Repositories belonging to the Sub Project or Working Group.
 
 The merge of two Sub Projects the move of an API Repository from one Sub Project to another Sub Project, or the adoption of a Sandbox API Repository by a Sub Project need the consensus of the the Maintainers of the involved Sub Projects. The resulting Maintainer team(s) of the Sub Project(s) are again defined as the union of the Maintainers of the API Repositories of the Sub Project(s) (see above). 
 
-Changes in maintainership have to be announced on the mailing list of the Sub Project. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all Maintainers of a Sub Project and formalized by changing the MAINTAINERS.MD file of the respective API Repository/ies.
+Changes in maintainership of a Sub Project have to be announced on the mailing list of the Sub Project. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all Maintainers of a Sub Project and formalized by changing the MAINTAINERS.MD file of the respective API Repository/ies.
+
+Changes in maintainership of a Working Group have to be announced on the mailing list of the TSC. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by the TSC Participangs and formalized by changing the MAINTAINERS.MD file of the respective Working Group Repository/ies.
 
 A Maintainer may resign from the maintainership of one or multiple API Repositories by notifying the Sub Project mailing list. A Maintainer with no Project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another Project participant to take over their Project work.
 
