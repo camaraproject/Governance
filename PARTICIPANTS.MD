@@ -34,6 +34,7 @@
 | Altice Labs | Filipe J. Delgado ||
 | AMANTYA TECHNOLOGIES | Ankur Bharadwaj ||
 | AMANTYA TECHNOLOGIES | Mansi Trivedi ||
+| AMD | Ignacio Garcia Carrillo ||
 | amdocs | Andrew D'Souza ||
 | amdocs | Bernard Heuse ||
 | amdocs | Cameron Ross Dunne ||
@@ -753,6 +754,7 @@
 | Redhat | S. Mufti ||
 | Reply | Gianmarco Sciortino ||
 | Ril | Kumar Gaurav Singh ||
+| Ringcentral | Tom Tofigh ||
 | Rogers | Nicholas Manolakos ||
 | Rohde & Schwarz | Tim Kittel ||
 | Route Mobile / TruSense | Priya Verma ||
@@ -1110,6 +1112,7 @@
 |  | Galante ||
 |  | Gerasimo Spapd ||
 |  | Gulwaqar Khan ||
+|  | Henry Yang ||
 |  | Ingemar Lindblad ||
 |  | Ivanizag ||
 |  | Jaapie Krekel ||
