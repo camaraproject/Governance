@@ -180,7 +180,7 @@ Codeowners can merge code and accept pull requests. A Codeowner is responsible f
 
 Maintainers are the leaders of a Sub Project or Working Group. Maintainers are first and foremost contributors that have shown they are committed to the long-term success of a Sub Project or Working Group. Contributors wanting to become Maintainers are expected to be deeply involved in contributing code, pull request review, and triaging issues in a repository of a Sub Project or Working Group for a minimum of three months and perform an ongoing contribution.
 
-Note: Project participants listed within the MAINTAINERS.md file of an independent Sandbox API Repository are candidates to get Maintainers when the API Repository gets part of a Sub Project, but not yet Maintainers of a Sub Project. 
+Note: Project participants listed within the MAINTAINERS.md file of an independent Sandbox API Repository are candidates to get Maintainers when the API Repository gets part of a Sub Project, but are not yet Maintainers of a Sub Project. 
 
 **Changes in maintainership**
 
