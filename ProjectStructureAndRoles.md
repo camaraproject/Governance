@@ -128,7 +128,7 @@ The API onboarding and API lifecycle process in CAMARA are described in [API-Onb
 
 CAMARA commonalities shall be processed in a Working Group “Commonalities”. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all APIs in CAMARA. The commonalities Working Group shall work e.g. on the development of a common meta model that shall be used as a reference across the Sub Projects. It is open for members of any Sub Project or Working Group to raise issues in the Technical Steering Committee (TSC) for relevant topics on a need basis.
 
-All Sub Projects must comply with the work in the commonalities Working Group.
+All API repositories must comply with the work in the commonalities Working Group.
 
 **Marketing**
 
@@ -136,11 +136,11 @@ The Marketing Working Group is responsible to plan and perform marketing activit
 
 **Release management**
 
-Each Sub Project shall have a release management. The release cadence shall be determined by the TSC and on a regularly published schedule. Milestones shall be set up within each Sub Project to ensure the ability of each Sub Project to meet the release schedule as defined by the TSC.
+Each API Repository shall follow a release process. The release process and the cadence of common meta-releases shall be determined by the TSC, and on a regularly published schedule. Milestones shall be set up within each API Repository to ensure the ability of each API Repository to meet the release schedule as defined by the TSC.
 
-Goal is that all Sub Projects updated are released at the same release milestone so that the implementors of the APIs become accustomed to the regular release cadence.
+Goal is that all the Sub Projects updates are released at the same release milestone so that the implementors of the APIs become accustomed to the regular release cadence of CAMARA. 
 
-The Release Management working group is supervised by the TSC. The scope of the Working Group is the definition of guidelines and best practices for the API Versioning and release management within the Sub Projects and Working Groups, and the support of the TSC in its responsibilities for Release Management.
+The Release Management working group is supervised by the TSC. The scope of the Working Group is the definition of guidelines and best practices for the API Versioning and release management within the Sub Projects, API Repositories, and Working Groups, and the support of the TSC in its responsibilities for Release Management.
 
 
 ## Roles, Responsibilities and Requirements
