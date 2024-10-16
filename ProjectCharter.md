@@ -147,7 +147,7 @@ The Technical Steering Committee is composed of:
 -	1 non-voting representative of the GSMA and
 -	1 non-voting representative of the TMForum
 
-Any Maintainer may nominate themselves or another Maintainer of any Sub Project or Working Group for consideration as a Sub Project representative. The Maintainers will vote using ranked choice voting (or another method approved by the TSC) and those 10 nominees receiving the highest number of votes will be elected as Sub Project representatives.
+Any Maintainer may nominate themselves or another Maintainer of any Sub Project or Working Group for consideration as a Sub Project representative. The Maintainers will vote using ranked choice voting (or another method approved by the TSC) and those 10 nominees receiving the highest number of votes will be elected to the TSC as Sub Project representatives.
 
 Any participant of the EUC may recommend any participant of the EUC for consideration as a EUC representative. EUC participants will vote using ranked choice voting (or another method approved by the TSC) and those 3 nominees receiving the highest number of votes will be elected as EUC representatives.
 
