@@ -921,6 +921,7 @@
 | Telefonica | Pedro Diez Garcia ||
 | Telefonica | Pedro Jose Gutierrez Rodriguez ||
 | Telefonica | Ricardo Serrano Gutierrez ||
+| Telefonica | Rodrigo Parte Arroyo Gonzalez ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Violeta Gonzalez Fernandez ||
 | Telenor Connexion | Soheil Chohan ||
