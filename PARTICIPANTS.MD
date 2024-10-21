@@ -108,6 +108,7 @@
 | Bics | Karan Verma ||
 | Bics | Kenneth Hardat ||
 | Birmingham City University | Muhammad Ajmal Azad ||
+| Blackspot Networks | Craig Dalkin ||
 | Blue Mobile Limited | Caleb Rukundo ||
 | Brahmayasa | Rony Apung ||
 | BridgeAlliance | Achuth Pai ||
@@ -166,6 +167,9 @@
 | China Mobile | Ruqian Zhang ||
 | China Mobile | Wang Ruo Bei ||
 | China Mobile | Xiu Dushen ||
+| China Telecom | Chen Fr. ||
+| China Telecom | Chen Z. ||
+| China Telecom | Sun My ||
 | China Telecom | Dan Xu ||
 | China Telecom | V. Lieh Gd ||
 | China Telecom | Xianyang Zhang ||
@@ -396,6 +400,7 @@
 | Hawaiian Telecom | Kevin Folan ||
 | HCL | Kuldeep Singhn ||
 | HCL | Norbert Naveen ||
+| HCL | Pramilapandha Deshm ||
 | HCL | Ramyang Pandya ||
 | HCL | Razat Trehan ||
 | HGC | Ashwin Nabil Careem ||
