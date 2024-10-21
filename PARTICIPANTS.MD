@@ -17,6 +17,7 @@
 | Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
 | Accenture | Govinda Ramaswamy ||
+| Accenture | M. Abdel Hamid ||
 | Accenture | Mohamed E. Ali ||
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
