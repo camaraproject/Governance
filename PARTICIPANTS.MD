@@ -371,6 +371,7 @@
 | GMS | Elliot Rose ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio C. ||
+| Google Cloud | Jvar Sanik ||
 | Google Cloud | N. Cardace ||
 | Google Cloud | Rittwik Jana ||
 | Google Cloud | Sridhar Gollapudi ||
@@ -685,6 +686,7 @@
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
 | OpenID Foundation | Gail Hodges ||
+| Optus | Felton Xu ||
 | Optus | Margaret Morosi ||
 | Optus | Reyaz Degia ||
 | Optus | Samid Tennakoon ||
@@ -1131,6 +1133,7 @@
 |  | Kunal Shokeen ||
 |  | Laiminh Ha ||
 |  | Lokesh Negi ||
+|  | Malone Amber ||
 |  | Mark Adonaghey ||
 |  | Mea Hus ||
 |  | Ngugi Kariukid ||
@@ -1142,6 +1145,7 @@
 |  | R. Sanvatsarkar ||
 |  | Ram Ramanathan ||
 |  | Rahul Panwar ||
+|  | Rod Scw ||
 |  | Sabir Bouloumi ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
