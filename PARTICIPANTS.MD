@@ -660,6 +660,7 @@
 | Nokia | Mario Vasconcelli ||
 | Nokia | Mikko Jarva ||
 | Nokia | Mohan Rao ||
+| Nokia | Paschenda Paschenda ||
 | Nokia | Peter Kovacs ||
 | Nokia | Rene Saathoff ||
 | Nokia | Saad Ahmad ||
