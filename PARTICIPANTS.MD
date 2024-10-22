@@ -208,7 +208,7 @@
 | Colony Networks | Adriano Carmezim ||
 | Colony Networks | Kevin Lu ||
 | Colony Networks | Michael Kuhlmann ||
-| Comcast | Prasad Siddalinga ||
+| Comcast | Prasad Ramanahally Siddalinga ||
 | Comtech | Jamie Hart ||
 | Comviva | Aishwarya Abhijit Javkhedkar ||
 | Comviva | Anindita Raychoudhuri ||
@@ -1143,6 +1143,7 @@
 |  | Notty Able ||
 |  | P. Das ||
 |  | Paramet Prame ||
+|  | Pat Conil ||
 |  | Pedro Juan Lopez Chavez ||
 |  | Qi Tang ||
 |  | R. Sanvatsarkar ||
