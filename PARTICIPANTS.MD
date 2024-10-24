@@ -531,7 +531,6 @@
 | Keysight | Pelle Ravn || 
 | Kinetix | Paolo Galeotti ||
 | KORE Wireless | Jorrit Kronjee ||
-| KPN | Ellen Aartsen ||
 | KPN | Frits Vanlieshout ||
 | KPN | Guido Luijten ||
 | KPN | Huub Appelboom ||
@@ -1058,6 +1057,7 @@
 | Vonage | Chris Skowronek ||
 | Vonage | Colin Brown ||
 | Vonage | Florian Huber ||
+| Vonage | Guillermo Quintero ||
 | Vonage | James Emerson ||
 | Vonage | John Kim ||
 | Vonage | Jose Recio ||
@@ -1127,6 +1127,7 @@
 |  | Ingemar Lindblad ||
 |  | Ivanizag ||
 |  | Jaapie Krekel ||
+|  | Jatin Sharma ||
 |  | Jolly Jae Ompod ||
 |  | José Emmanuel Arellano Bravo ||
 |  | Juan Her ||
