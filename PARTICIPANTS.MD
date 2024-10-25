@@ -938,6 +938,7 @@
 | Telestratum | Balakrishnan Chittor Rajagopal ||
 | Telstra | Abdul Majid Hussain ||
 | Telstra | Anu Rajagopal ||
+| Telstra | Arun Kohli ||
 | Telstra / 5GFF | Brett Hill ||
 | Telstra | Channa Seneviratne ||
 | Telstra | George Karroum ||
