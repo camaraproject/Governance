@@ -190,6 +190,7 @@
 | Citictel | Alexander Lau ||
 | Citictel | Gabriel Shui ||
 | Citictel | K. P. Yau ||
+| Clap&Clank | Takakura ||
 | Claro | João Del Nero ||
 | Claro | Leticia Brito Terceiros ||
 | ClearX | Bar Hodis ||
