@@ -1021,6 +1021,7 @@
 | Vodafone | Alex Pertwee ||
 | Vodafone | Alexander Boraczynski ||
 | Vodafone | Benedikt Blome ||
+| Vodafone | Bernardo Bezerra ||
 | Vodafone | Cetin Alpaycetin ||
 | Vodafone | David Frankland ||
 | Vodafone | Edon Ophir ||
@@ -1064,6 +1065,7 @@
 | Vonage | John Kim ||
 | Vonage | Jose Recio ||
 | Vonage | Lou Blatt ||
+| Vonage | Matt Fredrickson ||
 | Vonage | Qaunain Meghjee ||
 | VROMBR | Frederic Thuard ||
 | VROMBR | Michael Pastor ||
