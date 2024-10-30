@@ -495,6 +495,7 @@
 | Intel | Petar Torre ||
 | Intersec | Ahmed Lyahou ||
 | Intersec | Sebastian Synold ||
+| Intracom Telecom | D. Karagkounis ||
 | Intracom Telecom | Vasileios Theodorou ||
 | Intraway | Diego Ambuhl ||
 | Intraway | Leandro Rzezak ||
