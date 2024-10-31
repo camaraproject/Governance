@@ -392,6 +392,7 @@
 | GSMA | Justin Paul ||
 | GSMA | Lucy Thatcher ||
 | GSMA | Mark Cornall ||
+| GSMA | M. Patel ||
 | GSMA | O. Ajibola ||
 | GSMA | Olu Omobitan ||
 | GSMA | R. Cox ||
