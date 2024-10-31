@@ -299,6 +299,7 @@
 | Entel | Cesar Llontop ||
 | Entel | Duran Nardecchia Eduardo ||
 | Equityai | Matthew Webster ||
+| Ericsson | Adrian Kucharski ||
 | Ericsson | Ajit R. Raghavan ||
 | Ericsson | Alok D. Gupta ||
 | Ericsson | Amardeep A. Kumar ||
