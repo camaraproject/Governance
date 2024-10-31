@@ -1093,6 +1093,7 @@
 | Wit Software | Rita Pires ||
 | Wiwynn | Karl Chiang ||
 | Xalyocom | Carlo ||
+| Xecurity Pulse | Taha Sajid ||
 | YBVR | Goetz Kursawe ||
 | Zain | Devajeet Datta ||
 | Zignos | Carlos ||
@@ -1106,6 +1107,7 @@
 |  | Abrar Sadd ||
 |  | A. E. Naderi ||
 |  | Ahmed Mohammed ||
+|  | Akell Wal ||
 |  | Ameer Shohail ||
 |  | Andrew Sungwoon Song ||
 |  | Arsema Solomon ||
