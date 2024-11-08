@@ -1,21 +1,34 @@
-For all lists:
+For all mailing lists:
 * Group Email Address: <name abbreviation>
 * Group Description: Sub Project "<name with blanks>"
-* Restricted Membership: Yes
-* Message Moderation: Messages are not moderated
-* Message policies: no option selected
+* ^these above lines do not make sense in this context.
+* Restricted Membership: No
+* Message Moderation: Messages are not moderated.
+* New Members Moderation: Yes
+* Message Policies: New members are moderated and are unmoderated after one (1) approved message.
+* Message Policies: "Allow Parent Members to Post"
 
 **AND**
 
-(
-For all, euc, tsc:
-* Message policies: only "Allow Parent Members to Post"
+Board:
+* Restricted Membership
+* Messages are not moderated
+* Message Policies: "Allow Parent Members to Post"
+
+**AND**
+
+All:
+* Unrestricted Membership
+* Messages are not moderated
+* New Members Moderated: Unmoderated after one (1) approved message
+* Message Policies: "Allow Parent Members to Post"
 
 **OR**
 
 For adm:
-* Message Moderation: All messages are moderated
-* Message policies: only "Allow Nonmembers to Post"
+* Restricted Membership
+* Message Moderation: Messages are not moderated
+* Message policies: only "Allow Nonmembers to Post" - these messages will be moderated instead of rejected
 
 **OR**
 
