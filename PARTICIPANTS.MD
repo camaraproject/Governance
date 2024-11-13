@@ -498,6 +498,7 @@
 | Intel | Petar Torre ||
 | Intersec | Ahmed Lyahou ||
 | Intersec | Sebastian Synold ||
+| Intracom Telecom | Artur Krukowski ||
 | Intracom Telecom | D. Karagkounis ||
 | Intracom Telecom | Vasileios Theodorou ||
 | Intraway | Diego Ambuhl ||
