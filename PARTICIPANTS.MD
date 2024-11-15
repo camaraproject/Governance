@@ -912,6 +912,7 @@
 | Telecomsxchange | Ameed Jamous ||
 | Telefonica | Agustin Martin Gonzalez ||
 | Telefonica | Alejandro Alonso Portero ||
+| Telefonica | Alejandro Palmier Gomez ||
 | Telefonica | Alexandre Harmand ||
 | Telefonica | ANDRES EDERRA FERNANDEZ ||
 | Telefonica | Cristina Santana Casillas ||
@@ -937,6 +938,7 @@
 | Telefonica | Patricia Serrano Gonzalez ||
 | Telefonica | Pedro Diez Garcia ||
 | Telefonica | Pedro Jose Gutierrez Rodriguez ||
+| Telefonica | Raul Barranque Rosimon ||
 | Telefonica | Ricardo Serrano Gutierrez ||
 | Telefonica | Rodrigo Parte Arroyo Gonzalez ||
 | Telefonica | Ruben Barrado Gonzalez ||
