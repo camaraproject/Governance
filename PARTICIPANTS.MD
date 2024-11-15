@@ -138,6 +138,7 @@
 | Cablelabs | Rahil Gandotra ||
 | Cablelabs | Randy Levensalor ||
 | Cablelabs | Shafayet Khan ||
+| Caliente | Jesus Cozain ||
 | Callsign | Jyotheeswara Malapati ||
 | Canopus Networks | Arun Vishwanath ||
 | Capital One | David E. Weekly ||
@@ -370,6 +371,7 @@
 | Global Logic | Gurpreet Singh Matharu ||
 | Global Logic | Pankaj Gupta ||
 | Global Logic | Rahul Aggarwal ||
+| Global Logic | Taras Pushyk ||
 | Global Logic | Umesh Kumar ||
 | Global Message Service | Elisa Cuko ||
 | GMMS | Arpit Kumar ||
