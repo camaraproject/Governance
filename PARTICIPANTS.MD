@@ -171,7 +171,7 @@
 | China Mobile | Xiu Dushen ||
 | China Telecom | Chen Fr. ||
 | China Telecom | Chen Z. ||
-| China Telecom | Sun My ||
+| China Telecom | Moyuan Sun ||
 | China Telecom | Dan Xu ||
 | China Telecom | V. Lieh Gd ||
 | China Telecom | Xianyang Zhang ||
