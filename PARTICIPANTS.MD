@@ -346,6 +346,7 @@
 | Ericsson | Steven Deskovic ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
+| Ericsson | Vikas Singhal ||
 | Etiya | Serafettin Acir ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
