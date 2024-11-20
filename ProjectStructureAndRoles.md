@@ -46,9 +46,9 @@ A Sandbox API Repository can be created independent of a CAMARA Sub Project (Ind
 
 * If a Sandbox API Repository belongs to a Sub Project it links within the README.md to the Sub Project wiki hone page. Mailing list, meetings will be for these Sandbox API Repositories organized in context of the Sub Project. The Sub Project may already nominate or approve Maintainers for the Sandbox API Repository, which are with that also Maintainers of the Sub Project.
 
-* An independent Sandbox API Repository which is not part of an existing Sub Project will get a page in a separate section of the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting to be able to communicate with the community and attract contributors. The MAINTAINERS.md file of an Independent Sub Project may already list contributors who are committed to the support the API Repository as Maintainers. But they are yet Maintainers of a Sub Project in the sense of the Project Charter.
+* An independent Sandbox API Repository which is not part of an existing Sub Project will get a page in a separate section of the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting to be able to communicate with the community and attract contributors. The MAINTAINERS.md file of an Independent Sub Project may already list contributors who are committed to the support the API Repository as Maintainers. But they are not yet Maintainers of a Sub Project in the sense of the Project Charter.
 
-A Sandbox API Repository must have at least one Codeowner. If branch protection rules are activated within the repository it must have at least two Codeowners. Branch protection rules must get activated at latest when the first public release is created.
+A Sandbox API Repository must have at least one Codeowner. If the Sandbox API Repository has two or more Codeowners the activation of branch protection rules is recommended.
 
 Sandbox API Repositories are marked with a "Sandbox" badge in the README.md file and get a topic "Sandbox" assigned within the CAMARA GitHub Organization.
 
