@@ -42,9 +42,7 @@ API Repositories can have in addition Provider Implementation (PI) Repositories 
 
 A Sandbox API Repository is meant for the rapid development of a new API proposal through one or multiple initial API versions (0.x.y) until the first public release of an initial or stable API Version within the context of a CAMARA Meta-release.
 
-A Sandbox API Repository can be created independent of a CAMARA Sub Project or in context of an existing CAMARA Sub Project. It is the first stage for every new API proposal developed in CAMARA, for details see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
-
-A Sandbox API Repository can belong to a CAMARA Sub Project or exist initially independent as an independent API Repository. 
+A Sandbox API Repository can be created independent of a CAMARA Sub Project (Independent Sandbox Repository) or in context of an existing CAMARA Sub Project. It is the first stage for every new API proposal developed in CAMARA, for details see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
 
 * If a Sandbox API Repository belongs to a Sub Project it links within the README.md to the Sub Project wiki hone page. Mailing list, meetings will be for these Sandbox API Repositories organized in context of the Sub Project. The Sub Project may already nominate or approve Maintainers for the Sandbox API Repository, which are with that also Maintainers of the Sub Project.
 
