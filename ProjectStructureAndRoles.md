@@ -58,7 +58,7 @@ An Incubated API Repository is meant for the further evolution of an API which h
 
 An Incubated API Repository has the same structure as a Sandbox API Repository, with the following additional requirements: 
 * An Incubated API Repository must belong to a CAMARA Sub Project (either an existing one or a new Sub Project created as part of the Incubation process). 
-* The repository should have at least three Maintainers (out of the group of Maintainers of the Sub Project it belongs to). 
+* The repository should have at least three Maintainers from different companies (out of the group of Maintainers of the Sub Project it belongs to). 
 * Branch protection rules must be activated, therefore a minimum of two Codeowners is required. 
 * All changes and contributions in the repository are following the description below.
 
