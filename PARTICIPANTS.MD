@@ -24,8 +24,6 @@
 | Aegis Mobile | Don Holloway ||
 | AI Shield | Brian R. ||
 | Airtel India | Ramit Chawla ||
-| Airtel India | Sudhir Mittal ||
-| Airtel India | Varun Talus ||
 | Airtime Rewards | Adam Ward ||
 | Airtime Rewards | Annika Fuchs ||
 | AIS | Boonchoung Tansuthepverawongse ||
