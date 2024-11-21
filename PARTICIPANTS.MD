@@ -265,6 +265,7 @@
 | Digibee | Vitor Sousa ||
 | Digicel Group | Miguel Vervaet ||
 | Digitalvirgo | Fran Sanchez ||
+| Digitalvirgo | Luis Miguel Garcia ||
 | Dimetor | Thomas Neubauer ||
 | Dimetor | Thomas Wana ||
 | Ding | Matias ||
