@@ -15,7 +15,7 @@ Settings for all mailing lists on lists.camaraproject.org (API Sub Projects & Sa
   * Allow Nonmembers to Post: no
   * Allow Parent Members to Post: yes (note: parent of all other groups is "main")
 
-**AND**
+The following groups have specific settings (only the differences to above settings are listed):
 
 Board:
 * Restricted Membership
