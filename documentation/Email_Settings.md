@@ -1,4 +1,4 @@
-For all mailing lists:
+Settings for all mailing lists on lists.camaraproject.org (API Sub Projects & Sandboxes, Working Groups, TSC, EUC, ...), except the ones listed later:
 * Group Email Address: <name abbreviation>
 * Group Description: Sub Project "<name with blanks>"
 * ^these above lines do not make sense in this context.
