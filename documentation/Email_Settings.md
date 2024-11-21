@@ -1,5 +1,5 @@
 Settings for all mailing lists on lists.camaraproject.org (API Sub Projects & Sandboxes, Working Groups, TSC, EUC, ...), except the ones listed later:
-* Group Email Address: <name abbreviation>
+* Group Email Address: Provide a speaking email address (avoid abbreviations if possible), use "sp-" prefix for Sub Projects, "sb-" prefix for Sandboxes independent from Sub Projects, and „wg-“ prefix for Working Groups
 * Group Description: Sub Project "<name with blanks>"
 * ^these above lines do not make sense in this context.
 * Restricted Membership: No
