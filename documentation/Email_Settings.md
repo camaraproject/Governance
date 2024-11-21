@@ -45,7 +45,6 @@ For adm:
   * Allow Nonmembers to Post: yes (Messages from nonmembers messages will be moderated instead of rejected)
   * Allow Parent Members to Post: yes
 
-**OR**
 
 For main:
 * Announcement-Only Group: Yes
