@@ -1,6 +1,7 @@
-Settings for all mailing lists on lists.camaraproject.org (API Sub Projects & Sandboxes, Working Groups, TSC, EUC, ...), except the ones listed later:
-* Group Email Address: Provide a speaking email address (avoid abbreviations if possible), use "sp-" prefix for Sub Projects, "sb-" prefix for Sandboxes independent from Sub Projects, and „wg-“ prefix for Working Groups
-* Group Description: Provide a speaking description
+**Settings for all mailing lists on lists.camaraproject.org (API Sub Projects & Sandboxes, Working Groups, (public) TSC, EUC, ...), except the ones listed later:**
+
+* Group Email Address: _Provide a speaking email address (avoid abbreviations if possible), use "sp-" prefix for Sub Projects, "sb-" prefix for Sandboxes independent from Sub Projects, and „wg-“ prefix for Working Groups_
+* Group Description: _Provide a speaking description_
 * Privacy:
   * Visibility: Group list in parent group, publicly viewable messages
   * Member List Visibility: All owners, and moderators with the correct permissions
@@ -13,39 +14,29 @@ Settings for all mailing lists on lists.camaraproject.org (API Sub Projects & Sa
   * Unmoderated after: 1 approved message
 * Message Policies:
   * Allow Nonmembers to Post: no
-  * Allow Parent Members to Post: yes (note: parent of all other groups is "main")
+  * Allow Parent Members to Post: yes _(note: parent of all subgroups is "main")_
 
-The following groups have specific settings (only the differences to above settings are listed):
+**The following groups have specific settings (only the differences to above settings are listed):**
 
-For "board" + "tsc-private":
+For "**board**" + "**tsc-private**":
 * Privacy:
   * Visibility: Group not listed in parent group, messages viewable by subgroup members only
-  * Restricted Membership
 * Group Type and Moderation:
   * Restricted Membership: Yes
   * New Members Moderation: No
 * Message Policies:
   * Allow Parent Members to Post: no
 
-**AND**
-
-All:
-* Unrestricted Membership
-* Messages are not moderated
-* New Members Moderated: Unmoderated after one (1) approved message
-* Message Policies: "Allow Parent Members to Post"
-
-**OR**
-
-For adm:
+For "**all**":
 * Group Type and Moderation:
-  * Restricted Membership: Yes (NOTE: only administrators of CAMARA are members)
+  * Message Moderation: All Messages are moderated.
+
+For "**adm**":
+* Group Type and Moderation:
+  * Restricted Membership: Yes _(NOTE: only administrators of CAMARA are members of the group)_
   * New Members Moderation: No
 * Message policies: 
-  * Allow Nonmembers to Post: yes (Messages from nonmembers messages will be moderated instead of rejected)
-  * Allow Parent Members to Post: yes
+  * Allow Nonmembers to Post: yes _(Messages from nonmembers messages will be moderated instead of rejected)_
 
-
-For main:
+For "**main**":
 * Announcement-Only Group: Yes
-)
