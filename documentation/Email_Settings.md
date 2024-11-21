@@ -38,9 +38,12 @@ All:
 **OR**
 
 For adm:
-* Restricted Membership
-* Message Moderation: Messages are not moderated
-* Message policies: only "Allow Nonmembers to Post" - these messages will be moderated instead of rejected
+* Group Type and Moderation:
+  * Restricted Membership: Yes (NOTE: only administrators of CAMARA are members)
+  * New Members Moderation: No
+* Message policies: 
+  * Allow Nonmembers to Post: yes (Messages from nonmembers messages will be moderated instead of rejected)
+  * Allow Parent Members to Post: yes
 
 **OR**
 
