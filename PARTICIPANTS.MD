@@ -993,6 +993,7 @@
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
 | University of Wuhan | Wrb Math Cs ||
+| Unryo | Michel Foix ||
 | Upstream Systems | Nikos Fotiou ||
 | Utimaco | Oliver Simon ||
 | Vay | Jesus Gonzalez Tejeria ||
