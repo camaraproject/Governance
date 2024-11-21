@@ -77,7 +77,10 @@ All Sub Projects must comply with the work in the Commonalities Working Group.
 
 **Identity and Consent Management**
 
-In the Identity and Consent Management Working Group solutions are defined and developed to identify users/subscribers, to capture, store and manage user consent, and to make sure that end user experience of using the API is not compromised.
+The Identity and Consent Management Working Group, operating under the supervision of the Technical Steering Committee (TSC), focuses on defining and developing privacy-first solutions for subscriber identification, and user authentication, and the purpose of the API access, and user consent capture, storage, and management. These solutions ensure that the API access is always authorized and secure.
+The Working Group's efforts include developing the Security and Interoperability Profile, which encompasses CAMARA definitions for authentication and authorization (AuthN/AuthZ) flows.
+
+All Sub Projects must comply with the work in the Identity and Consent Management Working Group.
 
 **Marketing**
 
