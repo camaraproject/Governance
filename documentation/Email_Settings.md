@@ -17,10 +17,15 @@ Settings for all mailing lists on lists.camaraproject.org (API Sub Projects & Sa
 
 The following groups have specific settings (only the differences to above settings are listed):
 
-Board:
-* Restricted Membership
-* Messages are not moderated
-* Message Policies: "Allow Parent Members to Post"
+For "board" + "tsc-private":
+* Privacy:
+  * Visibility: Group not listed in parent group, messages viewable by subgroup members only
+  * Restricted Membership
+* Group Type and Moderation:
+  * Restricted Membership: Yes
+  * New Members Moderation: No
+* Message Policies:
+  * Allow Parent Members to Post: no
 
 **AND**
 
