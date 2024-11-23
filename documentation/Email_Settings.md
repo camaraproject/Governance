@@ -35,6 +35,7 @@ For "**adm**":
 * Group Type and Moderation:
   * Restricted Membership: Yes _(NOTE: only administrators of CAMARA are members of the group)_
   * New Members Moderation: No
+  * Message Moderation: All Messages are moderated. _(NOTE: to be able to remove SPAM)
 * Message policies: 
   * Allow Nonmembers to Post: yes _(Messages from nonmembers messages will be moderated instead of rejected)_
 
