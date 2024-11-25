@@ -27,6 +27,13 @@ For "**board**" + "**tsc-private**":
 * Message Policies:
   * Allow Parent Members to Post: no
 
+For "**codeowners**":
+* Group Type and Moderation:
+  * Restricted Membership: Yes
+  * New Members Moderation: No
+* Message Policies:
+  * Allow Parent Members to Post: no
+
 For "**all**":
 * Group Type and Moderation:
   * Message Moderation: All Messages are moderated.
