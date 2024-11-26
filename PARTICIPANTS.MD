@@ -429,6 +429,7 @@
 | Huawei | Andrew Zheng ||
 | Huawei | Chuanyu Chen ||
 | Huawei | Guo Jian Hua ||
+| Huawei | Hao Jing ||
 | Huawei | J.P. Pallois ||
 | Huawei | Jiafeng Zhu ||
 | Huawei | Jin Xu (Philip) ||
