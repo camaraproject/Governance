@@ -48,7 +48,7 @@ A Sandbox API Repository can be created independent of a CAMARA Sub Project (Ind
 
 * If a Sandbox API Repository belongs to a Sub Project it links within the README.md to the Sub Project wiki home page. Mailing list, meetings will be for these Sandbox API Repositories organized in context of the Sub Project. The Sub Project may already nominate or approve Maintainers for the Sandbox API Repository, which are with that also Maintainers of the Sub Project.
 
-* An independent Sandbox API Repository which is not part of an existing Sub Project will get a page in a separate section of the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting to be able to communicate with the community and attract contributors. The MAINTAINERS.md file of an Independent Sub Project may already list contributors who are committed to the support the API Repository as Maintainers. But they are not yet Maintainers of a Sub Project in the sense of the Project Charter.
+* An Independent Sandbox API Repository which is not part of an existing Sub Project will get a page in a separate section of the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting to be able to communicate with the community and attract contributors. The MAINTAINERS.md file of an Independent Sub Project may already list contributors who are committed to the support the API Repository as Maintainers. But they are not yet Maintainers of a Sub Project in the sense of the Project Charter.
 
 A Sandbox API Repository must have at least one Codeowner. If the Sandbox API Repository has two or more Codeowners the activation of branch protection rules is recommended.
 
@@ -82,7 +82,7 @@ Working Groups are documented in a separate section of [CAMARA wiki](https://lf-
 
 **Repositories Rules**
 
-As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, and the contributions to Working Groups were documented in the GitHub repositories of the Working Groups. All contributions beyond that, esp. contributions to the Project itself or the TSC are documented in the GitHub repository “Governance”. Additional repositories can be created for project administration purposes. 
+As mentioned before the contributions to the Sub Projects were documented in the respective GitHub repositories of the Sub Projects, contributions to Independent Sandbox Repositories were documented within that, and the contributions to Working Groups were documented in the GitHub repositories of the Working Groups. All contributions beyond that, esp. contributions to the Project itself or the TSC are documented in the GitHub repository “Governance”. Additional repositories can be created for project administration purposes. 
 
 For ease of use there are templates for API and Provider Implementation Repositories, containing all necessary files which can be cloned and adapted. When cloning it has to be ensured that also the branch protection rules are active in the new repositories if needed. For Working Group repositories the API Repository template should be used and adapted.
 
@@ -170,29 +170,29 @@ A Working Group participant may resign by unsubscribing from the mailing list(s)
 
 **Contributors**
 
-Each Project participant can contribute to the Sub Projects and Working Groups of the Project. Contributors to a Sub Project or Working Group can contribute by creating pull requests within the API Repositories. Contributor should be subscribed to the mailing list of the Sub Project or Working Group. The list of Contributors of a specific Sub Project is maintained by the administrators of the Project using GitHub functionality.
+Each Project participant can contribute to the Repositories of the Project by creating pull requests. Contributors should be subscribed to the mailing list of the Sub Project, Independent Sandbox Repository, or Working Group. The list of Contributors of a specific Repository is maintained by the administrators of the Project using GitHub functionality.
 
 **Codeowners**
 
-Codeowners can merge code and accept pull requests. A Codeowner is responsible for the overall quality and stewardship of the Repository. Contributors can get a Codeowner role if they are Contributors and deeply involved in contributing code, pull request review, and triaging issues in a Sub Project or Working Group for a minimum of three months and perform an ongoing contribution. Codeowners are decided by the Maintainers of the Sub Project or Working Group and formalized by changing the CODEOWNERS file. Changes in code ownership have to be announced on the mailing list of the Sub Project.
+Codeowners can merge code and accept pull requests. A Codeowner is responsible for the overall quality and stewardship of the Repository. Contributors can get a Codeowner role if they are Contributors and deeply involved in contributing code, pull request review, and triaging issues in a Sub Project or Working Group for a minimum of three months and perform an ongoing contribution. Codeowners are decided by the Maintainers responsible for the Repository and formalized by changing the CODEOWNERS file. Changes in code ownership have to be announced on the mailing list of the Sub Project or Working Group.
 
 **Maintainers**
 
-Maintainers are the leaders of a Sub Project or Working Group. Maintainers are first and foremost contributors that have shown they are committed to the long-term success of a Sub Project or Working Group. Contributors wanting to become Maintainers are expected to be deeply involved in contributing code, pull request review, and issue triaging issues in a repository of a Sub Project or Working Group for a minimum of three months and perform an ongoing contribution.
+Maintainers are the leaders of a Sub Project or Working Group. Maintainers are first and foremost contributors who have shown a commitment to the long-term success of the Project. Contributors wanting to become Maintainers are expected to be deeply involved in contributing code, pull request review, and issue triaging issues in a Repository of the Project for a minimum of three months and perform an ongoing contribution to the Project.
 
-Note: Project participants listed within the MAINTAINERS.md file of an independent Sandbox API Repository are candidates to get Maintainers when the API Repository gets part of a Sub Project, but are not yet Maintainers of a Sub Project. 
+Note: Project participants listed within the MAINTAINERS.md file of an Independent Sandbox API Repository are candidates to get Maintainers when the API Repository gets part of a Sub Project, but are not yet Maintainers of a Sub Project in the context of the Project Governance. However, the following description of the role should also apply to them.
 
 **Changes in maintainership**
 
 When creating a new Sub Project or Working Group the TSC also nominates the initial Maintainers for the repository/ies of the new Sub Project or Working Group. After that the Maintainers of a Sub Project or Working Group decide upon the maintainership of the Repositories belonging to the Sub Project or Working Group.
 
-The merge of two Sub Projects the move of an API Repository from one Sub Project to another Sub Project, or the adoption of a Sandbox API Repository by a Sub Project need the consensus of the the Maintainers of the involved Sub Projects. The resulting Maintainer team(s) of the Sub Project(s) are again defined as the union of the Maintainers of the API Repositories of the Sub Project(s) (see above). 
+The merge of two Sub Projects, the move of an API Repository from one Sub Project to another Sub Project, or the adoption of an Independent Sandbox API Repository by a Sub Project need the consensus of the the Maintainers of the involved Sub Projects. The resulting Maintainer team(s) of the Sub Project(s) are again defined as the union of the Maintainers of the API Repositories of the Sub Project(s) (see above). 
 
 Changes in maintainership of a Sub Project have to be announced on the mailing list of the Sub Project. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all Maintainers of a Sub Project and formalized by changing the MAINTAINERS.MD file of the respective API Repository/ies.
 
 Changes in maintainership of a Working Group have to be announced on the mailing list of the TSC. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by the TSC Participants and formalized by changing the MAINTAINERS.MD file of the respective Working Group Repository/ies.
 
-A Maintainer may resign from the maintainership of one or multiple API Repositories by notifying the Sub Project mailing list. A Maintainer with no Project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another Project participant to take over their Project work.
+A Maintainer may resign from the maintainership of one or multiple API Repositories by notifying the respective mailing list. A Maintainer with no Project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another Project participant to take over their Project work.
 
 **Maintainer requirements**
 
