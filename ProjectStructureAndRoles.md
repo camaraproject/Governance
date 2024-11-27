@@ -22,7 +22,7 @@ Sub Projects are the primary structure of the CAMARA Project. Each Sub Project i
 
 Each Sub Project has a home page on the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), one or multiple repositories for the API definition and the API documentation (API Repositories), and optionally additional repositories for provider implementations with API code of the transformation function Northbound --> Southbound (Provider Implementation Repositories).
 
-The wiki home page of a Sub Project should contain at least a description of the scope of the Sub Project, links to the API Repositories which are belonging to the Sub Project, the address of the mailing list on [lists.camaraproject.org](https://lists.camaraproject.org/groups), and the schedule and registation/join link of the regular meeting of the Sub Project. Sub pages should contain the meeting minutes, (informal) supporting documents and (if applicable) release information for the API members as defined by the Release Management working group.
+The wiki home page of a Sub Project should contain at least a description of the scope of the Sub Project, links to the API Repositories which are belonging to the Sub Project, the address of the mailing list on [lists.camaraproject.org](https://lists.camaraproject.org/groups), and the schedule and registration/join link of the regular meeting of the Sub Project. Sub pages should contain the meeting minutes, (informal) supporting documents and (if applicable) release information for the API Repositories of the Sub Projects as defined by the Release Management working group.
 
 A Sub Project should have at least three Maintainers. The Maintainers of a Sub Project are defined by the union of the Maintainers listed within the MAINTAINERS.md files of the API Repositories which are belonging to the Sub Project. It is recommended that there is an overlap between the Maintainers of the API Repositories of the Sub Project, but it is not mandated that all Maintainers of the Sub Project take responsibility for all API Repositories in the Sub Project.
 
@@ -44,7 +44,7 @@ A Sandbox API Repository is meant for the rapid development of a new API proposa
 
 A Sandbox API Repository can be created independent of a CAMARA Sub Project (Independent Sandbox Repository) or in context of an existing CAMARA Sub Project. It is the first stage for every new API proposal developed in CAMARA, for details see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
 
-* If a Sandbox API Repository belongs to a Sub Project it links within the README.md to the Sub Project wiki hone page. Mailing list, meetings will be for these Sandbox API Repositories organized in context of the Sub Project. The Sub Project may already nominate or approve Maintainers for the Sandbox API Repository, which are with that also Maintainers of the Sub Project.
+* If a Sandbox API Repository belongs to a Sub Project it links within the README.md to the Sub Project wiki home page. Mailing list, meetings will be for these Sandbox API Repositories organized in context of the Sub Project. The Sub Project may already nominate or approve Maintainers for the Sandbox API Repository, which are with that also Maintainers of the Sub Project.
 
 * An independent Sandbox API Repository which is not part of an existing Sub Project will get a page in a separate section of the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting to be able to communicate with the community and attract contributors. The MAINTAINERS.md file of an Independent Sub Project may already list contributors who are committed to the support the API Repository as Maintainers. But they are not yet Maintainers of a Sub Project in the sense of the Project Charter.
 
@@ -116,7 +116,7 @@ More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproj
 
 **API Backlog**
 
-The API Backlog Working Group is supervised by the TSC. The responsibilities of the Working Group are to take the decisions about API Proposals, including the creation of (Sandbox) API Repositories, to support the Incubation and Graduation process of API Repositories, to prepare the material for the creation of new Sub Projects or scope changes of existing Sub Project (e.g. adding new API Repositories to a Sub Project).
+The API Backlog Working Group is supervised by the TSC. The responsibilities of the Working Group are to take the decisions about API Proposals, including the creation of (Sandbox) API Repositories, to support the Incubation and Graduation process of API Repositories, to prepare the material for the creation of new Sub Projects or scope changes of existing Sub Projects (e.g. adding new API Repositories to a Sub Project).
 
 The decision about new Sandbox API Repositories will be taken by the Working Group. Decision about Incubation and Graduation of API Repositories, and the onboarding of new Sub Projects will be taken by the TSC. Changes of existing Sub Projects have to be approved by the involved Sub Projects.
 
@@ -176,7 +176,7 @@ Codeowners can merge code and accept pull requests. A Codeowner is responsible f
 
 **Maintainers**
 
-Maintainers are the leaders of a Sub Project or Working Group. Maintainers are first and foremost contributors that have shown they are committed to the long-term success of a Sub Project or Working Group. Contributors wanting to become Maintainers are expected to be deeply involved in contributing code, pull request review, and triaging issues in a repository of a Sub Project or Working Group for a minimum of three months and perform an ongoing contribution.
+Maintainers are the leaders of a Sub Project or Working Group. Maintainers are first and foremost contributors that have shown they are committed to the long-term success of a Sub Project or Working Group. Contributors wanting to become Maintainers are expected to be deeply involved in contributing code, pull request review, and issue triaging issues in a repository of a Sub Project or Working Group for a minimum of three months and perform an ongoing contribution.
 
 Note: Project participants listed within the MAINTAINERS.md file of an independent Sandbox API Repository are candidates to get Maintainers when the API Repository gets part of a Sub Project, but are not yet Maintainers of a Sub Project. 
 
@@ -188,7 +188,7 @@ The merge of two Sub Projects the move of an API Repository from one Sub Project
 
 Changes in maintainership of a Sub Project have to be announced on the mailing list of the Sub Project. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all Maintainers of a Sub Project and formalized by changing the MAINTAINERS.MD file of the respective API Repository/ies.
 
-Changes in maintainership of a Working Group have to be announced on the mailing list of the TSC. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by the TSC Participangs and formalized by changing the MAINTAINERS.MD file of the respective Working Group Repository/ies.
+Changes in maintainership of a Working Group have to be announced on the mailing list of the TSC. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by the TSC Participants and formalized by changing the MAINTAINERS.MD file of the respective Working Group Repository/ies.
 
 A Maintainer may resign from the maintainership of one or multiple API Repositories by notifying the Sub Project mailing list. A Maintainer with no Project activity for a year is considered to have resigned. Maintainers that wish to resign are encouraged to propose another Project participant to take over their Project work.
 
