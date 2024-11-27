@@ -17,14 +17,13 @@
 | Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
 | Accenture | Govinda Ramaswamy ||
+| Accenture | M. Abdel Hamid ||
 | Accenture | Mohamed E. Ali ||
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
 | Aegis Mobile | Don Holloway ||
 | AI Shield | Brian R. ||
 | Airtel India | Ramit Chawla ||
-| Airtel India | Sudhir Mittal ||
-| Airtel India | Varun Talus ||
 | Airtime Rewards | Adam Ward ||
 | Airtime Rewards | Annika Fuchs ||
 | AIS | Boonchoung Tansuthepverawongse ||
@@ -34,6 +33,7 @@
 | Altice Labs | Filipe J. Delgado ||
 | AMANTYA TECHNOLOGIES | Ankur Bharadwaj ||
 | AMANTYA TECHNOLOGIES | Mansi Trivedi ||
+| AMD | Ignacio Garcia Carrillo ||
 | amdocs | Andrew D'Souza ||
 | amdocs | Bernard Heuse ||
 | amdocs | Cameron Ross Dunne ||
@@ -107,6 +107,7 @@
 | Bics | Karan Verma ||
 | Bics | Kenneth Hardat ||
 | Birmingham City University | Muhammad Ajmal Azad ||
+| Blackspot Networks | Craig Dalkin ||
 | Blue Mobile Limited | Caleb Rukundo ||
 | Brahmayasa | Rony Apung ||
 | BridgeAlliance | Achuth Pai ||
@@ -116,6 +117,7 @@
 | British Telecom | Matt Reynolds ||
 | British Telecom | Mikhilv Sanghvi ||
 | British Telecom | Milan Lalovic ||
+| British Telecom | Saisrinivasa Botta ||
 | British Telecom | Tim Rawling ||
 | Broadcom | Padma Sudarsan ||
 | Broadpeak | Christoph Neumann ||
@@ -134,6 +136,8 @@
 | Cablelabs | Philip Rosenberg-Watt ||
 | Cablelabs | Rahil Gandotra ||
 | Cablelabs | Randy Levensalor ||
+| Cablelabs | Shafayet Khan ||
+| Caliente | Jesus Cozain ||
 | Callsign | Jyotheeswara Malapati ||
 | Canopus Networks | Arun Vishwanath ||
 | Capital One | David E. Weekly ||
@@ -164,10 +168,14 @@
 | China Mobile | Ruqian Zhang ||
 | China Mobile | Wang Ruo Bei ||
 | China Mobile | Xiu Dushen ||
+| China Telecom | Chen Fr. ||
+| China Telecom | Chen Z. ||
+| China Telecom | Moyuan Sun ||
 | China Telecom | Dan Xu ||
 | China Telecom | V. Lieh Gd ||
 | China Telecom | Xianyang Zhang ||
 | China Unicom | D. S. Wang ||
+| China Unicom | G. Z. Wang ||
 | China Unicom | Gao Chen ||
 | China Unicom | Guo J. ||
 | China Unicom | Jing Hao ||
@@ -183,6 +191,7 @@
 | Citictel | Alexander Lau ||
 | Citictel | Gabriel Shui ||
 | Citictel | K. P. Yau ||
+| Clap&Clank | Takakura ||
 | Claro | João Del Nero ||
 | Claro | Leticia Brito Terceiros ||
 | ClearX | Bar Hodis ||
@@ -201,7 +210,7 @@
 | Colony Networks | Adriano Carmezim ||
 | Colony Networks | Kevin Lu ||
 | Colony Networks | Michael Kuhlmann ||
-| Comcast | Prasad Siddalinga ||
+| Comcast | Prasad Ramanahally Siddalinga ||
 | Comtech | Jamie Hart ||
 | Comviva | Aishwarya Abhijit Javkhedkar ||
 | Comviva | Anindita Raychoudhuri ||
@@ -219,7 +228,6 @@
 | D2Tech | Richard Chen ||
 | Defne | Erhan Ermisoglu ||
 | Defne | Erkan Giray Arat ||
-| Defne | Giray Arat ||
 | Dell | Mihai Lazar ||
 | Dell | Saad Sheikh ||
 | Dell | Vaishali Gupta ||
@@ -257,6 +265,7 @@
 | Digibee | Vitor Sousa ||
 | Digicel Group | Miguel Vervaet ||
 | Digitalvirgo | Fran Sanchez ||
+| Digitalvirgo | Luis Miguel Garcia ||
 | Dimetor | Thomas Neubauer ||
 | Dimetor | Thomas Wana ||
 | Ding | Matias ||
@@ -292,6 +301,7 @@
 | Entel | Cesar Llontop ||
 | Entel | Duran Nardecchia Eduardo ||
 | Equityai | Matthew Webster ||
+| Ericsson | Adrian Kucharski ||
 | Ericsson | Ajit R. Raghavan ||
 | Ericsson | Alok D. Gupta ||
 | Ericsson | Amardeep A. Kumar ||
@@ -314,6 +324,7 @@
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Joakim Uddenfeldt ||
+| Ericsson | K. Barath ||
 | Ericsson | Kamel Idir ||
 | Ericsson | Kishor Kumar A. ||
 | Ericsson | Klaus Schneider ||
@@ -334,6 +345,7 @@
 | Ericsson | Steven Deskovic ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
+| Ericsson | Vikas Singhal ||
 | Etiya | Serafettin Acir ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
@@ -355,16 +367,19 @@
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | GCI | Scott A. Griffith ||
+| Getflyp | Kyle Warnsley ||
 | GIP | Gvidas Glebas ||
 | Global Logic | Gurpreet Singh Matharu ||
 | Global Logic | Pankaj Gupta ||
 | Global Logic | Rahul Aggarwal ||
+| Global Logic | Taras Pushyk ||
 | Global Logic | Umesh Kumar ||
 | Global Message Service | Elisa Cuko ||
 | GMMS | Arpit Kumar ||
 | GMS | Elliot Rose ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio C. ||
+| Google Cloud | Jvar Sanik ||
 | Google Cloud | N. Cardace ||
 | Google Cloud | Rittwik Jana ||
 | Google Cloud | Sridhar Gollapudi ||
@@ -379,8 +394,10 @@
 | GSMA | Helen Vigue ||
 | GSMA | Henry Calvert ||
 | GSMA | Jason Smith ||
+| GSMA | Justin Paul ||
 | GSMA | Lucy Thatcher ||
 | GSMA | Mark Cornall ||
+| GSMA | M. Patel ||
 | GSMA | O. Ajibola ||
 | GSMA | Olu Omobitan ||
 | GSMA | R. Cox ||
@@ -393,6 +410,7 @@
 | Hawaiian Telecom | Kevin Folan ||
 | HCL | Kuldeep Singhn ||
 | HCL | Norbert Naveen ||
+| HCL | Pramilapandha Deshm ||
 | HCL | Ramyang Pandya ||
 | HCL | Razat Trehan ||
 | HGC | Ashwin Nabil Careem ||
@@ -411,6 +429,7 @@
 | Huawei | Andrew Zheng ||
 | Huawei | Chuanyu Chen ||
 | Huawei | Guo Jian Hua ||
+| Huawei | Hao Jing ||
 | Huawei | J.P. Pallois ||
 | Huawei | Jiafeng Zhu ||
 | Huawei | Jin Xu (Philip) ||
@@ -469,6 +488,7 @@
 | Infolysis | Vaios KOUMARAS ||
 | Infosys | Abhisek Das ||
 | Infosys | Akash Tripathi ||
+| Infosys | Ankur Goyal ||
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Praveen Kumar Kalapatapu ||
@@ -483,6 +503,8 @@
 | Intel | Petar Torre ||
 | Intersec | Ahmed Lyahou ||
 | Intersec | Sebastian Synold ||
+| Intracom Telecom | Artur Krukowski ||
+| Intracom Telecom | D. Karagkounis ||
 | Intracom Telecom | Vasileios Theodorou ||
 | Intraway | Diego Ambuhl ||
 | Intraway | Leandro Rzezak ||
@@ -520,7 +542,6 @@
 | Keysight | Pelle Ravn || 
 | Kinetix | Paolo Galeotti ||
 | KORE Wireless | Jorrit Kronjee ||
-| KPN | Ellen Aartsen ||
 | KPN | Frits Vanlieshout ||
 | KPN | Guido Luijten ||
 | KPN | Huub Appelboom ||
@@ -649,6 +670,7 @@
 | Nokia | Mario Vasconcelli ||
 | Nokia | Mikko Jarva ||
 | Nokia | Mohan Rao ||
+| Nokia | Paschenda Paschenda ||
 | Nokia | Peter Kovacs ||
 | Nokia | Rene Saathoff ||
 | Nokia | Saad Ahmad ||
@@ -677,6 +699,7 @@
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
 | OpenID Foundation | Gail Hodges ||
+| Optus | Felton Xu ||
 | Optus | Margaret Morosi ||
 | Optus | Reyaz Degia ||
 | Optus | Samid Tennakoon ||
@@ -751,6 +774,7 @@
 | Redhat | S. Mufti ||
 | Reply | Gianmarco Sciortino ||
 | Ril | Kumar Gaurav Singh ||
+| Ringcentral | Tom Tofigh ||
 | Rogers | Nicholas Manolakos ||
 | Rohde & Schwarz | Tim Kittel ||
 | Route Mobile / TruSense | Priya Verma ||
@@ -881,6 +905,7 @@
 | TIM | Marco Signorelli ||
 | TIM | Raffaele Passannanti ||
 | TIM | Roberto Procopio ||
+| TIM | Antonio Varvara ||
 | TIM Brazil | Anderson De Souza Marinho ||
 | TIM Brazil | Bruno Leandro Campos De Miranda ||
 | TIM Brazil | J. W. Junior ||
@@ -891,6 +916,7 @@
 | Telecomsxchange | Ameed Jamous ||
 | Telefonica | Agustin Martin Gonzalez ||
 | Telefonica | Alejandro Alonso Portero ||
+| Telefonica | Alejandro Palmier Gomez ||
 | Telefonica | Alexandre Harmand ||
 | Telefonica | ANDRES EDERRA FERNANDEZ ||
 | Telefonica | Cristina Santana Casillas ||
@@ -909,13 +935,16 @@
 | Telefonica | Jorge Garcia Hospital ||
 | Telefonica | Jose Luis Urien Pinedo ||
 | Telefonica | Jose Manuel Conde Gomez ||
+| Telefonica | Laura Grönewald ||
 | Telefonica | Laura Lacarra Arcos ||
 | Telefonica | Maxim Chizhov ||
 | Telefonica | Pablo Iglesias Sanuy ||
 | Telefonica | Patricia Serrano Gonzalez ||
 | Telefonica | Pedro Diez Garcia ||
 | Telefonica | Pedro Jose Gutierrez Rodriguez ||
+| Telefonica | Raul Barranque Rosimon ||
 | Telefonica | Ricardo Serrano Gutierrez ||
+| Telefonica | Rodrigo Parte Arroyo Gonzalez ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Violeta Gonzalez Fernandez ||
 | Telenor Connexion | Soheil Chohan ||
@@ -923,10 +952,12 @@
 | Telestratum | Balakrishnan Chittor Rajagopal ||
 | Telstra | Abdul Majid Hussain ||
 | Telstra | Anu Rajagopal ||
+| Telstra | Arun Kohli ||
 | Telstra / 5GFF | Brett Hill ||
 | Telstra | Channa Seneviratne ||
 | Telstra | George Karroum ||
 | Telstra | Ian Mounsey ||
+| Telstra | Kiran Babu Konathala ||
 | Telstra | Senthoor Punniamoorthy ||
 | Telstra | Varun Nair ||
 | TELUS | Ali Tizghadam ||
@@ -965,7 +996,9 @@
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
 | University of Wuhan | Wrb Math Cs ||
+| Unryo | Michel Foix ||
 | Upstream Systems | Nikos Fotiou ||
+| Utimaco | Oliver Simon ||
 | Vay | Jesus Gonzalez Tejeria ||
 | Vdotok AB | Zohaib Khan ||
 | Verizon | Alicia Miller ||
@@ -996,11 +1029,13 @@
 | Vertis Solutions | Julio Araujo ||
 | Viavi Solutions | Madhur Mehta ||
 | Viettel | Ductm ||
+| Viettel | Haint ||
 | Viettel | Viet Ngo Duc ||
 | Vodacom | Surajj Jaggernath ||
 | Vodafone | Alex Pertwee ||
 | Vodafone | Alexander Boraczynski ||
 | Vodafone | Benedikt Blome ||
+| Vodafone | Bernardo Bezerra ||
 | Vodafone | Cetin Alpaycetin ||
 | Vodafone | David Frankland ||
 | Vodafone | Edon Ophir ||
@@ -1039,10 +1074,12 @@
 | Vonage | Chris Skowronek ||
 | Vonage | Colin Brown ||
 | Vonage | Florian Huber ||
+| Vonage | Guillermo Quintero ||
 | Vonage | James Emerson ||
 | Vonage | John Kim ||
 | Vonage | Jose Recio ||
 | Vonage | Lou Blatt ||
+| Vonage | Matt Fredrickson ||
 | Vonage | Qaunain Meghjee ||
 | VROMBR | Frederic Thuard ||
 | VROMBR | Michael Pastor ||
@@ -1067,6 +1104,7 @@
 | Wit Software | Rita Pires ||
 | Wiwynn | Karl Chiang ||
 | Xalyocom | Carlo ||
+| Xecurity Pulse | Taha Sajid ||
 | YBVR | Goetz Kursawe ||
 | Zain | Devajeet Datta ||
 | Zignos | Carlos ||
@@ -1080,6 +1118,7 @@
 |  | Abrar Sadd ||
 |  | A. E. Naderi ||
 |  | Ahmed Mohammed ||
+|  | Akell Wal ||
 |  | Ameer Shohail ||
 |  | Andrew Sungwoon Song ||
 |  | Arsema Solomon ||
@@ -1090,9 +1129,11 @@
 |  | cmti CA ||
 |  | Cormachegarty ||
 |  | Cristina Martinez ||
+|  | Cyndi ||
 |  | D S Rao ||
 |  | D. Tran ||
 |  | Dapsdn ||
+|  | Dat ||
 |  | Deepankar ||
 |  | Elena Chernysh ||
 |  | Emmanuele Benedetto ||
@@ -1103,9 +1144,12 @@
 |  | Galante ||
 |  | Gerasimo Spapd ||
 |  | Gulwaqar Khan ||
+|  | Henry Yang ||
 |  | Ingemar Lindblad ||
 |  | Ivanizag ||
 |  | Jaapie Krekel ||
+|  | Jatin Sharma ||
+|  | Jayaram Amudala ||
 |  | Jolly Jae Ompod ||
 |  | José Emmanuel Arellano Bravo ||
 |  | Juan Her ||
@@ -1115,16 +1159,21 @@
 |  | Kunal Shokeen ||
 |  | Laiminh Ha ||
 |  | Lokesh Negi ||
+|  | Mahesh B. ||
+|  | Malone Amber ||
 |  | Mark Adonaghey ||
 |  | Mea Hus ||
 |  | Ngugi Kariukid ||
+|  | Notty Able ||
 |  | P. Das ||
 |  | Paramet Prame ||
+|  | Pat Conil ||
 |  | Pedro Juan Lopez Chavez ||
 |  | Qi Tang ||
 |  | R. Sanvatsarkar ||
 |  | Ram Ramanathan ||
 |  | Rahul Panwar ||
+|  | Rod Scw ||
 |  | Sabir Bouloumi ||
 |  | Sangramra Jekakade ||
 |  | Sativarios ||
@@ -1133,6 +1182,7 @@
 |  | SKD
 |  | Sridhar Paiyya ||
 |  | Sunil Jain ||
+|  | Szha0138monash ||
 |  | Tom Hsu ||
 |  | Tom Collins ||
 |  | Tomer Ilan ||
@@ -1145,3 +1195,4 @@
 |  | Youcef Kardjadja ||
 |  | Zach Callahan ||
 |  | Zholdassov Nurd ||
+|  | Ziezpl ||
