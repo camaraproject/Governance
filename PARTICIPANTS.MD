@@ -488,6 +488,7 @@
 | Infolysis | Vaios KOUMARAS ||
 | Infosys | Abhisek Das ||
 | Infosys | Akash Tripathi ||
+| Infosys | Ankur Goyal ||
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Praveen Kumar Kalapatapu ||
