@@ -126,9 +126,16 @@ The API onboarding and API lifecycle process in CAMARA are described in [API-Onb
 
 **Commonalities**
 
-CAMARA commonalities shall be processed in a Working Group “Commonalities”. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all APIs in CAMARA. The commonalities Working Group shall work e.g. on the development of a common meta model that shall be used as a reference across the Sub Projects. It is open for members of any Sub Project or Working Group to raise issues in the Technical Steering Committee (TSC) for relevant topics on a need basis.
+CAMARA commonalities shall be processed in a Working Group "Commonalities”. The Working Group “Commonalities” works under the supervision of the TSC. The scope of the Working Group is to create guidelines, best practices and concept documents relevant for all APIs in CAMARA. The Commonalities Working Group shall work e.g. on the development of a common meta model that shall be used as a reference across the Sub Projects. It is open for members of any Sub Project or Working Group to raise issues in the Technical Steering Committee (TSC) for relevant topics on a need basis.
 
-All API repositories must comply with the work in the commonalities Working Group.
+All Sub Projects must comply with the work in the Commonalities Working Group.
+
+**Identity and Consent Management**
+
+The Identity and Consent Management Working Group, operating under the supervision of the Technical Steering Committee (TSC), focuses on defining and developing privacy-first solutions for subscriber identification, and user authentication, and the purpose of the API access, and user consent capture, storage, and management. These solutions ensure that the API access is always authorized and secure.
+The Working Group's efforts include developing the Security and Interoperability Profile, which encompasses CAMARA definitions for authentication and authorization (AuthN/AuthZ) flows.
+
+All Sub Projects must comply with the work in the Identity and Consent Management Working Group.
 
 **Marketing**
 
