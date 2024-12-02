@@ -739,6 +739,7 @@
 | ORANGE | Sebastian Dewet ||
 | ORANGE | Sylvain Morel ||
 | ORANGE Caraibe | Renaud Jarnier ||
+| Oredoo | I. Bachtiar ||
 | ORI | José Domingos ||
 | Outris | Saurabh Sethi ||
 | Palantir | Matt Foreman ||
