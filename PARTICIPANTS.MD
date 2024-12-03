@@ -244,7 +244,6 @@
 | Deutsche Telekom AG | Felix Dsouza ||
 | Deutsche Telekom AG | Georgios Papadopoulos ||
 | Deutsche Telekom AG | Herbert Damker ||
-| Deutsche Telekom AG | Jasmin Schulmeyer ||
 | Deutsche Telekom AG | Krzysztof Sielski ||
 | Deutsche Telekom AG | Marian Sciranka ||
 | Deutsche Telekom AG | Markus Kümmerle ||
@@ -264,6 +263,7 @@
 | Dhiraagu | Ibrahim Yasir ||
 | Digibee | Vitor Sousa ||
 | Digicel Group | Miguel Vervaet ||
+| Digital Nasional | Mandeshpal Singh ||
 | Digitalvirgo | Fran Sanchez ||
 | Digitalvirgo | Luis Miguel Garcia ||
 | Dimetor | Thomas Neubauer ||
@@ -826,6 +826,7 @@
 | SK Telecom | Yoon Sun Jung (Serena) ||
 | Skyvera | Ravi Shankar ||
 | Slagen | Dagoberto Garavito ||
+| Slicefinity | Rohit Sengupta ||
 | Sloan Staffing Solutions | Chris Newman ||
 | SMS Highway | John Murtagh ||
 | Sofrecom | Walid Trabelsi ||
