@@ -797,6 +797,7 @@
 | Sekura Mobile Intelligence | Gautam Hazari ||
 | Seoul National University | Kiho Lee ||
 | SFR | Aziz Abouchi ||
+| SFR | Pierre Coutenceau ||
 | Shabodi | Ankit Kumar ||
 | Shabodi | Brian ||
 | Shabodi | Camara ||
@@ -939,6 +940,7 @@
 | Telefonica | Jose Manuel Conde Gomez ||
 | Telefonica | Laura Grönewald ||
 | Telefonica | Laura Lacarra Arcos ||
+| Telefonica | Laura Martin Maldonado Practicas ||
 | Telefonica | Maxim Chizhov ||
 | Telefonica | Pablo Iglesias Sanuy ||
 | Telefonica | Patricia Serrano Gonzalez ||
