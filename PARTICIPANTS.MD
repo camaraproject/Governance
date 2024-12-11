@@ -897,6 +897,7 @@
 | Tecnotree | Chuninda Mittal ||
 | Tecnotree | Shanu Swetank ||
 | Teco | Eduardo Panciera ||
+| Teco | Javier Hirschbein ||
 | Teco | Ricardo Lavaggi ||
 | Telchemy | Anthony Caiozzo ||
 | Tele 2 | Angel Toribio ||
