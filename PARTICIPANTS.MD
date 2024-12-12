@@ -689,6 +689,7 @@
 | Nos | Orlando Almeida ||
 | Nos | Pedro Miguel Hilario ||
 | Nos | Telmo Miguel Rodrigues ||
+| NTT Data | Haruka Eitoku ||
 | NTT Data | Josef Reisinger ||
 | NTT Data | Luis Fernando Rubio Martinez ||
 | Nuage | Gabriel Klein ||
