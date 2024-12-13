@@ -23,6 +23,7 @@
 | ACL Digital | Sagar Suresh Nangare ||
 | Aegis Mobile | Don Holloway ||
 | AI Shield | Brian R. ||
+| Airtel India | Hrushikeshreddy Yelampalli ||
 | Airtel India | Ramit Chawla ||
 | Airtime Rewards | Adam Ward ||
 | Airtime Rewards | Annika Fuchs ||
