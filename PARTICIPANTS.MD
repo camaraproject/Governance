@@ -1041,6 +1041,7 @@
 | Vodacom | Surajj Jaggernath ||
 | Vodafone | Alex Pertwee ||
 | Vodafone | Alexander Boraczynski ||
+| Vodafone | Antonious Shenouda ||
 | Vodafone | Benedikt Blome ||
 | Vodafone | Bernardo Bezerra ||
 | Vodafone | Cetin Alpaycetin ||
