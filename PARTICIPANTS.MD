@@ -516,6 +516,7 @@
 | Iquall Networks | German Perez Trozzi ||
 | Iquall Networks | Hernan Gonzalez ||
 | Italtel SAU | Alberto Bayo ||
+| Italtel SAU | Gianluca Ossoli ||
 | Italtel SAU | Natalia Fernandez de Losada ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
@@ -1185,6 +1186,7 @@
 |  | Rod Scw ||
 |  | Sabir Bouloumi ||
 |  | Sangramra Jekakade ||
+|  | Santosh Santi ||
 |  | Sathyabharath Reddy ||
 |  | Sativarios ||
 |  | Sferran Learn ||
