@@ -490,6 +490,7 @@
 | Infosys | Abhisek Das ||
 | Infosys | Akash Tripathi ||
 | Infosys | Ankur Goyal ||
+| Infosys | Arun M. ||
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Praveen Kumar Kalapatapu ||
@@ -1154,6 +1155,7 @@
 |  | Gerasimo Spapd ||
 |  | Gulwaqar Khan ||
 |  | Henry Yang ||
+|  | Hez Hye ||
 |  | Ingemar Lindblad ||
 |  | Ivanizag ||
 |  | Jaapie Krekel ||
