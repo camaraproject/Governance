@@ -12,12 +12,12 @@
 | A1 | Thomas Walzer ||
 | AabVin | Acheem ||
 | Accenture | Adriano Poloni ||
+| Accenture | Amr Abdel Hamid ||
 | Accenture | Arnau Mata-Llenas ||
 | Accenture | Dibyendu Singha Roy ||
 | Accenture | Gaetano Biancardi ||
 | Accenture | Giuseppe di Nuccio ||
-| Accenture | Govinda Ramaswamy ||
-| Accenture | M. Abdel Hamid ||
+| Accenture | Govinda R. Ramaswamy ||
 | Accenture | Mohamed E. Ali ||
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
