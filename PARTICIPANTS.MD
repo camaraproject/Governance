@@ -33,7 +33,7 @@
 | Altice Labs | Filipe J. Delgado ||
 | AMANTYA TECHNOLOGIES | Ankur Bharadwaj ||
 | AMANTYA TECHNOLOGIES | Mansi Trivedi ||
-| AMD | Ignacio Garcia Carrillo ||
+| AMD | Ignacio Garcia-Carrillo ||
 | amdocs | Andrew D'Souza ||
 | amdocs | Bernard Heuse ||
 | amdocs | Cameron Ross Dunne ||
