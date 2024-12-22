@@ -22,7 +22,6 @@
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
 | Aegis Mobile | Don Holloway ||
-| AI Shield | Brian R. ||
 | Airtel India | Hrushikeshreddy Yelampalli ||
 | Airtel India | Ramit Chawla ||
 | Airtime Rewards | Adam Ward ||
@@ -818,6 +817,7 @@
 | Shabodi | Umair Ali Rashid ||
 | Shabodi | Vikram Chopra ||
 | Shabodi | willus ||
+| Shield AI | Brian Reyes ||
 | Sigscale | Vance Shipley ||
 | Simple Solutions | Daniel Macadar ||
 | Simptel | Izahir Clemencia ||
