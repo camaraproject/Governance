@@ -102,7 +102,7 @@
 | Bell Canada | Sean Garagan ||
 | Bell Canada | Vijay Kumaraguruthasan ||
 | Bemobi | Felipe Goldin ||
-| Beyon | Noora AlFaraj ||
+| Beyon | Noora Faisal AlFaraj ||
 | Bics | Daniel Behar ||
 | Bics | Karan Verma ||
 | Bics | Kenneth Hardat ||
