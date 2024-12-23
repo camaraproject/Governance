@@ -98,7 +98,7 @@
 | Bell Canada | Juan Esquivel ||
 | Bell Canada | Karen Meulenkamp ||
 | Bell Canada | Marc-Alexandre Choquette ||
-| Bell Canada | Miguel Masache ||
+| Bell Canada | Miguel Angel Masache Ojeda ||
 | Bell Canada | Sean Garagan ||
 | Bell Canada | Vijay Kumaraguruthasan ||
 | Bemobi | Felipe Goldin ||
