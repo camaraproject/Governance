@@ -80,7 +80,7 @@
 | axiata | Chathura Mohotti ||
 | axiata | Geethan Samarawickrema ||
 | axiata | Harin Honestyandi Parandika ||
-| axiata | Methsiri Kumara ||
+| axiata | Methsiri Kumara Thanthirige ||
 | axiata | Nipun Hevavitharana ||
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Udaka Kappagoda ||
