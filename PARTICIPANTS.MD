@@ -144,7 +144,7 @@
 | Capgemini | Amit Rustagi ||
 | Capgemini | Deepak A. Gunjal ||
 | Capgemini | Vishal Vasantrao Varvate ||
-| Cell C | S. Bukani ||
+| Cell C | Sibanye Bukani ||
 | Celo | Bhavishya Kanjhan ||
 | Celo | Rene Reinsberg ||
 | Celo | Xochitl Cazador ||
