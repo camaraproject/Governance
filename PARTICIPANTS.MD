@@ -155,7 +155,7 @@
 | Charter | Jason Page ||
 | Charter | Justin Pace ||
 | Charter | Patrick Schultz ||
-| Charter | Sully Uruthiramoorthy ||
+| Charter | Sulaksan (Sully) Uruthiramoorthy ||
 | China Mobile | Bao Yuhan ||
 | China Mobile | Guang Heke ||
 | China Mobile | Hanbai Wang ||
