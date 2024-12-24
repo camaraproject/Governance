@@ -175,12 +175,12 @@
 | China Telecom | V. Lieh Gd ||
 | China Telecom | Xianyang Zhang ||
 | China Unicom | D. S. Wang ||
+| China Unicom | Fan Yang ||
 | China Unicom | G. Z. Wang ||
 | China Unicom | Gao Chen ||
 | China Unicom | Guo J. ||
 | China Unicom | Jing Hao ||
 | China Unicom | Shuanghe Dong ||
-| China Unicom | Yang Fan ||
 | Chunghwa Telecom | Guang-Han Ma ||
 | Chunghwa Telecom | J. H. C. ||
 | Chunghwa Telecom | MingHsun Lee ||
