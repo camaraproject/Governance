@@ -148,7 +148,7 @@
 | Celo | Bhavishya Kanjhan ||
 | Celo | Rene Reinsberg ||
 | Celo | Xochitl Cazador ||
-| Centillion | Bart ||
+| Centillion | Bart van Teeseling ||
 | Centillion | Nicholas Venezia ||
 | CGI | Frank Kleinitz ||
 | Charter | Christopher Aubut ||
