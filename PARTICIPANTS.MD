@@ -494,6 +494,7 @@
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Praveen Kumar Kalapatapu ||
 | Infosys | Shiv Prakash Ojha ||
+| Infosys | Varun Pandhi ||
 | Inovacobrain | LUCAS SLEYDER MACHADO DICENCIO ||
 | Institute for Infocomm Research | Gary Lee ||
 | Intel | (Fran)Cesc Guim ||
