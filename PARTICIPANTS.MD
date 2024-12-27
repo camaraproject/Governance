@@ -204,7 +204,7 @@
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
 | Cognizant | Manish Jain ||
-| Cognizant | R. Karthikraj ||
+| Cognizant | Karthikraj Rangaraj ||
 | Cognizant | Siddharth Prakash Khatri ||
 | Cognizant | Vigneshwaran S ||
 | Colony Networks | Adriano Carmezim ||
