@@ -206,7 +206,7 @@
 | Cognizant | Manish Jain ||
 | Cognizant | Karthikraj Rangaraj ||
 | Cognizant | Siddharth Prakash Khatri ||
-| Cognizant | Vigneshwaran S ||
+| Cognizant | Vigneshwaran Suresh ||
 | Colony Networks | Adriano Carmezim ||
 | Colony Networks | Kevin Lu ||
 | Colony Networks | Michael Kuhlmann ||
