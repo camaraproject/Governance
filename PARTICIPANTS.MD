@@ -231,7 +231,7 @@
 | Dell | Mihai Lazar ||
 | Dell | Saad Sheikh ||
 | Dell | Vaishali Gupta ||
-| Deloitte | Mohammad Shammout ||
+| Deloitte | Mohammad Warrad Shammout ||
 | Delonia | Bobby Mohanty ||
 | Detecon | Pawel Krysiak ||
 | Deutsche Telekom AG | Akos Hunyadi ||
