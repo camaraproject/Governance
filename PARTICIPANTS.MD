@@ -227,7 +227,7 @@
 | Cubic Telekom | Andre Schlufter ||
 | D2Tech | Richard Chen ||
 | Defne | Erhan Ermisoglu ||
-| Defne | Erkan Giray Arat ||
+| Defne | Giray Arat geb. Erkan ||
 | Dell | Mihai Lazar ||
 | Dell | Saad Sheikh ||
 | Dell | Vaishali Gupta ||
