@@ -264,7 +264,7 @@
 | Digibee | Vitor Sousa ||
 | Digicel Group | Miguel Calvo Vervaet ||
 | Digital Nasional | Mandeshpal Singh ||
-| Digitalvirgo | Fran Sanchez ||
+| Digitalvirgo | Fran Sanchez Ortega ||
 | Digitalvirgo | Luis Miguel Garcia ||
 | Dimetor | Thomas Neubauer ||
 | Dimetor | Thomas Wana ||
