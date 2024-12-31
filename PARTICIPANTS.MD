@@ -262,7 +262,7 @@
 | Deutsche Telekom AG | Ursula Harrison ||
 | Dhiraagu | Ibrahim Yasir ||
 | Digibee | Vitor Sousa ||
-| Digicel Group | Miguel Vervaet ||
+| Digicel Group | Miguel Calvo Vervaet ||
 | Digital Nasional | Mandeshpal Singh ||
 | Digitalvirgo | Fran Sanchez ||
 | Digitalvirgo | Luis Miguel Garcia ||
