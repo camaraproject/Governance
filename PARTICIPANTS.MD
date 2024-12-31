@@ -277,7 +277,7 @@
 | Domos | Magnus Olden ||
 | DriveU | Eli Shapira ||
 | DSB | Brian Kirkpatrick ||
-| DU | Amr Abdelsalam ||
+| DU | Amr Elsayed Abdelsalam ||
 | DU | Fuad Melhi ||
 | E& | Amit Ahuja ||
 | E& | Hacene Sali ||
