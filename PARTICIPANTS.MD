@@ -239,7 +239,7 @@
 | Deutsche Telekom AG | Axel Nennker ||
 | Deutsche Telekom AG | Daniel Dierich ||
 | Deutsche Telekom AG | Dawid Wróblewski ||
-| Deutsche Telekom AG | Efthymios Isaakidis ||
+| Deutsche Telekom AG | Efthymis Isaakidis ||
 | Deutsche Telekom AG | Elmar Mundt ||
 | Deutsche Telekom AG | Felix Dsouza ||
 | Deutsche Telekom AG | Georgios Papadopoulos ||
