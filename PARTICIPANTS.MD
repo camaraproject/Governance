@@ -265,7 +265,7 @@
 | Digicel Group | Miguel Calvo Vervaet ||
 | Digital Nasional | Mandeshpal Singh ||
 | Digitalvirgo | Fran Sanchez Ortega ||
-| Digitalvirgo | Luis Miguel Garcia ||
+| Digitalvirgo | Luis Miguel Gracia Duarte ||
 | Dimetor | Thomas Neubauer ||
 | Dimetor | Thomas Wana ||
 | Ding | Matias ||
