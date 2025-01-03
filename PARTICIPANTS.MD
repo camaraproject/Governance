@@ -300,7 +300,7 @@
 | ENEA | Osvaldo Aldao ||
 | Entel | Cesar Llontop Capunay ||
 | Entel | Duran Nardecchia Eduardo ||
-| Equityai | Matthew Webster ||
+| Equity AI | Matthew Webster ||
 | Ericsson | Adrian Kucharski ||
 | Ericsson | Ajit R. Raghavan ||
 | Ericsson | Alok D. Gupta ||
