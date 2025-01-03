@@ -298,7 +298,7 @@
 | ENEA | Fergus Wills ||
 | ENEA | Iftikhar Waheed ||
 | ENEA | Osvaldo Aldao ||
-| Entel | Cesar Llontop ||
+| Entel | Cesar Llontop Capunay ||
 | Entel | Duran Nardecchia Eduardo ||
 | Equityai | Matthew Webster ||
 | Ericsson | Adrian Kucharski ||
