@@ -307,6 +307,7 @@
 | Ericsson | Amardeep A. Kumar ||
 | Ericsson | Andrew Pratt ||
 | Ericsson | Arun Raghuramu ||
+| Ericsson | Barath K. ||
 | Ericsson | Bart van Kaathoven ||
 | Ericsson | Benedek Kovács ||
 | Ericsson | Bo Fjelkner ||
@@ -324,7 +325,6 @@
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Joakim Uddenfeldt ||
-| Ericsson | K. Barath ||
 | Ericsson | Kamel Idir ||
 | Ericsson | Kishor Kumar A. ||
 | Ericsson | Klaus Schneider ||
