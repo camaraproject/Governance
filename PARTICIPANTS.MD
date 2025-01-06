@@ -354,7 +354,7 @@
 | F5 | John Yuan ||
 | F5 | Peter Nas ||
 | F5 | Raffaele D'Albenzio ||
-| Fareastone | Meytsai ||
+| FarEasTone Telecom | Meytsai ||
 | Fido | Francesco Panina ||
 | FIT Tecnologia | Raphael Parreira ||
 | Flying River | Gareth Hewlett ||
