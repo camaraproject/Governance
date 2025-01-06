@@ -362,7 +362,7 @@
 | Freenet | Miguel Angelo Fernandez Iglesias ||
 | Fujitsu | Kazu Sakumoto ||
 | Fujitsu | Nishant Tiwari ||
-| Fujitsu | Terry Hasegawa ||
+| Fujitsu | Tetsuya Hasegawa ||
 | FutureConnections | Sergio Carrillo ||
 | Gadgetspace | Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
