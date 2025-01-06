@@ -339,7 +339,7 @@
 | Ericsson | Peter Chen ||
 | Ericsson | Rajat Kandoi ||
 | Ericsson | Rammohan Gopalan ||
-| Ericsson | Ramy Maher ||
+| Ericsson | Ramy Maher Moussa ||
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Stefanos Boukouvalas ||
 | Ericsson | Steven Deskovic ||
