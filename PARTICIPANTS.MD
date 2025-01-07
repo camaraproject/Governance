@@ -929,6 +929,7 @@
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alejandro Palmier Gomez ||
 | Telefonica | Alexandre Harmand ||
+| Telefonica | Alvaro Fernandez Garrido ||
 | Telefonica | ANDRES EDERRA FERNANDEZ ||
 | Telefonica | Cristina Santana Casillas ||
 | Telefonica | David Del Val ||
