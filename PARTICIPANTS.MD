@@ -932,6 +932,7 @@
 | Telefonica | ANDRES EDERRA FERNANDEZ ||
 | Telefonica | Cristina Santana Casillas ||
 | Telefonica | David Del Val ||
+| Telefonica | Diego Del Real Martinez ||
 | Telefonica | Diego Gonzalez Martinez ||
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Fernando Guillot ||
