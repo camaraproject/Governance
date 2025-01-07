@@ -1117,6 +1117,7 @@
 | Wiwynn | Karl Chiang ||
 | Xalyocom | Carlo ||
 | Xecurity Pulse | Taha Sajid ||
+| X Flow Software Technology LLC | Ali Iqbal ||
 | X Flow Software Technology LLC | Ayesha Ayub ||
 | YBVR | Goetz Kursawe ||
 | Zain | Devajeet Datta ||
