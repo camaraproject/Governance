@@ -391,7 +391,7 @@
 | GS Labs | Vikram Barate ||
 | GSMA | Andrew F. Parker ||
 | GSMA | Gareth Williams ||
-| GSMA | Helen Vigue ||
+| GSMA | Helene Vigue ||
 | GSMA | Henry Calvert ||
 | GSMA | Jason Smith ||
 | GSMA | Justin Paul ||
