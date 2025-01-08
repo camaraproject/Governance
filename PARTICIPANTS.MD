@@ -415,7 +415,7 @@
 | HCL | Razat Trehan ||
 | HGC | Ashwin Nabil Careem ||
 | HGC | Niklas Bergvall ||
-| Hiya | A. Mendonca ||
+| Hiya | Anthony Mendonca ||
 | Hiya | David Sitte ||
 | Honda R&D Europe | Simon Davies ||
 | HPE | Emanuele de Angelis ||
