@@ -1074,6 +1074,7 @@
 | Vodafone | Marta Martin Bravo ||
 | Vodafone | Michael Thomas Charles ||
 | Vodafone | Nevin Aquinas ||
+| Vodafone | Ozge Albaz ||
 | Vodafone | Ralph-Joachim Gramberg ||
 | Vodafone | Ratna Ganeshanandan ||
 | Vodafone | Sachin Kumar ||
