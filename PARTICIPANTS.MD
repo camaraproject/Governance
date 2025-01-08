@@ -380,7 +380,7 @@
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio Conte ||
 | Google Cloud | Jvar Sanik ||
-| Google Cloud | N. Cardace ||
+| Google Cloud | Nicola Cardace ||
 | Google Cloud | Rittwik Jana ||
 | Google Cloud | Sridhar Gollapudi ||
 | Google Cloud | Stella Loh ||
