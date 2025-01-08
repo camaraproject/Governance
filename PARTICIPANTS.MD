@@ -485,6 +485,7 @@
 | Infolysis | C. Fragkos ||
 | Infolysis | Nikolaos GKATZIOS ||
 | Infolysis | Nikolaos VRIONIS ||
+| Infolysis | P. Papachronis ||
 | Infolysis | Vaios KOUMARAS ||
 | Infosys | Abhisek Das ||
 | Infosys | Akash Tripathi ||
