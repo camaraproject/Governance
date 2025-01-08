@@ -1121,6 +1121,7 @@
 | Xecurity Pulse | Taha Sajid ||
 | X Flow Software Technology LLC | Ali Iqbal ||
 | X Flow Software Technology LLC | Ayesha Ayub ||
+| X Flow Software Technology LLC | Mubeena Ishaq ||
 | YBVR | Goetz Kursawe ||
 | Zain | Devajeet Datta ||
 | Zignos | Carlos ||
