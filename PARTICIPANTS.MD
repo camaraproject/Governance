@@ -375,8 +375,8 @@
 | Global Logic | Taras Pushyk ||
 | Global Logic | Umesh Kumar ||
 | Global Message Service | Elisa Cuko ||
+| Global Message Service | Elliot Rose ||
 | GMMS | Arpit Kumar ||
-| GMS | Elliot Rose ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio C. ||
 | Google Cloud | Jvar Sanik ||
