@@ -389,7 +389,7 @@
 | Grambell | Adis Ceman ||
 | GS Labs | Amit Wankhede ||
 | GS Labs | Vikram Barate ||
-| GSMA | Andrew Parker ||
+| GSMA | Andrew F. Parker ||
 | GSMA | Gareth Williams ||
 | GSMA | Helen Vigue ||
 | GSMA | Henry Calvert ||
