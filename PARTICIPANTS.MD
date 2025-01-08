@@ -378,7 +378,7 @@
 | Global Message Service | Elliot Rose ||
 | GMMS | Arpit Kumar ||
 | Google Cloud | Dutt Kalapatapu ||
-| Google Cloud | Giorgio C. ||
+| Google Cloud | Giorgio Conte ||
 | Google Cloud | Jvar Sanik ||
 | Google Cloud | N. Cardace ||
 | Google Cloud | Rittwik Jana ||
