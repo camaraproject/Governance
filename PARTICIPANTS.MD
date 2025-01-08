@@ -384,7 +384,7 @@
 | Google Cloud | Rittwik Jana ||
 | Google Cloud | Sridhar Gollapudi ||
 | Google Cloud | Stella Loh ||
-| Google Cloud | Tang Qi ||
+| Google Cloud | Qi Tang ||
 | Google Cloud | Vivek Gupta ||
 | Grambell | Adis Ceman ||
 | GS Labs | Amit Wankhede ||
