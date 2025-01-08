@@ -400,8 +400,8 @@
 | GSMA | Minesh Patel ||
 | GSMA | O. Ajibola ||
 | GSMA | Olu Omobitan ||
-| GSMA | R. Cox ||
-| GSMA | S. Khan ||
+| GSMA | Reg Cox ||
+| GSMA | Salman Khan ||
 | GSMA | Steve Russ ||
 | GSMA | Tom van Pelt ||
 | GSMA | Toyeeb Rehman ||
