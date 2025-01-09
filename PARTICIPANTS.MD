@@ -298,6 +298,7 @@
 | ENEA | Fergus Wills ||
 | ENEA | Iftikhar Waheed ||
 | ENEA | Osvaldo Aldao ||
+| Enghouse | Jamil Azar ||
 | Entel | Cesar Llontop Capunay ||
 | Entel | Duran Nardecchia Eduardo ||
 | Equity AI | Matthew Webster ||
