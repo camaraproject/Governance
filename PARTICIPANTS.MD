@@ -779,6 +779,7 @@
 | Rain | Henri Kivioja ||
 | Rakuten | Rajesh Goyal ||
 | Rakuten | Ravi Chamarty ||
+| RCNX | Andrew Bale ||
 | Redhat | Hanen Garcia ||
 | Redhat | S. Mufti ||
 | Reply | Gianmarco Sciortino ||
