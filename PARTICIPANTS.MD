@@ -299,6 +299,7 @@
 | ENEA | Iftikhar Waheed ||
 | ENEA | Osvaldo Aldao ||
 | Enghouse | Jamil Azar ||
+| Enride | Magnus Kristersson ||
 | Entel | Cesar Llontop Capunay ||
 | Entel | Duran Nardecchia Eduardo ||
 | Equity AI | Matthew Webster ||
