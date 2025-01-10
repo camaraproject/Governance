@@ -1060,6 +1060,7 @@
 | Vodafone | Edon Ophir ||
 | Vodafone | Emmanuel Sarris ||
 | Vodafone | Eric Murray ||
+| Vodafone | Filipe Corceiro ||
 | Vodafone | Fraser King ||
 | Vodafone | Gianluca Ossoli ||
 | Vodafone | Iván Nieto ||
