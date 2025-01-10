@@ -1,81 +1,218 @@
-# API onboarding and management in CAMARA
+# API Onboarding and Management in CAMARA
 
 ## Introduction
 
-This document aims at describing a clear, consistent and transparent process for the onboarding (submission) and management (maintenance) of API proposals and APIs in the CAMARA Project.
+This document describes a clear, consistent, and transparent process for the onboarding (submission), evaluation, and management (maintenance and lifecycle evolution) of API proposals in the CAMARA Project.
 
 The process pipeline is depicted in the figure below.
 
 ![API process pipeline](images/API_process_pipeline.png)
 
-All stages within this process pipeline are documented in the CAMARA API overview list. An example can be seen here:
+All stages within this process pipeline are documented in the CAMARA API overview list. Details and clarifications on these stages are provided in the following sections.
 
-![API process pipeline](images/API_overview_list.png)
+## Submission of an API Proposal
 
-This is only a draft for the overview list, the real overview list shall be implemented based on HTML so that changes can be tracked easily. Details and clarifications on the stages conforming this pipeline are provided in the following sections.
+The pipeline begins with the submission of an API proposal. This proposal can represent a new API or an enhancement to an existing API.
 
-## Submission of an API proposal
+### Steps for Submission
 
-The pipeline is triggered with the submission of an API proposal. This API proposal can represent a new API or a new API family.
+1. **Create a New Issue**  
+   - Open a new issue in the [API Backlog repository](https://github.com/camaraproject/APIBacklog) using the designated issue template.
+   - Clearly describe whether it is a new API proposal or an enhancement to an existing API.
 
-API proposals can be submitted by everybody, including OPAG (GSMA Open Gateway), CAMARA member companies, and existing CAMARA Sub Projects or Working Groups (if these realize that the scope has to be increased). 
+2. **Submit a Pull Request (PR)**  
+   - Fill out the appropriate API proposal or enhancement template available in the [API Backlog documentation](https://github.com/camaraproject/APIBacklog/tree/main/documentation).
+   - Submit this template via a Pull Request (PR) to the repository folder for API proposals.
+   - Ensure that the PR is linked to the issue created in step 1.
 
-To proceed with the submission, the API owner shall follow these steps:
+## Evaluation of API Proposals
 
-- Fill in the template [API-proposal-template.md](https://github.com/camaraproject/APIBacklog/tree/main/documentation/API-proposal-template.md) available in the [API Backlog documentation](https://github.com/camaraproject/APIBacklog/tree/main/documentation) and save it with the following name: "APIproposal\_\<APIname\>\_\<owner\>. md" locally.
-- Create a new issue in the API Backlog Working Group repository, labeled with "API Backlog".
-- Upload the filled-in template to [GitHub repository folder for API proposals](https://github.com/camaraproject/APIBacklog/tree/main/documentation/API%20proposals) via Pull Request. This Pull Request shall be associated to the issue created in the previous step.
+After submission, proposals undergo a detailed evaluation process within the "API Backlog" Working Group (WG):
 
-## Evaluation of the API proposal
+1. **Template Validation**  
+   Backlog codeowners verify that all required fields are completed in the template. Missing information shall be provided by the API owner.
 
-Upon submission, the following steps are executed in "API Backlog" Working Group (WG):
+2. **Company Support Analysis**  
+   Participating companies review the proposal, analyze its content and additional materials, and decide whether to support it from the backlog proposal stage. Supporters shall commit to providing at least one maintainer if accepted.
 
-1. The WG chair checks that the template is duly filled in. Otherwise, the API owner is requested to provide missing information.
-2. Each company analyses the API proposal, and decides whether it wants to support it. If a company wants to become supporter, the company name needs to be included in the "Supporters in API Backlog Working Group" column for that API. The WG participant representing that company will do this by submitting a Pull Request against the [API backlog](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md). </br>NOTE: The more support an API proposal gets, the better (it may get more traction).
-3. When the API owner considers the API proposal is in good shape to go for approval, it informs the WG chair accordingly.
-4. Upon receiving this information, the WG chair merges the original Pull Request into the main branch, and sends the API proposal to the Technical Steering Committee (TSC) of CAMARA. This action shall be completed at least one week prior to the TSC meeting where the API proposal will be voted upon. 
+3. **Backlog Review Sessions**  
+   During bi-weekly backlog sessions:
+   - Backlog codeowners validate that:
+     - The proposal adheres to governance and guidelines of CAMARA, including but not limited to the ProjectCharter, the Code of Conduct, the Contribution guidelines, the API Design Guidelines of Commonalities and the Release Process defined in Release Management.
+     - The template is correctly filled out.
+   - Participating companies assess:
+     - Whether there is overlap with existing APIs.
+     - If it is an enhancement or the proposal overlaps with an existin API, approval and validation from affected API groups is required.
+   - If no issues arise (*lazy consensus*), the proposal is confirmed as valid for inclusion in the backlog.
 
-The whole procedure (steps 1-4) should be done within 2 regular meetings of the API Backlog WG. Nonetheless, it is up to the API owner to decide if it wants to shorten or extend this time period. 
+4. **TSC Approval and Next Steps**  
+   The Technical Steering Committee (TSC) reviews validated proposals during scheduled meetings.
+   - Backlog codeowners include agreed proposals in TSC discussion, including target of the API (whether approved APIs will be hosted by a new or existing Sub-Project).
+   - TSC confirms that backlog evaluations are complete and correct.
+   - TSC approves or rejects proposals based on alignment with project goals and principles.
+   
+   If approved, onboarding tasks proceed as described below.
 
-In parallel, the API proposal is formally registered in CAMARA by adding it to the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) The WG chair creates a new line in the table and fills in API family name, API family owner, API family proposal registration date, the link to the application template and the supporters for it.
+## Onboarding Tracker
 
-NOTE: Supporting an API proposal means that the supporting company must provide at least 1 (one) Maintainer at the time of the Sub Project creation. This applies not only to new API proposals but also for those Scope Enhancements of a Sub Project in which the creation of a new repository is required.
+Once an API proposal is approved by the TSC, onboarding tasks are tracked to ensure smooth implementation. These tasks include:
 
-## TSC decision on API proposal
+1. **Repository Creation**  
+   A dedicated repository is created for the API under its assigned Sub-Project or as part of a new Sub-Project. The repository structure shall comply with [CAMARA governance guidelines](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md).
 
-Upon receiving the API proposal and notification from the WG chair, the TSC studies the proposal and votes it at the TSC meeting.
+2. **Infrastructure Setup**  
+   Essential infrastructure is established:
+   - Mailing lists for communication.
+   - Initial documentation files (`README.md`, `CODEOWNERS`, `MAINTAINERS.md`).
+   
+3. **Maintainer Assignment**  
+   Maintainership responsibilities are assigned based on commitments made during evaluation.
 
-- **Not Accepted**: The API proposal is rejected, and thus will not be included in any API Sub-Project. The TSC will need to inform the API backlog WG of this decision, and clarify next steps: either (1) remove this API proposal from backlog, with objecting companies providing justifications why; or (2) ask for changes (e.g., clarifications, corrections, gaps to be addressed) required in order for the API to be re-submitted by the API supporters.
-- **Accepted** In this case, the TSC shall specify whether the API proposal is to be hosted by a new or existing Sub Project.
+4. **Development Kickoff**  
+   Stakeholders are notified that development can begin, and initial contributions are encouraged.
 
-Main tenets for TSC voting:
+Progress on these tasks is documented in tracking issues maintained by the API Backlog Working Group.
 
-- Tenet #1: Open-source projects are contribution-driven. There should be no guidelines to prevent partners to contribute. If a company would like to work on a certain API proposal they should be welcome to do it.
-- Tenet #2: The TSC shall make sure that APIs belonging together (close topic/content, API families) are developed within the same Sub Project, while ensuring that Sub Projects are not too small (difficult to track them down) or too big (difficult to be managed). There should be only one API for each purpose.
-- Tenet #3: There could be situations where API proposal complies with acceptance criteria (template duly filled out) but has not supporters other than the proponent company. What to do in this situation? Recommendation is to accept the API proposal and see how successful it will be in terms of industry adoption.
+## Lifecycle Management of APIs
 
-The TSC may also propose changes to an API proposal and take the decision considering these changes. The TSC documents the decision in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) (fills in columns TSC date and TSC decision / Sub Project; in case of a No-Go "Rejected" is documented there).
+All new APIs begin their journey in a *Sandbox* repository and evolve through defined lifecycle stages: **Sandbox → Incubated → Graduated → Archived**. This progression ensures clarity on maturity levels, development expectations, and implications for deployment and maintenance.
 
-## API management and maintenance
+### Lifecycle Stages
 
-In case of a GO decision of the TSC the named Sub Project takes over responsibility for the new API or API family and starts making contributions for the API definition(s), API documentation, provider implementation and test artefacts.
+#### **1. Sandbox Stage**
+The Sandbox stage is the entry point for all new APIs. It is designed for experimentation and early development, allowing contributors to explore ideas without strict requirements.
 
-The Sub Project will follow the versioning guidelines as defined in the Commonalities Working Group to maintain the API versions. Based on an internal consensus within the Sub Project, releases will be cherry-picked and release branches will be appropriately created. If a deliverable (API definition, API documentation, API code, successful test) for a release of an API is available (accepted by the Sub Project and merged in the main branch) the Sub Projects adds the link to it in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md).
+**Characteristics:**
+- APIs in this stage are experimental and may lack full documentation or test coverage.
+- Open for contributions from any participant in the CAMARA Project.
+- No guarantees of stability or long-term support.
+- Can be initially independant, but should aim to either get accepted by an existing CAMARA Sub Project or to build up the necessary prerequisites to be able to apply for the creation of a new CAMARA Sub Project during Incubation.
+- A Sandbox API Repository which is not part of an existing Sub Project will get a Wiki page (in the Sandbox section), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting for their communication.
+- **Can release only Initial API versions, but no Stable API versions**
 
-If there are more than one API in an API family / API Sub Project for each of them a separate line in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) shall be added.
+**Requirements:**
+- The scope of the proposed API and initial use cases are described and fit in general into the scope of CAMARA.
+- At least one initial Maintainer and one initial Codeowner (could be the same person) is nominated.
 
-If there are more than one releases for an API for each of these releases a separate line in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) shall be added. It is target only to have 3 releases for one API at the same time: one in development and two in production.
+**Transition to Incubated Stage:**
+To move to the Incubated stage, an API shall:
+1. Release at least one Initial API version which is implemented by at least one operator (technical validation of the API in real environment).
+2. Scope, Use cases, Documentation and API definition are fully aligned with Initial version Meta-release requirements (including alignment with latest available [Commonalities](https://github.com/camaraproject/Commonalities) and [ICM](https://github.com/camaraproject/IdentityAndConsentManagement) guidelines)
+3. Have at least three committed maintainers listed in `MAINTAINERS.md` who support the API, belonging to three different companies. This requirement ensures a wide commitment of the industry in the API(s).
+4. Maintainers of the Sandbox Repository apply for Incubation by opening an issue in the API Backlog working group.
+5. The API Backlog working group will do a pre-check on behalf of the TSC, which will confirm (or not) the inclusion of the repository as Incubated in an existing (preferable) or new CAMARA subproject.
 
-If there are more than one provider implementations for one release for an API for each of these provider implementations a separate line in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) shall be added.
+---
 
-The requested data to be filled in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) is API name, API release, link to API definition, link to API documentation, link to API code and partner which has tested an API release.
+#### **2. Incubated Stage**
+APIs in the Incubated stage have shown early promise with initial adoption and support from multiple contributors.
 
-## API deployment
+**Characteristics:**
+- API(s) specified in an Incubated repository warranty stability and long-term support.
+- An Incubated repositoriy is part of CAMARA Sub Project, including subroject Wiki Page, mailing list, Slack channel and Zoom meeting for communitacion.
+- **Can release Initial and Stable API versions.**
 
-If an API is successfully tested in one or more operator networks, it can be used for deployment also in live environments.
+**Requirements:**
+- Full compliance with CAMARA governance standards as outlined in [Project Structure and Roles](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md).
+- Scope and use cases are fully documented. At this stage, API(s) part of the Incubated repository shall ensure that there is no overlap with any other API in the camera's portfolio, preventing duplicative functionalities to maintain a coherent set of offerings for developers.
+- Have at least three committed maintainers listed in `MAINTAINERS.md` who support the API, belonging to three different companies. This requirement ensures a wide commitment of the industry in the API(s).
+- Have at least three committed codeowners listed in `CODEOWNERS.md` who support the API, belonging (preferable) to three different companies. This requirement ensures that CAMARA Governance is followed.
+- Branch protection is activated in the repository.
 
-In case an operator (CAMARA partner company or external company) uses an API definition of a CAMARA API release, this operator is recommended to document it in the last column (API deployed at company and country) of the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md). If possible, also a link to the site (e.g. portal) where the deployed API can be accessed is recommended to be inserted.
 
-## Clean up
+**Transition to Graduated Stage:**
+To move to the Graduated stage, an API shall:
+1. Demonstrate long-terms specification maturity by having participated within two CAMARA release cycles with at least one Stable API version.
+2. Demonstrate wide market adoption across multiple companies or projects, by including APIs which have been deployed and certified within at least one complete market or #n operators across #m markets.
+3. Maintainers of the Incubated Repository apply for Grduation by opening an issue in the API Backlog working group.
+4. The API Backlog working group will do a pre-check on behalf of the TSC, which will confirm (or not) the inclusion of the repository as Graduated.
 
-Lines for old releases of APIs (when these aren't deployed anywhere anymore) in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) can be deleted by the responsible API Sub Project.
+---
+
+#### **3. Graduated Stage**
+The Graduated stage represents mature APIs that are widely adopted and considered stable and mature both technical and commercially.
+
+**Characteristics:**
+- API(s) specified in a Graduated repository warranty stability and long-term support.
+- **Can release Initial and Stable API versions.**
+
+**Requirements:**
+- Full compliance with CAMARA governance standards as outlined in [Project Structure and Roles](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md).
+- Evidence of active usage in production environments by multiple stakeholders.
+- Have at least three committed maintainers listed in `MAINTAINERS.md` who support the API, belonging to three different companies. This requirement ensures a wide commitment of the industry in the API(s).
+- Have at least three committed codeowners listed in `CODEOWNERS.md` who support the API, belonging to three different companies. This requirement ensures that CAMARA Governance is followed.
+- Branch protection is activated in the repository.
+- Stable group participation by ensuring mature processes to replace Maintainers and Codeowners within the API Repository based on merits (long-term group activity).
+  
+---
+
+#### **4. Archived Stage**
+The Archived stage is for deprecated or obsolete APIs that are no longer maintained or used actively. This status mainly applies for sandbox repositories that never reach an initial release, or incubated/graduated repositories that discontinue the evolution of APIs.
+
+**Transition to Archived Stage:**
+- Inactivity within a new Sandbox API repository:
+  1. Three months (no contributions of documents or API specs)
+  2. No release of an Initial API version after six months
+- Lack of participation of a Sandbox API repository within two consecutive CAMARA release cycles
+- Lack of participation of an Incubated or Graduated API repository within two consecutive CAMARA release cycle, if there would be changes necessary to stay aligned with the CAMARA Guidelines
+- TSC is in charge of proposing and validating the transition of a repository to a Archived Stage
+
+**Characteristics:**
+- APIs in this stage are retained for historical reference but are not recommended for use.
+- No active development or support is provided.
+
+**Requirements:**
+- Documentation indicating why the API was archived (e.g., replaced by a newer API, lack of usage).
+- Clear communication to stakeholders about its status and alternatives if applicable.
+
+---
+
+## API Management and Maintenance
+
+In case of a GO decision by the TSC, the designated Sub-Project assumes responsibility for the new API or API family. The Sub-Project begins contributing to the following areas:
+- API definitions.
+- API documentation.
+- Provider implementations.
+- Test artifacts.
+
+The Sub-Project will follow the versioning guidelines defined by the Commonalities Working Group to maintain API versions. 
+
+When a new release for an API is accepted by the Sub-Project and merged into the main branch, the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) will be updated accordingly.
+
+### Documentation in the CAMARA API Overview List
+
+The **CAMARA API Overview List** is a centralized table used to document all API proposals, their progress, and metadata throughout their lifecycle. It provides transparency and traceability for all stakeholders involved in the CAMARA project.
+
+The overview list is structured with the following columns:
+
+| **Column Name**                                | **Description**                                                                                          |
+|------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **API [Family] Name**                          | The name of the API or API family (e.g., "Messaging API Family").                                         |
+| **Supporters in API Backlog Working Group (*API Owner)** | List of companies supporting the API proposal in the Backlog WG. The API owner is marked with an asterisk (*). |
+| **API [Family] Proposal Template & Registration Date** | A link to the proposal template filled out during submission and the date it was registered.             |
+| **API Backlog & TSC - Status**                 | Current status of the API in the backlog or TSC decision (e.g., "Approved", "Rejected", or "In Progress").|
+| **Sub-Project Link & Active Maintainers**      | A link to the Sub-Project repository where the API is hosted and a list of active maintainers.            |
+| **Latest Release & Date**                      | Information about the latest release version of the API and its release date.                            |
+
+---
+
+## API Deployment
+
+APIs that have been successfully tested in one or more operator networks can be deployed in live environments.
+
+When an operator (either a CAMARA partner company or an external company) deploys an API definition from a CAMARA API release, it is recommended that this deployment is reported to GSMA for it to be reported in the Open Gateway [live deployment map](https://open-gateway.gsma.com/).
+
+Certification process is followed by GSMA to validate that the deployed API is aligned with the CAMARA specification and guidelines.
+
+---
+
+## Clean-Up
+
+To maintain clarity and relevance in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md), old entries can be removed under certain conditions:
+1. **Old Releases:**  
+   Lines for old releases of APIs can be deleted when those releases are no longer deployed anywhere.
+
+2. **Responsible Party:**  
+   The responsible Sub-Project is tasked with removing outdated entries from the overview list.
+
+This clean-up process ensures that only actively maintained and deployed APIs are listed, reducing clutter and improving usability.
