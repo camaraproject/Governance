@@ -430,6 +430,7 @@
 | Huawei | Alex Wuning ||
 | Huawei | Andrew Zheng ||
 | Huawei | Chuanyu Chen ||
+| Huawei | Feng Liang (Michael) ||
 | Huawei | Hao Jing ||
 | Huawei | Jean-Paul Pallois ||
 | Huawei | Jiafeng Zhu ||
@@ -437,7 +438,6 @@
 | Huawei | Jin Xu (Philip) ||
 | Huawei | Junyi Zhou ||
 | Huawei | Kai Zhang Kai ||
-| Huawei | Liang Feng (Michael) ||
 | Huawei | Luo Rong Hui ||
 | Huawei | Maria Jose Mossi (Pepa) ||
 | Huawei | Roger Wangrong ||
