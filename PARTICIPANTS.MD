@@ -461,8 +461,6 @@
 | IBM | Pablo Kahale ||
 | IBM | Yusuf Mirza ||
 | IBM | Zygmunt Lozinski ||
-| iCloud | Har Shamore ||
-| iCloud | Warren Prasad ||
 | ICT Consult | Kim Jones ||
 | IDC | John Byrne ||
 | IEEE | Mak Saleh ||
@@ -1168,6 +1166,7 @@
 |  | Galante ||
 |  | Gerasimo Spapd ||
 |  | Gulwaqar Khan ||
+|  | Har Shamore ||
 |  | Henry Yang ||
 |  | Hez Hye ||
 |  | Ingemar Lindblad ||
@@ -1222,6 +1221,7 @@
 |  | Vishal Makhijani ||
 |  | Walid Saddi ||
 |  | Wang Ruo Bei ||
+|  | Warren Prasad ||
 |  | Wen Nemenzo ||
 |  | Youcef Kardjadja ||
 |  | Zach Callahan ||
