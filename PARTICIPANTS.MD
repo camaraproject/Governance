@@ -447,7 +447,7 @@
 | Huawei | Walter Zielinski ||
 | Huawei | Wang Jia (Albert) ||
 | Huawei | Yulin Fengyulin (Roger) ||
-| Huawei | Zhengzhilong (Bryant) ||
+| Huawei | Zhilong Zheng (Bryant) ||
 | Hushmail | Fraser King ||
 | Hutchison | Alessio Cervone ||
 | Hutchison | Mus Dumenci ||
