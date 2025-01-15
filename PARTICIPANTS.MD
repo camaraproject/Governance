@@ -518,7 +518,7 @@
 | IPification | Lazar Bulic ||
 | Iquall Networks | German Perez Trozzi ||
 | Iquall Networks | Hernan Alejandro Gonzalez ||
-| Italtel SAU | Alberto Bayo ||
+| Italtel SAU | Alberto Bayo Moya ||
 | Italtel SAU | Gianluca Ossoli ||
 | Italtel SAU | Natalia Fernandez de Losada ||
 | ITCenter | Paulo Monteiro ||
