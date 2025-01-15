@@ -996,6 +996,7 @@
 | Totogi | Ailton Santana ||
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
+| Turk Telekomünikasyon A.Ş. | Firat Nergiz ||
 | Turk Telekomünikasyon A.Ş. | Furkan Acik ||
 | Twilio | Felipe Gutierrez ||
 | Tykelab | M. Massaroni ||
