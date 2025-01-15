@@ -506,7 +506,7 @@
 | Intel | Oliver Roos ||
 | Intel | Petar Torre ||
 | Intersec | Ahmed Lyahou ||
-| Intersec | Sebastian Synold ||
+| Intersec | Sebastien Synold ||
 | Intracom Telecom | Artur Krukowski ||
 | Intracom Telecom | D. Karagkounis ||
 | Intracom Telecom | Vasileios Theodorou ||
