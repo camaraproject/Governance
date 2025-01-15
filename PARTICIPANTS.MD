@@ -517,7 +517,7 @@
 | IPification | Aleksandar Brankovic ||
 | IPification | Lazar Bulic ||
 | Iquall Networks | German Perez Trozzi ||
-| Iquall Networks | Hernan Gonzalez ||
+| Iquall Networks | Hernan Alejandro Gonzalez ||
 | Italtel SAU | Alberto Bayo ||
 | Italtel SAU | Gianluca Ossoli ||
 | Italtel SAU | Natalia Fernandez de Losada ||
