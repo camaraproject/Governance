@@ -497,7 +497,7 @@
 | Infosys | Shiv Prakash Ojha ||
 | Infosys | Varun Pandhi ||
 | Infosys | Vijay Murthy ||
-| Inovacobrain | LUCAS SLEYDER MACHADO DICENCIO ||
+| Inovacaobrain | LUCAS SLEYDER MACHADO DICENCIO ||
 | Institute for Infocomm Research | Gary Lee ||
 | Intel | (Fran)Cesc Guim ||
 | Intel / ETSI | Dario Sabella ||
