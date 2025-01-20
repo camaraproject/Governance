@@ -532,13 +532,13 @@
 | KDDI | Brian Vaughn ||
 | KDDI | K. C. Yamamoto ||
 | KDDI | Keichi Okonogi ||
-| KDDI | K. Koiwai ||
-| KDDI | K. Shinomura ||
+| KDDI | Kosuke Koiwai ||
+| KDDI | Kiyoto Shinomura ||
 | KDDI | Masaharu Hattori ||
 | KDDI | Masaki Suzuki ||
 | KDDI | Shingo Watanabe ||
 | KDDI | T. Arita ||
-| KDDI | T. Ogawara ||
+| KDDI | Takeo Ogawara ||
 | KDDI | Tetsuya Chiba ||
 | KDDI | Toshiyasu Wakayama ||
 | KDDI | Yusuke Nakano ||
