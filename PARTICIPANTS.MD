@@ -567,7 +567,7 @@
 | LFOD | Christopher Garlick ||
 | LG U+ | Jae Yeol Kim (Jerry) ||
 | LibertyGlobal | Awais Ahmad ||
-| LibertyGlobal | Bobasola ||
+| LibertyGlobal | Babatunde Obasola ||
 | LibertyGlobal | George Haddad ||
 | LibertyGlobal | Laszlo Suto ||
 | LibertyGlobal | Massimiliano Gasparroni || 
