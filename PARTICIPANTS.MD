@@ -572,7 +572,7 @@
 | LibertyGlobal | Laszlo Suto ||
 | LibertyGlobal | Massimiliano Gasparroni || 
 | LibertyGlobal | Oscar Tejedor Garcia ||
-| LibertyGlobal | W. Rees ||
+| LibertyGlobal | Wynn Rees ||
 | LinuxFoundation | Arpit Joshipura ||
 | LinuxFoundation | Casey Cain ||
 | LinuxFoundation | Evan Harrison ||
