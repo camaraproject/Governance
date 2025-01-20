@@ -546,7 +546,7 @@
 | Keysight | Pelle Ravn || 
 | Kinetix | Paolo Galeotti ||
 | KORE Wireless | Jorrit Kronjee ||
-| KPN | Frits Vanlieshout ||
+| KPN | Frits Van Lieshout ||
 | KPN | Guido Luijten ||
 | KPN | Huub Appelboom ||
 | KPN | Leon Den Elsen ||
