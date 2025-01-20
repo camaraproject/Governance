@@ -583,7 +583,7 @@
 | LinuxFoundation | Scott Nicholas ||
 | Lionscraft | Aleph Zero ||
 | Lionscraft | Julian Ueding ||
-| Liveu | Baruch Altman ||
+| LiveU | Baruch Altman ||
 | Locance | Mario Proietti ||
 | Locationguru | Ahmed Shaheer ||
 | Lotusflare | Eric Morhenn ||
