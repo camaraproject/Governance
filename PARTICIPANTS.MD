@@ -1087,6 +1087,7 @@
 | Vodafone | Sönke Peters ||
 | Vodafone | Steve Vickers ||
 | Vodafone | Steven Pater ||
+| Volkswagen | Andreas Schmidt ||
 | Vonage | Alvaro Navarro ||
 | Vonage | Chris Howell ||
 | Vonage | Chris Mina ||
