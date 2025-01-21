@@ -705,6 +705,7 @@
 | Open Sesaame | Julian McCrea ||
 | Open Sesaame | Mateusz Mul ||
 | OpenID Foundation | Gail Hodges ||
+| Optare Solutions | José Cunha ||
 | Optus | Felton Xu ||
 | Optus | Margaret Morosi ||
 | Optus | Reyaz Degia ||
