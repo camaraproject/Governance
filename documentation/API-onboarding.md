@@ -1,4 +1,4 @@
-# API Onboarding and Management in CAMARA
+# API Onboarding and Lifecyle-Management in CAMARA
 
 ## Introduction
 
