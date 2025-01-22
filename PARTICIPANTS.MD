@@ -928,6 +928,7 @@
 | Telecom Sudparis | Vincent Gauthier ||
 | Telecomsxchange | Ameed Jamous ||
 | Telefonica | Agustin Martin Gonzalez ||
+| Telefonica | Alberto Ramos Monagas ||
 | Telefonica | Alejandro Alonso Portero ||
 | Telefonica | Alejandro Palmier Gomez ||
 | Telefonica | Alexandre Harmand ||
