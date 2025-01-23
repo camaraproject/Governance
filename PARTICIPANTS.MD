@@ -323,6 +323,7 @@
 | Ericsson | Gregory Lindner ||
 | Ericsson | Gregory Liokumovich ||
 | Ericsson | Henrik Voigt ||
+| Ericsson | Hubert Przybysz ||
 | Ericsson | Istvan Andras Horvath ||
 | Ericsson | Jan Friman ||
 | Ericsson | Jimmy Ahlberg ||
