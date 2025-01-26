@@ -80,20 +80,21 @@ Once an API proposal is approved by the TSC, onboarding tasks are tracked to ens
 
 2. **Infrastructure Setup**  
    Essential infrastructure is established:
-   - Mailing lists for communication.
-   - Initial documentation files (`README.md`, `CODEOWNERS`, `MAINTAINERS.md`).
+   - Mailing list: for new Sandbox API repositories in context of an existing Sub Project the mailing list of the Sub Project will be used. For new independent Sandbox API a new mailing list will be created.
+   - Wiki page: for each API Repository a wiki page will be created
+   - Initial documentation files (`README.md`, `CODEOWNERS`, `MAINTAINERS.md`). The CODEOWNERS file must contain at least one codeowner responsible for the content of the repository
    
 3. **Maintainer Assignment**  
-   Maintainership responsibilities are assigned based on commitments made during evaluation.
+   Maintainership responsibilities are assigned based on commitments made during evaluation. Sandbox API Repositories within the context of an existing Sub Project must contain at least one Maintainer, the listed maintainers are with that also part of the maintainer team of the Sub Project and need to be approved by the Sub Project maintainer team. For independent Sandbox API Repositories the Maintainer list is initially optional, as the MAINTAINER.md file is only meant as an indication for the later Incubation process.
 
 4. **Development Kickoff**  
    Stakeholders are notified that development can begin, and initial contributions are encouraged.
 
 Progress on these tasks is documented in tracking issues maintained by the API Backlog Working Group.
 
-## Lifecycle Management of APIs
+## Lifecycle Management of API Repositories
 
-All new APIs begin their journey in a *Sandbox* repository and evolve through defined lifecycle stages: **Sandbox → Incubated → Graduated → Archived**. This progression ensures clarity on maturity levels, development expectations, and implications for deployment and maintenance.
+All new APIs begin their journey in a *Sandbox* API repository and evolve through defined lifecycle stages: **Sandbox → Incubated → Graduated (→ Archived)**. This progression ensures clarity on maturity levels, development expectations, and implications for deployment and maintenance.
 
 
 ### **1. Sandbox Stage**
