@@ -8,7 +8,7 @@ The process pipeline is depicted in the figure below.
 
 ![API process pipeline](images/API_process_pipeline.png)
 
-All stages within this process pipeline are documented in the CAMARA API overview list. Details and clarifications on these stages are provided in the following sections.
+All stages within these processes are documented in the CAMARA API overview list. Details and clarifications on these stages and the management of the API overview list are provided in the following sections.
 
 ## API Onboarding
 
@@ -20,18 +20,28 @@ The process pipeline for the submission, evaluation and onboarding of a new API 
 
 !! add link to new picture
 
+The process pipeline for the submission, evaluation and onboarding of a new API proposal is shown in the figure below:
+
+!! add link to new picture
+
 The pipeline begins with the submission of an API proposal. This proposal can represent a new API or an enhancement to an existing API.
 
-### Steps for Submission
+### Submission of a new API proposal
+
+To submit a new API proposal any CAMARA contributor can execute the following steps:
 
 1. **Create a New Issue**  
    - Open a new issue in the [API Backlog repository](https://github.com/camaraproject/APIBacklog) using the designated issue template.
-   - Clearly describe whether it is a new API proposal or an enhancement to an existing API.
+   - Clearly describe whether it is a new API proposal or an enhancement to an existing API. API enhancement requires backlog validation when original scope of the API is to be modified, allowign backlog to analyze posible affectance in other existing APIs.
+
+
 
 2. **Submit a Pull Request (PR)**  
    - Fill out the appropriate API proposal or enhancement template available in the [API Backlog documentation](https://github.com/camaraproject/APIBacklog/tree/main/documentation).
    - Submit this template via a Pull Request (PR) to the repository folder for API proposals.
    - Ensure that the PR is linked to the issue created in step 1.
+   
+Company responsible for creating the original Issue and PR for a new API proposal is considered as _API Proposal Owner_ during the review process and identified in [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md)
 
 ## Evaluation of API Proposals
 
