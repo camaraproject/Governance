@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document describes a clear, consistent, and transparent process for the onboarding (submission), evaluation, and management (maintenance and lifecycle evolution) of API proposals in the CAMARA Project.
+This document describes clear, consistent, and transparent processes for the submission, evaluation, and onboarding of API proposals, and the management (maintenance and lifecycle evolution) of API Repositories in the CAMARA Project.
 
 The process pipeline is depicted in the figure below.
 
