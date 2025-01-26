@@ -12,6 +12,10 @@ All stages within this process pipeline are documented in the CAMARA API overvie
 
 ## API Onboarding
 
+The process pipeline for the submission, evaluation and onboarding of a new API proposal is shown in the figure below:
+
+!! add link to new picture
+
 The pipeline begins with the submission of an API proposal. This proposal can represent a new API or an enhancement to an existing API.
 
 ### Steps for Submission
