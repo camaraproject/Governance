@@ -95,9 +95,8 @@ Progress on these tasks is documented in tracking issues maintained by the API B
 
 All new APIs begin their journey in a *Sandbox* repository and evolve through defined lifecycle stages: **Sandbox → Incubated → Graduated → Archived**. This progression ensures clarity on maturity levels, development expectations, and implications for deployment and maintenance.
 
-### Lifecycle Stages
 
-#### **1. Sandbox Stage**
+### **1. Sandbox Stage**
 The Sandbox stage is the entry point for all new APIs. It is designed for experimentation and early development, allowing contributors to explore ideas without strict requirements.
 
 **Characteristics:**
@@ -106,7 +105,6 @@ The Sandbox stage is the entry point for all new APIs. It is designed for experi
 - No guarantees of stability or long-term support.
 - Can be initially independant, but should aim to either get accepted by an existing CAMARA Sub Project or to build up the necessary prerequisites to be able to apply for the creation of a new CAMARA Sub Project during Incubation.
 - A Sandbox API Repository which is not part of an existing Sub Project will get a Wiki page (in the Sandbox section), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting for their communication.
-- **Can release only Initial API versions, but no Stable API versions**
 
 **Requirements:**
 - The scope of the proposed API and initial use cases are described and fit in general into the scope of CAMARA.
@@ -114,20 +112,20 @@ The Sandbox stage is the entry point for all new APIs. It is designed for experi
 
 **Transition to Incubated Stage:**
 To move to the Incubated stage, an API shall:
-1. Release at least one Initial API version which is implemented by at least one operator (technical validation of the API in real environment).
-2. Scope, Use cases, Documentation and API definition are fully aligned with Initial version Meta-release requirements (including alignment with latest available [Commonalities](https://github.com/camaraproject/Commonalities) and [ICM](https://github.com/camaraproject/IdentityAndConsentManagement) guidelines)
+1. Have released at least one Initial API version which is implemented by at least one operator (technical validation of the API in real environment).
+2. The repository has participated within a meta-release cycle of CAMARA, which ensures that scope, use cases, documentation and API and test definitions are fully aligned with the requirements for an Initial API version as defined by the Release Management working group (including alignment with latest available [Commonalities](https://github.com/camaraproject/Commonalities) and [Identity and Consent Management (ICM)](https://github.com/camaraproject/IdentityAndConsentManagement) guidelines).
 3. Have at least three committed maintainers listed in `MAINTAINERS.md` who support the API, belonging to three different companies. This requirement ensures a wide commitment of the industry in the API(s).
 4. Maintainers of the Sandbox Repository apply for Incubation by opening an issue in the API Backlog working group.
 5. The API Backlog working group will do a pre-check on behalf of the TSC, which will confirm (or not) the inclusion of the repository as Incubated in an existing (preferable) or new CAMARA subproject.
 
 ---
 
-#### **2. Incubated Stage**
+### **2. Incubated Stage**
 APIs in the Incubated stage have shown early promise with initial adoption and support from multiple contributors.
 
 **Characteristics:**
-- API(s) specified in an Incubated repository warranty stability and long-term support.
-- An Incubated repositoriy is part of CAMARA Sub Project, including subroject Wiki Page, mailing list, Slack channel and Zoom meeting for communitacion.
+- API(s) specified in an Incubated API repository warranty stability and long-term support.
+- An Incubated API repository is part of a CAMARA Sub Project with a sub project Wiki Page, mailing list, Slack channel and Zoom meeting for communication.
 - **Can release Initial and Stable API versions.**
 
 **Requirements:**
@@ -147,7 +145,7 @@ To move to the Graduated stage, an API shall:
 
 ---
 
-#### **3. Graduated Stage**
+### **3. Graduated Stage**
 The Graduated stage represents mature APIs that are widely adopted and considered stable and mature both technical and commercially.
 
 **Characteristics:**
@@ -164,7 +162,7 @@ The Graduated stage represents mature APIs that are widely adopted and considere
   
 ---
 
-#### **4. Archived Stage**
+### **4. Archived Stage**
 The Archived stage is for deprecated or obsolete APIs that are no longer maintained or used actively. This status mainly applies for sandbox repositories that never reach an initial release, or incubated/graduated repositories that discontinue the evolution of APIs.
 
 **Transition to Archived Stage:**
@@ -187,15 +185,15 @@ The Archived stage is for deprecated or obsolete APIs that are no longer maintai
 
 ## API Management and Maintenance
 
-In case of a GO decision by the TSC, the designated Sub-Project assumes responsibility for the new API or API family. The Sub-Project begins contributing to the following areas:
-- API definitions.
-- API documentation.
-- Provider implementations.
-- Test artifacts.
+After the Onboarding, either the nominated codeowners (in case of an Independent API Repository) or the designated Sub Project maintainers assume responsibility for the new API Repository. They begin to contribute or supervise contributions to the following areas:
+- API definitions
+- Test definitions
+- API documentation
+- Provider implementations (optional, within separate repositories)
 
 The Sub-Project will follow the versioning guidelines defined by the Commonalities Working Group to maintain API versions. 
 
-When a new release for an API is accepted by the Sub-Project and merged into the main branch, the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) will be updated accordingly.
+When a new public release for an API is approved by the Release Management working group and created by the within the API Repository, the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md) will be updated accordingly.
 
 ### Documentation in the CAMARA API Overview List
 
@@ -207,7 +205,7 @@ The overview list is structured with the following columns:
 |------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | **API [Family] Name**                          | The name of the API or API family (e.g., "Messaging API Family").                                         |
 | **Supporters in API Backlog Working Group (*API Owner)** | List of companies supporting the API proposal in the Backlog WG. The API owner is marked with an asterisk (*). |
-| **API [Family] Proposal Template & Registration Date** | A link to the proposal template filled out during submission and the date it was registered.             |
+| **API Proposal Template & Registration Date** | A link to the proposal template filled out during submission and the date it was registered.             |
 | **API Backlog & TSC - Status**                 | Current status of the API in the backlog or TSC decision (e.g., "Approved", "Rejected", or "In Progress").|
 | **Sub-Project Link & Active Maintainers**      | A link to the Sub-Project repository where the API is hosted and a list of active maintainers.            |
 | **Latest Release & Date**                      | Information about the latest release version of the API and its release date.                            |
