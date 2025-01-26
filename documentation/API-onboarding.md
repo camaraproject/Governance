@@ -61,22 +61,22 @@ After submission, proposals undergo a detailed evaluation process within the "AP
      - Whether there is overlap with existing APIs.
      - If it is an enhancement of an existing API, evaluation and approval from the maintainers of the affected API group (API Repository or Sub Project maintainers) is required.
      - If the proposal overlaps with or is closely related to existing APIs, the APIBacklog working group can recommend to add the proposal into an existing Sub Project or API Repository. Also in this case the evaluation and approval from the maintainers of the affected API group (API Repository or Sub Project maintainers) is required.
-   - If no issues arise (*lazy consensus*), the proposal is confirmed as valid for inclusion in the backlog.
+   - If no issues arise (*lazy consensus*), the proposal is confirmed as valid for inclusion in the backlog and will be recommended for onboarding into CAMARA.
 
 4. **TSC Approval and Next Steps**  
    The Technical Steering Committee (TSC) reviews validated proposals during scheduled meetings.
-   - Backlog codeowners include agreed proposals in TSC discussion, including target of the API (whether approved APIs will be hosted by a new or existing Sub-Project).
+   - Backlog codeowners include agreed proposals in TSC discussion, including target of the API (whether approved API proposal will be onboarded into an existing Sub Project or as an independent Sandbox API Repository).
    - TSC confirms that backlog evaluations are complete and correct.
    - TSC approves or rejects proposals based on alignment with project goals and principles.
    
    If approved, onboarding tasks proceed as described below.
 
-## Onboarding Tracker
+### Onboarding Tracker
 
-Once an API proposal is approved by the TSC, onboarding tasks are tracked to ensure smooth implementation. These tasks include:
+Once an API proposal is approved by the TSC and will be onboarded as a new Sandbox API Repository, onboarding tasks are tracked to ensure smooth implementation. These tasks include:
 
 1. **Repository Creation**  
-   A dedicated repository is created for the API under its assigned Sub-Project or as part of a new Sub-Project. The repository structure shall comply with [CAMARA governance guidelines](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md).
+   A dedicated Sandbox API Repository is created for the API under its assigned Sub Project or as an independent Sandbox API Repository. The repository structure shall comply with [CAMARA governance guidelines](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md) and will be derived from the [Template_API_Repository](https://github.com/camaraproject/Template_API_Repository).
 
 2. **Infrastructure Setup**  
    Essential infrastructure is established:
