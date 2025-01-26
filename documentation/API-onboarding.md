@@ -10,7 +10,7 @@ The process pipeline is depicted in the figure below.
 
 All stages within this process pipeline are documented in the CAMARA API overview list. Details and clarifications on these stages are provided in the following sections.
 
-## Submission of an API Proposal
+## API Onboarding
 
 The pipeline begins with the submission of an API proposal. This proposal can represent a new API or an enhancement to an existing API.
 
