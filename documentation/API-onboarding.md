@@ -43,7 +43,7 @@ To submit a new API proposal any CAMARA contributor can execute the following st
    
 Company responsible for creating the original Issue and PR for a new API proposal is considered as _API Proposal Owner_ during the review process and identified in [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md)
 
-## Evaluation of API Proposals
+### Evaluation of API Proposals
 
 After submission, proposals undergo a detailed evaluation process within the "API Backlog" Working Group (WG):
 
@@ -57,10 +57,10 @@ After submission, proposals undergo a detailed evaluation process within the "AP
    During bi-weekly backlog sessions:
    - Backlog codeowners validate that:
      - The proposal adheres to governance and guidelines of CAMARA, including but not limited to the ProjectCharter, the Code of Conduct, the Contribution guidelines, the API Design Guidelines of Commonalities and the Release Process defined in Release Management.
-     - The template is correctly filled out.
-   - Participating companies assess:
+   - Workgroup participants assess:
      - Whether there is overlap with existing APIs.
-     - If it is an enhancement or the proposal overlaps with an existin API, approval and validation from affected API groups is required.
+     - If it is an enhancement of an existing API, evaluation and approval from the maintainers of the affected API group (API Repository or Sub Project maintainers) is required.
+     - If the proposal overlaps with or is closely related to existing APIs, the APIBacklog working group can recommend to add the proposal into an existing Sub Project or API Repository. Also in this case the evaluation and approval from the maintainers of the affected API group (API Repository or Sub Project maintainers) is required.
    - If no issues arise (*lazy consensus*), the proposal is confirmed as valid for inclusion in the backlog.
 
 4. **TSC Approval and Next Steps**  
