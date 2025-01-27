@@ -404,7 +404,7 @@
 | GSMA | Minesh Patel ||
 | GSMA | O. Ajibola ||
 | GSMA | Olu Omobitan ||
-| GSMA | Reg Cox ||
+| GSMA | Reginald Cox ||
 | GSMA | Salman Khan ||
 | GSMA | Steve Russ ||
 | GSMA | Tom van Pelt ||
