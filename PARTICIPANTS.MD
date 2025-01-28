@@ -771,6 +771,7 @@
 | Quobis | Santiago Troncoso ||
 | Quorus | Bert van Ael ||
 | Qwilt | Yoav ||
+| Racom | Martin Vystrcil ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
 | Radisys | Kiran Bharadwaj Vedula ||
