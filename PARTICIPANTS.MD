@@ -1068,6 +1068,7 @@
 | Vodafone | Filipe Corceiro ||
 | Vodafone | Fraser King ||
 | Vodafone | Gianluca Ossoli ||
+| Vodafone | Harriet Young ||
 | Vodafone | Iván Nieto ||
 | Vodafone | Jaime Diez ||
 | Vodafone | Jesus Pedruelo ||
