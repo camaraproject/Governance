@@ -641,7 +641,7 @@
 | MTN | Krishna Venkatachalam ||
 | MTN | Sanjay Chaurasia ||
 | MTN | Waseem Amra ||
-| MycomOSI | Paul Ghanime ||
+| Mycom OSI | Paul Ghanime ||
 | Nabstract | Babu Narayan ||
 | Nabstract | Ishan Shah ||
 | Nabstract | Vaibhav Mehta ||
