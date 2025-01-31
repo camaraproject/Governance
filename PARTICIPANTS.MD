@@ -647,7 +647,7 @@
 | Nabstract | Vaibhav Mehta ||
 | Nantisystem | Esteban Quijano Bonfil ||
 | Nearby Computing | David Carrera ||
-| Nearby Computing | Maria Serrano ||
+| Nearby Computing | Maria A. Serrano ||
 | Nearby Computing | Monika Louize Valdez ||
 | Nearby Computing | Nicola Cadenelli ||
 | Nearby Computing | Oscar Trullols-Cruces ||
