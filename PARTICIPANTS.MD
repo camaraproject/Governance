@@ -663,7 +663,7 @@
 | Nextgen Clearing | Philip Hodgson ||
 | NGMN Alliance | Anita Döhler ||
 | NGMN Alliance | Chris Hogg ||
-| Nife | Nida ||
+| Nife | Nida Sahar ||
 | NLT | William Araujo ||
 | Nokia | Akin Akintola ||
 | Nokia | Atul Purohit ||
