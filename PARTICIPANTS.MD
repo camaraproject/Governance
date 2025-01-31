@@ -642,7 +642,7 @@
 | MTN | Sanjay Chaurasia ||
 | MTN | Waseem Amra ||
 | Mycom OSI | Paul Ghanime ||
-| Nabstract | Babu Narayan ||
+| Nabstract | Babu Narayanan ||
 | Nabstract | Ishan Shah ||
 | Nabstract | Vaibhav Mehta ||
 | Nantisystem | Esteban Quijano Bonfil ||
