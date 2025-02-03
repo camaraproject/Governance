@@ -1010,6 +1010,7 @@
 | Tykelab | M. Massaroni ||
 | U Mobile | Neil Tomkinson ||
 | U2opia | Sarang Jain ||
+| UFG | Rafael Rodrigues Silva ||
 | ultraTELCO | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
 | Umniah | Fuad Atallah ||
