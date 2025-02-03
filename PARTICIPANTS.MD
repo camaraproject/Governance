@@ -755,7 +755,7 @@
 | Outris | Saurabh Sethi ||
 | Palantir | Matt Foreman ||
 | Pathfinderwireless | Colby Harper ||
-| Pavonis | DMD ||
+| Pavonis | Dan Mihai Dumitriu ||
 | PCCW Global Console Connect | Ray CY Wong ||
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Alex Ferreira ||
