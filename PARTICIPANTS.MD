@@ -444,7 +444,6 @@
 | Huawei | Kai Zhang Kai ||
 | Huawei | Luo Rong Hui ||
 | Huawei | Maria Jose Mossi (Pepa) ||
-| Huawei | Roger Wangrong ||
 | Huawei | Ruilin Cai ||
 | Huawei | Shuting Qing (Miranda) ||
 | Huawei | Sword Lijian ||
