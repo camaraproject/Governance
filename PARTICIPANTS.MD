@@ -785,7 +785,7 @@
 | Rakuten | Ravi Chamarty ||
 | RCNX | Andrew Bale ||
 | Redhat | Hanen Garcia ||
-| Redhat | S. Mufti ||
+| Redhat | Shujaur Mufti ||
 | Reply | Gianmarco Sciortino ||
 | Ril | Kumar Gaurav Singh ||
 | Ringcentral | Tom Tofigh ||
