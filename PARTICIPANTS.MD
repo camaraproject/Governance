@@ -586,6 +586,7 @@
 | LinuxFoundation | Scott Nicholas ||
 | Lionscraft | Aleph Zero ||
 | Lionscraft | Julian Ueding ||
+| Live Reply Italy | Gianmarco Sciortino ||
 | LiveU | Baruch Altman ||
 | Locance | Mario Proietti ||
 | Locationguru | Ahmed Shaheer ||
@@ -786,7 +787,6 @@
 | RCNX | Andrew Bale ||
 | Redhat | Hanen Garcia ||
 | Redhat | Shujaur Mufti ||
-| Reply | Gianmarco Sciortino ||
 | Ril | Kumar Gaurav Singh ||
 | Ringcentral | Tom Tofigh ||
 | Rogers | Nicholas Manolakos ||
