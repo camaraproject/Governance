@@ -730,6 +730,7 @@
 | Oracle | Todd Spraggins ||
 | Oracle | Walter Prior ||
 | ORANGE | Ana Romero Fife ||
+| ORANGE | Arkadiusz Arak ||
 | ORANGE | Assange Niang Mbengue ||
 | ORANGE | Benjamin Busvel ||
 | ORANGE | Eric Tartanson ||
