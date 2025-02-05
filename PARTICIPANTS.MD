@@ -618,6 +618,7 @@
 | Meta | Rehan Siddiqui ||
 | Meta | Ulas Kozat ||
 | Microcks | Yacine Kheddache ||
+| Microsoft | Ali Zaman ||
 | Microsoft | Angel Shimelish ||
 | Microsoft | Landon Cox ||
 | Microsoft | M. Kinsey ||
