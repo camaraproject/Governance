@@ -816,7 +816,7 @@
 | Shabodi | Ankit Kumar ||
 | Shabodi | Brian Smith ||
 | Shabodi | Camara ||
-| Shabodi | harmanjeet ||
+| Shabodi | Harmanjeet Singh Batth ||
 | Shabodi | Harpreet Geekee ||
 | Shabodi | Jayanth ||
 | Shabodi | Jeff ||
