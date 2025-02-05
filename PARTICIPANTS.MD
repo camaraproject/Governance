@@ -411,6 +411,7 @@
 | GSMA | Steve Russ ||
 | GSMA | Tom van Pelt ||
 | GSMA | Toyeeb Rehman ||
+| GSMA | Zhen Li ||
 | Gwirio | David Roux ||
 | Hansen CX | Brian Cappellani ||
 | Hawaiian Telecom | Kevin Folan ||
