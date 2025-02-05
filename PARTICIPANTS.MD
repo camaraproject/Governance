@@ -818,16 +818,16 @@
 | Shabodi | Camara ||
 | Shabodi | Harmanjeet Singh Batth ||
 | Shabodi | Harpreet Geekee ||
-| Shabodi | Jayanth ||
-| Shabodi | Jeff ||
+| Shabodi | Jayanth H N ||
+| Shabodi | Jeff McCoshen ||
 | Shabodi | Kevin Howe-Patterson ||
-| Shabodi | Manish ||
+| Shabodi | Manish Kumar ||
 | Shabodi | Mehdi Jafarizadeh ||
 | Shabodi | Nitin Sood ||
-| Shabodi | Surin ||
+| Shabodi | Surin Rao ||
 | Shabodi | Umair Ali Rashid ||
 | Shabodi | Vikram Chopra ||
-| Shabodi | willus ||
+| Shabodi | Xiaoou D. (Willus) ||
 | Shield AI | Brian Reyes ||
 | Sigscale | Vance Shipley ||
 | Simple Solutions | Daniel Macadar ||
