@@ -874,6 +874,7 @@
 | Swisscom | Lukas Leuthold ||
 | Syniverse | Jyrki Penttinen ||
 | T-Mobile CZ | Petr Strafelda ||
+| T-Mobile PL | Michał Fedorczyk ||
 | T-Mobile US | Antoine Egho ||
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Anup Sharma ||
