@@ -686,6 +686,7 @@
 | Nokia | Peter Kovacs ||
 | Nokia | Rene Saathoff ||
 | Nokia | Saad Ahmad ||
+| Nokia | Saeed Najafi ||
 | Nokia | Samuel Adeyemo ||
 | Nokia | Sharanabasappa S. Hatti ||
 | Nokia | Shkumbin Hamiti ||
