@@ -218,6 +218,7 @@
 | Comviva | Aishwarya Abhijit Javkhedkar ||
 | Comviva | Anindita Raychoudhuri ||
 | Comviva | Ayush Agarwal ||
+| Comviva | Ravindranath Mopparthy ||
 | Comviva | Veerat Kulkarni ||
 | Comviva | Vidhi Mehta ||
 | Confluent | Oliver Plane ||
