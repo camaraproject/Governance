@@ -487,7 +487,8 @@
 | Infobip | Mario Kresic ||
 | Infobip | Vilim Duganic ||
 | Infobip | Zeljko Nejasmic ||
-| Infolysis | C. Fragkos ||
+| Infolysis | Irakis Spyrou ||
+| Infolysis | Konstantinos Fragkos ||
 | Infolysis | Nikolaos GKATZIOS ||
 | Infolysis | Nikolaos VRIONIS ||
 | Infolysis | P. Papachronis ||
