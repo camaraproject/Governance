@@ -32,7 +32,7 @@ To submit a new API proposal any CAMARA contributor can execute the following st
 
 1. **Create a New Issue**  
    - Open a new issue in the [API Backlog repository](https://github.com/camaraproject/APIBacklog) using the designated issue template.
-   - Clearly describe whether it is a new API proposal or an enhancement to an existing API. API enhancement requires backlog validation when original scope of the API is to be modified, allowign backlog to analyze posible affectance in other existing APIs.
+   - Clearly describe whether it is a new API proposal or an enhancement to an existing API. API enhancement requires backlog validation when the original scope of the API is modified, allowing the backlog to analyze possible impact on other existing APIs.
 
 
 
@@ -77,7 +77,10 @@ Once an API proposal is approved by the TSC and will be onboarded as a new Sandb
 
 1. **Repository Creation**  
    A dedicated Sandbox API Repository is created for the API under its assigned Sub Project or as an independent Sandbox API Repository. The repository structure shall comply with [CAMARA governance guidelines](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md) and will be derived from the [Template_API_Repository](https://github.com/camaraproject/Template_API_Repository).
-
+   In case of API enhacement proposals, different options are open to be considered:
+   - Existing repository and API scope is modified, e.g. including a new API functionality or a new API endpoint.
+   - Existing repository is enhanced with a new API.
+   - New sandbox repository is created.
 2. **Infrastructure Setup**  
    Essential infrastructure is established:
    - Mailing list: for new Sandbox API repositories in context of an existing Sub Project the mailing list of the Sub Project will be used. For new independent Sandbox API a new mailing list will be created.
@@ -104,7 +107,7 @@ The Sandbox stage is the entry point for all new APIs. It is designed for experi
 - APIs in this stage are experimental and may lack full documentation or test coverage.
 - Open for contributions from any participant in the CAMARA Project.
 - No guarantees of stability or long-term support.
-- Can be initially independant, but should aim to either get accepted by an existing CAMARA Sub Project or to build up the necessary prerequisites to be able to apply for the creation of a new CAMARA Sub Project during Incubation.
+- Can be initially independent, but should aim to either get accepted by an existing CAMARA Sub Project or to build up the necessary prerequisites to be able to apply for the creation of a new CAMARA Sub Project during Incubation.
 - A Sandbox API Repository which is not part of an existing Sub Project will get a Wiki page (in the Sandbox section), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting for their communication.
 
 **Requirements:**
