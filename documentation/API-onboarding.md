@@ -2,6 +2,9 @@
 
 ## Introduction
 
+_This document reflects current API onboarding process. Updated version including separated API and repository onboarding and lifecycle management will be included soon._
+
+
 This document describes clear, consistent, and transparent processes for the submission, evaluation, and onboarding of API proposals, and the management (maintenance and lifecycle evolution) of API Repositories in the CAMARA Project.
 
 The process pipeline is depicted in the figure below.
