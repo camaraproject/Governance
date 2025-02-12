@@ -2,14 +2,11 @@
 
 ## Introduction
 
-_This document reflects current API onboarding process. Updated version including separated API and repository onboarding and lifecycle management will be included soon._
+_EDITORIAL NOTE: This document reflects an interim description of the current API onboarding process. Updated version including separated API and repository onboarding and lifecycle management will be included soon._
 
 
 This document describes clear, consistent, and transparent processes for the submission, evaluation, and onboarding of API proposals, and the management (maintenance and lifecycle evolution) of API Repositories in the CAMARA Project.
 
-The process pipeline is depicted in the figure below.
-
-![API process pipeline](images/API_process_pipeline.png)
 
 All stages within these processes are documented in the CAMARA API overview list. Details and clarifications on these stages and the management of the API overview list are provided in the following sections.
 
@@ -206,11 +203,12 @@ The overview list is structured with the following columns:
 
 | **Column Name**                                | **Description**                                                                                          |
 |------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| **API [Family] Name**                          | The name of the API or API family (e.g., "Messaging API Family").                                         |
+| **API(s) Name**                          | The name of the API or API(s) (e.g., "Messaging" API(s)).                                         |
 | **Supporters in API Backlog Working Group (*API Owner)** | List of companies supporting the API proposal in the Backlog WG. The API owner is marked with an asterisk (*). |
 | **API Proposal Template & Registration Date** | A link to the proposal template filled out during submission and the date it was registered.             |
 | **API Backlog & TSC - Status**                 | Current status of the API in the backlog or TSC decision (e.g., "Approved", "Rejected", or "In Progress").|
-| **Sub-Project Link & Active Maintainers**      | A link to the Sub-Project repository where the API is hosted and a list of active maintainers.            |
+| **API Repository Link & Active Maintainers**      | A link to the API repository where the API is hosted and a list of active maintainers.            |
+| **Sub Project link**      |  A link to the Sub Project if the API Repository is part of a Sub Project. Otherwise "Independent" |     
 | **Latest Release & Date**                      | Information about the latest release version of the API and its release date.                            |
 
 ---
