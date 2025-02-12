@@ -680,6 +680,7 @@
 | Nokia | Gergely Csatari ||
 | Nokia | Javier Ger ||
 | Nokia | Jonathan Kline ||
+| Nokia | Jos George ||
 | Nokia | Marc Erhardt ||
 | Nokia | Mario Vasconcelli ||
 | Nokia | Mikko Jarva ||
