@@ -949,6 +949,7 @@
 | Telefonica | Alvaro Fernandez Garrido ||
 | Telefonica | ANDRES EDERRA FERNANDEZ ||
 | Telefonica | Antonio Medina Martin ||
+| Telefonica | Clara Serrano Solsona ||
 | Telefonica | Cristina Santana Casillas ||
 | Telefonica | David Del Val ||
 | Telefonica | Diego Del Real Martinez ||
