@@ -334,6 +334,7 @@
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Joakim Uddenfeldt ||
 | Ericsson | Kamel Idir ||
+| Ericsson | Kevin Newell ||
 | Ericsson | Kishor Kumar A. ||
 | Ericsson | Klaus Schneider ||
 | Ericsson | Lutfi Yelkenci ||
@@ -1053,6 +1054,7 @@
 | Verizon | Mu He ||
 | Verizon / 5GFF | Parry Cornell Booker ||
 | Verizon / 5GFF | Priyanka Shah ||
+| Verizon | Prem Yendrapati || 
 | Verizon | Raghuram Parvataneni ||
 | Verizon | Santhi Dharmapalan ||
 | Verizon | Shammi Naz Amin ||
