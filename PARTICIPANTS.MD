@@ -958,7 +958,7 @@
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Fernando Guillot ||
 | Telefonica | Fernando Prado Cabrillo ||
-| Telefonica | Ignacio Dominguez Martinez ||
+| Telefonica | Ignacio Dominguez Martinez-Casanueva ||
 | Telefonica | Javier Carro Calabor ||
 | Telefonica | Javier Ferreiro Garcia ||
 | Telefonica | Javier Villa Labarra ||
