@@ -920,12 +920,12 @@
 | Technische Universität München | Mehmet Mert Bese ||
 | Tecnotree | Chuninda Mittal ||
 | Tecnotree | Shanu Swetank ||
-| Teco | Eduardo Panciera ||
-| Teco | Javier Hirschbein ||
-| Teco | Ricardo Lavaggi ||
 | Telchemy | Anthony Caiozzo ||
 | Tele 2 | Angel Toribio ||
 | Tele 2 | Nurdaulet Zholdassov ||
+| Telecom Argentina | Eduardo Panciera ||
+| Telecom Argentina | Javier Hirschbein ||
+| Telecom Argentina | Ricardo Lavaggi ||
 | TIM | Andrea Calvi ||
 | TIM | Daniele Franceschini ||
 | TIM | Fabrizio Moggio ||
