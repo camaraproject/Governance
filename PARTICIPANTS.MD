@@ -960,7 +960,7 @@
 | Telefonica | Fernando Prado Cabrillo ||
 | Telefonica | Ignacio Dominguez Martinez-Casanueva ||
 | Telefonica | Javier Carro Calabor ||
-| Telefonica | Javier Ferreiro Garcia ||
+| Telefonica | Javier Ferreiro Garcia Jimenez ||
 | Telefonica | Javier Villa Labarra ||
 | Telefonica | Jesus Maria Martin Garcia ||
 | Telefonica | Jesús Peña García-Oliva ||
