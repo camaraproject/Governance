@@ -93,7 +93,7 @@ Progress on these tasks is documented in tracking issues maintained by the API B
 
 ## Lifecycle Management of API Repositories
 
-All new APIs begin their journey in a *Sandbox* API repository and evolve through defined lifecycle stages: **Sandbox → Incubated → Graduated (→ Archived)**. This progression ensures clarity on maturity levels, development expectations, and implications for deployment and maintenance.
+All new APIs begin their journey in a *Sandbox* API repository and evolve through defined lifecycle stages: **Sandbox → Incubating → Graduated (→ Archived)**. This progression ensures clarity on maturity levels, development expectations, and implications for deployment and maintenance.
 
 
 ### **1. Sandbox Stage**
@@ -110,27 +110,27 @@ The Sandbox stage is the entry point for all new APIs. It is designed for experi
 - The scope of the proposed API and initial use cases are described and fit in general into the scope of CAMARA.
 - At least one initial Maintainer and one initial Codeowner (could be the same person) is nominated.
 
-**Transition to Incubated Stage:**
-To move to the Incubated stage, an API shall:
+**Transition to Incubating Stage:**
+To move to the Incubating stage, an API shall:
 1. Have released at least one Initial API version which is implemented by at least one operator (technical validation of the API in real environment).
 2. The repository has participated within a meta-release cycle of CAMARA, which ensures that scope, use cases, documentation and API and test definitions are fully aligned with the requirements for an Initial API version as defined by the Release Management working group (including alignment with latest available [Commonalities](https://github.com/camaraproject/Commonalities) and [Identity and Consent Management (ICM)](https://github.com/camaraproject/IdentityAndConsentManagement) guidelines).
 3. Have at least three committed maintainers listed in `MAINTAINERS.md` who support the API, belonging to three different companies. This requirement ensures a wide commitment of the industry in the API(s).
 4. Maintainers of the Sandbox Repository apply for Incubation by opening an issue in the API Backlog working group.
-5. The API Backlog working group will do a pre-check on behalf of the TSC, which will confirm (or not) the inclusion of the repository as Incubated in an existing (preferable) or new CAMARA subproject.
+5. The API Backlog working group will do a pre-check on behalf of the TSC, which will confirm (or not) the inclusion of the repository as Incubating in an existing (preferable) or new CAMARA subproject.
 
 ---
 
-### **2. Incubated Stage**
-APIs in the Incubated stage have shown early promise with initial adoption and support from multiple contributors.
+### **2. Incubating Stage**
+APIs in the Incubating stage have shown early promise with initial adoption and support from multiple contributors.
 
 **Characteristics:**
-- API(s) specified in an Incubated API repository warranty stability and long-term support.
-- An Incubated API repository is part of a CAMARA Sub Project with a sub project Wiki Page, mailing list, Slack channel and Zoom meeting for communication.
+- API(s) specified in an Incubating API repository warranty stability and long-term support.
+- An Incubating API repository is part of a CAMARA Sub Project with a sub project Wiki Page, mailing list, Slack channel and Zoom meeting for communication.
 - **Can release Initial and Stable API versions.**
 
 **Requirements:**
 - Full compliance with CAMARA governance standards as outlined in [Project Structure and Roles](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md).
-- Scope and use cases are fully documented. At this stage, API(s) part of the Incubated repository shall ensure that there is no overlap with any other API in the camera's portfolio, preventing duplicative functionalities to maintain a coherent set of offerings for developers.
+- Scope and use cases are fully documented. At this stage, API(s) part of the Incubating repository shall ensure that there is no overlap with any other API in the camera's portfolio, preventing duplicative functionalities to maintain a coherent set of offerings for developers.
 - Have at least three committed maintainers listed in `MAINTAINERS.md` who support the API, belonging to three different companies. This requirement ensures a wide commitment of the industry in the API(s).
 - Have at least three committed codeowners listed in `CODEOWNERS.md` who support the API, belonging (preferable) to three different companies. This requirement ensures that CAMARA Governance is followed.
 - Branch protection is activated in the repository.
@@ -140,7 +140,7 @@ APIs in the Incubated stage have shown early promise with initial adoption and s
 To move to the Graduated stage, an API shall:
 1. Demonstrate long-terms specification maturity by having participated within two CAMARA release cycles with at least one Stable API version.
 2. Demonstrate wide market adoption across multiple companies or projects, by including APIs which have been deployed and certified within at least one complete market or #n operators across #m markets.
-3. Maintainers of the Incubated Repository apply for Grduation by opening an issue in the API Backlog working group.
+3. Maintainers of the Incubating Repository apply for Grduation by opening an issue in the API Backlog working group.
 4. The API Backlog working group will do a pre-check on behalf of the TSC, which will confirm (or not) the inclusion of the repository as Graduated.
 
 ---
@@ -163,14 +163,14 @@ The Graduated stage represents mature APIs that are widely adopted and considere
 ---
 
 ### **4. Archived Stage**
-The Archived stage is for deprecated or obsolete APIs that are no longer maintained or used actively. This status mainly applies for sandbox repositories that never reach an initial release, or incubated/graduated repositories that discontinue the evolution of APIs.
+The Archived stage is for deprecated or obsolete APIs that are no longer maintained or used actively. This status mainly applies for sandbox repositories that never reach an initial release, or Incubating/graduated repositories that discontinue the evolution of APIs.
 
 **Transition to Archived Stage:**
 - Inactivity within a new Sandbox API repository:
   1. Three months (no contributions of documents or API specs)
   2. No release of an Initial API version after six months
 - Lack of participation of a Sandbox API repository within two consecutive CAMARA release cycles
-- Lack of participation of an Incubated or Graduated API repository within two consecutive CAMARA release cycle, if there would be changes necessary to stay aligned with the CAMARA Guidelines
+- Lack of participation of an Incubating or Graduated API repository within two consecutive CAMARA release cycle, if there would be changes necessary to stay aligned with the CAMARA Guidelines
 - TSC is in charge of proposing and validating the transition of a repository to a Archived Stage
 
 **Characteristics:**
