@@ -10,11 +10,11 @@ The work of CAMARA is organized in
 
 API Repositories in CAMARA are classified with one of three stages of maturity:
 
-* Sandboxed
-* Incubated
+* Sandbox
+* Incubating
 * Graduated
 
-Sandbox API Repositories can initially exist independent of a Sub Project. The process for the creation, incubation, graduation and (potential) archiving of API Repositories is described within [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+Sandbox API Repositories can initially exist independent of a Sub Project. The process for the creation of new Sandbox repositories, the transition to Incubating and Graduated API Repositories and (potential) archiving of API Repositories is described within [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
 
 **Sub Projects**
 
@@ -30,9 +30,9 @@ A Sub Project should have at least three Maintainers. The Maintainers of a Sub P
 
 The purpose of an API Repository is the definition and documentation of one or multiple (very closely related) APIs which will be always released together.
 
-The following API Repositories rules shall apply for all (independent) sandboxed, incubated, and graduated API repositories.
+The following API Repositories rules shall apply for all (independent) Sandbox, Incubatíng, and Graduated API repositories.
 
-A repository must have at least one Codeowner. Repositories with branch protection rules must have at least two Codeowners. Only Codeowners should have write permissions to an API Repository. For requirements regarding the Maintainers see the definition of Sandbox, Incubated and Graduated API Repositories.
+A repository must have at least one Codeowner. Repositories with branch protection rules must have at least two Codeowners. Only Codeowners should have write permissions to an API Repository. For requirements regarding the Maintainers see the definition of Sandbox, Incubating and Graduated API Repositories.
 
 Each API Repository must have a README.MD file (with a description of the API scope), a license file, a GOVERNANCE.MD file (pointing to the Governance repository), a CODEOWNERS, and a MAINTAINERS.MD file.
 
@@ -54,23 +54,23 @@ A Sandbox API Repository must have at least one Codeowner. If the Sandbox API Re
 
 Sandbox API Repositories are marked with a "Sandbox" badge in the README.md file and get a topic "Sandbox" assigned within the CAMARA GitHub Organization.
 
-**Incubated API Repositories**
+**Incubating API Repositories**
 
-An Incubated API Repository is meant for the further evolution of an API which has been implemented already by at least one operator, fits into the CAMARA API portfolio and has gained sufficient support within the CAMARA community. For details of the Incubation process see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+An Incubating API Repository is meant for the further evolution of an API which has been implemented already by at least one operator, fits into the CAMARA API portfolio and has gained sufficient support within the CAMARA community. For details of the transition process to Incubating stage see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
 
-An Incubated API Repository has the same structure as a Sandbox API Repository, with the following additional requirements: 
-* An Incubated API Repository must belong to a CAMARA Sub Project (either an existing one or a new Sub Project created as part of the Incubation process). 
+An Incubating API Repository has the same structure as a Sandbox API Repository, with the following additional requirements: 
+* An Incubating API Repository must belong to a CAMARA Sub Project (either an existing one or a new Sub Project created as part of the incubation process). 
 * The repository should have at least three Maintainers from different companies (out of the group of Maintainers of the Sub Project it belongs to). 
 * Branch protection rules must be activated, therefore a minimum of two Codeowners is required. 
 * All changes and contributions in the repository are following the description below.
 
-Incubated API Repositories are marked with a "Incubated" badge in the README.md file and get a topic "Incubated" assigned within the CAMARA GitHub Organization.
+Incubating API Repositories are marked with a "Incubating" badge in the README.md file and get a topic "Incubating" assigned within the CAMARA GitHub Organization.
 
 **Graduated API Repositories**
 
 A Graduated API Repository maintains a stable CAMARA API which has been widely adopted within the market. Details of the Graduation process will be defined within API-Onboarding-and-Lifecycle.md. 
 
-Graduated API Repositories have no additional technical requirements compared to Incubated API Repositories. It is important that the Sub Project ensures that there is a succession management for leaving Maintainers and Codeowners in place.
+Graduated API Repositories have no additional technical requirements compared to Incubating API Repositories. It is important that the Sub Project ensures that there is a succession management for leaving Maintainers and Codeowners in place.
 
 Graduated API Repositories are marked with a "Graduated" badge in the README.md file and get a topic "Graduated" assigned within the CAMARA GitHub Organization.
 
@@ -118,9 +118,9 @@ More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproj
 
 **API Backlog**
 
-The API Backlog Working Group is supervised by the TSC. The responsibilities of the Working Group are to take the decisions about API Proposals, including the creation of (Sandbox) API Repositories, to support the Incubation and Graduation process of API Repositories, to prepare the material for the creation of new Sub Projects or scope changes of existing Sub Projects (e.g. adding new API Repositories to a Sub Project).
+The API Backlog Working Group is supervised by the TSC. The responsibilities of the Working Group are to take the decisions about API Proposals, including the creation of (Sandbox) API Repositories, to support the transition process of API Repositories, to prepare the material for the creation of new Sub Projects or scope changes of existing Sub Projects (e.g. adding new API Repositories to a Sub Project).
 
-The decision about new Sandbox API Repositories will be taken by the Working Group. Decision about Incubation and Graduation of API Repositories, and the onboarding of new Sub Projects will be taken by the TSC. Changes of existing Sub Projects have to be approved by the involved Sub Projects.
+The decision about new Sandbox API Repositories will be taken by the Working Group. Decision about the transition to Incubating or Graduated stage, and the onboarding of new Sub Projects will be taken by the TSC. Changes of existing Sub Projects have to be approved by the involved Sub Projects.
 
 The API onboarding and API lifecycle process in CAMARA are described in [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
 
