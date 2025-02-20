@@ -30,7 +30,7 @@ A Sub Project should have at least three Maintainers. The Maintainers of a Sub P
 
 The purpose of an API Repository is the definition and documentation of one or multiple (very closely related) APIs which will be always released together.
 
-The following API Repositories rules shall apply for all (independent) Sandbox, Incubatíng, and Graduated API repositories.
+The following API Repositories rules shall apply for all (independent) Sandbox, Incubating, and Graduated API repositories.
 
 A repository must have at least one Codeowner. Repositories with branch protection rules must have at least two Codeowners. Only Codeowners should have write permissions to an API Repository. For requirements regarding the Maintainers see the definition of Sandbox, Incubating and Graduated API Repositories.
 
