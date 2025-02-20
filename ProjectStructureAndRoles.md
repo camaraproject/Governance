@@ -118,7 +118,7 @@ More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproj
 
 **API Backlog**
 
-The API Backlog Working Group is supervised by the TSC. The responsibilities of the Working Group are to take the decisions about API Proposals, including the creation of (Sandbox) API Repositories, to support the transition process of API Repositories, to prepare the material for the creation of new Sub Projects or scope changes of existing Sub Projects (e.g. adding new API Repositories to a Sub Project).
+The API Backlog Working Group is supervised by the TSC. The responsibilities of the Working Group are to take the decisions about API Proposals, including the creation of (Sandbox) API Repositories, to support the transition process of API Repositories, and to prepare the material for the creation of new Sub Projects or scope changes of existing Sub Projects (e.g. adding new API Repositories to a Sub Project).
 
 The decision about new Sandbox API Repositories will be taken by the Working Group. Decision about the transition to Incubating or Graduated stage, and the onboarding of new Sub Projects will be taken by the TSC. Changes of existing Sub Projects have to be approved by the involved Sub Projects.
 
