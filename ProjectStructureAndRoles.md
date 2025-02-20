@@ -64,7 +64,7 @@ An Incubating API Repository has the same structure as a Sandbox API Repository,
 * Branch protection rules must be activated, therefore a minimum of two Codeowners is required. 
 * All changes and contributions in the repository are following the description below.
 
-Incubating API Repositories are marked with a "Incubating" badge in the README.md file and get a topic "Incubating" assigned within the CAMARA GitHub Organization.
+Incubating API Repositories are marked with an "Incubating" badge in the README.md file and get a topic "Incubating" assigned within the CAMARA GitHub Organization.
 
 **Graduated API Repositories**
 
