@@ -68,7 +68,7 @@ Incubating API Repositories are marked with a "Incubating" badge in the README.m
 
 **Graduated API Repositories**
 
-A Graduated API Repository maintains a stable CAMARA API which has been widely adopted within the market. Details of the Graduation process will be defined within API-Onboarding-and-Lifecycle.md. 
+A Graduated API Repository maintains a stable CAMARA API which has been widely adopted within the market. Details of the Graduation process will be defined within the [API Onboarding and Lifecycle documentation](./API-Onboarding-and-Lifecycle.md). 
 
 Graduated API Repositories have no additional technical requirements compared to Incubating API Repositories. It is important that the Sub Project ensures that there is a succession management for leaving Maintainers and Codeowners in place.
 
