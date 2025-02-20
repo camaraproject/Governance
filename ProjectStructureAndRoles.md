@@ -14,7 +14,7 @@ API Repositories in CAMARA are classified with one of three stages of maturity:
 * Incubating
 * Graduated
 
-Sandbox API Repositories can initially exist independent of a Sub Project. The process for the creation of new Sandbox repositories, the transition to Incubating and Graduated API Repositories and (potential) archiving of API Repositories is described within [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+Sandbox API Repositories can initially exist independent of a Sub Project. The process for the creation of new Sandbox repositories, the transition to Incubating and Graduated API Repositories, and (potential) archiving of API Repositories is described within [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
 
 **Sub Projects**
 
