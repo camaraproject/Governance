@@ -990,7 +990,7 @@
 | Telstra | Arun Kohli ||
 | Telstra / 5GFF | Brett Hill ||
 | Telstra | Channa Seneviratne ||
-| Telstra | George Karroum ||
+| Telstra | George Edward Karroum ||
 | Telstra | Ian Mounsey ||
 | Telstra | Kiran Babu Konathala ||
 | Telstra | Senthoor Punniamoorthy ||
