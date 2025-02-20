@@ -14,7 +14,7 @@ API Repositories in CAMARA are classified with one of three stages of maturity:
 * Incubating
 * Graduated
 
-Sandbox API Repositories can initially exist independent of a Sub Project. The process for the creation of new Sandbox repositories, the transition to Incubating and Graduated API Repositories, and (potential) archiving of API Repositories is described within [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+Sandbox API Repositories can initially exist independent of a Sub Project. The process for the creation of new Sandbox repositories, the transition to Incubating and Graduated API Repositories, and (potential) archiving of API Repositories is described within the [API Onboarding and Lifecycle documentation](./API-Onboarding-and-Lifecycle.md).
 
 **Sub Projects**
 
@@ -44,7 +44,7 @@ API Repositories can have in addition Provider Implementation (PI) Repositories 
 
 A Sandbox API Repository is meant for the rapid development of a new API proposal through one or multiple initial API versions (0.x.y) until the first public release of an initial or stable API Version within the context of a CAMARA Meta-release. The work within Sandbox API Repositories - like in all API repositories - shall follow the governance and guidelines of CAMARA, including but not limited to the ProjectCharter, the Code of Conduct, the Contribution guidelines, the API Design Guidelines of Commonalities and the Release Process defined in Release Management.
 
-A Sandbox API Repository can be created independent of a CAMARA Sub Project (Independent Sandbox Repository) or in context of an existing CAMARA Sub Project. It is the first stage for every new API proposal developed in CAMARA, for details see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+A Sandbox API Repository can be created independent of a CAMARA Sub Project (Independent Sandbox Repository) or in context of an existing CAMARA Sub Project. It is the first stage for every new API proposal developed in CAMARA, for details see the [API Onboarding and Lifecycle documentation](./API-Onboarding-and-Lifecycle.md).
 
 * If a Sandbox API Repository belongs to a Sub Project it links within the README.md to the Sub Project wiki home page. Mailing list, meetings will be for these Sandbox API Repositories organized in context of the Sub Project. The Sub Project may already nominate or approve Maintainers for the Sandbox API Repository, which are with that also Maintainers of the Sub Project.
 
@@ -56,7 +56,7 @@ Sandbox API Repositories are marked with a "Sandbox" badge in the README.md file
 
 **Incubating API Repositories**
 
-An Incubating API Repository is meant for the further evolution of an API which has been implemented already by at least one operator, fits into the CAMARA API portfolio and has gained sufficient support within the CAMARA community. For details of the transition process to Incubating stage see [API-Onboarding-and-Lifecycle.md](./API-Onboarding-and-Lifecycle.md).
+An Incubating API Repository is meant for the further evolution of an API which has been implemented already by at least one operator, fits into the CAMARA API portfolio and has gained sufficient support within the CAMARA community. For details of the transition process to Incubating stage see the [API Onboarding and Lifecycle documentation](./API-Onboarding-and-Lifecycle.md).
 
 An Incubating API Repository has the same structure as a Sandbox API Repository, with the following additional requirements: 
 * An Incubating API Repository must belong to a CAMARA Sub Project (either an existing one or a new Sub Project created as part of the incubation process). 
