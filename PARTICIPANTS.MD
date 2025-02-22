@@ -1025,7 +1025,7 @@
 | ultraBASE | Cesar Obach ||
 | ultraTELCO | Vanessa Diaz ||
 | Umniah | Fuad Atallah ||
-| Umniah | Omar ALAshqar ||
+| Umniah | Omar Al-ashqar ||
 | Umniah | Tareq Abu Issa ||
 | Universida de Vigo | Alberto Estévez Caldas ||
 | Universida de Vigo | R. Perez ||
