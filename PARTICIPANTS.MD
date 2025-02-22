@@ -937,7 +937,7 @@
 | TIM | Antonio Varvara ||
 | TIM Brazil | Anderson De Souza Marinho ||
 | TIM Brazil | Bruno Leandro Campos De Miranda ||
-| TIM Brazil | J. W. Junior ||
+| TIM Brazil | José Walber Medeiros Soares de Sousa Junior ||
 | TIM Brazil | Paulo Cesar Dias Lima ||
 | TIM Brazil | Robson De Andrade Esteves ||
 | TIM Brazil | Rodrigo Lupareli ||
