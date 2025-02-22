@@ -1005,7 +1005,7 @@
 | The Leading Path | Daniel Kibler ||
 | Thrustvector | Doug Eng ||
 | Timwetech | Jose Ribeiro ||
-| Timwetech | Paulo Salgado ||
+| Timwetech | Paulo Passos Salgado ||
 | Titanium Platform | Dave Jackson ||
 | TM Forum | George Glass ||
 | TM Forum | Olta Vangjeli ||
