@@ -1028,7 +1028,7 @@
 | Umniah | Omar Al-ashqar ||
 | Umniah | Tareq Abu Issa ||
 | Universida de Vigo | Alberto Estévez Caldas ||
-| Universida de Vigo | R. Perez ||
+| Universida de Vigo | Rubén Pérez Vaz ||
 | Universitade de Aveiro | Sousa Bento ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
