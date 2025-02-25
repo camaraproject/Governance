@@ -58,7 +58,6 @@
 | AT&T | Andy Fuller ||
 | AT&T | Anisa Parikh ||
 | AT&T | Barry Elia ||
-| AT&T | Bill Knotts ||
 | AT&T | Catherine Lefevre ||
 | AT&T | Dan Druta ||
 | AT&T | Gervais-Martial Ngueko ||
@@ -801,7 +800,6 @@
 | Rogers | Nicholas Manolakos ||
 | Rohde & Schwarz | Tim Kittel ||
 | Route Mobile / TruSense | Priya Verma ||
-| Route Mobile | Snehil Pandey ||
 | Safaricom | Anne Ogutu ||
 | Safaricom | Zachary Mokua ||
 | Saitro | Luis Carlos Toledo ||
