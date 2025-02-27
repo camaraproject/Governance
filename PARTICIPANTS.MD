@@ -1083,7 +1083,7 @@
 | Vodafone | Harriet Young ||
 | Vodafone | Iván Nieto ||
 | Vodafone | Jaime Diez ||
-| Vodafone | Jesus Pedruelo ||
+| Vodafone | Jesús Pedruelo Bragado ||
 | Vodafone | Jim Barron ||
 | Vodafone | Joao Gaspar da Silva ||
 | Vodafone | Joao Ribas Fernandes ||
