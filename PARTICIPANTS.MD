@@ -1118,7 +1118,7 @@
 | Vonage | Guillermo Quintero ||
 | Vonage | James Emerson ||
 | Vonage | John Jeongwoo Kim ||
-| Vonage | Jose Recio ||
+| Vonage | Jose Maria Recio ||
 | Vonage | Lou Blatt ||
 | Vonage | Matt Fredrickson ||
 | Vonage | Qaunain Meghjee ||
