@@ -308,6 +308,7 @@
 | Entel | Cesar Llontop Capunay ||
 | Entel | Duran Nardecchia Eduardo ||
 | Equity AI | Matthew Webster ||
+| Ericsson | Abdelhakim H. Djillali ||
 | Ericsson | Adrian Kucharski ||
 | Ericsson | Ajit R. Raghavan ||
 | Ericsson | Alok D. Gupta ||
@@ -1158,7 +1159,6 @@
 | ZTE | Lijuan Chen ||
 | ZTE | Tu Jia Sun (Jason) ||
 | ZTE | Wang Changjin ||
-|  | Abdelhakim H. Djillali ||
 |  | Abhi Ingle ||
 |  | Abrar Sadd ||
 |  | A. E. Naderi ||
