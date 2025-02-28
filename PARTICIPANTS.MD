@@ -1120,7 +1120,7 @@
 | Vonage | John Jeongwoo Kim ||
 | Vonage | Jose Maria Recio ||
 | Vonage | Lou Blatt ||
-| Vonage | Matt Fredrickson ||
+| Vonage | Matthew Fredrickson ||
 | Vonage | Qaunain Meghjee ||
 | VROMBR | Frederic Thuard ||
 | VROMBR | Michael Pastor ||
