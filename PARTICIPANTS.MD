@@ -422,6 +422,7 @@
 | HCL | Pramilapandha Deshm ||
 | HCL | Ramyang Pandya ||
 | HCL | Razat Trehan ||
+| HCL | Sharma Dee ||
 | HGC | Ashwin Nabil Careem ||
 | HGC | Niklas Bergvall ||
 | Hiya | Anthony Mendonca ||
