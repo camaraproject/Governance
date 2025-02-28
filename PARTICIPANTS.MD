@@ -1117,7 +1117,7 @@
 | Vonage | Florian Huber ||
 | Vonage | Guillermo Quintero ||
 | Vonage | James Emerson ||
-| Vonage | John Kim ||
+| Vonage | John Jeongwoo Kim ||
 | Vonage | Jose Recio ||
 | Vonage | Lou Blatt ||
 | Vonage | Matt Fredrickson ||
