@@ -1127,7 +1127,7 @@
 | VROMBR | Titouan Vatonne ||
 | Wavecrest | Torrey Searle ||
 | Webbing Solutions | Baruch Pinto ||
-| Whalecloud | Mei Jiangang ||
+| Whalecloud | Jiangang Mei ||
 | Whalecloud | Yunjie Zhang (Elisa) ||
 | Whispir | Andrew Fry ||
 | Whispir | Graham Link ||
