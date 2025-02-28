@@ -14,6 +14,7 @@
 | AabVin | Acheem ||
 | Accenture | Adriano Poloni ||
 | Accenture | Amr Abdel Hamid ||
+| Accenture | Antonella Pantaleone ||
 | Accenture | Arnau Mata-Llenas ||
 | Accenture | Dibyendu Singha Roy ||
 | Accenture | Gaetano Biancardi ||
