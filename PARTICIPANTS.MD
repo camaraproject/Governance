@@ -353,6 +353,7 @@
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Stefanos Boukouvalas ||
 | Ericsson | Steven Deskovic ||
+| Ericsson | Subhashith T. K. ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
 | Ericsson | Vikas Singhal ||
@@ -585,9 +586,11 @@
 | LibertyGlobal | Wynn Rees ||
 | LinuxFoundation | Arpit Joshipura ||
 | LinuxFoundation | Casey Cain ||
+| LinuxFoundation | Daphne Marja Bunao ||
 | LinuxFoundation | Evan Harrison ||
 | LinuxFoundation | Jill Lovato ||
 | LinuxFoundation | John Walicki ||
+| LinuxFoundation | Mike Woster ||
 | LinuxFoundation | Louis Illuzzi ||
 | LinuxFoundation | Pano Xinos ||
 | LinuxFoundation | Scott Nicholas ||
