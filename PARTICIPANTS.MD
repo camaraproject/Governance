@@ -812,7 +812,6 @@
 | Sakon | Chris Simandl ||
 | Sakon | Dan Hughes ||
 | Salesforce | Douglas Vieira e Silva ||
-| Salesforce | Teresa González García ||
 | Samsung | Malik Kasmi ||
 | Samsung | Seonyoung Park (Shannon) ||
 | Scenera | Andrew Wajs ||
