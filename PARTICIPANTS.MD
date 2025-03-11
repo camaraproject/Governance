@@ -367,7 +367,6 @@
 | F5 | Raffaele D'Albenzio ||
 | FarEasTone Telecom | Meytsai ||
 | Fido | Francesco Panina ||
-| FIT - Instituto de Tecnologia | Raphael Parreira de Souza ||
 | Flying River | Gareth Hewlett ||
 | Foo | Ziad Hawwa ||
 | Freenet | Miguel Angelo Fernandez Iglesias ||
