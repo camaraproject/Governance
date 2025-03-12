@@ -127,7 +127,6 @@
 | Broadpeak | Tuan Tran ||
 | Bundesnetzagentur | Markus Klein ||
 | Byte | Aaron Paz ||
-| Bytedance | Fan Yao Hang (Owen) ||
 | Bytedance | Valme Pozo ||
 | Bytedance | Zhangran Zr ||
 | Cablelabs | Arun Yerra ||
@@ -812,7 +811,6 @@
 | Sakon | Chris Simandl ||
 | Sakon | Dan Hughes ||
 | Salesforce | Douglas Vieira e Silva ||
-| Samsung | Malik Kasmi ||
 | Samsung | Seonyoung Park (Shannon) ||
 | Scenera | Andrew Wajs ||
 | Scenera | Chien Lim ||
