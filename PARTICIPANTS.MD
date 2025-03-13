@@ -902,6 +902,7 @@
 | T-Mobile US | Stephen Compston ||
 | Tango Networks | Gavin Sweet ||
 | Tannera | Goran Licanin ||
+| Tata Communications | Timir Premjee ||
 | Tata Communications | Vikas Rao ||
 | Tata Elxsi | Ankush Gupta ||
 | Tata Elxsi | Jayaprakash Govindarajulu ||
