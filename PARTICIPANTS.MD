@@ -499,6 +499,7 @@
 | Infosys | Akash Tripathi ||
 | Infosys | Ankur Goyal ||
 | Infosys | Arun M. ||
+| Infosys | Bishnu Prasad Panda ||
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Praveen Kumar Kalapatapu ||
