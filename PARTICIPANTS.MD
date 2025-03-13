@@ -439,7 +439,6 @@
 | Huawei | Alex Wuning ||
 | Huawei | Andrew Zheng ||
 | Huawei | Chuanyu Chen ||
-| Huawei | Feng Liang (Michael) ||
 | Huawei | Hao Jing ||
 | Huawei | Jean-Paul Pallois ||
 | Huawei | Jiafeng Zhu ||
