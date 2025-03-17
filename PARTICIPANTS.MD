@@ -4,7 +4,6 @@
 | 1Global | Stanislav Slavkov ||
 | 1rstwap | Aerlangga Bachtiar ||
 | 1rstwap | Alex Sandra ||
-| 3G Telecoms | David Morris ||
 | 6D Tech | Asifali Muhammed ||
 | 6D Tech | Rahul Kumar ||
 | 8x8 | Anton Shchekalov ||
@@ -428,6 +427,7 @@
 | HGC | Niklas Bergvall ||
 | Hiya | Anthony Mendonca ||
 | Hiya | David Sitte ||
+| HLR Lookup | David Morris ||
 | Honda R&D Europe | Simon Davies ||
 | HPE | Emanuele de Angelis ||
 | HPE | Frederic Huve ||
