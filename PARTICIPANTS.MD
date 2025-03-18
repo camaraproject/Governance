@@ -199,6 +199,7 @@
 | ClearX | Ortal Tubul ||
 | ClearX | Yiftah Rottem ||
 | Cloud Communications | Joseph Marion ||
+| Cloudblue | Saravana Chockalingam ||
 | Cloudtern | Yves Basquet ||
 | Cloudonix | Eric Klein ||
 | CM | Bas Gijzen ||
