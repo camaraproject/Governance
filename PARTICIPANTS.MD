@@ -650,9 +650,9 @@
 | Mobily | Mohamed Hassan Taj ||
 | Movilgate | Javier De Luca ||
 | Movilgate | Mario Fernando Toro ||
-| MTN | Krishna Venkatachalam ||
-| MTN | Sanjay Chaurasia ||
-| MTN | Waseem Amra ||
+| MTN Group South Africa | Krishna Venkatachalam ||
+| MTN Group South Africa | Sanjay Chaurasia ||
+| MTN Group South Africa | Waseem Amra ||
 | Mycom OSI | Paul Ghanime ||
 | Nabstract | Babu Narayanan ||
 | Nabstract | Ishan Shah ||
@@ -665,7 +665,7 @@
 | Nearby Computing | Oscar Trullols-Cruces ||
 | Nearby Computing | Sergio Alonso ||
 | NEC | Neeraj Mehta ||
-| Netcheck | Sanjeev Shankar ||
+| Net Check GmbH | Sanjeev Shankar ||
 | Netcracker | Manoj K. Nair ||
 | Netcracker | Pavel Zvezdin ||
 | Netfocusin Technologies | Joydeep Banerjee ||
@@ -707,6 +707,7 @@
 | Nokia | Zoltan Olah ||
 | Nokia Bell Labs | Bessem Sayadi ||
 | Noname Security | Ides Vanneuville ||
+| Nonvoice | Frederic Thuard ||
 | Nos | Catarina Raquel Pereira ||
 | Nos | Nuno Erodrigues ||
 | Nos | Orlando Almeida ||
@@ -720,8 +721,8 @@
 | nxt:fwd | Ismo Antikainen ||
 | Ofcom | George Jibin ||
 | Ookla | Leandro A. Demarchi ||
-| Open Sesaame | Julian McCrea ||
-| Open Sesaame | Mateusz Mul ||
+| Open Sesame | Julian McCrea ||
+| Open Sesame | Mateusz Mul ||
 | OpenID Foundation | Gail Hodges ||
 | Optare Solutions | José Cunha ||
 | Optus | Felton Xu ||
@@ -774,7 +775,6 @@
 | PCCW Global Console Connect | Ray CY Wong ||
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Alex Ferreira ||
-| Phronesis | Matthew Hornsey ||
 | PLDT | Renelle John C. Magahis (Nel) ||
 | Plekton Labs | Wahid Mohammad ||
 | Prodapt | Carlos Portela ||
@@ -787,7 +787,7 @@
 | Quobis | Elías Pérez Carrera ||
 | Quobis | Santiago Troncoso ||
 | Quorus | Bert van Ael ||
-| Qwilt | Yoav ||
+| Qwilt | Yoav Gressel ||
 | Racom | Martin Vystrcil ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
@@ -799,8 +799,8 @@
 | Rakuten | Rajesh Goyal ||
 | Rakuten | Ravi Chamarty ||
 | RCNX | Andrew Bale ||
-| Redhat | Hanen Garcia ||
-| Redhat | Shujaur Mufti ||
+| Red Hat | Hanen Garcia ||
+| Red Hat | Shujaur Mufti ||
 | Ril | Kumar Gaurav Singh ||
 | Ringcentral | Tom Tofigh ||
 | Robots And Humans | Lucy Thatcher ||
@@ -808,6 +808,7 @@
 | Rohde & Schwarz | Tim Kittel ||
 | Route Mobile / TruSense | Priya Verma ||
 | Safaricom | Anne Ogutu ||
+| Safaricom | Brian Oyigo ||
 | Safaricom | Zachary Mokua ||
 | Saitro | Luis Carlos Toledo ||
 | Sakon | Chris Simandl ||
@@ -1013,6 +1014,7 @@
 | TM Forum | Olta Vangjeli ||
 | TMT Analysis UK | David Lumm ||
 | TMT Analysis UK | Matthew Hand ||
+| TMT Analysis UK | Matthew Hornsey ||
 | TMT Analysis UK | Neil Downing ||
 | Totogi | Ailton Santana ||
 | Trilio | Paulo Peres ||
@@ -1126,7 +1128,6 @@
 | Vonage | Lou Blatt ||
 | Vonage | Matthew Fredrickson ||
 | Vonage | Qaunain Meghjee ||
-| VROMBR | Frederic Thuard ||
 | VROMBR | Michael Pastor ||
 | VROMBR | Titouan Vatonne ||
 | Wavecrest | Torrey Searle ||
@@ -1177,7 +1178,6 @@
 |  | Basit Tanveer ||
 |  | Bien Uet ||
 |  | Boudane ||
-|  | Brian Oyigo ||
 |  | Carlos Vazbagper ||
 |  | cmti CA ||
 |  | Cormachegarty ||
