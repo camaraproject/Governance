@@ -448,7 +448,7 @@
 | Huawei | Jian Guo ||
 | Huawei | Jin Xu (Philip) ||
 | Huawei | Junyi Zhou ||
-| Huawei | Kai Zhang Kai ||
+| Huawei | Kai Zhang ||
 | Huawei | Luo Rong Hui ||
 | Huawei | Maria Jose Mossi (Pepa) ||
 | Huawei | Ruilin Cai ||
@@ -458,7 +458,6 @@
 | Huawei | Wang Jia (Albert) ||
 | Huawei | Yulin Fengyulin (Roger) ||
 | Huawei | Zhilong Zheng (Bryant) ||
-| Hushmail | Fraser King ||
 | Hutchison | Alessio Cervone ||
 | Hutchison | Mus Dumenci ||
 | Hutchison | Sandra Ondrusova ||
@@ -485,7 +484,7 @@
 | Indykite | Marek Detko ||
 | Indykite | Marius Bakkeli ||
 | Indykite | Sebastian Drees ||
-| Infinite | Arun Konathala ||
+| Infinite Computer Solutions (India) Limited | Arun Konathala ||
 | Infobip | Emina Sikira ||
 | Infobip | Kosta Pribic ||
 | Infobip | Kwok Onn Looi ||
@@ -512,7 +511,6 @@
 | Inovacaobrain | LUCAS SLEYDER MACHADO DICENCIO ||
 | Institute for Infocomm Research | Gary Lee ||
 | Intel | (Fran)Cesc Guim ||
-| Intel / ETSI | Dario Sabella ||
 | Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
 | Intel | Oliver Roos ||
@@ -544,8 +542,8 @@
 | KDDI | Brian Vaughn ||
 | KDDI | K. C. Yamamoto ||
 | KDDI | Keichi Okonogi ||
-| KDDI | Kosuke Koiwai ||
 | KDDI | Kiyoto Shinomura ||
+| KDDI | Kosuke Koiwai ||
 | KDDI | Masaharu Hattori ||
 | KDDI | Masaki Suzuki ||
 | KDDI | Shingo Watanabe ||
@@ -578,21 +576,21 @@
 | Lenovo | Nick Petropouleas ||
 | LFOD | Christopher Garlick ||
 | LG U+ | Jae Yeol Kim (Jerry) ||
-| LibertyGlobal | Awais Ahmad ||
-| LibertyGlobal | Babatunde Obasola ||
-| LibertyGlobal | George Haddad ||
-| LibertyGlobal | Laszlo Suto ||
-| LibertyGlobal | Massimiliano Gasparroni || 
-| LibertyGlobal | Oscar Tejedor Garcia ||
-| LibertyGlobal | Wynn Rees ||
+| Liberty Global | Awais Ahmad ||
+| Liberty Global | Babatunde Obasola ||
+| Liberty Global | George Haddad ||
+| Liberty Global | Laszlo Suto ||
+| Liberty Global | Massimiliano Gasparroni || 
+| Liberty Global | Oscar Tejedor Garcia ||
+| Liberty Global | Wynn Rees ||
 | LinuxFoundation | Arpit Joshipura ||
 | LinuxFoundation | Casey Cain ||
 | LinuxFoundation | Daphne Marja Bunao ||
 | LinuxFoundation | Evan Harrison ||
 | LinuxFoundation | Jill Lovato ||
 | LinuxFoundation | John Walicki ||
-| LinuxFoundation | Mike Woster ||
 | LinuxFoundation | Louis Illuzzi ||
+| LinuxFoundation | Mike Woster ||
 | LinuxFoundation | Pano Xinos ||
 | LinuxFoundation | Scott Nicholas ||
 | Lionscraft | Aleph Zero ||
@@ -607,8 +605,8 @@
 | M1 | Choo Sim Hwee Johnny ||
 | Madison | Alejandro Alfonso Fernandez ||
 | Madison | Victor Javier Quirog ||
-| Marple | Andrea ||
 | Manual da Web | Alex ||
+| Marple | Andrea ||
 | Masmovil | Maria Segundo Romero ||
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
@@ -632,8 +630,8 @@
 | Microsoft | Ali Zaman ||
 | Microsoft | Angel Shimelish ||
 | Microsoft | Landon Cox ||
-| Microsoft | M. Kinsey ||
 | Microsoft | Michael Brown ||
+| Microsoft | Michele Kinsey ||
 | Microsoft | Mishal Valiyakath ||
 | Microsoft | Moushumi Ghosal ||
 | Microsoft | Ricardo Villarreal ||
@@ -1120,6 +1118,7 @@
 | Vonage | Chris Skowronek ||
 | Vonage | Colin Brown ||
 | Vonage | Florian Huber ||
+| Vonage | Fraser King ||
 | Vonage | Guillermo Quintero ||
 | Vonage | James Emerson ||
 | Vonage | John Jeongwoo Kim ||
@@ -1153,6 +1152,7 @@
 | Xecurity Pulse | Taha Sajid ||
 | X Flow Software Technology LLC | Ali Iqbal ||
 | X Flow Software Technology LLC | Ayesha Ayub ||
+| X Flow Software Technology LLC | Dario Sabella ||
 | X Flow Software Technology LLC | Mubeena Ishaq ||
 | YBVR | Goetz Kursawe ||
 | Zain | Devajeet Datta ||
