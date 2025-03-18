@@ -231,6 +231,7 @@
 | CTHINGS | Shreyas Vinod ||
 | Cubic Telekom | Andre Schlufter ||
 | D2Tech | Richard Chen ||
+| Datacurve | Aman Johar ||
 | Defne | Erhan Ermisoglu ||
 | Defne | Giray Arat geb. Erkan ||
 | Dell | Mihai Lazar ||
@@ -293,7 +294,7 @@
 | E& | Vikram Rana ||
 | EANTC | Carsten Rossenhoevel ||
 | EANTC | Dirk Hetzer ||
-| EdgeContinuum | Miguel Faro ||
+| EdgeContinuum | Miguel Faro Rivas ||
 | EdgeXR | Jesse Bijl ||
 | EdgeXR | Jon Gainsley ||
 | EdgeXR | Sunay Tripathi ||
@@ -374,7 +375,7 @@
 | Fujitsu | Nishant Tiwari ||
 | Fujitsu | Tetsuya Hasegawa ||
 | FutureConnections | Sergio Carrillo ||
-| Gadgetspace | Todd Ashworth ||
+| Gadgetspace | K. Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | GCI | Scott A. Griffith ||
 | Getflyp | Kyle Warnsley ||
@@ -392,10 +393,10 @@
 | Google Cloud | Giorgio Conte ||
 | Google Cloud | Jvar Sanik ||
 | Google Cloud | Nicola Cardace ||
+| Google Cloud | Qi Tang ||
 | Google Cloud | Rittwik Jana ||
 | Google Cloud | Sridhar Gollapudi ||
 | Google Cloud | Stella Loh ||
-| Google Cloud | Qi Tang ||
 | Google Cloud | Vivek Gupta ||
 | Grambell | Adis Ceman ||
 | GS Labs | Amit Wankhede ||
@@ -406,7 +407,6 @@
 | GSMA | Henry Calvert ||
 | GSMA | Jason Smith ||
 | GSMA | Justin Paul ||
-| GSMA | Lucy Thatcher ||
 | GSMA | Mark Cornall ||
 | GSMA | Minesh Patel ||
 | GSMA | O. Ajibola ||
@@ -805,6 +805,7 @@
 | Redhat | Shujaur Mufti ||
 | Ril | Kumar Gaurav Singh ||
 | Ringcentral | Tom Tofigh ||
+| Robots And Humans | Lucy Thatcher ||
 | Rogers | Nicholas Manolakos ||
 | Rohde & Schwarz | Tim Kittel ||
 | Route Mobile / TruSense | Priya Verma ||
