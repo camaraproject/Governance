@@ -1045,22 +1045,22 @@
 | Verizon | Alicia Miller ||
 | Verizon | Ankita Kohli ||
 | Verizon | Anna Keramaty ||
-| Verizon / OIDF| Bjorn Hjelm ||
+| Verizon | Bjorn Hjelm ||
 | Verizon | Christian Guirnalda ||
 | Verizon | Doug Walker ||
-| Verizon / 5GFF | Jeremy Giese ||
+| Verizon | Jeremy Giese ||
 | Verizon | Josh Arensberg ||
 | Verizon | Kapil Maheshwari ||
-| Verizon / 5GFF | Kevin Xu ||
+| Verizon | Kevin Xu ||
 | Verizon | Mahesh Chapalamadugu ||
 | Verizon | Mason Ng ||
 | Verizon | Massimiliano Troiani ||
 | Verizon | Medha Joshi ||
 | Verizon | Michael Sullivan ||
 | Verizon | Mu He ||
-| Verizon / 5GFF | Parry Cornell Booker ||
-| Verizon / 5GFF | Priyanka Shah ||
+| Verizon | Parry Cornell Booker ||
 | Verizon | Prem Yendrapati || 
+| Verizon | Priyanka Shah ||
 | Verizon | Raghuram Parvataneni ||
 | Verizon | Santhi Dharmapalan ||
 | Verizon | Shammi Naz Amin ||
@@ -1085,7 +1085,6 @@
 | Vodafone | Emmanuel Sarris ||
 | Vodafone | Eric Murray ||
 | Vodafone | Filipe Corceiro ||
-| Vodafone | Fraser King ||
 | Vodafone | Gianluca Ossoli ||
 | Vodafone | Harriet Young ||
 | Vodafone | Iván Nieto ||
@@ -1133,8 +1132,8 @@
 | VROMBR | Titouan Vatonne ||
 | Wavecrest | Torrey Searle ||
 | Webbing Solutions | Baruch Pinto ||
-| Whalecloud | Jiangang Mei ||
-| Whalecloud | Yunjie Zhang (Elisa) ||
+| Whale Cloud Technology Ltd. | Jiangang Mei ||
+| Whale Cloud Technology Ltd. | Yunjie Zhang (Elisa) ||
 | Whispir | Graham Link ||
 | Whispir | Sharina Rapales ||
 | Whispir | Wayne Lee ||
@@ -1149,12 +1148,12 @@
 | Wit Software | Raul Fonseca ||
 | Wit Software | Rita Pires ||
 | Wiwynn | Karl Chiang ||
-| Xalyocom | Carlo ||
-| Xecurity Pulse | Taha Sajid ||
 | X Flow Software Technology LLC | Ali Iqbal ||
 | X Flow Software Technology LLC | Ayesha Ayub ||
 | X Flow Software Technology LLC | Dario Sabella ||
 | X Flow Software Technology LLC | Mubeena Ishaq ||
+| Xalyocom | Carlo ||
+| Xecurity Pulse | Taha Sajid ||
 | YBVR | Goetz Kursawe ||
 | Zain | Devajeet Datta ||
 | Zignos | Carlos ||
@@ -1164,9 +1163,9 @@
 | ZTE | Tu Jia Sun (Jason) ||
 | ZTE | Wang Changjin ||
 |  | 18910193721 ||
+|  | A. E. Naderi ||
 |  | Abhi Ingle ||
 |  | Abrar Sadd ||
-|  | A. E. Naderi ||
 |  | Ahmed Mohammed ||
 |  | Akell Wal ||
 |  | Akintun Desemiu ||
@@ -1187,6 +1186,7 @@
 |  | D. Tran ||
 |  | Dapsdn ||
 |  | Dat ||
+|  | David Galante ||
 |  | Deepankar ||
 |  | Elena Chernysh ||
 |  | Emmanuele Benedetto ||
@@ -1194,7 +1194,6 @@
 |  | Ersa Sandberg ||
 |  | FBI Chamber 12 ||
 |  | Feed C ||
-|  | Galante ||
 |  | Gerasimo Spapd ||
 |  | Gulwaqar Khan ||
 |  | Har Shamore ||
@@ -1212,7 +1211,6 @@
 |  | Juanito Excutia ||
 |  | Kshahabrnd ||
 |  | Kuldeep Kumar ||
-|  | Kunal Shokeen ||
 |  | Laiminh Ha ||
 |  | Lokesh Negi ||
 |  | M. Castrillo ||
@@ -1227,10 +1225,9 @@
 |  | Paramet Prame ||
 |  | Pat Conil ||
 |  | Pedro Juan Lopez Chavez ||
-|  | Qi Tang ||
 |  | R. Sanvatsarkar ||
-|  | Ram Ramanathan ||
 |  | Rahul Panwar ||
+|  | Ram Ramanathan ||
 |  | Rod Scw ||
 |  | Sabir Bouloumi ||
 |  | Sangramra Jekakade ||
@@ -1250,7 +1247,6 @@
 |  | Useris Jithin ||
 |  | Vishal Makhijani ||
 |  | Walid Saddi ||
-|  | Wang Ruo Bei ||
 |  | Warren Prasad ||
 |  | Wen Nemenzo ||
 |  | Y. Mahabir ||
@@ -1258,4 +1254,4 @@
 |  | Zach Callahan ||
 |  | Zahraniak M. ||
 |  | Zholdassov Nurd ||
-|  | Ziezpl ||
+|  | Zietzpl ||
