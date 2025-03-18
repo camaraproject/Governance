@@ -862,6 +862,7 @@
 | Softbank | Naoto Takasu ||
 | Softbank | Noda Ayaka ||
 | Softbank | Toru Kikuchi ||
+| Soprano Design | Andrew Fry ||
 | Spry Fox Networks | Jignesh Sorathia ||
 | Spry Fox Networks | Mike Bowring ||
 | Spry Fox Networks | Parichaya Shrivastava ||
@@ -880,8 +881,8 @@
 | SUE | Serge van Namen ||
 | Summit Tech | Doug Makishima ||
 | Sunrise | Aaron Pearce ||
-| Swisscom | Felix Sutter ||
-| Swisscom | Lukas Leuthold ||
+| Swisscom (Schweiz) AG | Felix Sutter ||
+| Swisscom (Schweiz) AG | Lukas Leuthold ||
 | Syniverse | Jyrki Penttinen ||
 | T-Mobile CZ | Petr Strafelda ||
 | T-Mobile PL | Michał Fedorczyk ||
@@ -1134,7 +1135,6 @@
 | Webbing Solutions | Baruch Pinto ||
 | Whalecloud | Jiangang Mei ||
 | Whalecloud | Yunjie Zhang (Elisa) ||
-| Whispir | Andrew Fry ||
 | Whispir | Graham Link ||
 | Whispir | Sharina Rapales ||
 | Whispir | Wayne Lee ||
