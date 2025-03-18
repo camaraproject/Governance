@@ -932,19 +932,6 @@
 | Telecom Argentina | Eduardo Panciera ||
 | Telecom Argentina | Javier Hirschbein ||
 | Telecom Argentina | Ricardo Lavaggi ||
-| TIM | Andrea Calvi ||
-| TIM | Daniele Franceschini ||
-| TIM | Fabrizio Moggio ||
-| TIM | Francesco Vadala ||
-| TIM | Marco Signorelli ||
-| TIM | Raffaele Passannanti ||
-| TIM | Roberto Procopio ||
-| TIM | Antonio Varvara ||
-| TIM Brazil | Anderson De Souza Marinho ||
-| TIM Brazil | Bruno Leandro Campos De Miranda ||
-| TIM Brazil | Paulo Cesar Dias Lima ||
-| TIM Brazil | Robson De Andrade Esteves ||
-| TIM Brazil | Rodrigo Lupareli ||
 | Telecom Sudparis | Vincent Gauthier ||
 | Telecomsxchange | Ameed Jamous ||
 | Telefonica | Agustin Martin Gonzalez ||
@@ -986,13 +973,13 @@
 | Telefonica | Rodrigo Partearroyo Gonzalez ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Violeta Gonzalez Fernandez ||
-| Telenor Connexion | Soheil Chohan ||
+| Telenor | Soheil Chohan ||
 | Telesmart | Bulent Tuncel ||
 | Telestratum | Balakrishnan Chittor Rajagopal ||
 | Telstra | Abdul Majid Hussain ||
 | Telstra | Anu Rajagopal ||
 | Telstra | Arun Kohli ||
-| Telstra / 5GFF | Brett Hill ||
+| Telstra | Brett Hill ||
 | Telstra | Channa Seneviratne ||
 | Telstra | George Edward Karroum ||
 | Telstra | Ian Mounsey ||
@@ -1008,6 +995,19 @@
 | TesTime Limited  | Eleph Kwong ||
 | The Leading Path | Daniel Kibler ||
 | Thrustvector | Doug Eng ||
+| TIM | Andrea Calvi ||
+| TIM | Antonio Varvara ||
+| TIM | Daniele Franceschini ||
+| TIM | Fabrizio Moggio ||
+| TIM | Francesco Vadala ||
+| TIM | Marco Signorelli ||
+| TIM | Raffaele Passannanti ||
+| TIM | Roberto Procopio ||
+| TIM Brazil | Anderson De Souza Marinho ||
+| TIM Brazil | Bruno Leandro Campos De Miranda ||
+| TIM Brazil | Paulo Cesar Dias Lima ||
+| TIM Brazil | Robson De Andrade Esteves ||
+| TIM Brazil | Rodrigo Lupareli ||
 | Timwetech | Jose Ribeiro ||
 | Timwetech | Paulo Passos Salgado ||
 | Titanium Platform | Dave Jackson ||
