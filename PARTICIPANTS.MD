@@ -120,17 +120,17 @@
 | British Telecom | Milan Lalovic ||
 | British Telecom | Saisrinivasa Botta ||
 | British Telecom | Tim Rawling ||
-| Broadcom | Padma Sudarsan ||
+| Broadcom / VMWare | Padma Sudarsan ||
 | Broadpeak | Christoph Neumann ||
 | Broadpeak | Guillaume Bichot ||
-| Broadpeak | Tuan Tran ||
+| Broadpeak | Tuan Tran Thai ||
 | Bundesnetzagentur | Markus Klein ||
 | Byte | Aaron Paz ||
 | Bytedance | Valme Pozo ||
 | Bytedance | Zhangran Zr ||
 | Cablelabs | Arun Yerra ||
-| Cabellabs | Ben Hepworth ||
-| Cabellabs | Leo Chely ||
+| Cablelabs | Ben Hepworth ||
+| Cablelabs | Leo Chely ||
 | Cablelabs | Mark Bridges ||
 | Cablelabs | Paul Fonte ||
 | Cablelabs | Philip Rosenberg-Watt ||
@@ -140,10 +140,10 @@
 | Caliente | Jesus Cozain ||
 | Callsign | Jyotheeswara Malapati ||
 | Canopus Networks | Arun Vishwanath ||
-| Capital One | David E. Weekly ||
 | Capgemini | Amit Rustagi ||
 | Capgemini | Deepak A. Gunjal ||
 | Capgemini | Vishal Vasantrao Varvate ||
+| Capital One | David E. Weekly ||
 | Cell C | Sibanye Bukani ||
 | Celo | Bhavishya Kanjhan ||
 | Celo | Rene Reinsberg ||
@@ -192,21 +192,21 @@
 | Citictel | Alexander Lau ||
 | Citictel | Gabriel Shui ||
 | Citictel | K. P. Yau ||
+| Citymesh | Tom Collins ||
 | Clap-n-Clank | Tsuyoshi Takakura ||
 | Claro | João Del Nero ||
 | Claro | Leticia Brito Terceiros ||
 | ClearX | Bar Hodis ||
-| ClearX | Ortal Tubul ||
 | ClearX | Yiftah Rottem ||
 | Cloud Communications | Joseph Marion ||
 | Cloudblue | Saravana Chockalingam ||
-| Cloudtern | Yves Basquet ||
 | Cloudonix | Eric Klein ||
+| Cloudtern | Yves Basquet ||
 | CM | Bas Gijzen ||
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
-| Cognizant | Manish Jain ||
 | Cognizant | Karthikraj Rangaraj ||
+| Cognizant | Manish Jain ||
 | Cognizant | Siddharth Prakash Khatri ||
 | Cognizant | Vigneshwaran Suresh ||
 | Colony Networks | Adriano Carmezim ||
@@ -218,6 +218,7 @@
 | Comviva | Aishwarya Abhijit Javkhedkar ||
 | Comviva | Anindita Raychoudhuri ||
 | Comviva | Ayush Agarwal ||
+| Comviva | Ravi Shankar ||
 | Comviva | Ravindranath Mopparthy ||
 | Comviva | Veerat Kulkarni ||
 | Comviva | Vidhi Mehta ||
@@ -378,6 +379,7 @@
 | GCI | Scott A. Griffith ||
 | Getflyp | Kyle Warnsley ||
 | GIP | Gvidas Glebas ||
+| Glide Identity | Ortal Tubul ||
 | Global Logic | Gurpreet Singh Matharu ||
 | Global Logic | Pankaj Gupta ||
 | Global Logic | Rahul Aggarwal ||
@@ -850,7 +852,6 @@
 | Singularity Tech | Daisy Phan ||
 | SK Telecom | Clark Park ||
 | SK Telecom | Yoon Sun Jung (Serena) ||
-| Skyvera | Ravi Shankar ||
 | Slagen | Dagoberto Garavito ||
 | Slicefinity | Rohit Sengupta ||
 | Sloan Staffing Solutions | Chris Newman ||
@@ -1243,7 +1244,6 @@
 |  | Sunil Jain ||
 |  | Szha0138monash ||
 |  | Tom Hsu ||
-|  | Tom Collins ||
 |  | Tomer Ilan ||
 |  | Tousif Ahmed ||
 |  | Useris Jithin ||
