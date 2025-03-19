@@ -477,6 +477,7 @@
 | IIT Demokritos | Dimitrios Fragkos ||
 | IIT Demokritos | Harilaos Koumaras ||
 | IIT Demokritos | Ilia Salex ||
+| IIT Demokritos | Ippokratis Petras Papatriantafyllou ||
 | Ikerlan | Gorka Nieto ||
 | Ikerlan | Idela Iglesia ||
 | Ilabs | Harm Jan Arendshorst ||
