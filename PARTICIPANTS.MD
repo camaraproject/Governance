@@ -316,6 +316,7 @@
 | Ericsson | Alok D. Gupta ||
 | Ericsson | Amardeep A. Kumar ||
 | Ericsson | Andrew Pratt ||
+| Ericsson | (Andrew) Sungwoon Song ||
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Barath K. ||
 | Ericsson | Bart van Kaathoven ||
@@ -816,6 +817,7 @@
 | Sakon | Chris Simandl ||
 | Sakon | Dan Hughes ||
 | Salesforce | Douglas Vieira e Silva ||
+| SambaNova Systems | Abhi Ingle ||
 | Samsung | Seonyoung Park (Shannon) ||
 | Scenera | Andrew Wajs ||
 | Scenera | Chien Lim ||
@@ -876,6 +878,7 @@
 | Starhub | Vanitha Ramaswami ||
 | Startelelogic | Umesh Pande ||
 | STC | Albaraa A. Bajnaid ||
+| STC | Ameer Shohail L ||
 | STC | Fahad Tanwir ||
 | STC | Mohammed A. Adlani ||
 | STC | Naeem Ur Rehman ||
@@ -1168,14 +1171,11 @@
 | ZTE | Wang Changjin ||
 |  | 18910193721 ||
 |  | A. E. Naderi ||
-|  | Abhi Ingle ||
 |  | Abrar Sadd ||
 |  | Ahmed Mohammed ||
 |  | Akell Wal ||
 |  | Akintun Desemiu ||
-|  | Ameer Shohail ||
 |  | Amir Archi ||
-|  | Andrew Sungwoon Song ||
 |  | Arsema Solomon ||
 |  | Ayo Mikun A. ||
 |  | Basit Tanveer ||
