@@ -1024,6 +1024,7 @@
 | TMT Analysis UK | Matthew Hornsey ||
 | TMT Analysis UK | Neil Downing ||
 | Totogi | Ailton Santana ||
+| TransUnion | Gaurav Sharma ||
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
 | Turk Telekomünikasyon A.Ş. | Firat Nergiz ||
