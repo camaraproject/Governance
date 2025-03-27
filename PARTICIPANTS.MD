@@ -970,7 +970,6 @@
 | Telefonica | Laura Lacarra Arcos ||
 | Telefonica | Laura Martin Maldonado Practicas ||
 | Telefonica | Maxim Chizhov ||
-| Telefonica | Pablo Iglesias Sanuy ||
 | Telefonica | Patricia Serrano Gonzalez ||
 | Telefonica | Pedro Diez Garcia ||
 | Telefonica | Pedro Jose Gutierrez Rodriguez ||
