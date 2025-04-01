@@ -602,6 +602,7 @@
 | LiveU | Baruch Altman ||
 | Locance | Mario Proietti ||
 | Locationguru | Ahmed Shaheer ||
+| Locationguru | Amol Ghugre ||
 | Lotusflare | Eric Morhenn ||
 | Lotusflare | Michael Gracias ||
 | Lytn | Etienne J. Coulon ||
