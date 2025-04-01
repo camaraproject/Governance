@@ -900,7 +900,6 @@
 | T-Mobile US | Luis Eduardo Colon ||
 | T-Mobile US | Lyle Bertz ||
 | T-Mobile US | Mark Bales ||
-| T-Mobile US | Marouane Balmakhtar ||
 | T-Mobile US | Mayank Bhutani ||
 | T-Mobile US | Mike Engan ||
 | T-Mobile US | Murat/Galip Karabulut ||
@@ -908,7 +907,6 @@
 | T-Mobile US | Poornima Magadevan ||
 | T-Mobile US | Ron Marquardt ||
 | T-Mobile US | Srujana Punyapu ||
-| T-Mobile US | Stephen Compston ||
 | Tango Networks | Gavin Sweet ||
 | Tannera | Goran Licanin ||
 | Tata Communications | Mohamed Salah Sahli ||
