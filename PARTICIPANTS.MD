@@ -174,6 +174,7 @@
 | China Telecom | Moyuan Sun ||
 | China Telecom | Pan By ||
 | China Telecom | V. Lieh Gd ||
+| China Telecom | Wang L. ||
 | China Telecom | Xianyang Zhang ||
 | China Unicom | D. S. Wang ||
 | China Unicom | Fan Yang ||
