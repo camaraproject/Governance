@@ -769,6 +769,7 @@
 | ORANGE | Olivier Mathieu ||
 | ORANGE | Patrice Conil ||
 | ORANGE | Sebastian Dewet ||
+| ORANGE | Stephane Guelec ||
 | ORANGE | Sylvain Morel ||
 | ORANGE Caraibe | Renaud Jarnier ||
 | Oredoo | Ilham Arief Bachtiar ||
