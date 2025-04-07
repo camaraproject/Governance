@@ -24,6 +24,7 @@
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
 | Aegis Mobile | Don Holloway ||
+| AI Asension | Gary Clift ||
 | Airtel India | Hrushikesh Reddy Yelampalli ||
 | Airtel India | Ramit Chawla ||
 | Airtime Rewards | Adam Ward ||
