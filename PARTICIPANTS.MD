@@ -612,7 +612,6 @@
 | Madison | Alejandro Alfonso Fernandez ||
 | Madison | Victor Javier Quirog ||
 | Manual da Web | Alex ||
-| Marple | Andrea ||
 | Masmovil | Maria Segundo Romero ||
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
