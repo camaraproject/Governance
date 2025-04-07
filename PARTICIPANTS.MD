@@ -53,6 +53,7 @@
 | Apple | Samy Touati ||
 | Argela | Hakki Toran ||
 | Argela | Ismail Bayraktar ||
+| ARPU Plus | Ahmed Serag ||
 | Asiainfo | Liz W. ||
 | Asiainfo | Zhang L. H. ||
 | AT&T | Andy Fuller ||
