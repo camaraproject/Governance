@@ -115,7 +115,6 @@
 | Brahmayasa | Rony Apung ||
 | BridgeAlliance | Achuth Pai ||
 | BridgeAlliance | Ken Wee ||
-| Brillio | Kishore Vutukuri ||
 | British Telecom | Abhijit Dasgupta ||
 | British Telecom | Matt Reynolds ||
 | British Telecom | Mikhilv Sanghvi ||
@@ -488,7 +487,6 @@
 | Ilabs | Harm Jan Arendshorst ||
 | Incognito | Jhuli Takahara ||
 | Indykite | Marek Detko ||
-| Indykite | Marius Bakkeli ||
 | Indykite | Sebastian Drees ||
 | Infinite Computer Solutions (India) Limited | Arun Konathala ||
 | Infobip | Emina Sikira ||
