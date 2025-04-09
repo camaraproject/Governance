@@ -540,7 +540,6 @@
 | JCdrawn Mobile co. ltd. | Joshua Peng ||
 | JCdrawn Mobile co. ltd. | Wu Timothy ||
 | JT Global | Henry Howe ||
-| JT Global | Rupert Goldie ||
 | Jukshio | Kishore Rajasekharuni ||
 | Juniper | Sukhdev Kapur ||
 | KDDI | Brian Vaughn ||
