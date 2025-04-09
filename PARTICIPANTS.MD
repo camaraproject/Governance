@@ -947,6 +947,7 @@
 | Telefonica | Alvaro Fernandez Garrido ||
 | Telefonica | ANDRES EDERRA FERNANDEZ ||
 | Telefonica | Antonio Medina Martin ||
+| Telefonica | Carlos Romero González ||
 | Telefonica | Clara Serrano Solsona ||
 | Telefonica | Cristina Santana Casillas ||
 | Telefonica | David Del Val ||
