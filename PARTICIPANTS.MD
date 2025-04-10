@@ -184,6 +184,7 @@
 | China Unicom | Guo J. ||
 | China Unicom | Jing Hao ||
 | China Unicom | Shuanghe Dong ||
+| China Unicom | Xiao Dr ||
 | Chunghwa Telecom | Guang-Han Ma ||
 | Chunghwa Telecom | J. H. C. ||
 | Chunghwa Telecom | MingHsun Lee ||
