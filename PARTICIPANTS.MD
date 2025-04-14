@@ -113,6 +113,8 @@
 | Birmingham City University | Muhammad Ajmal Azad ||
 | Blackspot Networks | Craig Dalkin ||
 | Blue Mobile Limited | Caleb Rukundo ||
+| Boku | Warren Prasad ||
+| Bouygues Telecom | Walid-Oualid Saddi ||
 | Brahmayasa | Rony Apung ||
 | BridgeAlliance | Achuth Pai ||
 | BridgeAlliance | Ken Wee ||
@@ -146,6 +148,7 @@
 | Capgemini | Deepak A. Gunjal ||
 | Capgemini | Vishal Vasantrao Varvate ||
 | Capital One | David E. Weekly ||
+| Carleton University - Internet of Things Lab | Youcef Kardjadja ||
 | Cell C | Sibanye Bukani ||
 | Celo | Bhavishya Kanjhan ||
 | Celo | Rene Reinsberg ||
@@ -361,6 +364,7 @@
 | Ericsson | Rammohan Gopalan ||
 | Ericsson | Ramy Maher Moussa ||
 | Ericsson | Sarmad Nafees ||
+| Ericsson | Sathyabharath Reddy ||
 | Ericsson | Stefanos Boukouvalas ||
 | Ericsson | Steven Deskovic ||
 | Ericsson | Subhashith T. K. ||
@@ -662,6 +666,7 @@
 | Mobi2buy | Fabio Copello ||
 | Mobi2buy | Thiago Taranto ||
 | Mobily | Mohamed Hassan Taj ||
+| Motive | Thomas Hsu ||
 | Movilgate | Javier De Luca ||
 | Movilgate | Mario Fernando Toro ||
 | MobiMESH inPiazza | Emmanuele Benedetto ||
@@ -719,6 +724,7 @@
 | Nokia | Tanja de Groot ||
 | Nokia | Uwe Rauschenbach ||
 | Nokia | William Stanley ||
+| Nokia | Yashin Mahabir ||
 | Nokia | Yatin Dharamshi ||
 | Nokia | Zoltan Olah ||
 | Nokia Bell Labs | Bessem Sayadi ||
@@ -808,6 +814,7 @@
 | Quorus | Bert van Ael ||
 | Qwilt | Yoav Gressel ||
 | Racom | Martin Vystrcil ||
+| RADCOM | Tomer Ilan ||
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
 | Radisys | Kiran Bharadwaj Vedula ||
@@ -1184,6 +1191,7 @@
 | Xalyocom | Carlo ||
 | Xecurity Pulse | Taha Sajid ||
 | YBVR | Goetz Kursawe ||
+| You.com | Vishal Makhijani ||
 | Zain | Devajeet Datta ||
 | Zignos | Carlos ||
 | ZTE | Hans Neff ||
@@ -1241,7 +1249,6 @@
 |  | Rod Scw ||
 |  | Sangramra Jekakade ||
 |  | Santosh Singh ||
-|  | Sathyabharath Reddy ||
 |  | Sativarios ||
 |  | Sferran Learn ||
 |  | Shao Long Chou ||
@@ -1250,17 +1257,9 @@
 |  | Sridhar Paiyya ||
 |  | Sunil Jain ||
 |  | Szha0138monash ||
-|  | Tom Hsu ||
-|  | Tomer Ilan ||
 |  | Tousif Ahmed ||
 |  | Useris Jithin ||
-|  | Vishal Makhijani ||
-|  | Walid Saddi ||
-|  | Warren Prasad ||
 |  | Wen Nemenzo ||
-|  | Y. Mahabir ||
-|  | Youcef Kardjadja ||
 |  | Zach Callahan ||
 |  | Zahraniak M. ||
-|  | Zholdassov Nurd ||
 |  | Zietzpl ||
