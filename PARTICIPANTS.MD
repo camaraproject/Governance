@@ -210,6 +210,7 @@
 | CM | Bas Gijzen ||
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
+| Cognizant | Jayaram Amudala ||
 | Cognizant | Karthikraj Rangaraj ||
 | Cognizant | Manish Jain ||
 | Cognizant | Siddharth Prakash Khatri ||
@@ -396,6 +397,7 @@
 | Global Logic | Umesh Kumar ||
 | Global Message Service | Elisa Cuko ||
 | Global Message Service | Elliot Rose ||
+| Glouu Technologies | José Emmanuel Arellano Bravo ||
 | GMMS | Arpit Kumar ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio Conte ||
@@ -516,6 +518,7 @@
 | Infosys | Shiv Prakash Ojha ||
 | Infosys | Varun Pandhi ||
 | Infosys | Vijay Murthy ||
+| IALindblad.com | Ingemar Lindblad ||
 | Inovacaobrain | LUCAS SLEYDER MACHADO DICENCIO ||
 | Institute for Infocomm Research | Gary Lee ||
 | Intel | (Fran)Cesc Guim ||
@@ -694,6 +697,7 @@
 | Nokia | Gabor Somogyi ||
 | Nokia | Gaurav Agarwal ||
 | Nokia | Gergely Csatari ||
+| Nokia | Gul Waqar Khan ||
 | Nokia | Javier Ger ||
 | Nokia | Jonathan Kline ||
 | Nokia | Jos George ||
@@ -966,6 +970,7 @@
 | Telefonica | Fernando Guillot ||
 | Telefonica | Fernando Prado Cabrillo ||
 | Telefonica | Ignacio Dominguez Martinez-Casanueva ||
+| Telefonica | Iván Izaguirre ||
 | Telefonica | Javier Carro Calabor ||
 | Telefonica | Javier Ferreiro Garcia Jimenez ||
 | Telefonica | Javier Villa Labarra ||
@@ -1008,7 +1013,9 @@
 | TELUS | Theohar Konomi ||
 | TesTime Limited  | Eleph Kwong ||
 | The Leading Path | Daniel Kibler ||
+| Three UK | Jason Tesh ||
 | Thrustvector | Doug Eng ||
+| Tietoevry | Jolly Jae Ompod ||
 | TIM | Andrea Calvi ||
 | TIM | Antonio Varvara ||
 | TIM | Daniele Franceschini ||
@@ -1204,18 +1211,11 @@
 |  | FBI Chamber 12 ||
 |  | Feed C ||
 |  | Gerasimo Spapd ||
-|  | Gulwaqar Khan ||
 |  | Har Shamore ||
 |  | Henry Yang ||
 |  | Hez Hye ||
-|  | Ingemar Lindblad ||
-|  | Ivanizag ||
 |  | Jaapie Krekel ||
-|  | Jason Tesh ||
 |  | Jatin Sharma ||
-|  | Jayaram Amudala ||
-|  | Jolly Jae Ompod ||
-|  | José Emmanuel Arellano Bravo ||
 |  | Juan Her ||
 |  | Juanito Excutia ||
 |  | Kshahabrnd ||
