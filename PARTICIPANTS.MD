@@ -549,7 +549,8 @@
 | JCdrawn Mobile co. ltd. | Wu Timothy ||
 | JT Global | Henry Howe ||
 | Jukshio | Kishore Rajasekharuni ||
-| Juniper | Sukhdev Kapur ||
+| Juniper Networks | Sabir Bouloumi ||
+| Juniper Networks | Sukhdev Kapur ||
 | KDDI | Brian Vaughn ||
 | KDDI | K. C. Yamamoto ||
 | KDDI | Keichi Okonogi ||
@@ -1238,7 +1239,6 @@
 |  | Rahul Panwar ||
 |  | Ram Ramanathan ||
 |  | Rod Scw ||
-|  | Sabir Bouloumi ||
 |  | Sangramra Jekakade ||
 |  | Santosh Singh ||
 |  | Sathyabharath Reddy ||
