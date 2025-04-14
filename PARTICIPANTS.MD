@@ -23,6 +23,7 @@
 | Accenture | Mohamed E. Ali ||
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
+| ActiveCampaign | David Galante ||
 | Aegis Mobile | Don Holloway ||
 | AI Asension | Gary Clift ||
 | Airtel India | Hrushikesh Reddy Yelampalli ||
@@ -364,6 +365,7 @@
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
 | Ericsson | Vikas Singhal ||
+| Ethio telecom | Arsema Solomon ||
 | Etiya | Serafettin Acir ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
@@ -577,6 +579,7 @@
 | Latence Tech | Benoit Gendron ||
 | Latro | Shafiq Alassi ||
 | LCN | Rathnakumar Kayyar ||
+| Lebara | Basit Tanveer ||
 | Lenovo | Apostolis Salkintzis ||
 | Lenovo | Nick Petropouleas ||
 | LFOD | Christopher Garlick ||
@@ -655,6 +658,7 @@
 | Mobily | Mohamed Hassan Taj ||
 | Movilgate | Javier De Luca ||
 | Movilgate | Mario Fernando Toro ||
+| MobiMESH inPiazza | Emmanuele Benedetto ||
 | MTN Group South Africa | Krishna Venkatachalam ||
 | MTN Group South Africa | Sanjay Chaurasia ||
 | MTN Group South Africa | Waseem Amra ||
@@ -784,6 +788,8 @@
 | PLDT | Renelle John C. Magahis (Nel) ||
 | Plekton Labs | Wahid Mohammad ||
 | Prodapt | Carlos Portela ||
+| Productive Call Assistant | Enlai Chu ||
+| Proprietor | D. S. Rao ||
 | Proximus | Geoffrey Cristallo ||
 | Proximus | Ivan Parvais ||
 | Pryvx | Jayesh Kenaudekar ||
@@ -1181,25 +1187,19 @@
 |  | Akell Wal ||
 |  | Akintun Desemiu ||
 |  | Amir Archi ||
-|  | Arsema Solomon ||
 |  | Ayo Mikun A. ||
-|  | Basit Tanveer ||
 |  | Bien Uet ||
 |  | Boudane ||
 |  | Carlos Vazbagper ||
 |  | cmti CA ||
-|  | Cormachegarty ||
+|  | Cormac Hegarty ||
 |  | Cristina Martinez ||
 |  | Cyndi ||
-|  | D S Rao ||
 |  | D. Tran ||
 |  | Dapsdn ||
 |  | Dat ||
-|  | David Galante ||
 |  | Deepankar ||
 |  | Elena Chernysh ||
-|  | Emmanuele Benedetto ||
-|  | Enlai Chu ||
 |  | Ersa Sandberg ||
 |  | FBI Chamber 12 ||
 |  | Feed C ||
