@@ -208,6 +208,7 @@
 | Cloudonix | Eric Klein ||
 | Cloudtern | Yves Basquet ||
 | CM | Bas Gijzen ||
+| CMC Global Company Limited | Lai Minh Ha (Harry) ||
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
 | Cognizant | Jayaram Amudala ||
@@ -611,6 +612,7 @@
 | Locance | Mario Proietti ||
 | Locationguru | Ahmed Shaheer ||
 | Locationguru | Amol Ghugre ||
+| Lockheed Martin | Mark Alexander Donaghey ||
 | Lotusflare | Eric Morhenn ||
 | Lotusflare | Michael Gracias ||
 | Lytn | Etienne J. Coulon ||
@@ -1103,6 +1105,7 @@
 | Vodafone | Antonious G. Shenouda ||
 | Vodafone | Benedikt Blome ||
 | Vodafone | Bernardo Bezerra ||
+| Vodafone | Carlos Miguel Machado ||
 | Vodafone | Cetin Alpaycetin ||
 | Vodafone | David Frankland ||
 | Vodafone | Edon Ophir ||
@@ -1220,14 +1223,11 @@
 |  | Juanito Excutia ||
 |  | Kshahabrnd ||
 |  | Kuldeep Kumar ||
-|  | Laiminh Ha ||
 |  | Lokesh Negi ||
 |  | M. Castrillo ||
 |  | Mahesh B. ||
 |  | Malone Amber ||
-|  | Mark Adonaghey ||
 |  | Mea Hus ||
-|  | Miguel Machado ||
 |  | Ngugi Kariukid ||
 |  | Notty Able ||
 |  | P. Das ||
