@@ -933,6 +933,7 @@
 | Tecnotree | Chuninda Mittal ||
 | Tecnotree | Shanu Swetank ||
 | Telchemy | Anthony Caiozzo ||
+| TelcoDR | Nigel Back ||
 | Tele 2 | Angel Toribio ||
 | Tele 2 | Nurdaulet Zholdassov ||
 | Telecom Argentina | Eduardo Panciera ||
