@@ -480,6 +480,7 @@
 | I2Cat | Reza Mosahebfard ||
 | I2Cat | Sergio Giménez Antón ||
 | iBasis | Nicola Tamma ||
+| iBasis | Ron Bonnici ||
 | IBM | Jason Hunt ||
 | IBM | Leandro Sosa ||
 | IBM | Pablo Kahale ||
