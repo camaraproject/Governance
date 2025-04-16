@@ -198,9 +198,9 @@
 | Cisco | Pravin Ajagekar ||
 | Cisco | Ravi Guntupalli ||
 | Cisco | Ravi Shekhar ||
-| Citictel | Alexander Lau ||
-| Citictel | Gabriel Shui ||
-| Citictel | K. P. Yau ||
+| Citic Telecommunication | Alexander Lau ||
+| Citic Telecommunication | Gabriel Shui ||
+| Citic Telecommunication | Ka Po Yau ||
 | Citymesh | Tom Collins ||
 | Clap-n-Clank | Tsuyoshi Takakura ||
 | Claro | João Del Nero ||
