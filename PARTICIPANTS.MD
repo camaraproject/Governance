@@ -242,7 +242,7 @@
 | CTHINGS | Shreyas Vinod ||
 | Cubic Telekom | Andre Schlufter ||
 | D2Tech | Richard Chen ||
-| Datacurve | Aman Johar ||
+| Datacurve | Amanjyot S. Johar ||
 | Defne | Erhan Ermisoglu ||
 | Defne | Giray Arat geb. Erkan ||
 | Dell | Mihai Lazar ||
