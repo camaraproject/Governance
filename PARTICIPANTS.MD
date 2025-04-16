@@ -173,6 +173,7 @@
 | China Mobile | Ruqian Zhang ||
 | China Mobile | Wang Ruo Bei ||
 | China Mobile | Xiu Dushen ||
+| China Mobile | Yading Fang ||
 | China Mobile | Zheng Hao Wl ||
 | China Telecom | Chen Fr. ||
 | China Telecom | Chen Z. ||
