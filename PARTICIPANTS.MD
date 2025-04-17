@@ -286,7 +286,6 @@
 | Digitalvirgo | Luis Miguel Gracia Duarte ||
 | Dimetor | Thomas Neubauer ||
 | Dimetor | Thomas Wana ||
-| Ding | Matias ||
 | Dipnet LLC USA | Nilesh Parikh ||
 | Dish | Jingyi Zhou ||
 | Dish | Jinsook Ryu ||
@@ -802,6 +801,7 @@
 | Phronesis | Alex Ferreira ||
 | PLDT | Renelle John C. Magahis (Nel) ||
 | Plekton Labs | Wahid Mohammad ||
+| Prelude | Matias Berny ||
 | Prodapt | Carlos Portela ||
 | Productive Call Assistant | Enlai Chu ||
 | Proprietor | D. S. Rao ||
