@@ -385,7 +385,7 @@
 | Flying River | Gareth Hewlett ||
 | Foo | Ziad Hawwa ||
 | Freenet | Miguel Angelo Fernandez Iglesias ||
-| Fujitsu | Kazu Sakumoto ||
+| Fujitsu | Kazunori Sakumoto ||
 | Fujitsu | Nishant Tiwari ||
 | Fujitsu | Tetsuya Hasegawa ||
 | FutureConnections | Sergio Carrillo ||
