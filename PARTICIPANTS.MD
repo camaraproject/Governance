@@ -471,7 +471,7 @@
 | Huawei | Walter Zielinski ||
 | Huawei | Wang Jia (Albert) ||
 | Huawei | Wu Ning (Alex) ||
-| Huawei | Yulin Fengyulin (Roger) ||
+| Huawei | Yulin Feng (Roger) ||
 | Huawei | Zhilong Zheng (Bryant) ||
 | Hutchison | Alessio Cervone ||
 | Hutchison | Mus Dumenci ||
