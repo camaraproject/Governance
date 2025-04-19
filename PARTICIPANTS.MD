@@ -383,6 +383,7 @@
 | FarEasTone Telecom | Meytsai ||
 | Fido | Francesco Panina ||
 | Flying River | Gareth Hewlett ||
+| Flyp | Kyle Warnsley ||
 | Foo | Ziad Hawwa ||
 | Freenet | Miguel Angelo Fernandez Iglesias ||
 | Fujitsu | Kazunori Sakumoto ||
@@ -392,7 +393,6 @@
 | Gadgetspace | K. Todd Ashworth ||
 | Gapask | Rajesh Murthy ||
 | GCI | Scott A. Griffith ||
-| Getflyp | Kyle Warnsley ||
 | GIP | Gvidas Glebas ||
 | Glide Identity | Ortal Tubul ||
 | Global Logic | Gurpreet Singh Matharu ||
