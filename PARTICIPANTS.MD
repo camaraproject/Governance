@@ -454,7 +454,6 @@
 | HPE | Soumit Mukherjee ||
 | Hrvatski Telekom | Zlatka Milic ||
 | hSenid Mobile Solutions Singapore PTE LTD | Amith Lokugamage || 
-| Huawei | Alex Wuning ||
 | Huawei | Andrew Zheng ||
 | Huawei | Chuanyu Chen ||
 | Huawei | Hao Jing ||
@@ -471,6 +470,7 @@
 | Huawei | Sword Lijian ||
 | Huawei | Walter Zielinski ||
 | Huawei | Wang Jia (Albert) ||
+| Huawei | Wu Ning (Alex) ||
 | Huawei | Yulin Fengyulin (Roger) ||
 | Huawei | Zhilong Zheng (Bryant) ||
 | Hutchison | Alessio Cervone ||
