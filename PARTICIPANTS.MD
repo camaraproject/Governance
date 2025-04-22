@@ -496,7 +496,7 @@
 | IIT Demokritos | Ilias Alexandropoulos ||
 | IIT Demokritos | Ippokratis Petras Papatriantafyllou ||
 | Ikerlan | Gorka Nieto ||
-| Ikerlan | Idela Iglesia ||
+| Ikerlan | Idoia de la Iglesia ||
 | Ilabs | Harm Jan Arendshorst ||
 | Incognito | Jhuli Takahara ||
 | Indykite | Marek Detko ||
