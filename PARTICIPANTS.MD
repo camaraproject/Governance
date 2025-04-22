@@ -162,6 +162,7 @@
 | Charter | Patrick Schultz ||
 | Charter | Sulaksan (Sully) Uruthiramoorthy ||
 | China Mobile | Bao Yuhan ||
+| China Mobile | Fuyin Ming ||
 | China Mobile | Guang Heke ||
 | China Mobile | Hanbai Wang ||
 | China Mobile | Haojie Li ||
