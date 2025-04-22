@@ -493,7 +493,7 @@
 | iHuddl | Stephen Corliss ||
 | IIT Demokritos | Dimitrios Fragkos ||
 | IIT Demokritos | Harilaos Koumaras ||
-| IIT Demokritos | Ilia Salex ||
+| IIT Demokritos | Ilias Alexandropoulos ||
 | IIT Demokritos | Ippokratis Petras Papatriantafyllou ||
 | Ikerlan | Gorka Nieto ||
 | Ikerlan | Idela Iglesia ||
