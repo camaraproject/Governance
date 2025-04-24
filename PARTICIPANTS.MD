@@ -1053,6 +1053,7 @@
 | TMT Analysis UK | Matthew Hornsey ||
 | TMT Analysis UK | Neil Downing ||
 | Totogi | Ailton Santana ||
+| Toyota Europe | Aeneas Rus Lin ||
 | TransUnion | Gaurav Sharma ||
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
