@@ -280,6 +280,7 @@
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
+| Deutsche Telekom AG | Zofia Fratczak ||
 | Dhiraagu | Ibrahim Yasir ||
 | Digibee | Vitor Sousa ||
 | Digicel Group | Miguel Calvo Vervaet ||
