@@ -24,6 +24,7 @@
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
 | ActiveCampaign | David Galante ||
+| Aduna | Courtney Latta ||
 | Aegis Mobile | Don Holloway ||
 | AI Asension | Gary Clift ||
 | Airtel India | Hrushikesh Reddy Yelampalli ||
