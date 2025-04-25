@@ -482,6 +482,7 @@
 | Hutchison | Stefano Falsetto ||
 | I2Cat | Reza Mosahebfard ||
 | I2Cat | Sergio Giménez Antón ||
+| IamCrypto | Yevhen Barbarchuk ||
 | iBasis | Nicola Tamma ||
 | iBasis | Ron Bonnici ||
 | IBM | Jason Hunt ||
