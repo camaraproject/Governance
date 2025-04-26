@@ -521,7 +521,7 @@
 | Infosys | Abhisek Das ||
 | Infosys | Akash Tripathi ||
 | Infosys | Ankur Goyal ||
-| Infosys | Arun M. ||
+| Infosys | Arun Gopalan Muralidhara ||
 | Infosys | Bishnu Prasad Panda ||
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
