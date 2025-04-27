@@ -689,7 +689,7 @@
 | Nearby Computing | Monika Louize Valdez ||
 | Nearby Computing | Nicola Cadenelli ||
 | Nearby Computing | Oscar Trullols-Cruces ||
-| Nearby Computing | Sergio Alonso ||
+| Nearby Computing | Sergi Alonso ||
 | NEC | Neeraj Mehta ||
 | Net Check GmbH | Sanjeev Shankar ||
 | Netcracker | Manoj K. Nair ||
