@@ -891,10 +891,10 @@
 | Sloan Staffing Solutions | Chris Newman ||
 | SMS Highway | John Murtagh ||
 | Sofrecom | Walid Trabelsi ||
+| Softbank | Ayaka Noda ||
 | Softbank | Kazumasa Yazawa ||
 | Softbank | Mai Hashimoto ||
 | Softbank | Naoto Takasu ||
-| Softbank | Noda Ayaka ||
 | Softbank | Toru Kikuchi ||
 | Soprano Design | Andrew Fry ||
 | Spry Fox Networks | Jignesh Sorathia ||
