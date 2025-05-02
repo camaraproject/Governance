@@ -938,6 +938,7 @@
 | T-Mobile US | Ron Marquardt ||
 | T-Mobile US | Srujana Punyapu ||
 | Tango Networks | Gavin Sweet ||
+| Tanla | Neeraj Dahiya ||
 | Tannera | Goran Licanin ||
 | Tata Communications | Mohamed Salah Sahli ||
 | Tata Communications | Timir Premjee ||
