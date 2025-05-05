@@ -1005,7 +1005,7 @@
 | Telefonica | Patricia Serrano Gonzalez ||
 | Telefonica | Pedro Diez Garcia ||
 | Telefonica | Pedro Jose Gutierrez Rodriguez ||
-| Telefonica | Raul Barranque Rosimon ||
+| Telefonica | Raul Barranquero Simón ||
 | Telefonica | Ricardo Serrano Gutierrez ||
 | Telefonica | Rodrigo Partearroyo Gonzalez ||
 | Telefonica | Ruben Barrado Gonzalez ||
