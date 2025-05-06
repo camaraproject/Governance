@@ -528,6 +528,7 @@
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Praveen Kumar Kalapatapu ||
 | Infosys | Shiv Prakash Ojha ||
+| Infosys | Suman Sarkar ||
 | Infosys | Varun Pandhi ||
 | Infosys | Vijay Murthy ||
 | IALindblad.com | Ingemar Lindblad ||
