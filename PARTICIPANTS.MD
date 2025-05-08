@@ -1199,7 +1199,7 @@
 | X Flow Software Technology LLC | Ayesha Ayub ||
 | X Flow Software Technology LLC | Dario Sabella ||
 | X Flow Software Technology LLC | Mubeena Ishaq ||
-| X Flow Software Technology LLC | Usman Sharif ||
+| X Flow Software Technology LLC | Muhammad Usman Sharif ||
 | Xalyocom | Carlo ||
 | Xecurity Pulse | Taha Sajid ||
 | YBVR | Goetz Kursawe ||
