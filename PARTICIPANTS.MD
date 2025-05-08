@@ -74,7 +74,6 @@
 | AT&T | Wiley C. Wilkins ||
 | AT&T Mexico | JUAN ZITLALPOPOCA BADILLO ||
 | Atrinet | Yoav Segman ||
-| AWS | Chivas Nambiar ||
 | AWS | Ishwar Parulkar ||
 | AWS | Prateek Shahane ||
 | AWS | Sankar Panneerselvam ||
@@ -193,6 +192,7 @@
 | China Unicom | Gao Chen ||
 | China Unicom | Guo J. ||
 | China Unicom | Jing Hao ||
+| China Unicom | Liu Jh ||
 | China Unicom | Shuanghe Dong ||
 | China Unicom | Xiao Dr ||
 | Chunghwa Telecom | Guang-Han Ma ||
@@ -526,6 +526,7 @@
 | Infosys | Bishnu Prasad Panda ||
 | Infosys | Chintan Lodariya ||
 | Infosys | Gnanapriya Chidambaranathan ||
+| Infosys | Hemanta Gogoi ||
 | Infosys | Praveen Kumar Kalapatapu ||
 | Infosys | Shiv Prakash Ojha ||
 | Infosys | Suman Sarkar ||
@@ -989,7 +990,6 @@
 | Telefonica | Diego R. Lopez ||
 | Telefonica | Fernando Guillot ||
 | Telefonica | Fernando Prado Cabrillo ||
-| Telefonica | Ignacio Dominguez Martinez-Casanueva ||
 | Telefonica | Iván Izaguirre ||
 | Telefonica | Javier Carro Calabor ||
 | Telefonica | Javier Ferreiro Garcia Jimenez ||
@@ -1079,6 +1079,7 @@
 | Universida de Vigo | Alberto Estévez Caldas ||
 | Universida de Vigo | Rubén Pérez Vaz ||
 | Universitade de Aveiro | Sousa Bento ||
+| Universidade Federal de Campina Grande | Higor Dantas ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
 | University of Wuhan | Wrb Math Cs ||
@@ -1199,6 +1200,7 @@
 | X Flow Software Technology LLC | Ayesha Ayub ||
 | X Flow Software Technology LLC | Dario Sabella ||
 | X Flow Software Technology LLC | Mubeena Ishaq ||
+| X Flow Software Technology LLC | Usman Sharif ||
 | Xalyocom | Carlo ||
 | Xecurity Pulse | Taha Sajid ||
 | YBVR | Goetz Kursawe ||
