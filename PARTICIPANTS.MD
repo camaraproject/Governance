@@ -739,7 +739,6 @@
 | Nokia Bell Labs | Bessem Sayadi ||
 | Noname Security | Ides Vanneuville ||
 | Nonvoice | Frederic Thuard ||
-| Nos | Catarina Raquel Pereira ||
 | Nos | Nuno Erodrigues ||
 | Nos | Orlando Almeida ||
 | Nos | Pedro Miguel Hilario ||
