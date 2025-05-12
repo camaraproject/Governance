@@ -457,7 +457,8 @@
 | HPE | Paolo Ceccherini ||
 | HPE | Soumit Mukherjee ||
 | Hrvatski Telekom | Zlatka Milic ||
-| hSenid Mobile Solutions Singapore PTE LTD | Amith Lokugamage || 
+| hSenid Mobile Solutions Singapore PTE LTD | Amith Lokugamage ||
+| hSenid Mobile Solutions Singapore PTE LTD | Kalana Jayawardane ||
 | Huawei | Andrew Zheng ||
 | Huawei | Chuanyu Chen ||
 | Huawei | Hao Jing ||
