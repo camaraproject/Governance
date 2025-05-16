@@ -272,6 +272,7 @@
 | Deutsche Telekom AG | Nathan Rader ||
 | Deutsche Telekom AG | Noel Wirzius ||
 | Deutsche Telekom AG | Pablo Brito ||
+| Deutsche Telekom AG | Pascal Zietz ||
 | Deutsche Telekom AG | Piotr Wesolowski ||
 | Deutsche Telekom AG | Prashant Goswami ||
 | Deutsche Telekom AG | Rafal Artych ||
@@ -1277,4 +1278,3 @@
 |  | Wen Nemenzo ||
 |  | Zach Callahan ||
 |  | Zahraniak M. ||
-|  | Zietzpl ||
