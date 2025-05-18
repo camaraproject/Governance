@@ -1074,7 +1074,6 @@
 | U2opia | Sarang Jain ||
 | UFG | Rafael Rodrigues Silva ||
 | ultraBASE | Cesar Obach ||
-| ultraTELCO | Vanessa Diaz ||
 | Umniah | Fuad Atallah ||
 | Umniah | Omar Al-ashqar ||
 | Umniah | Tareq Abu Issa ||
@@ -1187,6 +1186,7 @@
 | Whispir | Graham Link ||
 | Whispir | Sharina Rapales ||
 | Whispir | Wayne Lee ||
+| WIM Technologies | Vanessa Diaz ||
 | WINGS ICT Solutions SA | Sokratis Barmpounakis ||
 | Wiocc | Evalyne Ndungu ||
 | Wiocc | Jason Tutty ||
