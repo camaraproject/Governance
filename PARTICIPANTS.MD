@@ -477,6 +477,7 @@
 | Huawei | Walter Zielinski ||
 | Huawei | Wang Jia (Albert) ||
 | Huawei | Wu Ning (Alex) ||
+| Huawei | Yang Xunli ||
 | Huawei | Yulin Feng (Roger) ||
 | Huawei | Zhilong Zheng (Bryant) ||
 | Hutchison | Alessio Cervone ||
@@ -1276,5 +1277,6 @@
 |  | Tousif Ahmed ||
 |  | Useris Jithin ||
 |  | Wen Nemenzo ||
+|  | Z. H. ||
 |  | Zach Callahan ||
 |  | Zahraniak M. ||
