@@ -174,9 +174,9 @@
 | China Mobile | Qian Ze Bin ||
 | China Mobile | Ruqian Zhang ||
 | China Mobile | Wang Ruo Bei ||
+| China Mobile | Wojiao Zheng Hao ||
 | China Mobile | Xiu Dushen ||
 | China Mobile | Yading Fang ||
-| China Mobile | Zheng Hao Wl ||
 | China Telecom | Chen Fr. ||
 | China Telecom | Chen Z. ||
 | China Telecom | Dan Xu ||
@@ -1277,6 +1277,5 @@
 |  | Tousif Ahmed ||
 |  | Useris Jithin ||
 |  | Wen Nemenzo ||
-|  | Z. H. ||
 |  | Zach Callahan ||
 |  | Zahraniak M. ||
