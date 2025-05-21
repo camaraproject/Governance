@@ -265,6 +265,7 @@
 | Deutsche Telekom AG | Felix Dsouza ||
 | Deutsche Telekom AG | Georgios Papadopoulos ||
 | Deutsche Telekom AG | Herbert Damker ||
+| Deutsche Telekom AG | Kanhaiya Sharma ||
 | Deutsche Telekom AG | Krzysztof Sielski ||
 | Deutsche Telekom AG | Marian Sciranka ||
 | Deutsche Telekom AG | Markus Kümmerle ||
