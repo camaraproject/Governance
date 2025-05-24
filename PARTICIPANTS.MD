@@ -538,6 +538,7 @@
 | IALindblad.com | Ingemar Lindblad ||
 | Inovacaobrain | LUCAS SLEYDER MACHADO DICENCIO ||
 | Institute for Infocomm Research | Gary Lee ||
+| Instituto Federal da Paraiba | Ruan Delgado Gomes ||
 | Intel | (Fran)Cesc Guim ||
 | Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
@@ -1082,6 +1083,7 @@
 | Universida de Vigo | Alberto Estévez Caldas ||
 | Universida de Vigo | Rubén Pérez Vaz ||
 | Universitade de Aveiro | Sousa Bento ||
+| Universidade Federal de Campina Grande | Filipe José Ferreira de Araújo ||
 | Universidade Federal de Campina Grande | Higor Dantas ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
