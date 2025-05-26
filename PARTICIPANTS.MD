@@ -1085,6 +1085,7 @@
 | Universitade de Aveiro | Sousa Bento ||
 | Universidade Federal de Campina Grande | Filipe José Ferreira de Araújo ||
 | Universidade Federal de Campina Grande | Higor Dantas ||
+| Universidade Federal de Campina Grande | Victor de Sousa Veríssimo ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
 | University of Wuhan | Wrb Math Cs ||
