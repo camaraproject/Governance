@@ -28,6 +28,7 @@
 | Aduna | Courtney Latta ||
 | Aduna | Frederic Carrier ||
 | Aduna | Joakim Uddenfeldt ||
+| Aduna | Patrick Jestin ||
 | Aegis Mobile | Don Holloway ||
 | Airtel India | Hrushikesh Reddy Yelampalli ||
 | Airtel India | Ramit Chawla ||
@@ -364,7 +365,6 @@
 | Ericsson | Miguel A. García-Martin ||
 | Ericsson | Mohamed ElGamal ||
 | Ericsson | Oscar Divorra Escoda ||
-| Ericsson | Patrick Jestin ||
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
 | Ericsson | Rajat Kandoi ||
