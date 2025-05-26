@@ -29,6 +29,7 @@
 | Aduna | Frederic Carrier ||
 | Aduna | Joakim Uddenfeldt ||
 | Aduna | Patrick Jestin ||
+| Aduna | Vikas Singhal ||
 | Aegis Mobile | Don Holloway ||
 | Airtel India | Hrushikesh Reddy Yelampalli ||
 | Airtel India | Ramit Chawla ||
@@ -377,7 +378,6 @@
 | Ericsson | Subhashith T. K. ||
 | Ericsson | Sylvain Gendron ||
 | Ericsson | Thorsten Lohmar ||
-| Ericsson | Vikas Singhal ||
 | Ethio telecom | Arsema Solomon ||
 | Etiya | Serafettin Acir ||
 | Eutelsat | Denis Fauconnier ||
