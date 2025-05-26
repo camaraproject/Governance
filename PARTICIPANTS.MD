@@ -26,6 +26,8 @@
 | ActiveCampaign | David Galante ||
 | Aduna | Alicia Miller ||
 | Aduna | Courtney Latta ||
+| Aduna | Frederic Carrier ||
+| Aduna | Joakim Uddenfeldt ||
 | Aegis Mobile | Don Holloway ||
 | Airtel India | Hrushikesh Reddy Yelampalli ||
 | Airtel India | Ramit Chawla ||
@@ -344,7 +346,6 @@
 | Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
 | Ericsson | Fatih Bastan ||
-| Ericsson | Frederic Carrier ||
 | Ericsson | Gregory Lindner ||
 | Ericsson | Gregory Liokumovich ||
 | Ericsson | Henrik Voigt ||
@@ -353,7 +354,6 @@
 | Ericsson | Jan Friman ||
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
-| Ericsson | Joakim Uddenfeldt ||
 | Ericsson | Kamel Idir ||
 | Ericsson | Kevin Newell ||
 | Ericsson | Kishor Kumar A. ||
