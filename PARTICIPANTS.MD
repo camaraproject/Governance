@@ -24,6 +24,7 @@
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
 | ActiveCampaign | David Galante ||
+| Aduna | Alicia Miller ||
 | Aduna | Courtney Latta ||
 | Aegis Mobile | Don Holloway ||
 | Airtel India | Hrushikesh Reddy Yelampalli ||
@@ -1093,7 +1094,6 @@
 | Upstream Systems | Nikos Fotiou ||
 | Vay | Jesus Gonzalez Tejeria ||
 | Vdotok AB | Zohaib Khan ||
-| Verizon | Alicia Miller ||
 | Verizon | Ankita Kohli ||
 | Verizon | Anna Keramaty ||
 | Verizon | Bjorn Hjelm ||
