@@ -26,6 +26,7 @@
 | ActiveCampaign | David Galante ||
 | Aduna | Alicia Miller ||
 | Aduna | Courtney Latta ||
+| Aduna | Cyndi Lin ||
 | Aduna | Frederic Carrier ||
 | Aduna | Joakim Uddenfeldt ||
 | Aduna | Patrick Jestin ||
@@ -77,6 +78,7 @@
 | AT&T | Shahram Mohajeri ||
 | AT&T | Wiley C. Wilkins ||
 | AT&T Mexico | JUAN ZITLALPOPOCA BADILLO ||
+| Atos | Ayomikun Akinbobola ||
 | Atrinet | Yoav Segman ||
 | AWS | Ishwar Parulkar ||
 | AWS | Prateek Shahane ||
@@ -133,6 +135,7 @@
 | Broadpeak | Christoph Neumann ||
 | Broadpeak | Guillaume Bichot ||
 | Broadpeak | Tuan Tran Thai ||
+| BrokersView | Elena Chernysh ||
 | Bundesnetzagentur | Markus Klein ||
 | Byte | Aaron Paz ||
 | Bytedance | Valme Pozo ||
@@ -150,6 +153,7 @@
 | Cablelabs | Travis Hepworth ||
 | Caliente | Jesus Cozain ||
 | Callsign | Jyotheeswara Malapati ||
+| Canadian Mock Trial Institute | Cmti CA ||
 | Canopus Networks | Arun Vishwanath ||
 | Capgemini | Amit Rustagi ||
 | Capgemini | Deepak A. Gunjal ||
@@ -222,6 +226,7 @@
 | Cloudtern | Yves Basquet ||
 | CM | Bas Gijzen ||
 | CMC Global Company Limited | Lai Minh Ha (Harry) ||
+| CN Telecom | LUIS FERNANDO DEL CANTAO CRUZ ||
 | CodeB | Jussi Makela ||
 | CodeB | Stefan Engelbert ||
 | Cognizant | Jayaram Amudala ||
@@ -299,6 +304,7 @@
 | Dimetor | Thomas Neubauer ||
 | Dimetor | Thomas Wana ||
 | Dipnet LLC USA | Nilesh Parikh ||
+| Dish | Jatin Sharma ||
 | Dish | Jingyi Zhou ||
 | Dish | Jinsook Ryu ||
 | Dish | Media Johnsen ||
@@ -820,6 +826,7 @@
 | Prodapt | Carlos Portela ||
 | Productive Call Assistant | Enlai Chu ||
 | Proprietor | D. S. Rao ||
+| Propshop Real Estate | Kuldeep Kumar ||
 | Proximus | Geoffrey Cristallo ||
 | Proximus | Ivan Parvais ||
 | Pryvx | Jayesh Kenaudekar ||
@@ -1088,6 +1095,7 @@
 | Universitade de Aveiro | Sousa Bento ||
 | Universidade Federal de Campina Grande | Filipe José Ferreira de Araújo ||
 | Universidade Federal de Campina Grande | Higor Dantas ||
+| Universidade Federal de Campina Grande | João Arthur Brunet Monteiro ||
 | Universidade Federal de Campina Grande | Livia Buriti ||
 | Universidade Federal de Campina Grande | Raniel Miranda Dourado ||
 | Universidade Federal de Campina Grande | Victor de Sousa Veríssimo ||
@@ -1229,33 +1237,25 @@
 |  | Ahmed Mohammed ||
 |  | Akell Wal ||
 |  | Akintun Desemiu ||
-|  | Ayo Mikun A. ||
 |  | Bien Uet ||
 |  | Boudane ||
 |  | Carlos Vazbagper ||
-|  | cmti CA ||
 |  | Cormac Hegarty ||
 |  | Cristina Martinez ||
-|  | Cyndi ||
 |  | D. Tran ||
 |  | Dapsdn ||
 |  | Dat ||
 |  | Deepankar ||
-|  | Elena Chernysh ||
 |  | Ersa Sandberg ||
 |  | FBI Chamber 12 ||
-|  | Feed C ||
 |  | Gerasimo Spapd ||
 |  | Har Shamore ||
 |  | Henry Yang ||
 |  | Hez Hye ||
 |  | Jaapie Krekel ||
-|  | Jatin Sharma ||
-|  | Joao Arthur B. M. ||
 |  | Juan Her ||
 |  | Juanito Excutia ||
 |  | Kshahabrnd ||
-|  | Kuldeep Kumar ||
 |  | Lokesh Negi ||
 |  | Lokinder ||
 |  | M. Castrillo ||
