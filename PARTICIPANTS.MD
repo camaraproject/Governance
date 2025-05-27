@@ -37,6 +37,7 @@
 | Airtime Rewards | Adam Ward ||
 | Airtime Rewards | Annika Fuchs ||
 | AIS | Boonchoung Tansuthepverawongse ||
+| AIS | Paramet Kongjaroen ||
 | Akross | Saulo Zimbaro ||
 | Alianza | Dag Peak ||
 | Alicon | Ike Alisson ||
@@ -299,6 +300,7 @@
 | Digibee | Vitor Sousa ||
 | Digicel Group | Miguel Calvo Vervaet ||
 | Digital Nasional | Mandeshpal Singh ||
+| Digital Plus Solutions | Lokesh Negi ||
 | Digitalvirgo | Fran Sanchez Ortega ||
 | Digitalvirgo | Luis Miguel Gracia Duarte ||
 | Dimetor | Thomas Neubauer ||
@@ -842,6 +844,7 @@
 | Radisys | Adnan Saleem ||
 | Radisys | Ashok Rawat ||
 | Radisys | Kiran Bharadwaj Vedula ||
+| Radisys | Mahesh Budavarapu ||
 | Radisys | Tapas Raiguru ||
 | Radisys | Yong Xin ||
 | Raidiam | Lukasz Jaromin ||
@@ -958,6 +961,7 @@
 | Tanla | Neeraj Dahiya ||
 | Tannera | Goran Licanin ||
 | Tata Communications | Mohamed Salah Sahli ||
+| Tata Communications | Sangram Kakade ||
 | Tata Communications | Timir Premjee ||
 | Tata Communications | Vikas Rao ||
 | Tata Elxsi | Ankush Gupta ||
@@ -1226,6 +1230,7 @@
 | YBVR | Goetz Kursawe ||
 | You.com | Vishal Makhijani ||
 | Zain | Devajeet Datta ||
+| Zealogics Inc. | Ramesh P. Sanvatsarkar ||
 | Zignos | Carlos ||
 | ZTE | Hans Neff ||
 | ZTE | Jie Hu ||
@@ -1256,24 +1261,19 @@
 |  | Juan Her ||
 |  | Juanito Excutia ||
 |  | Kshahabrnd ||
-|  | Lokesh Negi ||
 |  | Lokinder ||
 |  | M. Castrillo ||
-|  | Mahesh B. ||
 |  | Malone Amber ||
 |  | Mea Hus ||
 |  | Murat Al Rabasi ||
 |  | Ngugi Kariukid ||
 |  | Notty Able ||
 |  | P. Das ||
-|  | Paramet Prame ||
 |  | Pat Conil ||
 |  | Pedro Juan Lopez Chavez ||
-|  | R. Sanvatsarkar ||
 |  | Rahul Panwar ||
 |  | Ram Ramanathan ||
 |  | Rod Scw ||
-|  | Sangramra Jekakade ||
 |  | Santosh Singh ||
 |  | Sativarios ||
 |  | Sferran Learn ||
