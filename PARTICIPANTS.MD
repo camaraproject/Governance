@@ -116,6 +116,7 @@
 | Bics | Kenneth Hardat ||
 | Birmingham City University | Muhammad Ajmal Azad ||
 | Blackspot Networks | Craig Dalkin ||
+| Blue Arcus Technologies | Abrar Ahmad ||
 | Blue Mobile Limited | Caleb Rukundo ||
 | Boku | Warren Prasad ||
 | Bouygues Telecom | Walid-Oualid Saddi ||
@@ -563,6 +564,7 @@
 | Italtel SAU | Natalia Fernandez de Losada ||
 | ITCenter | Paulo Monteiro ||
 | Itorix | Adeep Tahir ||
+| J. M. Patton Associates | Anthony Mirarchi ||
 | JCdrawn Mobile co. ltd. | Joshua Peng ||
 | JCdrawn Mobile co. ltd. | Wu Timothy ||
 | JT Global | Henry Howe ||
@@ -1089,6 +1091,7 @@
 | Universidade Federal de Campina Grande | Livia Buriti ||
 | Universidade Federal de Campina Grande | Raniel Miranda Dourado ||
 | Universidade Federal de Campina Grande | Victor de Sousa Veríssimo ||
+| University of Iran Science and Technology | Atefe Naderi ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
 | University of Wuhan | Wrb Math Cs ||
@@ -1222,12 +1225,10 @@
 | ZTE | Tu Jia Sun (Jason) ||
 | ZTE | Wang Changjin ||
 |  | 18910193721 ||
-|  | A. E. Naderi ||
-|  | Abrar Sadd ||
+|  | Abdulkareem Al-Zahrani ||
 |  | Ahmed Mohammed ||
 |  | Akell Wal ||
 |  | Akintun Desemiu ||
-|  | Amir Archi ||
 |  | Ayo Mikun A. ||
 |  | Bien Uet ||
 |  | Boudane ||
@@ -1286,4 +1287,3 @@
 |  | Useris Jithin ||
 |  | Wen Nemenzo ||
 |  | Zach Callahan ||
-|  | Zahraniak M. ||
