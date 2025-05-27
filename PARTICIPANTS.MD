@@ -11,6 +11,7 @@
 | A1 | Manfred Moormann ||
 | A1 | Thomas Walzer ||
 | AabVin Solutions | ar Cheem ||
+| ABB | Jithin Kp ||
 | Accenture | Adriano Poloni ||
 | Accenture | Amr Abdel Hamid ||
 | Accenture | Antonella Pantaleone ||
@@ -126,6 +127,7 @@
 | Brahmayasa | Rony Apung ||
 | BridgeAlliance | Achuth Pai ||
 | BridgeAlliance | Ken Wee ||
+| BridgePhase | Zach Callahan ||
 | British Telecom | Abhijit Dasgupta ||
 | British Telecom | Matt Reynolds ||
 | British Telecom | Mikhilv Sanghvi ||
@@ -256,6 +258,7 @@
 | CTHINGS | Arnold Wierzejski ||
 | CTHINGS | Shreyas Vinod ||
 | Cubic Telekom | Andre Schlufter ||
+| CyberinQ | Sunil Jain ||
 | D2Tech | Richard Chen ||
 | Datacurve | Amanjyot S. Johar ||
 | Defne | Erhan Ermisoglu ||
@@ -1281,9 +1284,6 @@
 |  | SKD ||
 |  | Sramal Zamzami ||
 |  | Sridhar Paiyya ||
-|  | Sunil Jain ||
 |  | Szha0138monash ||
 |  | Tousif Ahmed ||
-|  | Useris Jithin ||
 |  | Wen Nemenzo ||
-|  | Zach Callahan ||
