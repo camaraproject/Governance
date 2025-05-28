@@ -1144,6 +1144,7 @@
 | Viavi Solutions | Madhur Mehta ||
 | Viettel | Ductm ||
 | Viettel | Haint ||
+| Viettel | Huynd ||
 | Viettel | Viet Ngo Duc ||
 | Vodacom | Surajj Jaggernath ||
 | Vodafone | Alex Pertwee ||
