@@ -73,7 +73,7 @@ Once an API proposal is approved by the TSC and will be onboarded as a new Sandb
 
 1. **Repository Creation**  
    A dedicated Sandbox API Repository is created for the API under its assigned Sub Project or as an independent Sandbox API Repository. The repository structure shall comply with [CAMARA governance guidelines](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md) and will be derived from the [Template_API_Repository](https://github.com/camaraproject/Template_API_Repository).
-   In case of API enhacement proposals, different options are open to be considered:
+   In case of API enhancement proposals, different options are open to be considered:
    - Existing repository and API scope is modified, e.g. including a new API functionality or a new API endpoint.
    - Existing repository is enhanced with a new API.
    - New sandbox repository is created.
@@ -199,7 +199,7 @@ APIs in the Incubating stage have shown early promise with initial adoption and 
 To move to the Graduated stage, an API shall:
 1. Demonstrate long-terms specification maturity by having participated within two CAMARA release cycles with at least one Stable API version.
 2. Demonstrate wide market adoption across multiple companies or projects, by including APIs which have been deployed and certified within at least one complete market or #n operators across #m markets.
-3. Maintainers of the Incubating Repository apply for Grduation by opening an issue in the API Backlog working group.
+3. Maintainers of the Incubating Repository apply for Graduation by opening an issue in the API Backlog working group.
 4. The API Backlog working group will do a pre-check on behalf of the TSC, which will confirm (or not) the inclusion of the repository as Graduated.
 
 ---
