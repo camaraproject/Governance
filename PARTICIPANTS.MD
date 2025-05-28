@@ -453,6 +453,7 @@
 | GSMA | Zhen Li ||
 | Gwirio | David Roux ||
 | Hansen CX | Brian Cappellani ||
+| Hansen CX | Francisco Costa ||
 | Hawaiian Telecom | Kevin Folan ||
 | HCL | Kuldeep Singhn ||
 | HCL | Norbert Naveen ||
