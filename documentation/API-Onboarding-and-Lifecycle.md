@@ -91,6 +91,65 @@ Once an API proposal is approved by the TSC and will be onboarded as a new Sandb
 
 Progress on these tasks is documented in tracking issues maintained by the API Backlog Working Group.
 
+If an API proposal is approved by the TSC but no onboarding tracker is initiated within two API Backlog WG sessions due to inactivity or missing response from the proposal owner, the proposal may be marked as *Frozen*. See the [Frozen API Proposals](#frozen-api-proposals) section for more information.
+
+
+## Frozen API Proposals
+
+To maintain an efficient and focused agenda during the API Backlog Working Group (WG) sessions, a formal mechanism has been introduced to handle inactive API proposals by assigning them a **"Frozen"** status.
+
+> **Note:** The transition to **Archived Proposal** described below refers specifically to the lifecycle of an API **proposal**, not an **API Repository**. Archived proposals are proposals that never progressed to onboarding or development. In contrast, Archived Repositories are deprecated or obsolete API repositories, as described in the *Archived Stage* section of the lifecycle.
+
+### Proposal Status Lifecycle Summary
+
+| **Status**   | **Description**                                                                 | **Transition Criteria**                                                                                     | **Next Step**                    |
+|--------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------|
+| **Active**   | Proposal is under active discussion, development or onboarding.                 | - API owner attends WG meetings<br>- Recent GitHub activity (comments, PRs, updates)<br>- Onboarding tracker in progress | → Remains Active or → Frozen     |
+| **Frozen**   | Proposal is temporarily inactive but may be reactivated by contributors.        | - No activity in GitHub for **6+ weeks**<br>- API owner absent **2 WG meetings**<br>- Approved by TSC but **no onboarding tracker** after 2 WG sessions | → Reactivated (returns to Active) or → Archived |
+| **Archived** | Proposal has shown no reactivation after an extended frozen period.             | - Frozen for **6+ months**<br>- Inactive for **1 meta-release cycle**<br>- Explicit decision by WG or TSC    | → New proposal required to resume |
+
+### What is a Frozen Proposal?
+
+A proposal is considered *frozen* when it no longer shows signs of active engagement or development by its owner. This mechanism prevents inactive items from blocking discussions while preserving them for future reactivation.
+
+### Criteria for Freezing a Proposal
+
+A proposal may be marked as frozen under any of the following conditions:
+
+- The API Owner is absent from **two consecutive API Backlog WG meetings**.
+- A proposal is **approved by the TSC**, but **no onboarding tracker is created** within two WG sessions due to a lack of follow-up from the owner or external blockers.
+- There is **no activity** on the issue (e.g. no comments, PRs, or updates) for **6 weeks or more**.
+
+### Effects of Freezing
+
+- The GitHub issue will be labeled with `frozen`, in addition to existing labels such as `API Proposal`.
+- Related open or unmerged Pull Requests (PRs) will be closed with reference to the frozen status.
+- The proposal is moved to the “Frozen Proposals” section at the end of WG meeting minutes and excluded from active agenda discussions.
+
+### Reactivating a Frozen Proposal
+
+To reactivate a frozen proposal:
+
+- A contributor must comment on the GitHub issue and explicitly mention the proposal owner.
+- The API Backlog WG must be notified at least **one week before** the meeting agenda is finalized.
+
+Upon reactivation, the proposal will return to the main agenda for discussion.
+
+### Archiving Frozen Proposals
+
+A frozen proposal will be archived if:
+
+- It remains frozen for **over 6 months**, or
+- It spans **one full CAMARA meta-release cycle** without activity.
+
+**Archiving implies:**
+
+- The GitHub issue is closed and removed from the active backlog.
+- The proposal is retained for historical reference but is no longer tracked.
+- To resume progress, a new API proposal must be submitted and discussed from the beginning.
+
+This process ensures that the API backlog reflects active priorities and that WG meeting time is spent on proposals with active contributors.
+
 ## Lifecycle Management of API Repositories
 
 All new APIs begin their journey in a *Sandbox* API repository and evolve through defined lifecycle stages: **Sandbox → Incubating → Graduated (→ Archived)**. This progression ensures clarity on maturity levels, development expectations, and implications for deployment and maintenance.
@@ -172,6 +231,7 @@ The Archived stage is for deprecated or obsolete APIs that are no longer maintai
 - Lack of participation of a Sandbox API repository within two consecutive CAMARA release cycles
 - Lack of participation of an Incubating or Graduated API repository within two consecutive CAMARA release cycle, if there would be changes necessary to stay aligned with the CAMARA Guidelines
 - TSC is in charge of proposing and validating the transition of a repository to a Archived Stage
+- Archived repositories may include proposals that were previously frozen and never progressed to onboarding or implementation.
 
 **Characteristics:**
 - APIs in this stage are retained for historical reference but are not recommended for use.
@@ -212,6 +272,8 @@ The overview list is structured with the following columns:
 | **Latest Release & Date**                      | Information about the latest release version of the API and its release date.                            |
 
 ---
+
+Proposals that have been marked as *Frozen* or *Archived* are excluded from active management and maintenance activities. Only proposals with ongoing contributions or those in active repositories are included in the CAMARA API Overview List and related lifecycle processes.
 
 ## API Deployment
 
