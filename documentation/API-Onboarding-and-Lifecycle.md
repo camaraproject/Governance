@@ -91,7 +91,7 @@ Once an API proposal is approved by the TSC and will be onboarded as a new Sandb
 
 Progress on these tasks is documented in tracking issues maintained by the API Backlog Working Group.
 
-If an API proposal is approved by the TSC but no onboarding tracker is initiated within two API Backlog WG sessions due to inactivity or missing response from the proposal owner, the proposal may be marked as *Frozen*. See the [Frozen API Proposals](#frozen-api-proposals) section for more information.
+If an API proposal is approved by the TSC but no onboarding tracker is initiated within three API Backlog WG sessions due to inactivity or missing response from the proposal owner, the proposal may be marked as *Frozen*. See the [Frozen API Proposals](#frozen-api-proposals) section for more information.
 
 
 ## Frozen API Proposals
@@ -116,8 +116,8 @@ A proposal is considered *frozen* when it no longer shows signs of active engage
 
 A proposal may be marked as frozen under any of the following conditions:
 
-- The API Owner is absent from **two consecutive API Backlog WG meetings**.
-- A proposal is **approved by the TSC**, but **no onboarding tracker is created** within two WG sessions due to a lack of follow-up from the owner or external blockers.
+- The API Owner is absent from **three consecutive API Backlog WG meetings**.
+- A proposal is **approved by the TSC**, but **no onboarding tracker is created** within three WG sessions due to a lack of follow-up from the owner or external blockers.
 - There is **no activity** on the issue (e.g. no comments, PRs, or updates) for **6 weeks or more**.
 
 ### Effects of Freezing
