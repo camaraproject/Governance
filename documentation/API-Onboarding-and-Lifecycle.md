@@ -105,7 +105,7 @@ To maintain an efficient and focused agenda during the API Backlog Working Group
 | **Status**   | **Description**                                                                 | **Transition Criteria**                                                                                     | **Next Step**                    |
 |--------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------|
 | **Active**   | Proposal is under active discussion, development or onboarding.                 | - API owner attends WG meetings<br>- Recent GitHub activity (comments, PRs, updates)<br>- Onboarding tracker in progress | → Remains Active or → Frozen     |
-| **Frozen**   | Proposal is temporarily inactive but may be reactivated by contributors.        | - No activity in GitHub for **6+ weeks**<br>- API owner absent **2 WG meetings**<br>- Approved by TSC but **no onboarding tracker** after 2 WG sessions | → Reactivated (returns to Active) or → Archived |
+| **Frozen**   | Proposal is temporarily inactive but may be reactivated by contributors.        | - No activity in GitHub for **6+ weeks**<br>- API owner absent **3 WG meetings**<br>- Approved by TSC but **no onboarding tracker** after 3 WG sessions | → Reactivated (returns to Active) or → Archived |
 | **Archived** | Proposal has shown no reactivation after an extended frozen period.             | - Frozen for **6+ months**<br>- Inactive for **1 meta-release cycle**<br>- Explicit decision by WG or TSC    | → New proposal required to resume |
 
 ### What is a Frozen Proposal?
