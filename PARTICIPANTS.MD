@@ -12,6 +12,7 @@
 | A1 | Thomas Walzer ||
 | AabVin Solutions | ar Cheem ||
 | ABB | Jithin Kp ||
+| AB Handshake Corporation | Dmitry Sumin ||
 | Accenture | Adriano Poloni ||
 | Accenture | Amr Abdel Hamid ||
 | Accenture | Antonella Pantaleone ||
