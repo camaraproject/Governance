@@ -43,6 +43,7 @@
 | Akross | Saulo Zimbaro ||
 | Alianza | Dag Peak ||
 | Alicon | Ike Alisson ||
+| Almuqueet Systems | Zaffar Owais Andrabi ||
 | Altice Labs | Filipe J. Delgado ||
 | AMANTYA TECHNOLOGIES | Ankur Bharadwaj ||
 | AMANTYA TECHNOLOGIES | Mansi Trivedi ||
@@ -1253,6 +1254,7 @@
 |  | Akintun Desemiu ||
 |  | Bien Uet ||
 |  | Boudane ||
+|  | C. J. ||
 |  | Carlos Vazbagper ||
 |  | Cormac Hegarty ||
 |  | Cristina Martinez ||
