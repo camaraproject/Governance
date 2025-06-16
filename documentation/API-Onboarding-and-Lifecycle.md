@@ -106,7 +106,7 @@ To maintain an efficient and focused agenda during the API Backlog Working Group
 |--------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------|
 | **Active**   | Proposal is under active discussion, development or onboarding.                 | - API owner attends WG meetings<br>- Recent GitHub activity (comments, PRs, updates)<br>- Onboarding tracker in progress | → Remains Active or → Frozen     |
 | **Frozen**   | Proposal is temporarily inactive but may be reactivated by contributors.        | - No activity in GitHub for **6+ weeks**<br>- API owner absent **3 WG meetings**<br>- Approved by TSC but **no onboarding tracker** after 3 WG sessions | → Reactivated (returns to Active) or → Archived |
-| **Archived** | Proposal has shown no reactivation after an extended frozen period.             | - Frozen for **6+ months**<br>- Inactive for **1 meta-release cycle**<br>- Explicit decision by WG or TSC    | → New proposal required to resume |
+| **Archived** | Proposal has shown no reactivation after an extended frozen period. | - Frozen for **two consecutive meta-release cycles**<br>- Explicit decision by WG or TSC | → New proposal required to resume |
 
 ### What is a Frozen Proposal?
 
@@ -138,9 +138,8 @@ Upon reactivation, the proposal will return to the main agenda for discussion.
 ### Archiving Frozen Proposals
 
 A frozen proposal will be archived if:
-
-- It remains frozen for **over 6 months**, or
-- It spans **one full CAMARA meta-release cycle** without activity.
+- It remains frozen and does not show progress across **two consecutive CAMARA meta-release cycles**, or
+- There is an **explicit decision** by the API Backlog WG or the TSC.
 
 **Archiving implies:**
 
