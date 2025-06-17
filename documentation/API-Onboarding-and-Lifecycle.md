@@ -139,8 +139,9 @@ Upon reactivation, the proposal will return to the main agenda for discussion.
 ### Archiving Frozen Proposals
 
 A frozen proposal will be archived if:
-- It remains frozen and does not show progress across **two consecutive CAMARA meta-release cycles**, or
+- It remains in frozen status for more than **6 months**, or
 - There is an **explicit decision** by the API Backlog WG or the TSC.
+
 
 **Archiving implies:**
 
