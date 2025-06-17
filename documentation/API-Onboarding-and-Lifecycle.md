@@ -73,7 +73,7 @@ Once an API proposal is approved by the TSC and will be onboarded as a new Sandb
 
 1. **Repository Creation**  
    A dedicated Sandbox API Repository is created for the API under its assigned Sub Project or as an independent Sandbox API Repository. The repository structure shall comply with [CAMARA governance guidelines](https://github.com/camaraproject/Governance/blob/main/ProjectStructureAndRoles.md) and will be derived from the [Template_API_Repository](https://github.com/camaraproject/Template_API_Repository).
-   In case of API enhacement proposals, different options are open to be considered:
+   In case of API enhancement proposals, different options are open to be considered:
    - Existing repository and API scope is modified, e.g. including a new API functionality or a new API endpoint.
    - Existing repository is enhanced with a new API.
    - New sandbox repository is created.
@@ -90,6 +90,66 @@ Once an API proposal is approved by the TSC and will be onboarded as a new Sandb
    Stakeholders are notified that development can begin, and initial contributions are encouraged.
 
 Progress on these tasks is documented in tracking issues maintained by the API Backlog Working Group.
+
+If an API proposal is approved by the TSC but no onboarding tracker is initiated within three API Backlog WG sessions due to inactivity or missing response from the proposal owner, the proposal may be marked as *Frozen*. See the [Frozen API Proposals](#frozen-api-proposals) section for more information.
+
+
+## Frozen API Proposals
+
+To maintain an efficient and focused agenda during the API Backlog Working Group (WG) sessions, a formal mechanism has been introduced to handle inactive API proposals by assigning them a **"Frozen"** status.
+
+> **Note:** The transition to **Archived Proposal** described below refers specifically to the lifecycle of an API **proposal**, not an **API Repository**. Archived proposals are proposals that never progressed to onboarding or development. In contrast, Archived Repositories are deprecated or obsolete API repositories, as described in the *Archived Stage* section of the lifecycle.
+
+### Proposal Status Lifecycle Summary
+
+| **Status**   | **Description**                                                                 | **Transition Criteria**                                                                                     | **Next Step**                    |
+|--------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------|
+| **Active**   | Proposal is under active discussion, development or onboarding.                 | - API owner attends WG meetings<br>- Recent GitHub activity (comments, PRs, updates)<br>- Onboarding tracker in progress | → Remains Active or → Frozen     |
+| **Frozen**   | Proposal is temporarily inactive but may be reactivated by contributors.        | - No activity in GitHub for **6+ weeks**<br>- API owner absent **3 WG meetings**<br>- Approved by TSC but **no onboarding tracker** after 3 WG sessions | → Reactivated (returns to Active) or → Archived |
+| **Archived** | Proposal has shown no reactivation after an extended frozen period. | - Frozen for **two consecutive meta-release cycles**<br>- Explicit decision by WG or TSC | → New proposal required to resume |
+
+> **Note:** The condition "Approved by TSC but no progress regarding onboarding" applies to proposals that have not yet resulted in a Sandbox repository. Once a repository exists, further lifecycle rules apply as described in the *Lifecycle Management of API Repositories* section.
+### What is a Frozen Proposal?
+
+A proposal is considered *frozen* when it no longer shows signs of active engagement or development by its owner. This mechanism prevents inactive items from blocking discussions while preserving them for future reactivation.
+
+### Criteria for Freezing a Proposal
+
+A proposal may be marked as frozen under any of the following conditions:
+
+- The API Owner is absent from **three consecutive API Backlog WG meetings**.
+- A proposal is **approved by the TSC**, but **there is no progress regarding the onboarding** within three WG sessions due to a lack of follow-up from the owner or external blockers.
+- There is **no activity** on the issue (e.g. no comments, PRs, or updates) for **6 weeks or more**.
+
+### Effects of Freezing
+
+- The GitHub issue will be labeled with `frozen`, in addition to existing labels such as `API Proposal`.
+- Related open or unmerged Pull Requests (PRs) will be closed with reference to the frozen status.
+- The proposal is moved to the “Frozen Proposals” section at the end of WG meeting minutes and excluded from active agenda discussions.
+
+### Reactivating a Frozen Proposal
+
+To reactivate a frozen proposal:
+
+- A contributor must comment on the GitHub issue and explicitly mention the proposal owner.
+- The API Backlog WG must be notified at least **one week before** the meeting agenda is finalized.
+
+Upon reactivation, the proposal will return to the main agenda for discussion.
+
+### Archiving Frozen Proposals
+
+A frozen proposal will be archived if:
+- It remains in frozen status for more than **6 months**, or
+- There is an **explicit decision** by the API Backlog WG or the TSC.
+
+
+**Archiving implies:**
+
+- The GitHub issue is closed and removed from the active backlog.
+- The proposal is retained for historical reference but is no longer tracked.
+- To resume progress, a new API proposal must be submitted and discussed from the beginning.
+
+This process ensures that the API backlog reflects active priorities and that WG meeting time is spent on proposals with active contributors.
 
 ## Lifecycle Management of API Repositories
 
@@ -140,7 +200,7 @@ APIs in the Incubating stage have shown early promise with initial adoption and 
 To move to the Graduated stage, an API shall:
 1. Demonstrate long-terms specification maturity by having participated within two CAMARA release cycles with at least one Stable API version.
 2. Demonstrate wide market adoption across multiple companies or projects, by including APIs which have been deployed and certified within at least one complete market or #n operators across #m markets.
-3. Maintainers of the Incubating Repository apply for Grduation by opening an issue in the API Backlog working group.
+3. Maintainers of the Incubating Repository apply for Graduation by opening an issue in the API Backlog working group.
 4. The API Backlog working group will do a pre-check on behalf of the TSC, which will confirm (or not) the inclusion of the repository as Graduated.
 
 ---
@@ -172,6 +232,7 @@ The Archived stage is for deprecated or obsolete APIs that are no longer maintai
 - Lack of participation of a Sandbox API repository within two consecutive CAMARA release cycles
 - Lack of participation of an Incubating or Graduated API repository within two consecutive CAMARA release cycle, if there would be changes necessary to stay aligned with the CAMARA Guidelines
 - TSC is in charge of proposing and validating the transition of a repository to a Archived Stage
+- Archived repositories may include proposals that were previously frozen and never progressed to onboarding or implementation.
 
 **Characteristics:**
 - APIs in this stage are retained for historical reference but are not recommended for use.
@@ -212,6 +273,8 @@ The overview list is structured with the following columns:
 | **Latest Release & Date**                      | Information about the latest release version of the API and its release date.                            |
 
 ---
+
+Proposals that have been marked as *Frozen* or *Archived* are excluded from active management and maintenance activities. Only proposals with ongoing contributions or those in active repositories are included in the CAMARA API Overview List and related lifecycle processes.
 
 ## API Deployment
 
