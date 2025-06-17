@@ -108,7 +108,7 @@ To maintain an efficient and focused agenda during the API Backlog Working Group
 | **Frozen**   | Proposal is temporarily inactive but may be reactivated by contributors.        | - No activity in GitHub for **6+ weeks**<br>- API owner absent **3 WG meetings**<br>- Approved by TSC but **no onboarding tracker** after 3 WG sessions | → Reactivated (returns to Active) or → Archived |
 | **Archived** | Proposal has shown no reactivation after an extended frozen period. | - Frozen for **two consecutive meta-release cycles**<br>- Explicit decision by WG or TSC | → New proposal required to resume |
 
-> **Note:** The condition "Approved by TSC but onboarding tracker not created" applies to proposals that have not yet resulted in a Sandbox repository. Once a repository exists, further lifecycle rules apply as described in the *Lifecycle Management of API Repositories* section.
+> **Note:** The condition "Approved by TSC but no progress regarding onboarding" applies to proposals that have not yet resulted in a Sandbox repository. Once a repository exists, further lifecycle rules apply as described in the *Lifecycle Management of API Repositories* section.
 ### What is a Frozen Proposal?
 
 A proposal is considered *frozen* when it no longer shows signs of active engagement or development by its owner. This mechanism prevents inactive items from blocking discussions while preserving them for future reactivation.
