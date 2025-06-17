@@ -118,7 +118,7 @@ A proposal is considered *frozen* when it no longer shows signs of active engage
 A proposal may be marked as frozen under any of the following conditions:
 
 - The API Owner is absent from **three consecutive API Backlog WG meetings**.
-- A proposal is **approved by the TSC**, but **no onboarding tracker is created** within three WG sessions due to a lack of follow-up from the owner or external blockers.
+- A proposal is **approved by the TSC**, but **there is no progress regarding the onboarding** within three WG sessions due to a lack of follow-up from the owner or external blockers.
 - There is **no activity** on the issue (e.g. no comments, PRs, or updates) for **6 weeks or more**.
 
 ### Effects of Freezing
