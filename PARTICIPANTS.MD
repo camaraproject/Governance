@@ -431,6 +431,7 @@
 | Google Cloud | Nicola Cardace ||
 | Google Cloud | Qi Tang ||
 | Google Cloud | Rittwik Jana ||
+| Google Cloud | Samantha Yu ||
 | Google Cloud | Sridhar Gollapudi ||
 | Google Cloud | Stella Loh ||
 | Google Cloud | Vivek Gupta ||
