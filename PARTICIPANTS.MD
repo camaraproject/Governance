@@ -945,6 +945,7 @@
 | SUE | Serge van Namen ||
 | Summit Tech | Doug Makishima ||
 | Sunrise | Aaron Pearce ||
+| Sunrise | Jonas Karlsson ||
 | Swisscom (Schweiz) AG | Felix Sutter ||
 | Swisscom (Schweiz) AG | Lukas Leuthold ||
 | Syniverse | Jyrki Penttinen ||
