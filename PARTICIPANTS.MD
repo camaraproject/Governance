@@ -382,6 +382,7 @@
 | Ericsson | Oscar Divorra Escoda ||
 | Ericsson | Pehr Claesson ||
 | Ericsson | Peter Chen ||
+| Ericsson | Rajan Rajeshprasad Gupta ||
 | Ericsson | Rajat Kandoi ||
 | Ericsson | Rammohan Gopalan ||
 | Ericsson | Ramy Maher Moussa ||
