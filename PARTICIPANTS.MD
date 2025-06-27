@@ -289,6 +289,7 @@
 | Deutsche Telekom AG | Maximilian Laue ||
 | Deutsche Telekom AG | Nathan Rader ||
 | Deutsche Telekom AG | Noel Wirzius ||
+| Deutsche Telekom AG | Oscar Bañó i Pérez ||
 | Deutsche Telekom AG | Pablo Brito ||
 | Deutsche Telekom AG | Pascal Zietz ||
 | Deutsche Telekom AG | Piotr Wesolowski ||
