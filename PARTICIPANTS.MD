@@ -834,6 +834,7 @@
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Alex Ferreira ||
 | PLDT | Renelle John C. Magahis (Nel) ||
+| Plekton Labs | Jahidur Rahman ||
 | Plekton Labs | Wahid Mohammad ||
 | Prelude | Matias Berny ||
 | Prodapt | Carlos Portela ||
