@@ -548,6 +548,7 @@
 | Infosys | Arun Gopalan Muralidhara ||
 | Infosys | Bishnu Prasad Panda ||
 | Infosys | Chintan Lodariya ||
+| Infosys | Deepth Valappil ||
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Hemanta Gogoi ||
 | Infosys | Praveen Kumar Kalapatapu ||
@@ -955,6 +956,7 @@
 | Syniverse | Jyrki Penttinen ||
 | T-Mobile CZ | Petr Strafelda ||
 | T-Mobile PL | Michał Fedorczyk ||
+| T-Mobile SL | Matjaz Bericic ||
 | T-Mobile US | Antoine Egho ||
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Anup Sharma ||
@@ -1053,6 +1055,7 @@
 | Telstra | Arun Kohli ||
 | Telstra | Brett Hill ||
 | Telstra | Channa Seneviratne ||
+| Telstra | Dhruv Divekar ||
 | Telstra | George Edward Karroum ||
 | Telstra | Ian Mounsey ||
 | Telstra | Kiran Babu Konathala ||
