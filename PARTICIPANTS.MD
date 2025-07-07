@@ -342,6 +342,7 @@
 | ENEA | Iftikhar Waheed ||
 | ENEA | Osvaldo Aldao ||
 | Enghouse | Jamil Azar ||
+| Enrichify Data | N.N. ||
 | Enride | Magnus Kristersson ||
 | Entel | Cesar Llontop Capunay ||
 | Entel | Duran Nardecchia Eduardo ||
@@ -1004,6 +1005,7 @@
 | Tele 2 | Nurdaulet Zholdassov ||
 | Telecom Argentina | Eduardo Panciera ||
 | Telecom Argentina | Javier Hirschbein ||
+| Telecom Argentina | Julian Filippini ||
 | Telecom Argentina | Ricardo Lavaggi ||
 | Telecom Sudparis | Vincent Gauthier ||
 | Telecomsxchange | Ameed Jamous ||
