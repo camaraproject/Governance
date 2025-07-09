@@ -118,7 +118,6 @@
 | Bemobi | Felipe Goldin ||
 | Beyon | Noora Faisal AlFaraj ||
 | Bics | Daniel Behar ||
-| Bics | Karan Verma ||
 | Bics | Kenneth Hardat ||
 | Birmingham City University | Muhammad Ajmal Azad ||
 | Blackspot Networks | Craig Dalkin ||
