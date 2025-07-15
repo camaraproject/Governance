@@ -1048,6 +1048,7 @@
 | Telefonica | Ricardo Serrano Gutierrez ||
 | Telefonica | Rodrigo Partearroyo Gonzalez ||
 | Telefonica | Ruben Barrado Gonzalez ||
+| Telefonica | Sameer Jain ||
 | Telefonica | Violeta Gonzalez Fernandez ||
 | Telenor | Soheil Chohan ||
 | Telesmart | Bulent Tuncel ||
