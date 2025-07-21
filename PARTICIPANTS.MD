@@ -27,6 +27,7 @@
 | ACL Digital | Sagar Suresh Nangare ||
 | ActiveCampaign | David Galante ||
 | Aduna | Alicia Miller ||
+| Aduna | Christer Boberg ||
 | Aduna | Courtney Latta ||
 | Aduna | Cyndi Lin ||
 | Aduna | Frederic Carrier ||
