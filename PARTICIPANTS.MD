@@ -449,7 +449,7 @@
 | GSMA | Justin Paul ||
 | GSMA | Mark Cornall ||
 | GSMA | Minesh Patel ||
-| GSMA | O. Ajibola ||
+| GSMA | Olawunmi Ajibola ||
 | GSMA | Olu Omobitan ||
 | GSMA | Reginald Cox ||
 | GSMA | Salman Khan ||
