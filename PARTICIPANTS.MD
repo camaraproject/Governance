@@ -291,7 +291,6 @@
 | Deutsche Telekom AG | Oscar Bañó i Pérez ||
 | Deutsche Telekom AG | Pablo Brito ||
 | Deutsche Telekom AG | Pascal Zietz ||
-| Deutsche Telekom AG | Piotr Wesolowski ||
 | Deutsche Telekom AG | Prashant Goswami ||
 | Deutsche Telekom AG | Rafal Artych ||
 | Deutsche Telekom AG | Ravindra Palaskar ||
