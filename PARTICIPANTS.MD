@@ -396,6 +396,9 @@
 | Ericsson | Thorsten Lohmar ||
 | Ethio telecom | Arsema Solomon ||
 | Etiya | Serafettin Acir ||
+| Eureka | Benjamin Soemartopo ||
+| Eureka | Manish Bhatia ||
+| Eureka | Vikash Chandra Sharma ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
 | EVOX | Tom Wu ||
