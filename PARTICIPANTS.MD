@@ -399,6 +399,7 @@
 | Eureka | Benjamin Soemartopo ||
 | Eureka | Manish Bhatia ||
 | Eureka | Michael Hawkins ||
+| Eureka | Murilo Pereira ||
 | Eureka | Vikash Chandra Sharma ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
