@@ -398,6 +398,7 @@
 | Etiya | Serafettin Acir ||
 | Eureka | Benjamin Soemartopo ||
 | Eureka | Manish Bhatia ||
+| Eureka | Michael Hawkins ||
 | Eureka | Vikash Chandra Sharma ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
