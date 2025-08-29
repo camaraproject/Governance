@@ -4,6 +4,7 @@
 | 1Global | Stanislav Slavkov ||
 | 1rstwap | Aerlangga Bachtiar ||
 | 1rstwap | Alex Sandra ||
+| 5G Mag | Jordi Joan Gimenez ||
 | 6D Tech | Asifali Muhammed ||
 | 6D Tech | Rahul Kumar ||
 | 8x8 | Anton Shchekalov ||
