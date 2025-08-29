@@ -387,6 +387,7 @@
 | Ericsson | Rajat Kandoi ||
 | Ericsson | Rammohan Gopalan ||
 | Ericsson | Ramy Maher Moussa ||
+| Ericsson | Sanjib Das ||
 | Ericsson | Sarmad Nafees ||
 | Ericsson | Sathyabharath Reddy ||
 | Ericsson | Stefanos Boukouvalas ||
@@ -732,6 +733,7 @@
 | Net Check GmbH | Sanjeev Shankar ||
 | Netcracker | Manoj K. Nair ||
 | Netcracker | Pavel Zvezdin ||
+| NetCube | Dong-ho Yu ||
 | Netfocusin Technologies | Joydeep Banerjee ||
 | Netscout | Claudio Guerrini ||
 | Neutroon | Wilmer Rojas ||
@@ -1295,6 +1297,7 @@
 |  | Kshahabrnd ||
 |  | Lokinder ||
 |  | M. Castrillo ||
+|  | Madhank ||
 |  | Malone Amber ||
 |  | Mea Hus ||
 |  | Michelle Carlson ||
