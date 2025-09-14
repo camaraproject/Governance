@@ -699,7 +699,6 @@
 | Microsoft | Michele Kinsey ||
 | Microsoft | Mishal Valiyakath ||
 | Microsoft | Moushumi Ghosal ||
-| Microsoft | Ricardo Villarreal ||
 | Microsoft | Sally-Anne Bennett ||
 | Microsoft | Shawn Hakl ||
 | Microsoft | Thilo Ewald ||
