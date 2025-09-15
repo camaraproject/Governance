@@ -37,6 +37,7 @@ For "**codeowners**":
 For "**all**":
 * Group Type and Moderation:
   * Message Moderation: All Messages are moderated.
+  * Unmoderated Messages: Never
 
 For "**adm**":
 * Group Type and Moderation:
