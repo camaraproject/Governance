@@ -712,6 +712,7 @@
 | Mobi2buy | Fabio Copello ||
 | Mobi2buy | Thiago Taranto ||
 | Mobily | Mohamed Hassan Taj ||
+| Motive | Kathiravan Nagarathinam ||
 | Motive | Thomas Hsu ||
 | Movilgate | Javier De Luca ||
 | Movilgate | Mario Fernando Toro ||
