@@ -296,7 +296,6 @@
 | Deutsche Telekom AG | Rafal Artych ||
 | Deutsche Telekom AG | Ravindra Palaskar ||
 | Deutsche Telekom AG | Robert Jeschonnek ||
-| Deutsche Telekom AG | Shilpa Padgaonkar ||
 | Deutsche Telekom AG | Steffen Drüsedow ||
 | Deutsche Telekom AG | Stephan Baumann ||
 | Deutsche Telekom AG | Ursula Harrison ||
@@ -972,9 +971,7 @@
 | T-Mobile US | Antoine Egho ||
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Anup Sharma ||
-| T-Mobile US | Chris Jonathan Parker ||
 | T-Mobile US | Deepak Jaiswal ||
-| T-Mobile US | John Edward Lawler ||
 | T-Mobile US | Luis Eduardo Colon ||
 | T-Mobile US | Lyle Bertz ||
 | T-Mobile US | Mark Bales ||
@@ -985,6 +982,8 @@
 | T-Mobile US | Poornima Magadevan ||
 | T-Mobile US | Ron Marquardt ||
 | T-Mobile US | Srujana Punyapu ||
+| T-Mobile US | Shilpa Padgaonkar ||
+| T-Mobile US | Ram Ramanathan ||
 | Tango Networks | Gavin Sweet ||
 | Tanla | Neeraj Dahiya ||
 | Tannera | Goran Licanin ||
@@ -1311,7 +1310,6 @@
 |  | Pat Conil ||
 |  | Pedro Juan Lopez Chavez ||
 |  | Rahul Panwar ||
-|  | Ram Ramanathan ||
 |  | Rod Scw ||
 |  | Santosh Singh ||
 |  | Sativarios ||
