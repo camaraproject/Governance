@@ -36,6 +36,7 @@ For "**codeowners**":
 
 For "**all**":
 * Group Type and Moderation:
+  * Message Moderation: All Messages Moderated
   * New Members Moderated: Yes
   * Unmoderate After: Not enabled
 
