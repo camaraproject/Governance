@@ -789,6 +789,7 @@
 | Nuvemlabs | Jaswant Boyat ||
 | nxt:fwd | Ismo Antikainen ||
 | Ofcom | George Jibin ||
+| OkHi | Roger Norton ||
 | Ookla | Leandro A. Demarchi ||
 | Open Sesame | Julian McCrea ||
 | Open Sesame | Mateusz Mul ||
