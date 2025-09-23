@@ -401,6 +401,7 @@
 | Eureka | Manish Bhatia ||
 | Eureka | Michael Hawkins ||
 | Eureka | Murilo Pereira ||
+| Eureka | Navin Jain ||
 | Eureka | Vikash Chandra Sharma ||
 | Eutelsat | Denis Fauconnier ||
 | Evergent | Murali Raman ||
