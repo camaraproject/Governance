@@ -101,7 +101,6 @@
 | axiata | Roslind Kaur Kirpal Singh ||
 | axiata | Udaka Kappagoda ||
 | axiata | Viranga Seneviratne ||
-| Axyomcore | Abul Rehan Siddiqui ||
 | BBC | David Butler ||
 | BearingPoint | Amr Osman ||
 | BearingPoint | Carsten Aue ||
