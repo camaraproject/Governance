@@ -1016,6 +1016,8 @@
 | Tele 2 | Angel Toribio ||
 | Tele 2 | Nurdaulet Zholdassov ||
 | Telecom Argentina | Eduardo Panciera ||
+| Telecom Argentina | Flavio Vecchio ||
+| Telecom Argentina | Gerardo Gruszka ||
 | Telecom Argentina | Javier Hirschbein ||
 | Telecom Argentina | Julian Filippini ||
 | Telecom Argentina | Ricardo Lavaggi ||
