@@ -204,8 +204,9 @@
 | China Unicom | G. Z. Wang ||
 | China Unicom | Gao Chen ||
 | China Unicom | Guo J. ||
+| China Unicom | Hel ||
 | China Unicom | Jing Hao ||
-| China Unicom | Liu Jh ||
+| China Unicom | Liu Jiahui ||
 | China Unicom | Shuanghe Dong ||
 | China Unicom | Xiao Dr ||
 | Chunghwa Telecom | Guang-Han Ma ||
