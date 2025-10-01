@@ -699,6 +699,7 @@
 | Microsoft | Michele Kinsey ||
 | Microsoft | Mishal Valiyakath ||
 | Microsoft | Moushumi Ghosal ||
+| Microsoft | Rick Lievano ||
 | Microsoft | Sally-Anne Bennett ||
 | Microsoft | Shawn Hakl ||
 | Microsoft | Thilo Ewald ||
