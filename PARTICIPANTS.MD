@@ -844,7 +844,6 @@
 | Oredoo | Ilham Arief Bachtiar ||
 | ORI | José Domingos ||
 | Outris | Saurabh Sethi ||
-| Palantir | Matt Foreman ||
 | Pathfinderwireless | Colby Harper ||
 | Pavonis | Dan Mihai Dumitriu ||
 | PCCW Global Console Connect | Ray CY Wong ||
