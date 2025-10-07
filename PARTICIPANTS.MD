@@ -784,6 +784,7 @@
 | Nos | Pedro Miguel Hilario ||
 | Nos | Telmo Miguel Rodrigues ||
 | NTT | Haruka Eitoku ||
+| NTT | Rihito Suzuki ||
 | NTT Data | Josef Reisinger ||
 | NTT Data | Luis Fernando Rubio Martinez ||
 | Nuage | Gabriel Klein ||
