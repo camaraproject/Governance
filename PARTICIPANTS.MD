@@ -1119,11 +1119,11 @@
 | TransUnion | Gaurav Sharma ||
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
-| Twilio | Rogerio Segabinaze ||
 | Turk Telekomünikasyon A.Ş. | Emre Cakirlar ||
 | Turk Telekomünikasyon A.Ş. | Firat Nergiz ||
 | Turk Telekomünikasyon A.Ş. | Furkan Acik ||
 | Twilio | Felipe Gutierrez ||
+| Twilio | Rogerio Segabinaze ||
 | Tykelab | M. Massaroni ||
 | U Mobile | Neil Tomkinson ||
 | U2opia | Sarang Jain ||
