@@ -1119,6 +1119,7 @@
 | TransUnion | Gaurav Sharma ||
 | Trilio | Paulo Peres ||
 | Trilio | Rodolfo Casas ||
+| Twilio | Rogerio Segabinaze ||
 | Turk Telekomünikasyon A.Ş. | Emre Cakirlar ||
 | Turk Telekomünikasyon A.Ş. | Firat Nergiz ||
 | Turk Telekomünikasyon A.Ş. | Furkan Acik ||
