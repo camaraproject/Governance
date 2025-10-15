@@ -65,6 +65,7 @@
 | Apple | Darryl Alexander Chiles ||
 | Apple | Ria Das ||
 | Apple | Samy Touati ||
+| Apple | Sarma Vangala ||
 | Argela | Hakki Toran ||
 | Argela | Ismail Bayraktar ||
 | ARPU Plus | Ahmed Serag ||
