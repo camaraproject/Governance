@@ -413,6 +413,7 @@
 | F5 | Raffaele D'Albenzio ||
 | FarEasTone Telecom | Meytsai ||
 | Fido | Francesco Panina ||
+| First Orion | Rob Sewell ||
 | Flying River | Gareth Hewlett ||
 | Flyp | Kyle Warnsley ||
 | Foo | Ziad Hawwa ||
