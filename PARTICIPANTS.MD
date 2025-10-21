@@ -1079,6 +1079,7 @@
 | Telstra | George Edward Karroum ||
 | Telstra | Henry Chiu ||
 | Telstra | Ian Mounsey ||
+| Telstra | Kim Adriana To ||
 | Telstra | Kiran Babu Konathala ||
 | Telstra | Senthoor Punniamoorthy ||
 | Telstra | Varun Nair ||
