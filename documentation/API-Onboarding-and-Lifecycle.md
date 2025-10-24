@@ -223,13 +223,40 @@ Certification process is followed by GSMA to validate that the deployed API is a
 
 ---
 
-## Clean-Up
+## Unified Clean-up Process for Inactive Onboarding Trackers and Repositories
 
-To maintain clarity and relevance in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md), old entries can be removed under certain conditions:
-1. **Old Releases:**  
-   Lines for old releases of APIs can be deleted when those releases are no longer deployed anywhere.
+### Purpose and Applicability 
+To maintain clarity and relevance in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md), this unified clean-up mechanism applies to all contributions that become inactive after onboarding approval — including onboarding trackers, Sandbox, Incubating, or Graduated repositories.
 
-2. **Responsible Party:**  
-   The responsible Sub-Project is tasked with removing outdated entries from the overview list.
+The process extends the *frozen status* logic used for API Proposals to cover all subsequent stages of the lifecycle, ensuring traceability, reversibility, and low governance overhead.
 
-This clean-up process ensures that only actively maintained and deployed APIs are listed, reducing clutter and improving usability.
+### Review Cadence and Governance Flow
+- Reviews are triggered **twice per year**, after each **meta-release cycle**.  
+- The **API Backlog Working Group** conducts the review and notifies the responsible codeowners and maintainers via GitHub comment.  
+- Contributors have a **4-week window** to provide updates, demonstrate progress, or transfer ownership to another CAMARA member.  
+- **TSC involvement** is required before any archival:  
+  - **Phase A–B:** TSC is informed and may confirm archival.  
+  - **Phase C–D:** TSC must formally approve archival.  
+- Reactivation is always possible through a **new API Proposal referencing the archived asset**.
+
+### Archival Criteria per Phase
+
+| **Phase** | **Description** | **Typical Triggers** | **Outcome** |
+|------------|-----------------|----------------------|--------------|
+| **A – Failed Onboarding** | Tracker created but no valid repository established. | No CODEOWNER, no EasyCLA, checklist empty, repository not created (after 4–6 weeks). | Backlog WG may reassign tracker; if not, TSC may confirm closure and archival. |
+| **B – Repository Without Artifacts** | Repository exists but contains no meaningful artifacts. | ≥ 3 of: no commits, no README/YAML, no validation, no operator engagement, not proposed for meta-release (after 6 months). | WG may seek new owner; if none, TSC informed before archival. |
+| **C – Repository With Partial Progress** | Some artifacts exist but no validation or adoption. | ≥ 3 of: YAML uploaded but no release, no validation, no WG activity, codeowner inactive, no commits for 6+ months. | Formal review by TSC; possible reassignment or archival. |
+| **D – Repository With Reviewed Release (RC or 0.1.0+)** | Release exists but activity has stalled. | No activity post-release, maintainers left, no validation, or explicit request to archive. | Case-by-case TSC decision: archive, transfer, or defer. |
+
+### Archival Actions
+
+| **Action** | **Description** |
+|-------------|----------------|
+| **Repository archived** | Repository set to read-only in GitHub and marked as *archived*. |
+| **Onboarding tracker closed** | Tracker issue closed with explanatory note and link to TSC confirmation. |
+| **APIBacklog.md updated** | Entry marked as archived or removed from active lists. |
+| **Wiki updated** | Page moved under *Archived* section and status annotated accordingly. |
+| **Reactivation allowed** | Always possible via a new API proposal referencing the previous work. |
+
+### Governance Ownership
+The **API Backlog Working Group** owns and executes this process under **TSC oversight**.   All actions are traceable via GitHub and documented in the CAMARA Wiki after each meta-release review.
