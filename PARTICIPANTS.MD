@@ -844,7 +844,7 @@
 | ORANGE | Stephane Guelec ||
 | ORANGE | Sylvain Morel ||
 | ORANGE Caraibe | Renaud Jarnier ||
-| Oredoo | Ilham Arief Bachtiar ||
+| Ooredoo | Ilham Arief Bachtiar ||
 | ORI | José Domingos ||
 | Outris | Saurabh Sethi ||
 | Pathfinderwireless | Colby Harper ||
