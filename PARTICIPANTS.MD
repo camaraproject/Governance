@@ -210,6 +210,7 @@
 | China Unicom | Jing Hao ||
 | China Unicom | Liu Jiahui ||
 | China Unicom | Shuanghe Dong ||
+| China Unicom | St. Sun ||
 | China Unicom | Xiao Dr ||
 | Chunghwa Telecom | Guang-Han Ma ||
 | Chunghwa Telecom | J. H. C. ||
