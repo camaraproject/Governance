@@ -539,6 +539,7 @@
 | Ikerlan | Idoia de la Iglesia ||
 | Ilabs | Harm Jan Arendshorst ||
 | Incognito | Jhuli Takahara ||
+| Indian Institute of Technology | Aakashjit Bhattacharya ||
 | Indykite | Marek Detko ||
 | Indykite | Sebastian Drees ||
 | Infinite Computer Solutions (India) Limited | Arun Konathala ||
