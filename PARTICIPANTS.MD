@@ -1302,7 +1302,6 @@
 |  | Deepankar ||
 |  | Ersa Sandberg ||
 |  | FBI Chamber 12 ||
-|  | Gerasimo Spapd ||
 |  | Har Shamore ||
 |  | Henry Yang ||
 |  | Hez Hye ||
