@@ -949,6 +949,7 @@
 | Softbank | Kazumasa Yazawa ||
 | Softbank | Mai Hashimoto ||
 | Softbank | Naoto Takasu ||
+| Softbank | Shumpei Tokunaga ||
 | Softbank | Toru Kikuchi ||
 | Soprano Design | Andrew Fry ||
 | Spry Fox Networks | Jignesh Sorathia ||
