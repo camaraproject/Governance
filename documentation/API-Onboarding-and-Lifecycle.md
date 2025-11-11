@@ -226,14 +226,14 @@ Certification process is followed by GSMA to validate that the deployed API is a
 ## Unified Clean-up Process for Inactive Onboarding Trackers and Repositories
 
 ### Purpose and Applicability 
-To maintain clarity and relevance in the [CAMARA API overview list](https://github.com/camaraproject/APIBacklog/blob/main/documentation/APIbacklog.md), this unified clean-up mechanism applies to all contributions that become inactive after onboarding approval — including onboarding trackers, Sandbox, Incubating, or Graduated repositories.
+To maintain project health and ensure efficient use of CAMARA resources, this unified clean-up process defines clear criteria and procedures for archiving of all repository types after onboarding approval — including onboarding trackers, Sandbox, Incubating, and Graduated repositories — when they show persistent inactivity.
 
 The process extends the *frozen status* logic used for API Proposals to cover all subsequent stages of the lifecycle, ensuring traceability, reversibility, and low governance overhead.
 
 ### Review Cadence and Governance Flow
 - Reviews are triggered **twice per year**, after each **meta-release cycle**.  
 - The **API Backlog Working Group** conducts the review and notifies the responsible codeowners and maintainers via GitHub comment.  
-- Contributors have a **4-week window** to provide updates, demonstrate progress, or transfer ownership to another CAMARA member.  
+- Responsible parties have a **4-week window** to provide updates, demonstrate progress, or transfer ownership to another CAMARA member.  
 - **TSC involvement** is required before any archival:  
   - **Phase A–B:** TSC is informed and may confirm archival.  
   - **Phase C–D:** TSC must formally approve archival.  
@@ -243,7 +243,7 @@ The process extends the *frozen status* logic used for API Proposals to cover al
 
 | **Phase** | **Description** | **Typical Triggers** | **Outcome** |
 |------------|-----------------|----------------------|--------------|
-| **A – Failed Onboarding** | Tracker created but no valid repository established. | No CODEOWNER, no EasyCLA, checklist empty, repository not created (after 4–6 weeks). | Backlog WG may reassign tracker; if not, TSC may confirm closure and archival. |
+| **A – Failed Onboarding** | Tracker created but no valid repository established. | No CODEOWNER, no EasyCLA, checklist empty, repository not created (after 4–6 weeks, with extensions granted for documented cause). | Backlog WG may reassign tracker; if not, TSC may confirm closure and archival. |
 | **B – Repository Without Artifacts** | Repository exists but contains no meaningful artifacts. | ≥ 3 of: no commits, no README/YAML, no validation, no operator engagement, not proposed for meta-release (after 6 months). | WG may seek new owner; if none, TSC informed before archival. |
 | **C – Repository With Partial Progress** | Some artifacts exist but no validation or adoption. | ≥ 3 of: YAML uploaded but no release, no validation, no WG activity, codeowner inactive, no commits for 6+ months. | Formal review by TSC; possible reassignment or archival. |
 | **D – Repository With Reviewed Release (RC or 0.1.0+)** | Release exists but activity has stalled. | No activity post-release, maintainers left, no validation, or explicit request to archive. | Case-by-case TSC decision: archive, transfer, or defer. |
@@ -252,9 +252,9 @@ The process extends the *frozen status* logic used for API Proposals to cover al
 
 | **Action** | **Description** |
 |-------------|----------------|
-| **Repository archived** | Repository set to read-only in GitHub and marked as *archived*. |
+| **Repository archived** | Repository archived on GitHub (becomes read-only with archived status badge). |
 | **Onboarding tracker closed** | Tracker issue closed with explanatory note and link to TSC confirmation. |
-| **APIBacklog.md updated** | Entry marked as archived or removed from active lists. |
+| **APIBacklog.md updated** | Entry status changed to "Archived" and moved to archived section (maintaining traceability).  |
 | **Wiki updated** | Page moved under *Archived* section and status annotated accordingly. |
 | **Reactivation allowed** | Always possible via a new API proposal referencing the previous work. |
 
