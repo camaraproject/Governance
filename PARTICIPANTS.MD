@@ -854,6 +854,7 @@
 | PCCW Global Console Connect | Ray CY Wong ||
 | PCCW Global Console Connect | Stefano De Zottis ||
 | Phronesis | Alex Ferreira ||
+| Ping Identity | Tzvika Barenholz ||
 | PLDT | Renelle John C. Magahis (Nel) ||
 | Plekton Labs | Jahidur Rahman ||
 | Plekton Labs | Wahid Mohammad ||
