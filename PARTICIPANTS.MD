@@ -441,7 +441,6 @@
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio Conte ||
 | Google Cloud | Jonathan Varsanik ||
-| Google Cloud | Nicola Cardace ||
 | Google Cloud | Qi Tang ||
 | Google Cloud | Rittwik Jana ||
 | Google Cloud | Samantha Yu ||
