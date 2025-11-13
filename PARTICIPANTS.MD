@@ -718,11 +718,11 @@
 | Mobi2buy | Fabio Copello ||
 | Mobi2buy | Thiago Taranto ||
 | Mobily | Mohamed Hassan Taj ||
+| MobiMESH inPiazza | Emmanuele Benedetto ||
 | Motive | Kathiravan Nagarathinam ||
 | Motive | Thomas Hsu ||
 | Movilgate | Javier De Luca ||
 | Movilgate | Mario Fernando Toro ||
-| MobiMESH inPiazza | Emmanuele Benedetto ||
 | MTN Group South Africa | Krishna Venkatachalam ||
 | MTN Group South Africa | Sanjay Chaurasia ||
 | MTN Group South Africa | Waseem Amra ||
