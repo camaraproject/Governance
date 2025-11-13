@@ -798,6 +798,7 @@
 | Ofcom | George Jibin ||
 | OkHi | Roger Norton ||
 | Ookla | Leandro A. Demarchi ||
+| Ooredoo | Ilham Arief Bachtiar ||
 | Open Sesame | Julian McCrea ||
 | Open Sesame | Mateusz Mul ||
 | OpenID Foundation | Gail Hodges ||
@@ -846,7 +847,6 @@
 | ORANGE | Stephane Guelec ||
 | ORANGE | Sylvain Morel ||
 | ORANGE Caraibe | Renaud Jarnier ||
-| Ooredoo | Ilham Arief Bachtiar ||
 | ORI | José Domingos ||
 | Outris | Saurabh Sethi ||
 | Pathfinderwireless | Colby Harper ||
