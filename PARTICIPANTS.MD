@@ -575,8 +575,8 @@
 | Institute for Infocomm Research | Gary Lee ||
 | Instituto Federal da Paraiba | Ruan Delgado Gomes ||
 | Intel | (Fran)Cesc Guim ||
-| Intel | Larry Horner ||
 | Intel | Konrad Czubak ||
+| Intel | Larry Horner ||
 | Intel | Michael Holzerland ||
 | Intel | Oliver Roos ||
 | Intel | Petar Torre ||
