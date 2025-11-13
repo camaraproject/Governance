@@ -46,7 +46,7 @@
 | Alianza | Dag Peak ||
 | Alicon | Ike Alisson ||
 | Almuqueet Systems | Zaffar Owais Andrabi ||
-| Altice Labs | Filipe J. Delgado ||
+| Altice Labs / MEO | Filipe J. Delgado ||
 | AMANTYA TECHNOLOGIES | Ankur Bharadwaj ||
 | AMANTYA TECHNOLOGIES | Mansi Trivedi ||
 | AMD | Ignacio Garcia-Carrillo ||
