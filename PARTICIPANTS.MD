@@ -993,8 +993,8 @@
 | T-Mobile US | Poornima Magadevan ||
 | T-Mobile US | Ram Ramanathan ||
 | T-Mobile US | Ron Marquardt ||
-| T-Mobile US | Srujana Punyapu ||
 | T-Mobile US | Shilpa Padgaonkar ||
+| T-Mobile US | Srujana Punyapu ||
 | Tango Networks | Gavin Sweet ||
 | Tanla | Neeraj Dahiya ||
 | Tannera | Goran Licanin ||
