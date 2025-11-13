@@ -518,6 +518,7 @@
 | Hutchison | Stefano Falsetto ||
 | I2Cat | Reza Mosahebfard ||
 | I2Cat | Sergio Giménez Antón ||
+| IALindblad.com | Ingemar Lindblad ||
 | IamCrypto | Yevhen Barbarchuk ||
 | iBasis | Nicola Tamma ||
 | iBasis | Ron Bonnici ||
