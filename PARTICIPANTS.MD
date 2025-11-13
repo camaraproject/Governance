@@ -1201,7 +1201,7 @@
 | Vodafone | Edon Ophir ||
 | Vodafone | Emmanuel Sarris ||
 | Vodafone | Eric Murray ||
-| Vodafone | adime Demirerulgen ||
+| Vodafone | Fadime Demirerulgen ||
 | Vodafone | Filipe Corceiro ||
 | Vodafone | Gianluca Ossoli ||
 | Vodafone | Harriet Young ||
