@@ -1303,7 +1303,7 @@
 |  | Dzung Tran ||
 |  | Ersa Sandberg ||
 |  | FBI Chamber 12 ||
-|  | Har Shamore ||
+|  | Harsha More ||
 |  | Henry Yang ||
 |  | Hez Hye ||
 |  | Jaapie Krekel ||
@@ -1314,8 +1314,8 @@
 |  | M. Castrillo ||
 |  | Madhank ||
 |  | Malone Amber ||
-|  | Mea Hus ||
 |  | Michelle Carlson ||
+|  | Mohamed Hussein ||
 |  | Murat Al Rabasi ||
 |  | Ngugi Kariukid ||
 |  | Notty Able ||
