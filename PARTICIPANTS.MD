@@ -571,7 +571,6 @@
 | Infosys | Varun Pandhi ||
 | Infosys | Vemireddy Siva Sekhar Reddy ||
 | Infosys | Vijay Murthy ||
-| IALindblad.com | Ingemar Lindblad ||
 | Inovacaobrain | LUCAS SLEYDER MACHADO DICENCIO ||
 | Institute for Infocomm Research | Gary Lee ||
 | Instituto Federal da Paraiba | Ruan Delgado Gomes ||
