@@ -640,8 +640,8 @@
 | Latro | Shafiq Alassi ||
 | LCN | Rathnakumar Kayyar ||
 | Lebara | Basit Tanveer ||
-| Lenovo | Apostolis Salkintzis ||
 | Lenovo | Nick Petropouleas ||
+| Lenovo / Motorola Mobility | Apostolis Salkintzis ||
 | LFOD | Christopher Garlick ||
 | LG U+ | Jae Yeol Kim (Jerry) ||
 | Liberty Global | Awais Ahmad ||
