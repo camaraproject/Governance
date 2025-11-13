@@ -12,8 +12,8 @@
 | A1 | Manfred Moormann ||
 | A1 | Thomas Walzer ||
 | AabVin Solutions | ar Cheem ||
-| ABB | Jithin Kp ||
 | AB Handshake Corporation | Dmitry Sumin ||
+| ABB | Jithin Kp ||
 | Accenture | Adriano Poloni ||
 | Accenture | Amr Abdel Hamid ||
 | Accenture | Antonella Pantaleone ||
