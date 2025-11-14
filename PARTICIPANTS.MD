@@ -934,6 +934,7 @@
 | Simptel | Izahir Clemencia ||
 | Sinch | Harsha Appuhami Ralalage ||
 | Sinch | Mats Magnusson ||
+| Singtel | Chio Chuan Ooi ||
 | Singtel | Gilbert Tan ||
 | Singtel | Macus Chua ||
 | Singtel | Ming Hui Foo ||
