@@ -197,6 +197,7 @@
 | China Mobile | Yading Fang ||
 | China Telecom | Chen Fr. ||
 | China Telecom | Chen Z. ||
+| China Telecom | H. D. Song ||
 | China Telecom | Moyuan Sun ||
 | China Telecom | Pan By ||
 | China Telecom | V. Lieh Gd ||
