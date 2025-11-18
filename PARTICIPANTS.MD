@@ -160,7 +160,6 @@
 | Cablelabs | Travis Hepworth ||
 | Caliente | Jesus Cozain ||
 | Callsign | Jyotheeswara Malapati ||
-| Canadian Mock Trial Institute | Cmti CA ||
 | Canopus Networks | Arun Vishwanath ||
 | Capgemini | Amit Rustagi ||
 | Capgemini | Deepak A. Gunjal ||
