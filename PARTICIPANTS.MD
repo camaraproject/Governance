@@ -31,6 +31,7 @@
 | Aduna | Christer Boberg ||
 | Aduna | Courtney Latta ||
 | Aduna | Cyndi Lin ||
+| Aduna | Elisabeth Müller ||
 | Aduna | Frederic Carrier ||
 | Aduna | Joakim Uddenfeldt ||
 | Aduna | Patrick Jestin ||
@@ -363,7 +364,6 @@
 | Ericsson | Bo Fjelkner ||
 | Ericsson | Carlos Bravo ||
 | Ericsson | Cormac A. Hegarty ||
-| Ericsson | Elisabeth Müller ||
 | Ericsson | Emil Zhang ||
 | Ericsson | Fahdah Alsadhan ||
 | Ericsson | Fatih Bastan ||
