@@ -254,7 +254,7 @@ The process extends the *frozen status* logic used for API Proposals to cover al
 |-------------|----------------|
 | **Repository archived** | Repository archived on GitHub (becomes read-only with archived status badge). |
 | **Onboarding tracker closed** | Tracker issue closed with explanatory note and link to TSC confirmation. |
-| **APIBacklog.md updated** | Entry status changed to "Archived" and moved to archived section (maintaining traceability).  |
+| **APIbacklog.md updated** | Entry status changed to "Archived" and moved to archived section (maintaining traceability).  |
 | **Wiki updated** | Page moved under *Archived* section and status annotated accordingly. |
 | **Reactivation allowed** | Always possible via a new API proposal referencing the previous work. |
 
