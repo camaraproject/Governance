@@ -887,6 +887,7 @@
 | Rakuten | Rajesh Goyal ||
 | Rakuten | Ravi Chamarty ||
 | RCNX | Andrew Bale ||
+| Red Hat | Aviv Guetta ||
 | Red Hat | Hanen Garcia ||
 | Red Hat | Shujaur Mufti ||
 | Ril | Kumar Gaurav Singh ||
