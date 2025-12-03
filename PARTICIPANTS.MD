@@ -356,7 +356,6 @@
 | Ericsson | Alok D. Gupta ||
 | Ericsson | Amardeep A. Kumar ||
 | Ericsson | Andrew Pratt ||
-| Ericsson | (Andrew) Sungwoon Song ||
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Barath K. ||
 | Ericsson | Bart van Kaathoven ||
