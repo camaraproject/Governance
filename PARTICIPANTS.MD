@@ -211,6 +211,7 @@
 | China Unicom | Hel ||
 | China Unicom | Jing Hao ||
 | China Unicom | Liu Jiahui ||
+| China Unicom | Niu J. C. ||
 | China Unicom | Shuanghe Dong ||
 | China Unicom | St. Sun ||
 | China Unicom | Xiao Dr ||
