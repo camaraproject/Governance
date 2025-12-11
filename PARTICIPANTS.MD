@@ -464,7 +464,6 @@
 | GSMA | Olu Omobitan ||
 | GSMA | Reginald Cox ||
 | GSMA | Salman Khan ||
-| GSMA | Steve Russ ||
 | GSMA | Tom van Pelt ||
 | GSMA | Toyeeb Rehman ||
 | GSMA | Zhen Li ||
