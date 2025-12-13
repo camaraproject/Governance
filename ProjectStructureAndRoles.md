@@ -38,7 +38,7 @@ Each API Repository must have a README.md file (with a description of the API sc
 
 Each API Repository should have subdirectories /documentation/API_documentation, /documentation/SupportingDocuments, /code/API_definitions, and /code/Test_definitions. 
   
-API Repositories can have in addition Provider Implementation (PI) Repositories on their side. Provider Implementation Repositories only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code with API code of the transformation function Northbound --> Southbound. Only Codeowners should have write permissions to a Provider Implementation (PI) Repository. Provider Implementation Repositories have the same name as the API Repository but with suffix _-PI_.
+API Repositories can have in addition Provider Implementation (PI) Repositories on their side. Provider Implementation Repositories only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code with API code of the transformation function Northbound --> Southbound. Only Codeowners should have write permissions to a Provider Implementation (PI) Repository. Provider Implementation Repositories have the same name as the API Repository but with suffix `_PI` or `_PIn`.
 
 **Sandbox API Repositories**
 
