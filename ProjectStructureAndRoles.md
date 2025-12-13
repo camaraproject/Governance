@@ -14,7 +14,7 @@ API Repositories in CAMARA are classified with one of three stages of maturity:
 * Incubating
 * Graduated
 
-Sandbox API Repositories can initially exist independent of a Sub Project. The process for the creation of new Sandbox repositories, the transition to Incubating and Graduated API Repositories, and (potential) archiving of API Repositories is described within the [API Onboarding and Lifecycle documentation](./API-Onboarding-and-Lifecycle.md).
+Sandbox API Repositories can initially exist independent of a Sub Project. The process for the creation of new Sandbox repositories, the transition to Incubating and Graduated API Repositories, and (potential) archiving of API Repositories is described within the [API Onboarding and Lifecycle documentation](./documentation/API-Onboarding-and-Lifecycle.md).
 
 **Sub Projects**
 
@@ -24,7 +24,7 @@ Each Sub Project has a home page on the [CAMARA wiki](https://lf-camaraproject.a
 
 The wiki home page of a Sub Project should contain at least a description of the scope of the Sub Project, links to the API Repositories which are belonging to the Sub Project, the address of the mailing list on [lists.camaraproject.org](https://lists.camaraproject.org/groups), and the schedule and registration/join link of the regular meeting of the Sub Project. Sub pages should contain the meeting minutes, (informal) supporting documents and (if applicable) release information for the API Repositories of the Sub Projects as defined by the Release Management working group.
 
-A Sub Project should have at least three Maintainers. The Maintainers of a Sub Project are defined by the union of the Maintainers listed within the MAINTAINERS.md files of the API Repositories which are belonging to the Sub Project. It is recommended that there is an overlap between the Maintainers of the API Repositories of the Sub Project, but it is not mandated that all Maintainers of the Sub Project take responsibility for all API Repositories in the Sub Project.
+A Sub Project should have at least three Maintainers. The Maintainers of a Sub Project are defined by the union of the Maintainers listed within the MAINTAINERS.MD files of the API Repositories which are belonging to the Sub Project. It is recommended that there is an overlap between the Maintainers of the API Repositories of the Sub Project, but it is not mandated that all Maintainers of the Sub Project take responsibility for all API Repositories in the Sub Project.
 
 **API Repositories**
 
@@ -34,21 +34,21 @@ The following API Repositories rules shall apply for all (independent) Sandbox, 
 
 A repository must have at least one Codeowner. Repositories with branch protection rules must have at least two Codeowners. Only Codeowners should have write permissions to an API Repository. For requirements regarding the Maintainers see the definition of Sandbox, Incubating and Graduated API Repositories.
 
-Each API Repository must have a README.MD file (with a description of the API scope), a license file, a GOVERNANCE.MD file (pointing to the Governance repository), a CODEOWNERS, and a MAINTAINERS.MD file.
+Each API Repository must have a README.md file (with a description of the API scope), a license file, a GOVERNANCE.MD file (pointing to the Governance repository), a CODEOWNERS, and a MAINTAINERS.MD file.
 
 Each API Repository should have subdirectories /documentation/API_documentation, /documentation/SupportingDocuments, /code/API_definitions, and /code/Test_definitions. 
   
-API Repositories can have in addition Provider Implementation (PI) Repositories on their side. Provider Implementation Repositories only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code with API code of the transformation function Northbound --> Southbound. Only Codeowners should have write permissions to a Provider Implementation (PI) Repository. Provider Implementation Repositories have the same name as the API Repository but with suffix _-PI§x§_.
+API Repositories can have in addition Provider Implementation (PI) Repositories on their side. Provider Implementation Repositories only must have a CODEOWNERS file, a license file, a GOVERNANCE.MD file (pointing to the Governance repository) and a subdirectory /code/API_code with API code of the transformation function Northbound --> Southbound. Only Codeowners should have write permissions to a Provider Implementation (PI) Repository. Provider Implementation Repositories have the same name as the API Repository but with suffix _-PI_.
 
 **Sandbox API Repositories**
 
-A Sandbox API Repository is meant for the rapid development of a new API proposal through one or multiple initial API versions (0.x.y) until the first public release of an initial or stable API Version within the context of a CAMARA Meta-release. The work within Sandbox API Repositories - like in all API repositories - shall follow the governance and guidelines of CAMARA, including but not limited to the ProjectCharter, the Code of Conduct, the Contribution guidelines, the API Design Guidelines of Commonalities and the Release Process defined in Release Management.
+A Sandbox API Repository is meant for the rapid development of a new API proposal through one or multiple initial API versions (0.x.y) until the first public release of an initial or stable API Version within the context of a CAMARA Meta-release. The work within Sandbox API Repositories - like in all API repositories - shall follow the governance and guidelines of CAMARA, including but not limited to the Project Charter, the Code of Conduct, the Contribution guidelines, the API Design Guidelines of Commonalities and the Release Process defined in Release Management.
 
-A Sandbox API Repository can be created independent of a CAMARA Sub Project (Independent Sandbox Repository) or in context of an existing CAMARA Sub Project. It is the first stage for every new API proposal developed in CAMARA, for details see the [API Onboarding and Lifecycle documentation](./API-Onboarding-and-Lifecycle.md).
+A Sandbox API Repository can be created independent of a CAMARA Sub Project (Independent Sandbox Repository) or in context of an existing CAMARA Sub Project. It is the first stage for every new API proposal developed in CAMARA, for details see the [API Onboarding and Lifecycle documentation](./documentation/API-Onboarding-and-Lifecycle.md).
 
 * If a Sandbox API Repository belongs to a Sub Project it links within the README.md to the Sub Project wiki home page. Mailing list, meetings will be for these Sandbox API Repositories organized in context of the Sub Project. The Sub Project may already nominate or approve Maintainers for the Sandbox API Repository, which are with that also Maintainers of the Sub Project.
 
-* An Independent Sandbox API Repository which is not part of an existing Sub Project will get a page in a separate section of the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting to be able to communicate with the community and attract contributors. The MAINTAINERS.md file of an Independent Sub Project may already list contributors who are committed to the support the API Repository as Maintainers. But they are not yet Maintainers of a Sub Project in the sense of the Project Charter.
+* An Independent Sandbox API Repository which is not part of an existing Sub Project will get a page in a separate section of the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting to be able to communicate with the community and attract contributors. The MAINTAINERS.MD file of an Independent Sub Project may already list contributors who are committed to the support the API Repository as Maintainers. But they are not yet Maintainers of a Sub Project in the sense of the Project Charter.
 
 A Sandbox API Repository must have at least one Codeowner. If the Sandbox API Repository has two or more Codeowners the activation of branch protection rules is recommended.
 
@@ -56,7 +56,7 @@ Sandbox API Repositories are marked with a "Sandbox" badge in the README.md file
 
 **Incubating API Repositories**
 
-An Incubating API Repository is meant for the further evolution of an API which has been implemented already by at least one operator, fits into the CAMARA API portfolio and has gained sufficient support within the CAMARA community. For details of the transition process to Incubating stage see the [API Onboarding and Lifecycle documentation](./API-Onboarding-and-Lifecycle.md).
+An Incubating API Repository is meant for the further evolution of an API which has been implemented already by at least one operator, fits into the CAMARA API portfolio and has gained sufficient support within the CAMARA community. For details of the transition process to Incubating stage see the [API Onboarding and Lifecycle documentation](./documentation/API-Onboarding-and-Lifecycle.md).
 
 An Incubating API Repository has the same structure as a Sandbox API Repository, with the following additional requirements: 
 * An Incubating API Repository must belong to a CAMARA Sub Project (either an existing one or a new Sub Project created as part of the incubation process). 
@@ -68,7 +68,7 @@ Incubating API Repositories are marked with an "Incubating" badge in the README.
 
 **Graduated API Repositories**
 
-A Graduated API Repository maintains a stable CAMARA API which has been widely adopted within the market. Details of the Graduation process will be defined within the [API Onboarding and Lifecycle documentation](./API-Onboarding-and-Lifecycle.md). 
+A Graduated API Repository maintains a stable CAMARA API which has been widely adopted within the market. Details of the Graduation process will be defined within the [API Onboarding and Lifecycle documentation](./documentation/API-Onboarding-and-Lifecycle.md). 
 
 Graduated API Repositories have no additional technical requirements compared to Incubating API Repositories. It is important that the Sub Project ensures that there is a succession management for leaving Maintainers and Codeowners in place.
 
@@ -78,7 +78,7 @@ Graduated API Repositories are marked with a "Graduated" badge in the README.md 
 
 Working Groups are primarily used to facilitate topics of discussion that are in scope for the CAMARA Project but that are short-lived or that span multiple Sub Projects. If a subset of Project participants wants to get together and discuss a topic, they can do so by forming a Working Group. The Technical Steering Committee (TSC) decides upon implementing or removing Working Groups, and their Maintainers.
 
-Working Groups are documented in a separate section of [CAMARA wiki](https://lf-camaraproject.atlassian.net/) and can have one or multiple GitHub repositories following the API Repository template (the rules for API Repositories apply). In the Readme.md file the repositories of Working Groups are marked with a "Working Group" badge.
+Working Groups are documented in a separate section of [CAMARA wiki](https://lf-camaraproject.atlassian.net/) and can have one or multiple GitHub repositories following the API Repository template (the rules for API Repositories apply). In the README.md file the repositories of Working Groups are marked with a "Working Group" badge.
 
 **Repositories Rules**
 
@@ -95,7 +95,7 @@ A Project wide mailing list is established, each Project participant documented 
 ## Changes and contributions to CAMARA ##
 
 In the Project the “Fork and pull model” is used. Changes and contributions to CAMARA shall follow this process:
-![PR_Approval_Process](/documentation/images/PR_Approval_Process.png)
+![PR_Approval_Process](./documentation/images/PR_Approval_Process.png)
 
 1 All changes / contributions shall start with an issue to which initial documents, API definitions or code can be attached. The issue should be discussed in the Sub Project community before working out the best form of action. By means of the issue the traceability of the contributions to CAMARA is also ensured. In addition as general rule there shall be no (later) pull request without a reference to an issue (except minor corrections, to be labeled as “minor”).
 
@@ -112,7 +112,7 @@ Now they can work on the solution and add commits to the branch. If they are don
 6 Finally one of the Codeowners of the repository shall merge the pull request into the main branch. By that the Codeowner closes the pull request. The Codeowner also shall close the branch and the issue (if not already automatically done).
 Deliverables of the Sub Project are all artifacts in the main branch of its repositories.
 
-More details can be found in the [CONTRIBUTING.MD](https://github.com/camaraproject/Governance/blob/main/CONTRIBUTING.md).
+More details can be found in the [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Working Groups ##
 
@@ -122,7 +122,7 @@ The API Backlog Working Group is supervised by the TSC. The responsibilities of 
 
 The decision about new Sandbox API Repositories will be taken by the Working Group. Decision about the transition to Incubating or Graduated stage, and the onboarding of new Sub Projects will be taken by the TSC. Changes of existing Sub Projects have to be approved by the involved Sub Projects.
 
-The API onboarding and API lifecycle process in CAMARA are described in the [API Onboarding and Lifecycle documentation](./API-Onboarding-and-Lifecycle.md).
+The API onboarding and API lifecycle process in CAMARA are described in the [API Onboarding and Lifecycle documentation](./documentation/API-Onboarding-and-Lifecycle.md).
 
 **Commonalities**
 
@@ -165,7 +165,7 @@ To be listed in [PARTICIPANTS.MD](./PARTICIPANTS.MD) is prerequisite for getting
 
 **Changes in Project participation**
 
-A new Project participant can get Project participation by sending a message to <all+subscribe@lists.camaraproject.org>. Changes in Project participantship have to be announced on the CAMARA Project mailing list by the new participant. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy).
+A new Project participant can get Project participation by sending a message to <all+subscribe@lists.camaraproject.org>. Changes in Project participation have to be announced on the CAMARA Project mailing list by the new participant. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy).
 
 A Project participant may resign by notifying the team mailing list and by sending a message to <all+unsubscribe@lists.camaraproject.org>. A Project participant with no project activity for a year is considered to have resigned. Project participants that wish to resign are encouraged to propose another Project participant to take over their project work.
 
@@ -187,13 +187,13 @@ Codeowners can merge code and accept pull requests. A Codeowner is responsible f
 
 Maintainers are the leaders of a Sub Project or Working Group. Maintainers are first and foremost contributors who have shown a commitment to the long-term success of the Project. Contributors wanting to become Maintainers are expected to be deeply involved in contributing code, pull request review, and issue triaging issues in a Repository of the Project for a minimum of three months and perform an ongoing contribution to the Project.
 
-Note: Project participants listed within the MAINTAINERS.md file of an Independent Sandbox API Repository are candidates to get Maintainers when the API Repository gets part of a Sub Project, but are not yet Maintainers of a Sub Project in the context of the Project Governance. However, the following description of the role should also apply to them.
+Note: Project participants listed within the MAINTAINERS.MD file of an Independent Sandbox API Repository are candidates to get Maintainers when the API Repository gets part of a Sub Project, but are not yet Maintainers of a Sub Project in the context of the Project Governance. However, the following description of the role should also apply to them.
 
 **Changes in maintainership**
 
 When creating a new Sub Project or Working Group the TSC also nominates the initial Maintainers for the repository/ies of the new Sub Project or Working Group. After that the Maintainers of a Sub Project or Working Group decide upon the maintainership of the Repositories belonging to the Sub Project or Working Group.
 
-The merge of two Sub Projects, the move of an API Repository from one Sub Project to another Sub Project, or the adoption of an Independent Sandbox API Repository by a Sub Project need the consensus of the the Maintainers of the involved Sub Projects. The resulting Maintainer team(s) of the Sub Project(s) are again defined as the union of the Maintainers of the API Repositories of the Sub Project(s) (see above). 
+The merge of two Sub Projects, the move of an API Repository from one Sub Project to another Sub Project, or the adoption of an Independent Sandbox API Repository by a Sub Project need the consensus of the Maintainers of the involved Sub Projects. The resulting Maintainer team(s) of the Sub Project(s) are again defined as the union of the Maintainers of the API Repositories of the Sub Project(s) (see above). 
 
 Changes in maintainership of a Sub Project have to be announced on the mailing list of the Sub Project. They are decided  by [lazy consensus ](https://couchdb.apache.org/bylaws.html#lazy) by all Maintainers of a Sub Project and formalized by changing the MAINTAINERS.MD file of the respective API Repository/ies.
 
