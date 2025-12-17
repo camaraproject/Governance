@@ -738,6 +738,7 @@
 | Nearby Computing | Sergi Alonso ||
 | NEC | Neeraj Mehta ||
 | Net Check GmbH | Sanjeev Shankar ||
+| NetAPI Telecom | Ngugi Kariukid ||
 | Netcracker | Manoj K. Nair ||
 | Netcracker | Pavel Zvezdin ||
 | NetCube | Dong-ho Yu ||
@@ -1319,7 +1320,6 @@
 |  | Michelle Carlson ||
 |  | Mohamed Hussein ||
 |  | Murat Al Rabasi ||
-|  | Ngugi Kariukid ||
 |  | Notty Able ||
 |  | P. Das ||
 |  | Pat Conil ||
