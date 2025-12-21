@@ -26,7 +26,6 @@
 | Accenture | Mohamed E. Ali ||
 | Accenture | Tejas Rao ||
 | ACL Digital | Sagar Suresh Nangare ||
-| ActiveCampaign | David Galante ||
 | Aduna | Alicia Miller ||
 | Aduna | Christer Boberg ||
 | Aduna | Courtney Latta ||
