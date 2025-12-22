@@ -564,6 +564,7 @@
 | Infosys | Gnanapriya Chidambaranathan ||
 | Infosys | Hemanta Gogoi ||
 | Infosys | Praveen Kumar Kalapatapu ||
+| Infosys | Ravi M. ||
 | Infosys | Shiv Prakash Ojha ||
 | Infosys | Suman Sarkar ||
 | Infosys | Varun Pandhi ||
