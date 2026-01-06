@@ -42,7 +42,6 @@
 | Airtime Rewards | Annika Fuchs ||
 | AIS | Boonchoung Tansuthepverawongse ||
 | AIS | Paramet Kongjaroen ||
-| Akross | Saulo Zimbaro ||
 | Alianza | Dag Peak ||
 | Alicon | Ike Alisson ||
 | Almuqueet Systems | Zaffar Owais Andrabi ||
