@@ -1011,6 +1011,7 @@
 | TCS | Prateek Vashisht ||
 | TCS | Priya Chopra ||
 | TCS | Rajeev Gokana ||
+| TCS | Rashiqa Jameel ||
 | TCS | Sibasish Pradhan ||
 | TCS | Suvasree Basu ||
 | TechMahindra | Amandeep Singh ||
