@@ -359,7 +359,6 @@
 | Ericsson | Barath K. ||
 | Ericsson | Bart van Kaathoven ||
 | Ericsson | Benedek Kovács ||
-| Ericsson | Bo Fjelkner ||
 | Ericsson | Carlos Bravo ||
 | Ericsson | Cormac A. Hegarty ||
 | Ericsson | Emil Zhang ||
