@@ -372,6 +372,7 @@
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Kamel Idir ||
+| Ericsson | Kamran Keykhosravi ||
 | Ericsson | Kevin Newell ||
 | Ericsson | Kishor Kumar A. ||
 | Ericsson | Klaus Schneider ||
