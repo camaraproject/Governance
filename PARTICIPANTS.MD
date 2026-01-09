@@ -1005,6 +1005,7 @@
 | Tata Elxsi | Ankush Gupta ||
 | Tata Elxsi | Jayaprakash Govindarajulu ||
 | Tayana | Anand Patil ||
+| TCS | Krishnan Varun Venkata ||
 | TCS | Pramath Jha ||
 | TCS | Pranay Rsahay ||
 | TCS | Prateek Vashisht ||
