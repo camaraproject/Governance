@@ -6,6 +6,7 @@
 | 1rstwap | Alex Sandra ||
 | 5G Mag | Jordi Joan Gimenez ||
 | 6D Tech | Asifali Muhammed ||
+| 6D Tech | Himabindu Gonchicar ||
 | 6D Tech | Rahul Kumar ||
 | 8x8 | Anton Shchekalov ||
 | A1 | Arnold Pfeiffer ||
@@ -354,6 +355,7 @@
 | Ericsson | Alok D. Gupta ||
 | Ericsson | Amardeep A. Kumar ||
 | Ericsson | Andrew Pratt ||
+| Ericsson | Annika Ahlberg ||
 | Ericsson | Arun Raghuramu ||
 | Ericsson | Barath K. ||
 | Ericsson | Bart van Kaathoven ||
@@ -513,7 +515,6 @@
 | Hutchison | Sandra Ondrusova ||
 | Hutchison | Stefano Falsetto ||
 | I2Cat | Reza Mosahebfard ||
-| I2Cat | Sergio Giménez Antón ||
 | IALindblad.com | Ingemar Lindblad ||
 | IamCrypto | Yevhen Barbarchuk ||
 | iBasis | Nicola Tamma ||
