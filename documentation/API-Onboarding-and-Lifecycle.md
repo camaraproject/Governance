@@ -164,7 +164,7 @@ The Sandbox stage is the entry point for all new APIs. It is designed for experi
 - Open for contributions from any participant in the CAMARA Project.
 - No guarantees of stability or long-term support.
 - Can be initially independent, but should aim to either get accepted by an existing CAMARA Sub Project or to build up the necessary prerequisites to be able to apply for the creation of a new CAMARA Sub Project during Incubation.
-- A Sandbox API Repository which is not part of an existing Sub Project will get a Wiki page (in the Sandbox section), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting for their communication.
+- A Sandbox API Repository which is not part of an existing Sub Project will get a Wiki page (in the Sandbox section), a preliminary mailing list and (on request) a Zoom meeting for their communication.
 
 **Requirements:**
 - The scope of the proposed API and initial use cases are described and fit in general into the scope of CAMARA.
@@ -185,7 +185,7 @@ APIs in the Incubating stage have shown early promise with initial adoption and 
 
 **Characteristics:**
 - API(s) specified in an Incubating API repository warranty stability and long-term support.
-- An Incubating API repository is part of a CAMARA Sub Project with a sub project Wiki Page, mailing list, Slack channel and Zoom meeting for communication.
+- An Incubating API repository is part of a CAMARA Sub Project with a sub project Wiki Page, mailing list and Zoom meeting for communication.
 - **Can release Initial and Stable API versions.**
 
 **Requirements:**

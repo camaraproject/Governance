@@ -48,7 +48,7 @@ A Sandbox API Repository can be created independent of a CAMARA Sub Project (Ind
 
 * If a Sandbox API Repository belongs to a Sub Project it links within the README.md to the Sub Project wiki home page. Mailing list, meetings will be for these Sandbox API Repositories organized in context of the Sub Project. The Sub Project may already nominate or approve Maintainers for the Sandbox API Repository, which are with that also Maintainers of the Sub Project.
 
-* An Independent Sandbox API Repository which is not part of an existing Sub Project will get a page in a separate section of the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), a preliminary mailing list, a Slack channel, and (on request) a Zoom meeting to be able to communicate with the community and attract contributors. The MAINTAINERS.MD file of an Independent Sub Project may already list contributors who are committed to the support the API Repository as Maintainers. But they are not yet Maintainers of a Sub Project in the sense of the Project Charter.
+* An Independent Sandbox API Repository which is not part of an existing Sub Project will get a page in a separate section of the [CAMARA wiki](https://lf-camaraproject.atlassian.net/), a preliminary mailing list and (on request) a Zoom meeting to be able to communicate with the community and attract contributors. The MAINTAINERS.MD file of an Independent Sub Project may already list contributors who are committed to the support the API Repository as Maintainers. But they are not yet Maintainers of a Sub Project in the sense of the Project Charter.
 
 A Sandbox API Repository must have at least one Codeowner. If the Sandbox API Repository has two or more Codeowners the activation of branch protection rules is recommended.
 
