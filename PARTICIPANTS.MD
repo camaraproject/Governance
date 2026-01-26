@@ -475,7 +475,7 @@
 | HCL | Ramyang Pandya ||
 | HCL | Razat Trehan ||
 | HCL | Sharma Dee ||
-| Hexagon Group | Muhammad Bilal Khan ||
+| Heksagon Group | Muhammad Bilal Khan ||
 | HGC | Ashwin Nabil Careem ||
 | HGC | Niklas Bergvall ||
 | Hiya | Anthony Mendonca ||
