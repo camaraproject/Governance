@@ -321,5 +321,33 @@ The process extends the *frozen status* logic used for API Proposals to cover al
 | **Wiki updated** | Page moved under *Archived* section and status annotated accordingly. |
 | **Reactivation allowed** | Always possible via a new API proposal referencing the previous work. |
 
+### Archived repository communication requirements
+
+When an API repository is transitioned to **Archived**, the following communication changes MUST be applied to ensure clarity and traceability:
+
+1) **GitHub repository topics**
+   - Add topic: `archived-api-repository`
+
+2) **README.md status notice**
+   Add a warning block at the top of the README to clearly state that:
+   - The repository is **Archived** and kept for historical reference / maintenance of previous releases only.
+   - The archival decision is traceable to:
+     - The corresponding **APIBacklog issue/TSC decision** (decision record)
+     - This **Lifecycle Clean-up Process** section (policy reference)
+
+   **Standard template (to be copied into README.md):**
+
+   > ⚠️ **Repository archived**
+   >
+   > This repository has been archived following the CAMARA **Lifecycle Clean-up Process** and is kept for reference / maintenance of previous releases only.
+   >
+   > - Decision record (API Backlog/TSC): <LINK_TO_APIBACKLOG_ISSUE>
+   > - Lifecycle policy: <LINK_TO_LIFECYCLE_SECTION_ANCHOR>
+   > - Reason or Phase of the process: <PHASE_A_B_C_D>
+
+3) **Traceability**
+   - The archival PR SHOULD reference the APIBacklog issue.
+   - The APIbacklog SHOULD show the change in the `documentation/APIbacklog.md` table.
+
 ### Governance Ownership
 The **API Backlog Working Group** owns and executes this process under **TSC oversight**.   All actions are traceable via GitHub and documented in the CAMARA Wiki after each meta-release review.
