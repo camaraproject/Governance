@@ -300,7 +300,7 @@ The process extends the *frozen status* logic used for API Proposals to cover al
 - **TSC involvement** is required before any archival:  
   - **Phase A–B:** TSC is informed and may confirm archival.  
   - **Phase C–D:** TSC must formally approve archival.  
-- Reactivation is always possible through a **new API Proposal referencing the archived asset**.
+- Reactivation is always possible through a **new API issue referencing the archived asset**.
 
 ### Archival Criteria per Phase
 
@@ -319,7 +319,17 @@ The process extends the *frozen status* logic used for API Proposals to cover al
 | **Onboarding tracker closed** | Tracker issue closed with explanatory note and link to TSC confirmation. |
 | **APIbacklog.md updated** | Entry status changed to "Archived" and moved to archived section (maintaining traceability).  |
 | **Wiki updated** | Page moved under *Archived* section and status annotated accordingly. |
-| **Reactivation allowed** | Always possible via a new API proposal referencing the previous work. |
+| **Reactivation allowed** | Always possible via a new Subproject management (issue) referencing the previous work. |
+
+### Reactivation of archived repositories
+
+If a contributor believes an archived repository should become active again, the request MUST be made via a **new Subproject Management issue** in the API Backlog, explicitly referencing the archived repository as the baseline.
+
+Follow the standard process and include:
+- the rationale for reactivation,
+- the archived issue of the repository, 
+- confirmed maintainers/codeowners,
+- and plans to continue with next versions in subsequent meta-releases.
 
 ### Archived repository communication requirements
 
@@ -343,7 +353,8 @@ When an API repository is transitioned to **Archived**, the following communicat
    >
    > - Decision record (API Backlog/TSC): <LINK_TO_APIBACKLOG_ISSUE>
    > - Lifecycle policy: <LINK_TO_LIFECYCLE_SECTION_ANCHOR>
-   > - Reason or Phase of the process: <PHASE_A_B_C_D>
+   > - Reason or Phase of the process: <LINK_TO_SECTION_PHASE_A_B_C_D>
+   > - Request reactivation: submit a new issue in APIBacklog referencing this archived repository: <LINK_TO_REACTIVATION_SECTION>
 
 3) **Traceability**
    - The archival PR SHOULD reference the APIBacklog issue.
