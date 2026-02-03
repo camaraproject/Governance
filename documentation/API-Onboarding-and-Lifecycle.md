@@ -300,7 +300,7 @@ The process extends the *frozen status* logic used for API Proposals to cover al
 - **TSC involvement** is required before any archival:  
   - **Phase A–B:** TSC is informed and may confirm archival.  
   - **Phase C–D:** TSC must formally approve archival.  
-- Reactivation is always possible through a **new API Proposal referencing the archived asset**.
+- Reactivation is always possible through a **new API issue referencing the archived asset**.
 
 ### Archival Criteria per Phase
 
@@ -319,7 +319,46 @@ The process extends the *frozen status* logic used for API Proposals to cover al
 | **Onboarding tracker closed** | Tracker issue closed with explanatory note and link to TSC confirmation. |
 | **APIbacklog.md updated** | Entry status changed to "Archived" and moved to archived section (maintaining traceability).  |
 | **Wiki updated** | Page moved under *Archived* section and status annotated accordingly. |
-| **Reactivation allowed** | Always possible via a new API proposal referencing the previous work. |
+| **Reactivation allowed** | Always possible via a new Subproject management (issue) referencing the previous work. |
+
+### Reactivation of archived repositories
+
+If a contributor believes an archived repository should become active again, the request MUST be made via a **new Subproject Management issue** in the API Backlog, explicitly referencing the archived repository as the baseline.
+
+Follow the standard process and include:
+- the rationale for reactivation,
+- the archived issue of the repository, 
+- confirmed maintainers/codeowners,
+- and plans to continue with next versions in subsequent meta-releases.
+
+### Archived repository communication requirements
+
+When an API repository is transitioned to **Archived**, the following communication changes MUST be applied to ensure clarity and traceability:
+
+1) **GitHub repository topics**
+   - Add topic: `archived-api-repository`
+
+2) **README.md status notice**
+   Add a warning block at the top of the README to clearly state that:
+   - The repository is **Archived** and kept for historical reference / maintenance of previous releases only.
+   - The archival decision is traceable to:
+     - The corresponding **APIBacklog issue/TSC decision** (decision record)
+     - This **Lifecycle Clean-up Process** section (policy reference)
+
+   **Standard template (to be copied into README.md):**
+
+   > ⚠️ **Repository archived**
+   >
+   > This repository has been archived following the CAMARA **Lifecycle Clean-up Process** and is kept for reference / maintenance of previous releases only.
+   >
+   > - Decision record (API Backlog/TSC): <LINK_TO_APIBACKLOG_ISSUE>
+   > - Lifecycle policy: <LINK_TO_LIFECYCLE_SECTION_ANCHOR>
+   > - Reason or Phase of the process: <LINK_TO_SECTION_PHASE_A_B_C_D>
+   > - Request reactivation: submit a new issue in APIBacklog referencing this archived repository: <LINK_TO_REACTIVATION_SECTION>
+
+3) **Traceability**
+   - The archival PR SHOULD reference the APIBacklog issue.
+   - The APIbacklog SHOULD show the change in the `documentation/APIbacklog.md` table.
 
 ### Governance Ownership
 The **API Backlog Working Group** owns and executes this process under **TSC oversight**.   All actions are traceable via GitHub and documented in the CAMARA Wiki after each meta-release review.
