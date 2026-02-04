@@ -1100,6 +1100,7 @@
 | TELUS | Sana Tariq ||
 | TELUS | Theohar Konomi ||
 | TesTime Limited  | Eleph Kwong ||
+| Thales Group | David Bohaty ||
 | The Leading Path | Daniel Kibler ||
 | Three UK | Jason Tesh ||
 | Thrustvector | Doug Eng ||
