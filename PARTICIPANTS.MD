@@ -71,7 +71,6 @@
 | ARPU Plus | Ahmed Serag ||
 | Asiainfo | Liz W. ||
 | Asiainfo | Zhang L. H. ||
-| AT&T | Andy Fuller ||
 | AT&T | Barry Elia ||
 | AT&T | Catherine Lefevre ||
 | AT&T | Dan Druta ||
