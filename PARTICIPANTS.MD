@@ -651,6 +651,7 @@
 | Liberty Global | Wynn Rees ||
 | LinuxFoundation | Arpit Joshipura ||
 | LinuxFoundation | Casey Cain ||
+| LinuxFoundation | Chris Clark ||
 | LinuxFoundation | Crystal Kim Pham ||
 | LinuxFoundation | Daphne Marja Bunao ||
 | LinuxFoundation | Evan Harrison ||
