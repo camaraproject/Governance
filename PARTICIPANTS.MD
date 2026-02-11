@@ -1297,7 +1297,6 @@
 |  | Akintun Desemiu ||
 |  | Bien Uet ||
 |  | Boudane ||
-|  | C. J. ||
 |  | Carlos Vazbagper ||
 |  | Cormac Hegarty ||
 |  | Cristina Martinez ||
