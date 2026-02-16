@@ -414,6 +414,7 @@
 | F5 | Raffaele D'Albenzio ||
 | FarEasTone Telecom | Meytsai ||
 | Fido | Francesco Panina ||
+| Fior Group | David Williams ||
 | First Orion | Rob Sewell ||
 | Flying River | Gareth Hewlett ||
 | Flyp | Kyle Warnsley ||
