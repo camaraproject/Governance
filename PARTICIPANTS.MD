@@ -985,6 +985,7 @@
 | T-Mobile US | Antoine Egho ||
 | T-Mobile US | Anup Koyadan Chathoth ||
 | T-Mobile US | Anup Sharma ||
+| T-Mobile US | Ayako Yamaguchi ||
 | T-Mobile US | Deepak Jaiswal ||
 | T-Mobile US | Luis Eduardo Colon ||
 | T-Mobile US | Lyle Bertz ||
