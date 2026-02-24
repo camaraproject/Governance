@@ -1219,6 +1219,7 @@
 | Vodafone | Joao Gaspar da Silva ||
 | Vodafone | Joao Ribas Fernandes ||
 | Vodafone | Johanna Wood ||
+| Vodafone | Katy Litchfield ||
 | Vodafone | Kevan Taylor ||
 | Vodafone | Kevin Scarr ||
 | Vodafone | Kevin Smith ||
