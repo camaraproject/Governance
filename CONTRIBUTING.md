@@ -28,6 +28,16 @@ If you have questions about one of the issues, please comment on them, and one o
 
 Please provide as much context as possible when you open an issue. The information you provide must be comprehensive enough to reproduce that issue for the assignee. Therefore, contributors may use but aren't restricted to the issue template provided by the project maintainers.
 
+### Guidance for closing issues
+* As per the [ProjectCharter](https://github.com/camaraproject/Governance/blob/5fc802713d71a51da64136f692b16ed620eeffa5/ProjectCharter.md), The default decision making mechanism for the CAMARA Project is [lazy consensus](https://couchdb.apache.org/bylaws.html#lazy). This means that any decision on technical issues is considered supported by the team as long as nobody objects based on substantiated technical grounds.
+* Once consensus is achieved, an issue may be closed by the original author or by a maintainer in the sub-project (if not closed by a Pull Request merge, where the issue is linked as getting fixed, see below)
+* Closing an issue should include a comment on how it was resolved or why it won't be resolved
+
+
+* A sub-project participant may object to closure of an issue if they believe consensus was not reached, in which case they may reopen the issue, stating they believe consensus has not been reached.
+* Closure of an issue may require closure of a Pull Request which only fixed that single (now closed) issue.
+
+
 ## Contributing Code
 
 You are welcome to contribute code in order to fix a bug or to implement a new feature.
