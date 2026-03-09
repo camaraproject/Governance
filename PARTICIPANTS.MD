@@ -371,6 +371,7 @@
 | Ericsson | Istvan Andras Horvath ||
 | Ericsson | Jan Friman ||
 | Ericsson | Jimmy Ahlberg ||
+| Ericsson | Jim Feng ||
 | Ericsson | Joachim Dahlgren ||
 | Ericsson | Kamel Idir ||
 | Ericsson | Kamran Keykhosravi ||
