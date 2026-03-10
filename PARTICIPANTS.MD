@@ -1185,6 +1185,7 @@
 | Verizon | Raghuram Parvataneni ||
 | Verizon | Santhi Dharmapalan ||
 | Verizon | Shammi Naz Amin ||
+| Verizon | Stanislav Chuprin ||
 | Verizon | Sudhakar Patil ||
 | Verizon | Syed A Rehman ||
 | Verizon | Thomas Huang ||
