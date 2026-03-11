@@ -1229,6 +1229,7 @@
 | Vodafone | Mariusz Dawidowicz ||
 | Vodafone | Marta Martin Bravo ||
 | Vodafone | Michael Thomas Charles ||
+| Vodafone | Mihaela Sandru ||
 | Vodafone | Nevin Aquinas ||
 | Vodafone | Ozge Albaz ||
 | Vodafone | Ralph-Joachim Gramberg ||
