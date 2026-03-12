@@ -607,7 +607,6 @@
 | KDDI | Brian Vaughn ||
 | KDDI | K. C. Yamamoto ||
 | KDDI | Keichi Okonogi ||
-| KDDI | Kiyoto Shinomura ||
 | KDDI | Kosuke Koiwai ||
 | KDDI | Masaharu Hattori ||
 | KDDI | Masaki Suzuki ||
