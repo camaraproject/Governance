@@ -927,6 +927,7 @@
 | Shabodi | Manish Kumar ||
 | Shabodi | Mehdi Jafarizadeh ||
 | Shabodi | Nitin Sood ||
+| Shabodi | Ramesh Kaza ||
 | Shabodi | Surin Rao ||
 | Shabodi | Umair Ali Rashid ||
 | Shabodi | Vikram Chopra ||
