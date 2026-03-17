@@ -1255,6 +1255,7 @@
 | Vonage | Jose Maria Recio ||
 | Vonage | Lou Blatt ||
 | Vonage | Matthew Fredrickson ||
+| Vonage | Max Maggini ||
 | Vonage | Qaunain Meghjee ||
 | VROMBR | Michael Pastor ||
 | VROMBR | Titouan Vatonne ||
