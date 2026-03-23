@@ -1169,6 +1169,7 @@
 | Verizon | Bjorn Hjelm ||
 | Verizon | Christian Guirnalda ||
 | Verizon | Dennis Wukovits ||
+| Verizon | Dongxu Shan ||
 | Verizon | Doug Walker ||
 | Verizon | Jeremy Giese ||
 | Verizon | Josh Arensberg ||
