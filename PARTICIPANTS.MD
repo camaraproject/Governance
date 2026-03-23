@@ -242,6 +242,7 @@
 | Cognizant | Manish Jain ||
 | Cognizant | Siddharth Prakash Khatri ||
 | Cognizant | Vigneshwaran Suresh ||
+| Coin | Willem van den Bosch ||
 | Colony Networks | Adriano Carmezim ||
 | Colony Networks | Kevin Lu ||
 | Colony Networks | Michael Kuhlmann ||
