@@ -1161,6 +1161,7 @@
 | University of Iran Science and Technology | Atefe Naderi ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
+| University of Patras | Dimitris Giannopoulos ||
 | University of Wuhan | Wrb Math Cs ||
 | Unryo | Michel Foix ||
 | Upstream Systems | Nikos Fotiou ||
