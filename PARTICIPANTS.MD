@@ -445,7 +445,6 @@
 | Google Cloud | Giorgio Conte ||
 | Google Cloud | Jonathan Varsanik ||
 | Google Cloud | Qi Tang ||
-| Google Cloud | Rittwik Jana ||
 | Google Cloud | Samantha Yu ||
 | Google Cloud | Sridhar Gollapudi ||
 | Google Cloud | Stella Loh ||
