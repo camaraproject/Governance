@@ -527,6 +527,7 @@
 | IBM | Yusuf Mirza ||
 | IBM | Zygmunt Lozinski ||
 | ICCS | Georgios Drainakis ||
+| ICCS | Stratis Myritzis ||
 | ICT Consult | Kim Jones ||
 | IDC | John Byrne ||
 | IEEE | Mak Saleh ||
