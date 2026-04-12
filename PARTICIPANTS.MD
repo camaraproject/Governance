@@ -628,6 +628,7 @@
 | KPN | Huub Appelboom ||
 | KPN | Leon Den Elsen ||
 | KPN | Marco Geurden ||
+| KPN | Pieter Span ||
 | KPN | Sjoerd Visser ||
 | KPN | Tony Spooner ||
 | KPN | Zoran Milisav ||
