@@ -1168,6 +1168,7 @@
 | Upstream Systems | Nikos Fotiou ||
 | Vay | Jesus Gonzalez Tejeria ||
 | Vdotok AB | Zohaib Khan ||
+| Venture Labs | Patrick ||
 | Verizon | Ankita Kohli ||
 | Verizon | Anna Keramaty ||
 | Verizon | Bjorn Hjelm ||
