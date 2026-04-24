@@ -837,6 +837,7 @@
 | ORANGE | Gilles Renoux ||
 | ORANGE | Guillaume Nevicato ||
 | ORANGE | Guy Vidal ||
+| ORANGE | Jacem Guezguez ||
 | ORANGE | Jean Luc Sire ||
 | ORANGE | John Eisenman ||
 | ORANGE | Julien Lemotheux ||
@@ -1159,6 +1160,7 @@
 | Universidade Federal de Campina Grande | Raniel Miranda Dourado ||
 | Universidade Federal de Campina Grande | Victor de Sousa Veríssimo ||
 | Universitade de Aveiro | Sousa Bento ||
+| University of Colorado Boulder | Jason K. Schnitzer ||
 | University of Iran Science and Technology | Atefe Naderi ||
 | University of Oulu | Jean Cerrillo Fernandez ||
 | University of Patras | Christos Tranoris ||
