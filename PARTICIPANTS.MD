@@ -724,6 +724,7 @@
 | Motive | Thomas Hsu ||
 | Movilgate | Javier De Luca ||
 | Movilgate | Mario Fernando Toro ||
+| MTech247 | Mustyken Usman Flames ||
 | MTN Group South Africa | Krishna Venkatachalam ||
 | MTN Group South Africa | Sanjay Chaurasia ||
 | MTN Group South Africa | Waseem Amra ||
