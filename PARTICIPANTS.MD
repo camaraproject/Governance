@@ -417,7 +417,7 @@
 | FarEasTone Telecom | Meytsai ||
 | Fido | Francesco Panina ||
 | Fior Group | David Williams ||
-| First Orion | Rob Sewell ||
+| First Orion | Rob Piscopo ||
 | Flying River | Gareth Hewlett ||
 | Flyp | Kyle Warnsley ||
 | Foo | Ziad Hawwa ||
