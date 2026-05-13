@@ -370,6 +370,7 @@
 | Ericsson | Henrik Voigt ||
 | Ericsson | Hubert Przybysz ||
 | Ericsson | Istvan Andras Horvath ||
+| Ericsson | Ivan Bakusic ||
 | Ericsson | Jan Friman ||
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Jim Feng ||
