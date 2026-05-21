@@ -37,6 +37,7 @@
 | Aduna | Patrick Jestin ||
 | Aduna | Vikas Singhal ||
 | Aegis Mobile | Don Holloway ||
+| Agriyields | Brian Lwetutte ||
 | Airtel India | Hrushikesh Reddy Yelampalli ||
 | Airtel India | Ramit Chawla ||
 | Airtime Rewards | Adam Ward ||
