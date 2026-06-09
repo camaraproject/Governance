@@ -856,6 +856,7 @@
 | ORANGE | Sebastian Dewet ||
 | ORANGE | Stephane Guelec ||
 | ORANGE | Sylvain Morel ||
+| ORANGE | Yannick Le Saout ||
 | ORANGE Caraibe | Renaud Jarnier ||
 | ORI | José Domingos ||
 | Outris | Saurabh Sethi ||
