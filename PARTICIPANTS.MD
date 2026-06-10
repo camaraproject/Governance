@@ -1068,7 +1068,6 @@
 | Telefonica | Fernando Guillot ||
 | Telefonica | Fernando Prado Cabrillo ||
 | Telefonica | Iván Izaguirre ||
-| Telefonica | Javier Carro Calabor ||
 | Telefonica | Javier Ferreiro Garcia Jimenez ||
 | Telefonica | Javier Villa Labarra ||
 | Telefonica | Jesus Maria Martin Garcia ||
@@ -1089,7 +1088,6 @@
 | Telefonica | Rodrigo Partearroyo Gonzalez ||
 | Telefonica | Ruben Barrado Gonzalez ||
 | Telefonica | Sameer Jain ||
-| Telefonica | Violeta Gonzalez Fernandez ||
 | Telenor | Soheil Chohan ||
 | Telesmart | Bulent Tuncel ||
 | Telestratum | Balakrishnan Chittor Rajagopal ||
