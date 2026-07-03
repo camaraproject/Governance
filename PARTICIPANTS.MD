@@ -782,7 +782,6 @@
 | Nokia | Samuel Adeyemo ||
 | Nokia | Sharanabasappa S. Hatti ||
 | Nokia | Shkumbin Hamiti ||
-| Nokia | Tanja de Groot ||
 | Nokia | Uwe Rauschenbach ||
 | Nokia | William Stanley ||
 | Nokia | Yashin Mahabir ||
@@ -1355,6 +1354,7 @@
 |  | Sramal Zamzami ||
 |  | Sridhar Paiyya ||
 |  | Szha0138monash ||
+|  | Tanja de Groot ||
 |  | Tousif Ahmed ||
 |  | Wen Nemenzo ||
 |  | Xiao-Long ZHOU ||
