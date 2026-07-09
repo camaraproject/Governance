@@ -250,7 +250,6 @@
 | Colony Networks | Kevin Lu ||
 | Colony Networks | Michael Kuhlmann ||
 | Comcast | Prasad Ramanahally Siddalinga ||
-| Comcast | Richard Woundy ||
 | Comtech | Jamie Hart ||
 | Comviva | Aishwarya Abhijit Javkhedkar ||
 | Comviva | Anindita Raychoudhuri ||
