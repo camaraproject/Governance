@@ -1195,6 +1195,7 @@
 | Verizon | Priyanka Shah ||
 | Verizon | Raghuram Parvataneni ||
 | Verizon | Santhi Dharmapalan ||
+| Verizon | Sean Edwards ||
 | Verizon | Shammi Naz Amin ||
 | Verizon | Stanislav Chuprin ||
 | Verizon | Sudhakar Patil ||
