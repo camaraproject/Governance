@@ -682,6 +682,7 @@
 | Madison | Victor Javier Quirog ||
 | Manual da Web | Alex ||
 | Masmovil | Maria Segundo Romero ||
+| Masorange | Jose Antonio Garcia Flores ||
 | Matrixx | Elisabeth Andersson ||
 | Mavenir | Dejan Leskaroski ||
 | Mavenir | Hardik Gondalia ||
