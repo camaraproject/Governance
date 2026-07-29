@@ -804,6 +804,7 @@
 | nxt:fwd | Ismo Antikainen ||
 | Ofcom | George Jibin ||
 | OkHi | Roger Norton ||
+| Olajames Ventures | Olajames Akintunde ||
 | Ookla | Leandro A. Demarchi ||
 | Ooredoo | Ilham Arief Bachtiar ||
 | Open Sesame | Julian McCrea ||
