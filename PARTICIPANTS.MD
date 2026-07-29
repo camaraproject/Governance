@@ -1273,6 +1273,7 @@
 | VROMBR | Titouan Vatonne ||
 | Wavecrest | Torrey Searle ||
 | Webbing Solutions | Baruch Pinto ||
+| Whalebone | Tomas Viktorik ||
 | Whale Cloud Technology Ltd. | Jiangang Mei ||
 | Whale Cloud Technology Ltd. | Yunjie Zhang (Elisa) ||
 | Whispir | Graham Link ||
