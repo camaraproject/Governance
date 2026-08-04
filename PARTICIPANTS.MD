@@ -456,6 +456,7 @@
 | GS Labs | Vikram Barate ||
 | GSMA | Andrew F. Parker ||
 | GSMA | Gareth Williams ||
+| GSMA | Guo Zhihong ||
 | GSMA | Helene Vigue ||
 | GSMA | Henry Calvert ||
 | GSMA | Jason Smith ||
