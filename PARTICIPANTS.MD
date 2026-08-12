@@ -285,7 +285,6 @@
 | Deutsche Telekom AG | Dawid Wróblewski ||
 | Deutsche Telekom AG | Dominik Fischer ||
 | Deutsche Telekom AG | Efthymis Isaakidis ||
-| Deutsche Telekom AG | Elmar Mundt ||
 | Deutsche Telekom AG | Felix Dsouza ||
 | Deutsche Telekom AG | Georgios Papadopoulos ||
 | Deutsche Telekom AG | Herbert Damker ||
