@@ -1270,6 +1270,7 @@
 | Vonage | Lou Blatt ||
 | Vonage | Matthew Fredrickson ||
 | Vonage | Max Maggini ||
+| Vonage | Mikolaj Jacek Konko-Zachoszcz ||
 | Vonage | Qaunain Meghjee ||
 | VROMBR | Michael Pastor ||
 | VROMBR | Titouan Vatonne ||
