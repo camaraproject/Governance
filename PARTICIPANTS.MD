@@ -1016,7 +1016,6 @@
 | Tanla | Neeraj Dahiya ||
 | Tannera | Goran Licanin ||
 | Tata Communications | Mohamed Salah Sahli ||
-| Tata Communications | Sangram Kakade ||
 | Tata Communications | Timir Premjee ||
 | Tata Communications | Vikas Rao ||
 | Tata Elxsi | Ankush Gupta ||
