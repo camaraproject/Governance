@@ -78,6 +78,7 @@
 | AT&T | Catherine Lefevre ||
 | AT&T | Dan Druta ||
 | AT&T | Gervais-Martial Ngueko ||
+| AT&T | Jason Kaufmann ||
 | AT&T | Jorge Hernandez Herrero ||
 | AT&T | Michael Raftelis ||
 | AT&T | Pierre Close ||
