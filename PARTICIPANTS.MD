@@ -577,7 +577,6 @@
 | Infosys | Vemireddy Siva Sekhar Reddy ||
 | Infosys | Vijay Murthy ||
 | Inovacaobrain | LUCAS SLEYDER MACHADO DICENCIO ||
-| Institute for Infocomm Research | Gary Lee ||
 | Instituto Federal da Paraiba | Ruan Delgado Gomes ||
 | Intel | (Fran)Cesc Guim ||
 | Intel | Konrad Czubak ||
