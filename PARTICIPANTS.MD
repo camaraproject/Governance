@@ -71,6 +71,7 @@
 | Argela | Hakki Toran ||
 | Argela | Ismail Bayraktar ||
 | ARPU Plus | Ahmed Serag ||
+| AShield | Ashutosh Pandey ||
 | Asiainfo | Liz W. ||
 | Asiainfo | Zhang L. H. ||
 | AT&T | Andy Stegner ||
