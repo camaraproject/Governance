@@ -177,7 +177,6 @@
 | Centillion | Bart van Teeseling ||
 | Centillion | Nicholas Venezia ||
 | CGI | Frank Kleinitz ||
-| Charter | Christopher Aubut ||
 | Charter | Jason Page ||
 | Charter | Justin Pace ||
 | Charter | Patrick Schultz ||
@@ -972,6 +971,7 @@
 | Softbank | Shumpei Tokunaga ||
 | Softbank | Toru Kikuchi ||
 | Soprano Design | Andrew Fry ||
+| Spectrum | Christopher Aubut ||
 | Spry Fox Networks | Jignesh Sorathia ||
 | Spry Fox Networks | Mike Bowring ||
 | Spry Fox Networks | Parichaya Shrivastava ||
