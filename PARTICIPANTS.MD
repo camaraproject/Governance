@@ -61,6 +61,7 @@
 | Amivox | Birkir Marteinsson ||
 | Andorra Telecom | Felip Correas Bons ||
 | Anlix | Gaspare Giuliano Elias Bruno ||
+| Anritsu | Daniele Di Minica ||
 | Apinity | David Vazquez Cortizo ||
 | Apinity | Franziska Kienzle ||
 | Aplisay | Rob Pickering ||
@@ -546,6 +547,7 @@
 | Ilabs | Harm Jan Arendshorst ||
 | Incognito | Jhuli Takahara ||
 | Indian Institute of Technology | Aakashjit Bhattacharya ||
+| Indian Institute of Technology | Roll Number 30005315 ||
 | Indykite | Marek Detko ||
 | Indykite | Sebastian Drees ||
 | Infinite Computer Solutions (India) Limited | Arun Konathala ||
