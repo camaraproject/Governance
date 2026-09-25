@@ -1210,6 +1210,7 @@
 | Verizon | Urvika Vummadisetty ||
 | Vertis Solutions | Julio Araujo ||
 | Viavi Solutions | Madhur Mehta ||
+| Vicomtech | Iker Hernández Jauregui ||
 | Viettel | Ductm ||
 | Viettel | Haint ||
 | Viettel | Huynd ||
