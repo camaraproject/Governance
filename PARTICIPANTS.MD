@@ -456,6 +456,7 @@
 | Grambell | Adis Ceman ||
 | GS Labs | Amit Wankhede ||
 | GS Labs | Vikram Barate ||
+| GSMA | Andrew Bell ||
 | GSMA | Andrew F. Parker ||
 | GSMA | Gareth Williams ||
 | GSMA | Guo Zhihong ||
