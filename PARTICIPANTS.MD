@@ -1118,6 +1118,7 @@
 | TELUS | Theohar Konomi ||
 | TesTime Limited  | Eleph Kwong ||
 | Thales Group | David Bohaty ||
+| Thales Group | Jean Francois Rubon ||
 | The Leading Path | Daniel Kibler ||
 | Three UK | Jason Tesh ||
 | Thrustvector | Doug Eng ||
