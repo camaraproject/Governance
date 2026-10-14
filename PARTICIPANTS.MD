@@ -446,6 +446,7 @@
 | Global Message Service | Elliot Rose ||
 | Glouu Technologies | José Emmanuel Arellano Bravo ||
 | GMMS | Arpit Kumar ||
+| Google | Christiaan Brand ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio Conte ||
 | Google Cloud | Jonathan Varsanik ||
@@ -1114,6 +1115,7 @@
 | TELUS | Jim Slevinksy ||
 | TELUS | Oswaldo Lauschner ||
 | TELUS | Reda Zaza ||
+| TELUS | Ryan Tollofson ||
 | TELUS | Sana Tariq ||
 | TELUS | Theohar Konomi ||
 | TesTime Limited  | Eleph Kwong ||
