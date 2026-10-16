@@ -380,6 +380,7 @@
 | Ericsson | Jimmy Ahlberg ||
 | Ericsson | Jim Feng ||
 | Ericsson | Joachim Dahlgren ||
+| Ericsson | Joonas Björk ||
 | Ericsson | Kamel Idir ||
 | Ericsson | Kamran Keykhosravi ||
 | Ericsson | Kevin Newell ||
