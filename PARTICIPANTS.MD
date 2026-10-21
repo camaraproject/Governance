@@ -723,7 +723,6 @@
 | Midokura | Kenji Shimizu ||
 | Millicom | Alejandro Blacut ||
 | Mindsbeam | Bharathkumar Annamalai ||
-| Minsait | Francisco Rodriguez Garcia ||
 | Mitre Engenuity | Heather Blanchard ||
 | Mitsubishi Electric Europe | Mourad Khanfouci ||
 | Mksa | Koffi Kodjo ||
