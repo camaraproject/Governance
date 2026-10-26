@@ -1137,7 +1137,6 @@
 | TIM Brazil | Bruno Leandro Campos De Miranda ||
 | TIM Brazil | Paulo Cesar Dias Lima ||
 | TIM Brazil | Robson De Andrade Esteves ||
-| TIM Brazil | Rodrigo Lupareli ||
 | Timwetech | Jose Ribeiro ||
 | Timwetech | Paulo Passos Salgado ||
 | Titanium Platform | Dave Jackson ||
