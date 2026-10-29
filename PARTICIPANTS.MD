@@ -1000,6 +1000,7 @@
 | Swisscom (Schweiz) AG | Lukas Leuthold ||
 | Syniverse | Jyrki Penttinen ||
 | T-Mobile CZ | Petr Strafelda ||
+| T-Mobile PL | Maksymilian Zaniewski ||
 | T-Mobile PL | Michał Fedorczyk ||
 | T-Mobile SL | Matjaz Bericic ||
 | T-Mobile US | Antoine Egho ||
