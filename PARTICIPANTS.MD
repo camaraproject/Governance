@@ -1114,6 +1114,7 @@
 | Telstra | Varun Nair ||
 | TELUS | Ali Tizghadam ||
 | TELUS | Jim Slevinksy ||
+| TELUS | Laura Matthias ||
 | TELUS | Oswaldo Lauschner ||
 | TELUS | Reda Zaza ||
 | TELUS | Ryan Tollofson ||
