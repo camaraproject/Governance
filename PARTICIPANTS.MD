@@ -1111,7 +1111,9 @@
 | Telstra | Kim Adriana To ||
 | Telstra | Kiran Babu Konathala ||
 | Telstra | Senthoor Punniamoorthy ||
+| Telstra | Simon E. Osmond ||
 | Telstra | Varun Nair ||
+| Telstra | William Fettke ||
 | TELUS | Ali Tizghadam ||
 | TELUS | Jim Slevinksy ||
 | TELUS | Laura Matthias ||
