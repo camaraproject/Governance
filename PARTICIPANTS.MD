@@ -721,6 +721,7 @@
 | Microsoft | Thilo Ewald ||
 | Midokura | Kenji Shimizu ||
 | Millicom | Alejandro Blacut ||
+| Min's Trading | Min Jun ||
 | Mindsbeam | Bharathkumar Annamalai ||
 | Mitre Engenuity | Heather Blanchard ||
 | Mitsubishi Electric Europe | Mourad Khanfouci ||
