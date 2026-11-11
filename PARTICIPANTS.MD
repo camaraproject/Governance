@@ -447,6 +447,7 @@
 | Glouu Technologies | José Emmanuel Arellano Bravo ||
 | GMMS | Arpit Kumar ||
 | Google | Christiaan Brand ||
+| Google | Ricardo Martínez Barrero ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio Conte ||
 | Google Cloud | Jonathan Varsanik ||
@@ -730,6 +731,8 @@
 | Mobi2buy | Thiago Taranto ||
 | Mobily | Mohamed Hassan Taj ||
 | MobiMESH inPiazza | Emmanuele Benedetto ||
+| Monty Holding | Lina El-Moussaoui ||
+| Monty Holding | Myrna Beaini ||
 | Motive | Kathiravan Nagarathinam ||
 | Motive | Thomas Hsu ||
 | Movilgate | Javier De Luca ||
