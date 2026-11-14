@@ -1012,6 +1012,7 @@
 | T-Mobile US | Anup Sharma ||
 | T-Mobile US | Ayako Yamaguchi ||
 | T-Mobile US | Deepak Jaiswal ||
+| T-Mobile US | Kelda Anderson ||
 | T-Mobile US | Luis Eduardo Colon ||
 | T-Mobile US | Lyle Bertz ||
 | T-Mobile US | Mark Bales ||
