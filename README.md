@@ -67,10 +67,6 @@ The End User Council is composed out of the end users of the CAMARA APIs in the 
 
 A message to all End User Council participants can be sent using <euc@lists.camaraproject.org>.
 
-## All Hands Calls
-
-Monthly All Hands Calls are scheduled with the whole CAMARA community to inform about latest changes, news and answer on questions. The calls are held virtually, are open for the public and are scheduled each second Thursday in a month at 4pm CE(s)T time. You’re welcome to join via: [Meeting link](https://zoom-lfx.platform.linuxfoundation.org/meeting/93487157363?password=9a10a1e2-8279-43ee-a160-20da1b921180).
-
 ## Documentation
 
 The full documentation for the project can be found in the "documentation" subfolders of each repository.
