@@ -447,6 +447,7 @@
 | Glouu Technologies | José Emmanuel Arellano Bravo ||
 | GMMS | Arpit Kumar ||
 | Google | Christiaan Brand ||
+| Google | Johanna Kollar ||
 | Google | Ricardo Martínez Barrero ||
 | Google Cloud | Dutt Kalapatapu ||
 | Google Cloud | Giorgio Conte ||
@@ -1268,6 +1269,7 @@
 | Vodafone | Ratna Ganeshanandan ||
 | Vodafone | Sachin Kumar ||
 | Vodafone | Sergio Carretero Millan ||
+| Vodafone | Simon Berridge-Burley ||
 | Vodafone | Simon Gordon ||
 | Vodafone | Sönke Peters ||
 | Vodafone | Steve Vickers ||
