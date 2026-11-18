@@ -249,7 +249,6 @@
 | Cognizant | Manish Jain ||
 | Cognizant | Siddharth Prakash Khatri ||
 | Cognizant | Vigneshwaran Suresh ||
-| Coin | Willem van den Bosch ||
 | Colony Networks | Kevin Lu ||
 | Colony Networks | Michael Kuhlmann ||
 | Comcast | Prasad Ramanahally Siddalinga ||
@@ -1140,7 +1139,6 @@
 | TIM | Andrea Calvi ||
 | TIM | Antonio Varvara ||
 | TIM | Daniele Franceschini ||
-| TIM | Fabrizio Moggio ||
 | TIM | Francesco Vadala ||
 | TIM | Marco Signorelli ||
 | TIM | Raffaele Passannanti ||
