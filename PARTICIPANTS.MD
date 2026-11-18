@@ -661,6 +661,7 @@
 | Liberty Global | Massimiliano Gasparroni || 
 | Liberty Global | Oscar Tejedor Garcia ||
 | Liberty Global | Wynn Rees ||
+| LinksFoundation | Edoardo Bonetto ||
 | LinuxFoundation | Arpit Joshipura ||
 | LinuxFoundation | Casey Cain ||
 | LinuxFoundation | Chris Clark ||
