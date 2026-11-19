@@ -47,6 +47,7 @@
 | AIS | Paramet Kongjaroen ||
 | Alianza | Dag Peak ||
 | Alicon | Ike Alisson ||
+| Almuqueet Systems | Syed Farhan Rizvi ||
 | Almuqueet Systems | Vineet Kumar ||
 | Almuqueet Systems | Zaffar Owais Andrabi ||
 | Altice Labs / MEO | Filipe J. Delgado ||
