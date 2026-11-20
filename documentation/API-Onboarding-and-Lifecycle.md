@@ -199,7 +199,7 @@ APIs in the Incubating stage have shown early promise with initial adoption and 
 **Transition to Graduated Stage:**
 To move to the Graduated stage, an API shall:
 1. Demonstrate long-terms specification maturity by having participated within two CAMARA release cycles with at least one Stable API version.
-2. Demonstrate wide market adoption across multiple companies or projects, by including APIs which have been deployed and certified within at least one complete market or #n operators across #m markets.
+2. Demonstrate wide market adoption across multiple companies or projects, by demonstrating that the API has been deployed within at least one complete market or by #n operators across #m markets.
 3. Maintainers of the Incubating Repository apply for Graduation by opening an issue in the API Backlog working group.
 4. The API Backlog working group will do a pre-check on behalf of the TSC, which will confirm (or not) the inclusion of the repository as Graduated.
 
